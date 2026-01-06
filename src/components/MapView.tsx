@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { MapFactory } from '../map/MapFactory';
 import type { MapAdapter, MapType } from '../types/map';
-import type { DayRecord } from '../types';
+import type { DayRecord, Point } from '../types';
 import { mergeAllRoutes, collectAllPoints, calculateBounds, getDayRoute } from '../utils/mapUtils';
 import { useTripDataContext } from '../context/TripDataContext';
 
@@ -10,13 +10,29 @@ interface MapViewProps {
   mapType?: MapType;
   onMapTypeChange?: (type: MapType) => void;
   showAllRoutes?: boolean;
+  onMapClick?: (lat: number, lon: number) => void;
+  focusPoint?: Point;
+  // 当使用百度骑行规划生成路线时，可选地通知上层保存 GeoJSON
+  onPlannedRouteChange?: (route: GeoJSON.LineString | GeoJSON.MultiLineString | null) => void;
+  // 仅在该值变化时触发一次骑行规划（用于避免反复调用）
+  planRouteRequestId?: number;
 }
 
-export function MapView({ day, mapType = 'osm', onMapTypeChange, showAllRoutes = true }: MapViewProps) {
+export function MapView({
+  day,
+  mapType = 'osm',
+  onMapTypeChange,
+  showAllRoutes = true,
+  onMapClick,
+  focusPoint,
+  onPlannedRouteChange,
+  planRouteRequestId,
+}: MapViewProps) {
   const mapContainerRef = useRef<HTMLDivElement>(null);
   const mapAdapterRef = useRef<MapAdapter | null>(null);
   const [currentMapType, setCurrentMapType] = useState<MapType>(mapType);
   const { tripData } = useTripDataContext();
+  const lastPlannedRequestId = useRef<number | null>(null);
 
   useEffect(() => {
     if (!mapContainerRef.current) return;
@@ -29,12 +45,22 @@ export function MapView({ day, mapType = 'osm', onMapTypeChange, showAllRoutes =
     // 创建新地图
     const adapter = MapFactory.create(currentMapType);
     adapter.init('map-container');
+
+    // 如果需要监听地图点击事件，并且适配器实现了 setClickHandler，则注册
+    if (onMapClick && (adapter as any).setClickHandler) {
+      (adapter as any).setClickHandler(onMapClick);
+    }
+
     mapAdapterRef.current = adapter;
 
     return () => {
+      // 清理点击回调（如果支持）
+      if ((adapter as any).setClickHandler) {
+        (adapter as any).setClickHandler(null);
+      }
       adapter.destroy();
     };
-  }, [currentMapType]);
+  }, [currentMapType, onMapClick]);
 
   useEffect(() => {
     if (!mapAdapterRef.current) return;
@@ -65,25 +91,51 @@ export function MapView({ day, mapType = 'osm', onMapTypeChange, showAllRoutes =
           adapter.setCenter(bounds.center[0], bounds.center[1], bounds.zoom);
         }
       } else if (day) {
-        // 显示单天路线
+        // 显示单天路线，并根据地图类型选择绘制方式
         if (day.points.length > 0) {
           adapter.drawPoints(day.points);
-
-          // 设置地图中心到第一个点位
-          const firstPoint = day.points[0];
-          adapter.setCenter(firstPoint.lat, firstPoint.lon, 12);
         }
 
-        // 绘制路线
-        const route = getDayRoute(day);
-        if (route) {
-          adapter.drawRoute(route);
+        const adapterAny = adapter as any;
+
+        const shouldPlanRoute =
+          currentMapType === 'baidu' &&
+          day.points.length >= 2 &&
+          typeof adapterAny.planRidingRoute === 'function' &&
+          typeof planRouteRequestId === 'number' &&
+          planRouteRequestId !== lastPlannedRequestId.current;
+
+        if (shouldPlanRoute) {
+          adapterAny.planRidingRoute(day.points, onPlannedRouteChange);
+          lastPlannedRequestId.current = planRouteRequestId!;
+        } else {
+          // 使用已有的 routeGeoJSON 或按点连线
+          const route = getDayRoute(day);
+          if (route) {
+            adapter.drawRoute(route);
+          }
+        }
+
+        // 使用单天的所有点计算合适的视野范围
+        if (day.points.length > 0) {
+          const bounds = calculateBounds([day]);
+          if (bounds) {
+            adapter.setCenter(bounds.center[0], bounds.center[1], bounds.zoom);
+          }
         }
       }
     }, 100);
 
     return () => clearTimeout(timer);
-  }, [day, showAllRoutes, tripData.days]);
+  }, [day, showAllRoutes, tripData.days, currentMapType, planRouteRequestId, onPlannedRouteChange]);
+
+  // 当传入了 focusPoint 时，移动地图中心到该点
+  useEffect(() => {
+    if (!mapAdapterRef.current || !focusPoint) return;
+    const adapter = mapAdapterRef.current;
+    // 使用稍微大一点的缩放级别，方便查看周边
+    adapter.setCenter(focusPoint.lat, focusPoint.lon, 13);
+  }, [focusPoint]);
 
   const handleMapTypeChange = (type: MapType) => {
     setCurrentMapType(type);
@@ -96,36 +148,9 @@ export function MapView({ day, mapType = 'osm', onMapTypeChange, showAllRoutes =
         <div className="flex items-center justify-between">
           <h2 className="text-xl font-semibold">地图展示</h2>
           <div className="flex gap-2">
-            <button
-              onClick={() => handleMapTypeChange('osm')}
-              className={`px-3 py-1 rounded ${
-                currentMapType === 'osm'
-                  ? 'bg-blue-500 text-white'
-                  : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-              }`}
-            >
-              OSM
-            </button>
-            <button
-              onClick={() => handleMapTypeChange('amap')}
-              className={`px-3 py-1 rounded ${
-                currentMapType === 'amap'
-                  ? 'bg-blue-500 text-white'
-                  : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-              }`}
-            >
-              高德
-            </button>
-            <button
-              onClick={() => handleMapTypeChange('baidu')}
-              className={`px-3 py-1 rounded ${
-                currentMapType === 'baidu'
-                  ? 'bg-blue-500 text-white'
-                  : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-              }`}
-            >
-              百度
-            </button>
+            <span className="px-3 py-1 rounded bg-blue-500 text-white text-sm">
+              百度地图
+            </span>
           </div>
         </div>
       </div>

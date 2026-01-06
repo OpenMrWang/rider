@@ -1,4 +1,4 @@
-import * as gcoord from 'gcoord';
+import gcoord from 'gcoord';
 import type { Point } from '../types';
 import type { LineString } from 'geojson';
 

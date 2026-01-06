@@ -10,7 +10,8 @@
     "download-subtitles": "node scripts/download-bilibili-subtitles.js",
     "download-subtitles-from-videos": "node scripts/download-subtitles-from-videos.js",
     "test-subtitle": "node scripts/test-single-subtitle.js",
-    "extract-subtitle-text": "node scripts/extract-subtitle-text.js"
+    "extract-subtitle-text": "node scripts/extract-subtitle-text.js",
+    "merge-everyday": "node scripts/merge-everyday-to-sample.js"
   },
   "dependencies": {
     "@turf/turf": "^7.3.1",

@@ -16,9 +16,10 @@ export interface VlogInfo {
 export interface DayRecord {
   day: number;
   date: string;
-  vlog: VlogInfo;
+  // vlog: VlogInfo;
   points: Point[];
-  routeGeoJSON: GeoJSON.LineString | null;
+  // 支持单段或多段路线
+  routeGeoJSON: GeoJSON.LineString | GeoJSON.MultiLineString | null;
   distanceKm: number | null;
 }
 

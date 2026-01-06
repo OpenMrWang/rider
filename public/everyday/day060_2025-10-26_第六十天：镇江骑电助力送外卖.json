@@ -1,0 +1,54 @@
+{
+  "day": 60,
+  "date": "2025-10-26",
+  "title": "镇江骑电助力送外卖",
+  "video": {
+    "season_id": 6103236,
+    "season_title": "王师傅的日记：第一季",
+    "section_id": 7245943,
+    "section_title": "第三十一到六十天",
+    "episode_id": 154492062,
+    "aid": 115437060755477,
+    "cid": 33398129676,
+    "bvid": "BV1dQxwz1E3Z",
+    "title": "第六十天：镇江骑电助力送外卖",
+    "url": "https://www.bilibili.com/video/BV1dQxwz1E3Z"
+  },
+  "goal": {
+    "description": "全国送外卖挑战第四站：在镇江完成电助力+大外卖箱配置后的首次完整外卖体验"
+  },
+  "meta": {
+    "total_distance_km": null,
+    "weather": "晴天",
+    "elapsed_h": null,
+    "notes": "下午3点左右开始送外卖，车从常州通过货拉拉运到镇江"
+  },
+  "points": [],
+  "routeGeoJSON": {
+    "type": "LineString",
+    "coordinates": []
+  },
+  "segments": [
+    {
+      "order": 1,
+      "type": "city",
+      "mode": "bike",
+      "from": {
+        "name": "镇江（车运抵地点）",
+        "city": "镇江市",
+        "province": "江苏省",
+        "notes": "车从常州通过货拉拉运到镇江（路费27元），重新安装更大的外卖箱"
+      },
+      "to": {
+        "name": "镇江市区（送外卖区域）",
+        "city": "镇江市",
+        "province": "江苏省",
+        "notes": "非机动车道很宽，骑行体验好；镇江午饭点之后（12点后）整体单量不高"
+      },
+      "distance_km_est": null,
+      "time_est": null,
+      "notes": "使用美团/蜂鸟众包接单，外卖原则：一次只接一单、绝不超时，认真送达"
+    }
+  ]
+}
+

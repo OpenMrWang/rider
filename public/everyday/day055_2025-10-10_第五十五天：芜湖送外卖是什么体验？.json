@@ -1,0 +1,60 @@
+{
+  "day": 55,
+  "date": "2025-10-10",
+  "title": "芜湖送外卖是什么体验？",
+  "video": {
+    "season_id": 6103236,
+    "season_title": "王师傅的日记：第一季",
+    "section_id": 7245943,
+    "section_title": "第三十一到六十天",
+    "episode_id": 151548918,
+    "aid": 115347520757725,
+    "cid": 32957202524,
+    "bvid": "BV1C44LzPEhQ",
+    "title": "第五十五天：芜湖送外卖是什么体验？",
+    "url": "https://www.bilibili.com/video/BV1C44LzPEhQ"
+  },
+  "goal": {
+    "deadline": "2025-10-10T23:59:59",
+    "description": "在芜湖休整两天后，体验一整天在芜湖骑自行车送外卖，感受城市与众包单量"
+  },
+  "meta": {
+    "city": "芜湖市",
+    "province": "安徽省",
+    "notes": "全国送外卖挑战在芜湖的首日，以市区骑行送单为主"
+  },
+  "points": [],
+  "routeGeoJSON": {
+    "type": "LineString",
+    "coordinates": []
+  },
+  "segments": [
+    {
+      "order": 1,
+      "type": "delivery",
+      "mode": "bike",
+      "from": {
+        "name": "芜湖市区（居住酒店附近）",
+        "city": "芜湖市",
+        "province": "安徽省",
+        "notes": "从酒店附近出门接第一单"
+      },
+      "to": {
+        "name": "芜湖市商业中心 / 外卖高密度区域",
+        "city": "芜湖市",
+        "province": "安徽省",
+        "notes": "主送餐区域，红绿灯密集"
+      },
+      "via": [
+        {
+          "name": "安徽工程大学",
+          "notes": "第一单送达地点（牛肉饭）"
+        }
+      ],
+      "distance_km_est": null,
+      "time_est": null
+    }
+  ]
+}
+
+

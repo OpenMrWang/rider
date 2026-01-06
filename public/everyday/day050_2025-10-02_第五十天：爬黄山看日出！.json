@@ -1,0 +1,98 @@
+{
+  "day": 50,
+  "date": "2025-10-02",
+  "title": "爬黄山看日出！",
+  "video": {
+    "season_id": 6103236,
+    "season_title": "王师傅的日记：第一季",
+    "section_id": 7245943,
+    "section_title": "第三十一到六十天",
+    "episode_id": 150045689,
+    "aid": 115300829765079,
+    "cid": 32780191637,
+    "bvid": "BV1Q8H4zAEcw",
+    "title": "第五十天：爬黄山看日出！",
+    "url": "https://www.bilibili.com/video/BV1Q8H4zAEcw"
+  },
+  "goal": {
+    "deadline": "2025-10-03T06:30:00",
+    "description": "从黄山脚下出发，通过大巴 + 索道 + 徒步，在傍晚前抵达光明顶，为第二天早上看日出做准备"
+  },
+  "meta": {
+    "location": "安徽省黄山市黄山风景区",
+    "route_summary": "黄山脚下 → 慈光阁（大巴）→ 玉屏索道上站（索道）→ 光明顶（徒步）",
+    "hike_time_est_h": 3
+  },
+  "points": [],
+  "routeGeoJSON": {
+    "type": "LineString",
+    "coordinates": []
+  },
+  "segments": [
+    {
+      "order": 1,
+      "type": "transport",
+      "mode": "bus",
+      "from": {
+        "name": "黄山脚下游客集散中心 / 酒店一带",
+        "city": "黄山市",
+        "province": "安徽省",
+        "notes": "黄山脚底下集合点"
+      },
+      "to": {
+        "name": "慈光阁",
+        "city": "黄山市",
+        "province": "安徽省",
+        "notes": "黄山南大门上山入口之一"
+      },
+      "via": [],
+      "distance_km_est": null,
+      "time_est": "00:15"
+    },
+    {
+      "order": 2,
+      "type": "transport",
+      "mode": "cable_car",
+      "from": {
+        "name": "慈光阁",
+        "city": "黄山市",
+        "province": "安徽省"
+      },
+      "to": {
+        "name": "玉屏索道上站 / 玉屏楼附近",
+        "city": "黄山市",
+        "province": "安徽省",
+        "notes": "可游览迎客松、天都峰等景点的入口区域"
+      },
+      "via": [],
+      "distance_km_est": null,
+      "time_est": "00:10"
+    },
+    {
+      "order": 3,
+      "type": "hike",
+      "mode": "walk",
+      "from": {
+        "name": "玉屏楼 / 迎客松一带",
+        "city": "黄山市",
+        "province": "安徽省"
+      },
+      "to": {
+        "name": "光明顶",
+        "city": "黄山市",
+        "province": "安徽省",
+        "notes": "看日出的核心观景点，住宿地可直接看到日出方向"
+      },
+      "via": [
+        {
+          "name": "天都峰岔路口",
+          "notes": "当天开放，三点以后只出不进"
+        }
+      ],
+      "distance_km_est": null,
+      "time_est": "03:00"
+    }
+  ]
+}
+
+

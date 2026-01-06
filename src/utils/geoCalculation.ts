@@ -1,6 +1,6 @@
 import { length, lineString } from '@turf/turf';
 import type { Point, DayRecord } from '../types';
-import type { Feature, LineString } from 'geojson';
+import type { LineString, MultiLineString } from 'geojson';
 
 /**
  * 将点位数组转换为 GeoJSON LineString
@@ -14,15 +14,31 @@ export function pointsToLineString(points: Point[]): LineString {
 }
 
 /**
- * 计算 LineString 的距离（单位：公里）
+ * 计算路线的距离（单位：公里）
+ * 支持 LineString 和 MultiLineString
  */
-export function calculateDistance(route: LineString | null): number | null {
-  if (!route || route.coordinates.length < 2) {
-    return null;
+export function calculateDistance(route: LineString | MultiLineString | null): number | null {
+  if (!route) return null;
+
+  if (route.type === 'LineString') {
+    if (route.coordinates.length < 2) return null;
+    const turfLine = lineString(route.coordinates);
+    const distanceKm = length(turfLine, { units: 'kilometers' });
+    return Math.round(distanceKm * 100) / 100; // 保留两位小数
   }
-  const turfLine = lineString(route.coordinates);
-  const distanceKm = length(turfLine, { units: 'kilometers' });
-  return Math.round(distanceKm * 100) / 100; // 保留两位小数
+
+  // MultiLineString：累加每一段的长度
+  if (!route.coordinates || route.coordinates.length === 0) return null;
+
+  let total = 0;
+  for (const coords of route.coordinates) {
+    if (!coords || coords.length < 2) continue;
+    const turfLine = lineString(coords);
+    total += length(turfLine, { units: 'kilometers' });
+  }
+
+  if (total === 0) return null;
+  return Math.round(total * 100) / 100;
 }
 
 /**

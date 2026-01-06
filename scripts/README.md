@@ -159,7 +159,7 @@ node scripts/extract-travel-clues.js --api-key "your-api-key" --api-base "https:
 
 ### 输出
 
-提取的线索会保存到 `public/eveyday-clue/` 目录，文件名与原字幕文件相同。
+提取的线索会保存到 `public/everyday-clue/` 目录，文件名与原字幕文件相同。
 
 ### 注意事项
 

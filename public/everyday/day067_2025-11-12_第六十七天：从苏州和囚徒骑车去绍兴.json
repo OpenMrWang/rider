@@ -1,0 +1,73 @@
+{
+  "day": 67,
+  "date": "2025-11-12",
+  "title": "从苏州和囚徒骑车去绍兴",
+  "video": {
+    "season_id": 6103236,
+    "season_title": "王师傅的日记：第一季",
+    "section_id": 7319269,
+    "section_title": "第六十一到九十天",
+    "episode_id": 157585060,
+    "aid": 115532758063666,
+    "cid": 33928449870,
+    "bvid": "BV1ZRk1BhEjk",
+    "title": "第六十七天：从苏州和囚徒骑车去绍兴",
+    "url": "https://www.bilibili.com/video/BV1ZRk1BhEjk"
+  },
+  "goal": {
+    "description": "与囚徒（球大）一起骑行的探险第三天：在绍兴休整、洗衣、买鞋，为后续长线做准备"
+  },
+  "meta": {
+    "total_distance_km": null,
+    "weather": "晴天（五天来首次看到太阳）",
+    "elapsed_h": null,
+    "notes": "这一日属于绍兴休整日+城市生活体验日，与此前高强度长途不同"
+  },
+  "points": [],
+  "routeGeoJSON": {
+    "type": "LineString",
+    "coordinates": []
+  },
+  "segments": [
+    {
+      "order": 1,
+      "type": "city",
+      "mode": "walk",
+      "from": {
+        "name": "绍兴（酒店）",
+        "city": "绍兴市",
+        "province": "浙江省",
+        "notes": "已从苏州长途骑行抵达绍兴"
+      },
+      "to": {
+        "name": "街边洗衣店",
+        "city": "绍兴市",
+        "province": "浙江省",
+        "notes": "前一日/前几日衣物被雨淋透，两人穿着短袖与拖鞋，将一大袋衣服拿去洗+烘"
+      },
+      "distance_km_est": null,
+      "time_est": "02:00",
+      "notes": "在等待洗烘的2小时内去商场买新鞋、更换湿透的旧鞋；吃简餐、买布洛芬等药品"
+    },
+    {
+      "order": 2,
+      "type": "city",
+      "mode": "bike",
+      "from": {
+        "name": "绍兴市区",
+        "city": "绍兴市",
+        "province": "浙江省"
+      },
+      "to": {
+        "name": "绍兴城市体验",
+        "city": "绍兴市",
+        "province": "浙江省",
+        "notes": "一路骑行观察绍兴街景、江南水乡风貌；讨论当地美食与商场品牌"
+      },
+      "distance_km_est": null,
+      "time_est": null,
+      "notes": "在阳光久违露面时，感叹好久没见太阳了，这是五天来首次看到太阳；为后续绍兴→宁波→舟山的骑行与坐船行程做物质与体能准备"
+    }
+  ]
+}
+

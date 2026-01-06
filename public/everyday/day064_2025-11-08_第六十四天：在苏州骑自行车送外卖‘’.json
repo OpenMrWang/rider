@@ -1,0 +1,54 @@
+{
+  "day": 64,
+  "date": "2025-11-08",
+  "title": "在苏州骑自行车送外卖''",
+  "video": {
+    "season_id": 6103236,
+    "season_title": "王师傅的日记：第一季",
+    "section_id": 7319269,
+    "section_title": "第六十一到九十天",
+    "episode_id": 156861556,
+    "aid": 115511652326126,
+    "cid": 33810219392,
+    "bvid": "BV1iM1UB3EFD",
+    "title": "第六十四天：在苏州骑自行车送外卖''",
+    "url": "https://www.bilibili.com/video/BV1iM1UB3EFD"
+  },
+  "goal": {
+    "description": "全国送外卖挑战第五站：在苏州雨天骑自行车送外卖"
+  },
+  "meta": {
+    "total_distance_km": null,
+    "weather": "雨天",
+    "elapsed_h": null,
+    "notes": "全程冒雨骑行，是系列中第一次全程冒雨送外卖的一天；雨天外卖单价明显偏高"
+  },
+  "points": [],
+  "routeGeoJSON": {
+    "type": "LineString",
+    "coordinates": []
+  },
+  "segments": [
+    {
+      "order": 1,
+      "type": "city",
+      "mode": "bike",
+      "from": {
+        "name": "苏州封门路（姑苏区）",
+        "city": "苏州市",
+        "province": "江苏省",
+        "notes": "起点附近：苏州封门路、老城区（姑苏区）"
+      },
+      "to": {
+        "name": "寒山寺店（酒店）",
+        "city": "苏州市",
+        "province": "江苏省",
+        "notes": "第一单：乐乐茶送到寒山寺店，对应古诗姑苏城外寒山寺，夜半钟声到客船"
+      },
+      "distance_km_est": null,
+      "time_est": null,
+      "notes": "使用饿了么骑自行车送外卖（外卖箱为美团LOGO，平台为饿了么）；雨量较大，可把人淋湿，但尚不至于必须打伞的程度"
+    }
+  ]
+}
+

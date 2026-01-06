@@ -5,13 +5,15 @@ import { MapView } from './components/MapView'
 import { DayList } from './components/DayList'
 import { PointEditor } from './components/PointEditor'
 import { ReadOnlyView } from './components/ReadOnlyView'
+import { DayDetail } from './components/DayDetail'
 import { TripDataProvider, useTripDataContext } from './context/TripDataContext'
 
 function AppContent() {
   const { tripData } = useTripDataContext();
   const [selectedDayIndex, setSelectedDayIndex] = useState<number | undefined>();
   const [editingDayIndex, setEditingDayIndex] = useState<number | undefined>();
-  const [mapType, setMapType] = useState<'amap' | 'baidu' | 'osm'>('osm');
+  // 默认使用百度地图
+  const [mapType, setMapType] = useState<'amap' | 'baidu' | 'osm'>('baidu');
   const [isReadOnly, setIsReadOnly] = useState(false);
 
   // 检查 URL 参数，如果是只读模式
@@ -30,13 +32,20 @@ function AppContent() {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <header className="bg-white shadow-sm">
+      <header className="bg-[#595eac] shadow-sm">
         <div className="max-w-7xl mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <h1 className="text-2xl font-bold text-gray-900">骑行旅行路径记录</h1>
+            <div className="flex items-center gap-3">
+              <img
+                src="/wsf.webp"
+                alt="WSF Logo"
+                className="h-8 w-8 rounded-md object-cover"
+              />
+              <h1 className="text-2xl font-bold text-white">王师傅骑行</h1>
+            </div>
             <button
               onClick={() => setIsReadOnly(true)}
-              className="px-4 py-2 bg-gray-200 text-gray-700 rounded hover:bg-gray-300"
+              className="px-4 py-2 bg-white/90 text-[#595eac] rounded hover:bg-white"
             >
               只读模式
             </button>
@@ -53,7 +62,18 @@ function AppContent() {
               onClose={() => setEditingDayIndex(undefined)}
             />
           ) : (
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 items-start">
+              {/* 左侧：地图，贯穿两行 */}
+              <div className="lg:col-span-2 lg:row-span-2">
+                <MapView
+                  day={selectedDay}
+                  mapType={mapType}
+                  onMapTypeChange={setMapType}
+                  showAllRoutes={selectedDayIndex === undefined}
+                />
+              </div>
+
+              {/* 右上：每日列表 */}
               <div className="lg:col-span-1">
                 <DayList
                   selectedDayIndex={selectedDayIndex}
@@ -61,13 +81,10 @@ function AppContent() {
                   onEditDay={setEditingDayIndex}
                 />
               </div>
-              <div className="lg:col-span-2">
-                <MapView
-                  day={selectedDay}
-                  mapType={mapType}
-                  onMapTypeChange={setMapType}
-                  showAllRoutes={selectedDayIndex === undefined}
-                />
+
+              {/* 右下：详情 */}
+              <div className="lg:col-span-1">
+                {selectedDay && <DayDetail day={selectedDay} />}
               </div>
             </div>
           )}
