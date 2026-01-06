@@ -1,0 +1,372 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.52,
+      "to": 2.28,
+      "sid": 1,
+      "location": 2,
+      "content": "今天日期很诡异",
+      "music": 0.2702702520087667
+    },
+    {
+      "from": 3.4,
+      "to": 5.84,
+      "sid": 2,
+      "location": 2,
+      "content": "现在是早上的05:30",
+      "music": 0
+    },
+    {
+      "from": 6.93,
+      "to": 9.03,
+      "sid": 3,
+      "location": 2,
+      "content": "嗯我还没有睡觉",
+      "music": 0
+    },
+    {
+      "from": 9.03,
+      "to": 11.41,
+      "sid": 4,
+      "location": 2,
+      "content": "我失眠了",
+      "music": 0
+    },
+    {
+      "from": 12.68,
+      "to": 17.26,
+      "sid": 5,
+      "location": 2,
+      "content": "唉自律的第59天完蛋了",
+      "music": 0
+    },
+    {
+      "from": 17.26,
+      "to": 19.2,
+      "sid": 6,
+      "location": 2,
+      "content": "就是他会这样",
+      "music": 0
+    },
+    {
+      "from": 19.2,
+      "to": 21.74,
+      "sid": 7,
+      "location": 2,
+      "content": "就是你越你越睡不着",
+      "music": 0
+    },
+    {
+      "from": 21.74,
+      "to": 22.98,
+      "sid": 8,
+      "location": 2,
+      "content": "然后你就越焦虑",
+      "music": 0
+    },
+    {
+      "from": 22.98,
+      "to": 25.6,
+      "sid": 9,
+      "location": 2,
+      "content": "然后你就会想逼自己睡着",
+      "music": 0
+    },
+    {
+      "from": 25.6,
+      "to": 27.839,
+      "sid": 10,
+      "location": 2,
+      "content": "生物钟乱了怎么办啊",
+      "music": 0
+    },
+    {
+      "from": 29.58,
+      "to": 31.66,
+      "sid": 11,
+      "location": 2,
+      "content": "哎呀好痛苦啊",
+      "music": 0
+    },
+    {
+      "from": 34.62,
+      "to": 37.52,
+      "sid": 12,
+      "location": 2,
+      "content": "One hour later",
+      "music": 0
+    },
+    {
+      "from": 40.94,
+      "to": 42.54,
+      "sid": 13,
+      "location": 2,
+      "content": "吃个早饭吧",
+      "music": 0
+    },
+    {
+      "from": 42.54,
+      "to": 44.84,
+      "sid": 14,
+      "location": 2,
+      "content": "点了一个小笼包吃",
+      "music": 0
+    },
+    {
+      "from": 45.48,
+      "to": 46.6,
+      "sid": 15,
+      "location": 2,
+      "content": "事已至此",
+      "music": 0
+    },
+    {
+      "from": 46.6,
+      "to": 48.44,
+      "sid": 16,
+      "location": 2,
+      "content": "先吃个早饭",
+      "music": 0
+    },
+    {
+      "from": 49.689,
+      "to": 51.689,
+      "sid": 17,
+      "location": 2,
+      "content": "哎呀怎么办呀",
+      "music": 0
+    },
+    {
+      "from": 51.689,
+      "to": 52.209,
+      "sid": 18,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 53.209,
+      "to": 54.86,
+      "sid": 19,
+      "location": 2,
+      "content": "嘿嘿",
+      "music": 0
+    },
+    {
+      "from": 55.58,
+      "to": 58.26,
+      "sid": 20,
+      "location": 2,
+      "content": "放在以前摆烂就摆烂了",
+      "music": 0
+    },
+    {
+      "from": 58.26,
+      "to": 62.72,
+      "sid": 21,
+      "location": 2,
+      "content": "但现在就感觉兄弟们看到我摆烂",
+      "music": 0
+    },
+    {
+      "from": 62.72,
+      "to": 64.68,
+      "sid": 22,
+      "location": 2,
+      "content": "我就心里好难受啊",
+      "music": 0
+    },
+    {
+      "from": 64.68,
+      "to": 67.94,
+      "sid": 23,
+      "location": 2,
+      "content": "反正给大家带了一个坏的榜样啊",
+      "music": 0
+    },
+    {
+      "from": 68.22,
+      "to": 72.17,
+      "sid": 24,
+      "location": 2,
+      "content": "唉吃完早饭先睡觉再说吧",
+      "music": 0
+    },
+    {
+      "from": 72.49,
+      "to": 75.33,
+      "sid": 25,
+      "location": 2,
+      "content": "明天不知道啥时候才能起来",
+      "music": 0
+    },
+    {
+      "from": 81.14,
+      "to": 83.46,
+      "sid": 26,
+      "location": 2,
+      "content": "哇好难吃啊",
+      "music": 0
+    },
+    {
+      "from": 88,
+      "to": 89.84,
+      "sid": 27,
+      "location": 2,
+      "content": "嗯好爱吃",
+      "music": 0
+    },
+    {
+      "from": 94.04,
+      "to": 95.34,
+      "sid": 28,
+      "location": 2,
+      "content": "太可了",
+      "music": 0
+    },
+    {
+      "from": 95.66,
+      "to": 99.06,
+      "sid": 29,
+      "location": 2,
+      "content": "Two thousand years later",
+      "music": 0.06315789141274523
+    },
+    {
+      "from": 99.18,
+      "to": 99.86,
+      "sid": 30,
+      "location": 2,
+      "content": "来了",
+      "music": 0
+    },
+    {
+      "from": 99.86,
+      "to": 101.38,
+      "sid": 31,
+      "location": 2,
+      "content": "兄弟们感冒了",
+      "music": 0
+    },
+    {
+      "from": 102.5,
+      "to": 104.16,
+      "sid": 32,
+      "location": 2,
+      "content": "而且我觉得有点小发烧",
+      "music": 0
+    },
+    {
+      "from": 104.16,
+      "to": 105.82,
+      "sid": 33,
+      "location": 2,
+      "content": "我已经躺了一天了",
+      "music": 0
+    },
+    {
+      "from": 105.82,
+      "to": 108.59,
+      "sid": 34,
+      "location": 2,
+      "content": "你看我的脸已经完全浮肿了",
+      "music": 0
+    },
+    {
+      "from": 109.74,
+      "to": 114.86,
+      "sid": 35,
+      "location": 2,
+      "content": "今天可能是我频道有史以来最短的一期节目",
+      "music": 0
+    },
+    {
+      "from": 116.22,
+      "to": 117.34,
+      "sid": 36,
+      "location": 2,
+      "content": "哎",
+      "music": 0
+    },
+    {
+      "from": 118.64,
+      "to": 119.48,
+      "sid": 37,
+      "location": 2,
+      "content": "生病了",
+      "music": 0
+    },
+    {
+      "from": 120.56,
+      "to": 123.7,
+      "sid": 38,
+      "location": 2,
+      "content": "但是我今天还是坚持要更新一期极短的",
+      "music": 0
+    },
+    {
+      "from": 123.7,
+      "to": 127.01,
+      "sid": 39,
+      "location": 2,
+      "content": "因为我要住10月",
+      "music": 0
+    },
+    {
+      "from": 128.419,
+      "to": 130.539,
+      "sid": 40,
+      "location": 2,
+      "content": "18号过生子没生日快乐啊",
+      "music": 0
+    },
+    {
+      "from": 132.899,
+      "to": 135.15,
+      "sid": 41,
+      "location": 2,
+      "content": "希望快点好起来",
+      "music": 0
+    },
+    {
+      "from": 135.95,
+      "to": 137.91,
+      "sid": 42,
+      "location": 2,
+      "content": "日更碰到这种问题",
+      "music": 0
+    },
+    {
+      "from": 137.91,
+      "to": 139.87,
+      "sid": 43,
+      "location": 2,
+      "content": "真是没什么办法",
+      "music": 0
+    },
+    {
+      "from": 142.74,
+      "to": 143.38,
+      "sid": 44,
+      "location": 2,
+      "content": "明天见",
+      "music": 0
+    },
+    {
+      "from": 143.38,
+      "to": 144.54,
+      "sid": 45,
+      "location": 2,
+      "content": "明天见",
+      "music": 0
+    }
+  ]
+}

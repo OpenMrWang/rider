@@ -1,0 +1,916 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.12,
+      "to": 3.2,
+      "sid": 1,
+      "location": 2,
+      "content": "35岁网瘾中年假装自律的一天自律",
+      "music": 0
+    },
+    {
+      "from": 3.2,
+      "to": 4.66,
+      "sid": 2,
+      "location": 2,
+      "content": "第12天",
+      "music": 0
+    },
+    {
+      "from": 4.98,
+      "to": 6.32,
+      "sid": 3,
+      "location": 2,
+      "content": "普田燃尽了",
+      "music": 0
+    },
+    {
+      "from": 6.32,
+      "to": 7.74,
+      "sid": 4,
+      "location": 2,
+      "content": "先来一套八段锦",
+      "music": 0
+    },
+    {
+      "from": 7.74,
+      "to": 9.43,
+      "sid": 5,
+      "location": 2,
+      "content": "拉伸一下",
+      "music": 0
+    },
+    {
+      "from": 9.43,
+      "to": 10.85,
+      "sid": 6,
+      "location": 2,
+      "content": "I don't see you talking",
+      "music": 0.5581394050838602
+    },
+    {
+      "from": 10.85,
+      "to": 12.89,
+      "sid": 7,
+      "location": 2,
+      "content": "just早餐",
+      "music": 0
+    },
+    {
+      "from": 12.89,
+      "to": 13.59,
+      "sid": 8,
+      "location": 2,
+      "content": "两个鸡蛋",
+      "music": 0
+    },
+    {
+      "from": 13.59,
+      "to": 14.15,
+      "sid": 9,
+      "location": 2,
+      "content": "一个苹果",
+      "music": 0
+    },
+    {
+      "from": 14.15,
+      "to": 14.75,
+      "sid": 10,
+      "location": 2,
+      "content": "一根香蕉",
+      "music": 0
+    },
+    {
+      "from": 14.75,
+      "to": 16.31,
+      "sid": 11,
+      "location": 2,
+      "content": "一杯酸奶",
+      "music": 0
+    },
+    {
+      "from": 28.12,
+      "to": 30.4,
+      "sid": 12,
+      "location": 2,
+      "content": "今天依旧是来回40km",
+      "music": 0
+    },
+    {
+      "from": 30.4,
+      "to": 30.96,
+      "sid": 13,
+      "location": 2,
+      "content": "我要去",
+      "music": 0
+    },
+    {
+      "from": 30.96,
+      "to": 33.33,
+      "sid": 14,
+      "location": 2,
+      "content": "昨天没有去成的上海书展",
+      "music": 0
+    },
+    {
+      "from": 33.33,
+      "to": 36.37,
+      "sid": 15,
+      "location": 2,
+      "content": "昨天去做的那个按摩确实非常的有用",
+      "music": 0
+    },
+    {
+      "from": 36.37,
+      "to": 38.71,
+      "sid": 16,
+      "location": 2,
+      "content": "今天可以继续我的这个行程",
+      "music": 0
+    },
+    {
+      "from": 38.71,
+      "to": 41.18,
+      "sid": 17,
+      "location": 2,
+      "content": "想做个不会长大的孩子",
+      "music": 0.9246230691144192
+    },
+    {
+      "from": 41.18,
+      "to": 42.5,
+      "sid": 18,
+      "location": 2,
+      "content": "到达目的地",
+      "music": 0
+    },
+    {
+      "from": 42.5,
+      "to": 44.74,
+      "sid": 19,
+      "location": 2,
+      "content": "车就停在了昨天同一个地方",
+      "music": 0
+    },
+    {
+      "from": 44.74,
+      "to": 47.99,
+      "sid": 20,
+      "location": 2,
+      "content": "今天比昨天多花了15分钟",
+      "music": 0
+    },
+    {
+      "from": 47.99,
+      "to": 49.71,
+      "sid": 21,
+      "location": 2,
+      "content": "而且今天我没有戴手套",
+      "music": 0
+    },
+    {
+      "from": 49.71,
+      "to": 51.25,
+      "sid": 22,
+      "location": 2,
+      "content": "我手巨疼",
+      "music": 0
+    },
+    {
+      "from": 51.25,
+      "to": 53.31,
+      "sid": 23,
+      "location": 2,
+      "content": "所以他没有避震",
+      "music": 0
+    },
+    {
+      "from": 54.09,
+      "to": 57.57,
+      "sid": 24,
+      "location": 2,
+      "content": "高情商的说法叫做路感反馈很清晰",
+      "music": 0
+    },
+    {
+      "from": 57.57,
+      "to": 61.13,
+      "sid": 25,
+      "location": 2,
+      "content": "低情商的说法叫做哀他奶奶个罪嘞",
+      "music": 0
+    },
+    {
+      "from": 61.13,
+      "to": 64.819,
+      "sid": 26,
+      "location": 2,
+      "content": "我今天出门忘记带我的九块九骑行手套了",
+      "music": 0
+    },
+    {
+      "from": 64.819,
+      "to": 68.479,
+      "sid": 27,
+      "location": 2,
+      "content": "然后我就进了南京西路的一家骑行装备店",
+      "music": 0
+    },
+    {
+      "from": 68.479,
+      "to": 69.839,
+      "sid": 28,
+      "location": 2,
+      "content": "买了一副手套",
+      "music": 0
+    },
+    {
+      "from": 69.839,
+      "to": 72.339,
+      "sid": 29,
+      "location": 2,
+      "content": "虽然它看上去做工是比我拼多多",
+      "music": 0
+    },
+    {
+      "from": 72.339,
+      "to": 73.9,
+      "sid": 30,
+      "location": 2,
+      "content": "九块九要好一点点",
+      "music": 0
+    },
+    {
+      "from": 73.9,
+      "to": 77.82,
+      "sid": 31,
+      "location": 2,
+      "content": "但是他要718块钱",
+      "music": 0
+    },
+    {
+      "from": 77.82,
+      "to": 82.06,
+      "sid": 32,
+      "location": 2,
+      "content": "我今天倒看看他跟他跟我九块九的",
+      "music": 0
+    },
+    {
+      "from": 82.06,
+      "to": 83.65,
+      "sid": 33,
+      "location": 2,
+      "content": "能有多大区别啊",
+      "music": 0
+    },
+    {
+      "from": 83.65,
+      "to": 87.13,
+      "sid": 34,
+      "location": 2,
+      "content": "上厕所都要带着它的光",
+      "music": 0.3171520932960466
+    },
+    {
+      "from": 87.13,
+      "to": 90.59,
+      "sid": 35,
+      "location": 2,
+      "content": "鲁迅手办一个400块",
+      "music": 0
+    },
+    {
+      "from": 90.59,
+      "to": 91.83,
+      "sid": 36,
+      "location": 2,
+      "content": "在这孤独的日子里",
+      "music": 0.9999996551725326
+    },
+    {
+      "from": 91.83,
+      "to": 93.29,
+      "sid": 37,
+      "location": 2,
+      "content": "别怕受伤了",
+      "music": 0.5913977858711985
+    },
+    {
+      "from": 93.29,
+      "to": 95.93,
+      "sid": 38,
+      "location": 2,
+      "content": "为什么会有个喜羊羊舒展",
+      "music": 0
+    },
+    {
+      "from": 95.93,
+      "to": 98.4,
+      "sid": 39,
+      "location": 2,
+      "content": "还有卖球星卡呢",
+      "music": 0
+    },
+    {
+      "from": 99,
+      "to": 100.56,
+      "sid": 40,
+      "location": 2,
+      "content": "本来我背了一个书包",
+      "music": 0
+    },
+    {
+      "from": 100.56,
+      "to": 102.84,
+      "sid": 41,
+      "location": 2,
+      "content": "我是准备来买很多书文去的",
+      "music": 0
+    },
+    {
+      "from": 102.84,
+      "to": 105.49,
+      "sid": 42,
+      "location": 2,
+      "content": "商业氛围有点太浓了",
+      "music": 0
+    },
+    {
+      "from": 105.49,
+      "to": 107.57,
+      "sid": 43,
+      "location": 2,
+      "content": "当然我觉得像这样的舒展",
+      "music": 0
+    },
+    {
+      "from": 107.57,
+      "to": 110.01,
+      "sid": 44,
+      "location": 2,
+      "content": "是特别适合带小朋友来感受一下",
+      "music": 0
+    },
+    {
+      "from": 110.01,
+      "to": 112.19,
+      "sid": 45,
+      "location": 2,
+      "content": "这个书香氛围的",
+      "music": 0
+    },
+    {
+      "from": 112.19,
+      "to": 114.259,
+      "sid": 46,
+      "location": 2,
+      "content": "1万步完成",
+      "music": 0
+    },
+    {
+      "from": 114.259,
+      "to": 117.69,
+      "sid": 47,
+      "location": 2,
+      "content": "但是我现在还要骑20km回家",
+      "music": 0
+    },
+    {
+      "from": 117.69,
+      "to": 120.39,
+      "sid": 48,
+      "location": 2,
+      "content": "脚上感觉有乳酸堆积的现象",
+      "music": 0
+    },
+    {
+      "from": 120.39,
+      "to": 121.49,
+      "sid": 49,
+      "location": 2,
+      "content": "跟灌了铅一样",
+      "music": 0
+    },
+    {
+      "from": 121.49,
+      "to": 122.59,
+      "sid": 50,
+      "location": 2,
+      "content": "但是我想试一试",
+      "music": 0
+    },
+    {
+      "from": 122.59,
+      "to": 124.759,
+      "sid": 51,
+      "location": 2,
+      "content": "一笑了之",
+      "music": 0.8159999347200134
+    },
+    {
+      "from": 125.159,
+      "to": 128.999,
+      "sid": 52,
+      "location": 2,
+      "content": "带上我700块钱买的骑行手套",
+      "music": 0
+    },
+    {
+      "from": 138.84,
+      "to": 140.58,
+      "sid": 53,
+      "location": 2,
+      "content": "我今天比昨天进步了",
+      "music": 0
+    },
+    {
+      "from": 140.58,
+      "to": 143.28,
+      "sid": 54,
+      "location": 2,
+      "content": "我回来就推了一公里",
+      "music": 0
+    },
+    {
+      "from": 143.28,
+      "to": 144.12,
+      "sid": 55,
+      "location": 2,
+      "content": "有有感觉",
+      "music": 0
+    },
+    {
+      "from": 144.12,
+      "to": 146.8,
+      "sid": 56,
+      "location": 2,
+      "content": "我今天比昨天还黑有吗",
+      "music": 0
+    },
+    {
+      "from": 146.8,
+      "to": 147.36,
+      "sid": 57,
+      "location": 2,
+      "content": "真的有吗",
+      "music": 0
+    },
+    {
+      "from": 147.36,
+      "to": 148.18,
+      "sid": 58,
+      "location": 2,
+      "content": "真的有",
+      "music": 0
+    },
+    {
+      "from": 148.18,
+      "to": 149.3,
+      "sid": 59,
+      "location": 2,
+      "content": "我很好奇",
+      "music": 0
+    },
+    {
+      "from": 149.3,
+      "to": 152.96,
+      "sid": 60,
+      "location": 2,
+      "content": "我现在半脱水状态会多重",
+      "music": 0
+    },
+    {
+      "from": 154.96,
+      "to": 156.2,
+      "sid": 61,
+      "location": 2,
+      "content": "跟男人差不多",
+      "music": 0
+    },
+    {
+      "from": 156.2,
+      "to": 159.42,
+      "sid": 62,
+      "location": 2,
+      "content": "哈哈咳死我了",
+      "music": 0
+    },
+    {
+      "from": 161.64,
+      "to": 165.4,
+      "sid": 63,
+      "location": 2,
+      "content": "刚运动完呵胃口喝",
+      "music": 0
+    },
+    {
+      "from": 166.1,
+      "to": 168.86,
+      "sid": 64,
+      "location": 2,
+      "content": "我刚刚躺在床上昏迷了一小时",
+      "music": 0
+    },
+    {
+      "from": 168.86,
+      "to": 170.06,
+      "sid": 65,
+      "location": 2,
+      "content": "然后我是饿醒的",
+      "music": 0
+    },
+    {
+      "from": 170.06,
+      "to": 173.01,
+      "sid": 66,
+      "location": 2,
+      "content": "然后我站起来的时候一阵天旋地转晕了",
+      "music": 0
+    },
+    {
+      "from": 173.01,
+      "to": 174.05,
+      "sid": 67,
+      "location": 2,
+      "content": "我说实话",
+      "music": 0
+    },
+    {
+      "from": 174.05,
+      "to": 177.37,
+      "sid": 68,
+      "location": 2,
+      "content": "今天的运动对我来说肯定是过量的",
+      "music": 0
+    },
+    {
+      "from": 177.37,
+      "to": 180.17,
+      "sid": 69,
+      "location": 2,
+      "content": "但是我觉得有的时候你就是得推自己一把",
+      "music": 0
+    },
+    {
+      "from": 180.17,
+      "to": 181.61,
+      "sid": 70,
+      "location": 2,
+      "content": "那这不也齐下来了嘛",
+      "music": 0
+    },
+    {
+      "from": 181.61,
+      "to": 182.29,
+      "sid": 71,
+      "location": 2,
+      "content": "对吧好",
+      "music": 0
+    },
+    {
+      "from": 182.29,
+      "to": 184.57,
+      "sid": 72,
+      "location": 2,
+      "content": "今天的中饭水煮西兰花",
+      "music": 0
+    },
+    {
+      "from": 184.57,
+      "to": 186.81,
+      "sid": 73,
+      "location": 2,
+      "content": "水煮鸡胸肉碳水",
+      "music": 0
+    },
+    {
+      "from": 186.81,
+      "to": 188.96,
+      "sid": 74,
+      "location": 2,
+      "content": "这是生抽",
+      "music": 0
+    },
+    {
+      "from": 188.96,
+      "to": 190.68,
+      "sid": 75,
+      "location": 2,
+      "content": "先吃蔬菜再吃肉",
+      "music": 0
+    },
+    {
+      "from": 190.68,
+      "to": 191.26,
+      "sid": 76,
+      "location": 2,
+      "content": "再吃淡水",
+      "music": 0
+    },
+    {
+      "from": 191.26,
+      "to": 193.96,
+      "sid": 77,
+      "location": 2,
+      "content": "奔跑在黑暗中哇",
+      "music": 0.49450546733486167
+    },
+    {
+      "from": 193.96,
+      "to": 196.63,
+      "sid": 78,
+      "location": 2,
+      "content": "我现在真终于吃到他们说的",
+      "music": 0
+    },
+    {
+      "from": 196.63,
+      "to": 199.01,
+      "sid": 79,
+      "location": 2,
+      "content": "为什么减肥要全职做呢",
+      "music": 0
+    },
+    {
+      "from": 199.01,
+      "to": 202.6,
+      "sid": 80,
+      "location": 2,
+      "content": "你把这个量运动做完以后",
+      "music": 0
+    },
+    {
+      "from": 202.6,
+      "to": 204.54,
+      "sid": 81,
+      "location": 2,
+      "content": "你真的啥都不想干",
+      "music": 0
+    },
+    {
+      "from": 204.54,
+      "to": 206.98,
+      "sid": 82,
+      "location": 2,
+      "content": "这也是为什么我以前在还在直播的时候",
+      "music": 0
+    },
+    {
+      "from": 206.98,
+      "to": 208.51,
+      "sid": 83,
+      "location": 2,
+      "content": "我没法坚持减肥",
+      "music": 0
+    },
+    {
+      "from": 208.51,
+      "to": 210.39,
+      "sid": 84,
+      "location": 2,
+      "content": "有人说难有人依靠",
+      "music": 0.45323737746493803
+    },
+    {
+      "from": 210.39,
+      "to": 212.09,
+      "sid": 85,
+      "location": 2,
+      "content": "不会有太多心事",
+      "music": 0.9999999386503104
+    },
+    {
+      "from": 212.09,
+      "to": 215.53,
+      "sid": 86,
+      "location": 2,
+      "content": "都非跟你们讲个很恐怖的事情",
+      "music": 0.17829456673277097
+    },
+    {
+      "from": 215.53,
+      "to": 218.21,
+      "sid": 87,
+      "location": 2,
+      "content": "我吃好饭想休息一会",
+      "music": 0
+    },
+    {
+      "from": 218.21,
+      "to": 222.04,
+      "sid": 88,
+      "location": 2,
+      "content": "然后我醒过来已经十点了",
+      "music": 0
+    },
+    {
+      "from": 222.04,
+      "to": 223.6,
+      "sid": 89,
+      "location": 2,
+      "content": "而且我现在巨额",
+      "music": 0
+    },
+    {
+      "from": 223.6,
+      "to": 225.68,
+      "sid": 90,
+      "location": 2,
+      "content": "按理讲我吃好饭就睡觉",
+      "music": 0
+    },
+    {
+      "from": 225.68,
+      "to": 227.3,
+      "sid": 91,
+      "location": 2,
+      "content": "现在该不会有那么饿的",
+      "music": 0
+    },
+    {
+      "from": 227.3,
+      "to": 229.84,
+      "sid": 92,
+      "location": 2,
+      "content": "我要给自己稍微放松一下",
+      "music": 0
+    },
+    {
+      "from": 229.84,
+      "to": 232.64,
+      "sid": 93,
+      "location": 2,
+      "content": "你们看看我家的高级货",
+      "music": 0
+    },
+    {
+      "from": 236.6,
+      "to": 239.08,
+      "sid": 94,
+      "location": 2,
+      "content": "之前有很多品牌方送我的面膜",
+      "music": 0
+    },
+    {
+      "from": 239.08,
+      "to": 240.1,
+      "sid": 95,
+      "location": 2,
+      "content": "我都没有用过",
+      "music": 0
+    },
+    {
+      "from": 240.1,
+      "to": 242.12,
+      "sid": 96,
+      "location": 2,
+      "content": "男人也要对自己好一点",
+      "music": 0
+    },
+    {
+      "from": 242.12,
+      "to": 244.64,
+      "sid": 97,
+      "location": 2,
+      "content": "更何况是我白天这么累",
+      "music": 0
+    },
+    {
+      "from": 244.64,
+      "to": 247.98,
+      "sid": 98,
+      "location": 2,
+      "content": "我今天运动太多以后",
+      "music": 0
+    },
+    {
+      "from": 247.98,
+      "to": 252.32,
+      "sid": 99,
+      "location": 2,
+      "content": "就一直处在一种不太舒服的状态",
+      "music": 0
+    },
+    {
+      "from": 252.32,
+      "to": 254.76,
+      "sid": 100,
+      "location": 2,
+      "content": "请问这个是正常的吗",
+      "music": 0
+    },
+    {
+      "from": 258.3,
+      "to": 259.66,
+      "sid": 101,
+      "location": 2,
+      "content": "敷完面膜了",
+      "music": 0
+    },
+    {
+      "from": 259.66,
+      "to": 261.1,
+      "sid": 102,
+      "location": 2,
+      "content": "温度我觉得没有任何区别",
+      "music": 0
+    },
+    {
+      "from": 262.42,
+      "to": 264.28,
+      "sid": 103,
+      "location": 2,
+      "content": "我们多坚持几天看看",
+      "music": 0
+    },
+    {
+      "from": 264.28,
+      "to": 266,
+      "sid": 104,
+      "location": 2,
+      "content": "总之我现在非常的不确定",
+      "music": 0
+    },
+    {
+      "from": 266,
+      "to": 267.64,
+      "sid": 105,
+      "location": 2,
+      "content": "明天可以继续坚持起步",
+      "music": 0
+    },
+    {
+      "from": 267.64,
+      "to": 268.72,
+      "sid": 106,
+      "location": 2,
+      "content": "我现在就去睡觉",
+      "music": 0
+    },
+    {
+      "from": 268.72,
+      "to": 270.81,
+      "sid": 107,
+      "location": 2,
+      "content": "要看明天早上起来以后的身体状况",
+      "music": 0
+    },
+    {
+      "from": 270.81,
+      "to": 271.63,
+      "sid": 108,
+      "location": 2,
+      "content": "不管怎么样",
+      "music": 0
+    },
+    {
+      "from": 271.63,
+      "to": 274.51,
+      "sid": 109,
+      "location": 2,
+      "content": "祝8月15号过生日的同学们生日快乐",
+      "music": 0.0416666652199091
+    },
+    {
+      "from": 274.51,
+      "to": 279.47,
+      "sid": 110,
+      "location": 2,
+      "content": "我们明天继续自律之旅",
+      "music": 0
+    },
+    {
+      "from": 279.83,
+      "to": 281.79,
+      "sid": 111,
+      "location": 2,
+      "content": "两天骑了80km",
+      "music": 0
+    },
+    {
+      "from": 281.79,
+      "to": 283.03,
+      "sid": 112,
+      "location": 2,
+      "content": "现在多少斤",
+      "music": 0
+    },
+    {
+      "from": 283.03,
+      "to": 284.74,
+      "sid": 113,
+      "location": 2,
+      "content": "192.1",
+      "music": 0
+    }
+  ]
+}

@@ -1,0 +1,8652 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.12,
+      "to": 2.4,
+      "sid": 1,
+      "location": 2,
+      "content": "58天长江大桥",
+      "music": 0
+    },
+    {
+      "from": 2.4,
+      "to": 4.85,
+      "sid": 2,
+      "location": 2,
+      "content": "我的电便失灵了",
+      "music": 0
+    },
+    {
+      "from": 5.29,
+      "to": 6.91,
+      "sid": 3,
+      "location": 2,
+      "content": "就他不变速了",
+      "music": 0
+    },
+    {
+      "from": 6.91,
+      "to": 8.13,
+      "sid": 4,
+      "location": 2,
+      "content": "哎我头盔没拿",
+      "music": 0
+    },
+    {
+      "from": 8.13,
+      "to": 9.05,
+      "sid": 5,
+      "location": 2,
+      "content": "我都骑了这么远",
+      "music": 0
+    },
+    {
+      "from": 9.05,
+      "to": 9.49,
+      "sid": 6,
+      "location": 2,
+      "content": "出去了",
+      "music": 0
+    },
+    {
+      "from": 9.49,
+      "to": 10.33,
+      "sid": 7,
+      "location": 2,
+      "content": "我吐了",
+      "music": 0
+    },
+    {
+      "from": 11.81,
+      "to": 14.075,
+      "sid": 8,
+      "location": 2,
+      "content": "哎哎呀",
+      "music": 0
+    },
+    {
+      "from": 15.54,
+      "to": 17.82,
+      "sid": 9,
+      "location": 2,
+      "content": "啊兄弟们",
+      "music": 0
+    },
+    {
+      "from": 19.18,
+      "to": 21.38,
+      "sid": 10,
+      "location": 2,
+      "content": "人民第58天",
+      "music": 0
+    },
+    {
+      "from": 23.14,
+      "to": 24.74,
+      "sid": 11,
+      "location": 2,
+      "content": "天天醒的好奢靡啊",
+      "music": 0
+    },
+    {
+      "from": 24.74,
+      "to": 25.7,
+      "sid": 12,
+      "location": 2,
+      "content": "感觉都不像我了",
+      "music": 0
+    },
+    {
+      "from": 26.74,
+      "to": 29.38,
+      "sid": 13,
+      "location": 2,
+      "content": "嘿嘿哎",
+      "music": 0
+    },
+    {
+      "from": 29.38,
+      "to": 35.599,
+      "sid": 14,
+      "location": 2,
+      "content": "起床给大家看看今天天气咋样",
+      "music": 0
+    },
+    {
+      "from": 36.439,
+      "to": 39.999,
+      "sid": 15,
+      "location": 2,
+      "content": "下雨了哎呦完了",
+      "music": 0
+    },
+    {
+      "from": 42.04,
+      "to": 42.84,
+      "sid": 16,
+      "location": 2,
+      "content": "怎么办",
+      "music": 0
+    },
+    {
+      "from": 46.48,
+      "to": 48.76,
+      "sid": 17,
+      "location": 2,
+      "content": "在下雨怎么办啊",
+      "music": 0
+    },
+    {
+      "from": 50.8,
+      "to": 52.8,
+      "sid": 18,
+      "location": 2,
+      "content": "哇冒雨骑到镇江圈",
+      "music": 0
+    },
+    {
+      "from": 54.52,
+      "to": 55.4,
+      "sid": 19,
+      "location": 2,
+      "content": "但是也没有办法啊",
+      "music": 0
+    },
+    {
+      "from": 55.4,
+      "to": 56.9,
+      "sid": 20,
+      "location": 2,
+      "content": "这个房间我续不起啊",
+      "music": 0
+    },
+    {
+      "from": 56.9,
+      "to": 58.92,
+      "sid": 21,
+      "location": 2,
+      "content": "一晚上1500",
+      "music": 0
+    },
+    {
+      "from": 60.16,
+      "to": 62.28,
+      "sid": 22,
+      "location": 2,
+      "content": "好准备出发",
+      "music": 0
+    },
+    {
+      "from": 63.65,
+      "to": 68.21,
+      "sid": 23,
+      "location": 2,
+      "content": "哎哎雨停了雨停了雨停了",
+      "music": 0
+    },
+    {
+      "from": 69.66,
+      "to": 72.82,
+      "sid": 24,
+      "location": 2,
+      "content": "你看我一整全副武装",
+      "music": 0
+    },
+    {
+      "from": 73.82,
+      "to": 76.18,
+      "sid": 25,
+      "location": 2,
+      "content": "但是现在好像不下雨了",
+      "music": 0
+    },
+    {
+      "from": 76.58,
+      "to": 78.98,
+      "sid": 26,
+      "location": 2,
+      "content": "把车推进电",
+      "music": 0
+    },
+    {
+      "from": 83.08,
+      "to": 86.92,
+      "sid": 27,
+      "location": 2,
+      "content": "嗯先从这边的台阶把它重新下齐",
+      "music": 0
+    },
+    {
+      "from": 86.92,
+      "to": 88.74,
+      "sid": 28,
+      "location": 2,
+      "content": "飘着点小雨",
+      "music": 0
+    },
+    {
+      "from": 88.74,
+      "to": 90.3,
+      "sid": 29,
+      "location": 2,
+      "content": "下雨体验真的很差",
+      "music": 0
+    },
+    {
+      "from": 90.3,
+      "to": 92.4,
+      "sid": 30,
+      "location": 2,
+      "content": "这里还有一个台阶",
+      "music": 0
+    },
+    {
+      "from": 92.56,
+      "to": 94.06,
+      "sid": 31,
+      "location": 2,
+      "content": "嘿哎呦",
+      "music": 0
+    },
+    {
+      "from": 94.06,
+      "to": 96.92,
+      "sid": 32,
+      "location": 2,
+      "content": "哇也这度过1500块一晚上的房间了",
+      "music": 0
+    },
+    {
+      "from": 96.92,
+      "to": 97.54,
+      "sid": 33,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 97.54,
+      "to": 99.54,
+      "sid": 34,
+      "location": 2,
+      "content": "他刚刚让我签了一个账单",
+      "music": 0
+    },
+    {
+      "from": 99.54,
+      "to": 108.41,
+      "sid": 35,
+      "location": 2,
+      "content": "昨天吃饭这个美团上买的套餐是479",
+      "music": 0
+    },
+    {
+      "from": 108.98,
+      "to": 110.02,
+      "sid": 36,
+      "location": 2,
+      "content": "是400多",
+      "music": 0
+    },
+    {
+      "from": 110.02,
+      "to": 110.5,
+      "sid": 37,
+      "location": 2,
+      "content": "我忘了",
+      "music": 0
+    },
+    {
+      "from": 110.5,
+      "to": 112.3,
+      "sid": 38,
+      "location": 2,
+      "content": "然后他最后打了个八五折",
+      "music": 0
+    },
+    {
+      "from": 112.62,
+      "to": 113.72,
+      "sid": 39,
+      "location": 2,
+      "content": "对423",
+      "music": 0
+    },
+    {
+      "from": 113.72,
+      "to": 115.93,
+      "sid": 40,
+      "location": 2,
+      "content": "我想到昨天吃的那顿饭有神奇",
+      "music": 0
+    },
+    {
+      "from": 115.93,
+      "to": 118.67,
+      "sid": 41,
+      "location": 2,
+      "content": "今天早上起来他们酒店是有免费的早餐的",
+      "music": 0
+    },
+    {
+      "from": 118.67,
+      "to": 121.97,
+      "sid": 42,
+      "location": 2,
+      "content": "然后我去吃了没拍",
+      "music": 0
+    },
+    {
+      "from": 121.97,
+      "to": 123.63,
+      "sid": 43,
+      "location": 2,
+      "content": "拍了张照给你们看一下",
+      "music": 0
+    },
+    {
+      "from": 123.63,
+      "to": 125.66,
+      "sid": 44,
+      "location": 2,
+      "content": "就这样巨难吃",
+      "music": 0
+    },
+    {
+      "from": 125.66,
+      "to": 126.86,
+      "sid": 45,
+      "location": 2,
+      "content": "我现在知道为什么要吃",
+      "music": 0
+    },
+    {
+      "from": 126.86,
+      "to": 128.5,
+      "sid": 46,
+      "location": 2,
+      "content": "师姐当时来住这个酒店",
+      "music": 0
+    },
+    {
+      "from": 128.5,
+      "to": 129.5,
+      "sid": 47,
+      "location": 2,
+      "content": "她觉得很坑呢",
+      "music": 0
+    },
+    {
+      "from": 129.5,
+      "to": 131.12,
+      "sid": 48,
+      "location": 2,
+      "content": "是有各种各样的雷点",
+      "music": 0
+    },
+    {
+      "from": 131.12,
+      "to": 132.95,
+      "sid": 49,
+      "location": 2,
+      "content": "我一会再跟你们说",
+      "music": 0
+    },
+    {
+      "from": 132.95,
+      "to": 134.61,
+      "sid": 50,
+      "location": 2,
+      "content": "我先把车推出去",
+      "music": 0
+    },
+    {
+      "from": 134.61,
+      "to": 137.25,
+      "sid": 51,
+      "location": 2,
+      "content": "我这个车现在推起来都挺累的",
+      "music": 0
+    },
+    {
+      "from": 137.25,
+      "to": 139.19,
+      "sid": 52,
+      "location": 2,
+      "content": "后座的东西太多了",
+      "music": 0
+    },
+    {
+      "from": 139.19,
+      "to": 143.78,
+      "sid": 53,
+      "location": 2,
+      "content": "好镇江姑发镇江市中国醋乡",
+      "music": 0
+    },
+    {
+      "from": 143.78,
+      "to": 148.27,
+      "sid": 54,
+      "location": 2,
+      "content": "总距离84.9km",
+      "music": 0
+    },
+    {
+      "from": 148.75,
+      "to": 150.05,
+      "sid": 55,
+      "location": 2,
+      "content": "85km",
+      "music": 0
+    },
+    {
+      "from": 150.05,
+      "to": 151.65,
+      "sid": 56,
+      "location": 2,
+      "content": "还是不搞幺蛾子了",
+      "music": 0
+    },
+    {
+      "from": 151.65,
+      "to": 155.07,
+      "sid": 57,
+      "location": 2,
+      "content": "每天每次当我想整点什么花活的时候",
+      "music": 0
+    },
+    {
+      "from": 155.07,
+      "to": 157.1,
+      "sid": 58,
+      "location": 2,
+      "content": "大家都会非常的反感",
+      "music": 0
+    },
+    {
+      "from": 157.42,
+      "to": 161.71,
+      "sid": 59,
+      "location": 2,
+      "content": "不过那个确实有些同学可能比较晕吧",
+      "music": 0
+    },
+    {
+      "from": 161.71,
+      "to": 164.97,
+      "sid": 60,
+      "location": 2,
+      "content": "虽然我和我的简直看起来都不匀",
+      "music": 0
+    },
+    {
+      "from": 165.17,
+      "to": 167.69,
+      "sid": 61,
+      "location": 2,
+      "content": "唉但是我我我发现一个很奇怪的事情啊",
+      "music": 0
+    },
+    {
+      "from": 167.69,
+      "to": 169.13,
+      "sid": 62,
+      "location": 2,
+      "content": "就是我打游戏我会晕3D",
+      "music": 0
+    },
+    {
+      "from": 169.13,
+      "to": 170.69,
+      "sid": 63,
+      "location": 2,
+      "content": "但是我看那个画面我不晕啊",
+      "music": 0
+    },
+    {
+      "from": 170.69,
+      "to": 172.54,
+      "sid": 64,
+      "location": 2,
+      "content": "就那个头上那个视角",
+      "music": 0
+    },
+    {
+      "from": 172.74,
+      "to": 175.14,
+      "sid": 65,
+      "location": 2,
+      "content": "但是我今天看到了前天的反馈嘛",
+      "music": 0
+    },
+    {
+      "from": 175.14,
+      "to": 176.66,
+      "sid": 66,
+      "location": 2,
+      "content": "那我昨天其实也拍了",
+      "music": 0
+    },
+    {
+      "from": 176.66,
+      "to": 177.709,
+      "sid": 67,
+      "location": 2,
+      "content": "那没办法",
+      "music": 0
+    },
+    {
+      "from": 177.709,
+      "to": 178.189,
+      "sid": 68,
+      "location": 2,
+      "content": "哼",
+      "music": 0
+    },
+    {
+      "from": 178.189,
+      "to": 179.269,
+      "sid": 69,
+      "location": 2,
+      "content": "我打游戏会晕",
+      "music": 0
+    },
+    {
+      "from": 179.269,
+      "to": 180.889,
+      "sid": 70,
+      "location": 2,
+      "content": "但是我反而看这个不会晕",
+      "music": 0
+    },
+    {
+      "from": 180.889,
+      "to": 182.469,
+      "sid": 71,
+      "location": 2,
+      "content": "对其实我是晕3D的",
+      "music": 0
+    },
+    {
+      "from": 182.469,
+      "to": 183.869,
+      "sid": 72,
+      "location": 2,
+      "content": "但是那个画面我看了好多遍",
+      "music": 0
+    },
+    {
+      "from": 183.869,
+      "to": 186.28,
+      "sid": 73,
+      "location": 2,
+      "content": "我都感觉完全不晕啊",
+      "music": 0
+    },
+    {
+      "from": 186.28,
+      "to": 187.95,
+      "sid": 74,
+      "location": 2,
+      "content": "哦我知道为什么了",
+      "music": 0
+    },
+    {
+      "from": 187.95,
+      "to": 190.03,
+      "sid": 75,
+      "location": 2,
+      "content": "因为那个画面是我自己拍的",
+      "music": 0
+    },
+    {
+      "from": 190.03,
+      "to": 192.93,
+      "sid": 76,
+      "location": 2,
+      "content": "所以我自己已经提前适应过了",
+      "music": 0
+    },
+    {
+      "from": 192.93,
+      "to": 194.95,
+      "sid": 77,
+      "location": 2,
+      "content": "我会自己代入我自己的视角",
+      "music": 0
+    },
+    {
+      "from": 194.95,
+      "to": 196.53,
+      "sid": 78,
+      "location": 2,
+      "content": "哎我知道为什么了",
+      "music": 0
+    },
+    {
+      "from": 196.53,
+      "to": 198.41,
+      "sid": 79,
+      "location": 2,
+      "content": "就如果你打游戏晕3D",
+      "music": 0
+    },
+    {
+      "from": 198.41,
+      "to": 199.33,
+      "sid": 80,
+      "location": 2,
+      "content": "说明一个情况",
+      "music": 0
+    },
+    {
+      "from": 199.33,
+      "to": 200.63,
+      "sid": 81,
+      "location": 2,
+      "content": "就是你还不够沉静",
+      "music": 0
+    },
+    {
+      "from": 200.63,
+      "to": 203.39,
+      "sid": 82,
+      "location": 2,
+      "content": "当你完全沉浸在哎哟怎么骑不动啊",
+      "music": 0
+    },
+    {
+      "from": 203.39,
+      "to": 205.18,
+      "sid": 83,
+      "location": 2,
+      "content": "嗯诶什么情况",
+      "music": 0
+    },
+    {
+      "from": 205.18,
+      "to": 209.7,
+      "sid": 84,
+      "location": 2,
+      "content": "当你完全沉浸在那个第一人称视角里面的时候",
+      "music": 0
+    },
+    {
+      "from": 209.7,
+      "to": 213.66,
+      "sid": 85,
+      "location": 2,
+      "content": "你就会把自己想象成我跟他意念合一",
+      "music": 0
+    },
+    {
+      "from": 213.66,
+      "to": 215.579,
+      "sid": 86,
+      "location": 2,
+      "content": "这样你就不会",
+      "music": 0
+    },
+    {
+      "from": 215.859,
+      "to": 217.339,
+      "sid": 87,
+      "location": 2,
+      "content": "但如果你不够沉静",
+      "music": 0
+    },
+    {
+      "from": 217.339,
+      "to": 220.299,
+      "sid": 88,
+      "location": 2,
+      "content": "一始终处在一种上帝视角来观测",
+      "music": 0
+    },
+    {
+      "from": 220.299,
+      "to": 221.919,
+      "sid": 89,
+      "location": 2,
+      "content": "这个第一人称视角的话",
+      "music": 0
+    },
+    {
+      "from": 221.919,
+      "to": 223.46,
+      "sid": 90,
+      "location": 2,
+      "content": "那你就会赢",
+      "music": 0
+    },
+    {
+      "from": 223.46,
+      "to": 225.3,
+      "sid": 91,
+      "location": 2,
+      "content": "是这么一回事啊",
+      "music": 0
+    },
+    {
+      "from": 225.3,
+      "to": 226.41,
+      "sid": 92,
+      "location": 2,
+      "content": "好嘞",
+      "music": 0
+    },
+    {
+      "from": 226.41,
+      "to": 227.93,
+      "sid": 93,
+      "location": 2,
+      "content": "原来这个不叫珍珠湖",
+      "music": 0
+    },
+    {
+      "from": 227.93,
+      "to": 228.77,
+      "sid": 94,
+      "location": 2,
+      "content": "叫珍珠泉",
+      "music": 0
+    },
+    {
+      "from": 228.77,
+      "to": 229.65,
+      "sid": 95,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 229.65,
+      "to": 231.81,
+      "sid": 96,
+      "location": 2,
+      "content": "我昨天考据了一下哇",
+      "music": 0
+    },
+    {
+      "from": 231.81,
+      "to": 234.9,
+      "sid": 97,
+      "location": 2,
+      "content": "今天今天会是hard的难度",
+      "music": 0
+    },
+    {
+      "from": 234.98,
+      "to": 237.95,
+      "sid": 98,
+      "location": 2,
+      "content": "因为今天还在下雨",
+      "music": 0
+    },
+    {
+      "from": 237.95,
+      "to": 239.55,
+      "sid": 99,
+      "location": 2,
+      "content": "所以地面非常的湿滑",
+      "music": 0
+    },
+    {
+      "from": 239.55,
+      "to": 240.15,
+      "sid": 100,
+      "location": 2,
+      "content": "你们看到吗",
+      "music": 0
+    },
+    {
+      "from": 240.15,
+      "to": 241.39,
+      "sid": 101,
+      "location": 2,
+      "content": "肉眼可见的湿滑",
+      "music": 0
+    },
+    {
+      "from": 241.39,
+      "to": 242.01,
+      "sid": 102,
+      "location": 2,
+      "content": "完了",
+      "music": 0
+    },
+    {
+      "from": 242.01,
+      "to": 243.59,
+      "sid": 103,
+      "location": 2,
+      "content": "我这个车没有挡泥板",
+      "music": 0
+    },
+    {
+      "from": 243.59,
+      "to": 245.769,
+      "sid": 104,
+      "location": 2,
+      "content": "完了我后面得全湿光",
+      "music": 0
+    },
+    {
+      "from": 245.769,
+      "to": 248.509,
+      "sid": 105,
+      "location": 2,
+      "content": "因为我现在看得到我前面的那个轮胎",
+      "music": 0
+    },
+    {
+      "from": 248.509,
+      "to": 249.529,
+      "sid": 106,
+      "location": 2,
+      "content": "溅起的水花",
+      "music": 0
+    },
+    {
+      "from": 249.529,
+      "to": 250.509,
+      "sid": 107,
+      "location": 2,
+      "content": "你们你们懂吗",
+      "music": 0
+    },
+    {
+      "from": 250.509,
+      "to": 251.369,
+      "sid": 108,
+      "location": 2,
+      "content": "别玩了",
+      "music": 0
+    },
+    {
+      "from": 251.369,
+      "to": 255.25,
+      "sid": 109,
+      "location": 2,
+      "content": "而且这个天气沙村不会特别灵的",
+      "music": 0
+    },
+    {
+      "from": 255.25,
+      "to": 257.01,
+      "sid": 110,
+      "location": 2,
+      "content": "我今天只能骑慢点了",
+      "music": 0
+    },
+    {
+      "from": 257.01,
+      "to": 259.45,
+      "sid": 111,
+      "location": 2,
+      "content": "哎呀你不要停车啊",
+      "music": 0
+    },
+    {
+      "from": 259.45,
+      "to": 264.69,
+      "sid": 112,
+      "location": 2,
+      "content": "大哥我们的第一站又是要经过长江大桥",
+      "music": 0
+    },
+    {
+      "from": 264.69,
+      "to": 266.81,
+      "sid": 113,
+      "location": 2,
+      "content": "我昨天从长江大桥骑过来",
+      "music": 0
+    },
+    {
+      "from": 266.81,
+      "to": 268.15,
+      "sid": 114,
+      "location": 2,
+      "content": "今天我还得骑回去",
+      "music": 0
+    },
+    {
+      "from": 268.15,
+      "to": 268.49,
+      "sid": 115,
+      "location": 2,
+      "content": "哎",
+      "music": 0
+    },
+    {
+      "from": 268.49,
+      "to": 269.45,
+      "sid": 116,
+      "location": 2,
+      "content": "这个没有挡泥板",
+      "music": 0
+    },
+    {
+      "from": 269.45,
+      "to": 270.43,
+      "sid": 117,
+      "location": 2,
+      "content": "问题挺大的呀",
+      "music": 0
+    },
+    {
+      "from": 270.43,
+      "to": 273.32,
+      "sid": 118,
+      "location": 2,
+      "content": "就是前面卷起的水花",
+      "music": 0
+    },
+    {
+      "from": 273.32,
+      "to": 274.16,
+      "sid": 119,
+      "location": 2,
+      "content": "我骑的越快",
+      "music": 0
+    },
+    {
+      "from": 274.16,
+      "to": 275.47,
+      "sid": 120,
+      "location": 2,
+      "content": "他卷的越高",
+      "music": 0
+    },
+    {
+      "from": 275.47,
+      "to": 276.83,
+      "sid": 121,
+      "location": 2,
+      "content": "更别说后面了",
+      "music": 0
+    },
+    {
+      "from": 276.83,
+      "to": 278.57,
+      "sid": 122,
+      "location": 2,
+      "content": "我现在都不敢看我的后面",
+      "music": 0
+    },
+    {
+      "from": 280.19,
+      "to": 284.22,
+      "sid": 123,
+      "location": 2,
+      "content": "为什么车轮转的时候其实会有那个水啊",
+      "music": 0
+    },
+    {
+      "from": 284.22,
+      "to": 286.2,
+      "sid": 124,
+      "location": 2,
+      "content": "泥啊一直被带起来的",
+      "music": 0
+    },
+    {
+      "from": 286.2,
+      "to": 287.48,
+      "sid": 125,
+      "location": 2,
+      "content": "然后骑的越快",
+      "music": 0
+    },
+    {
+      "from": 287.48,
+      "to": 288.16,
+      "sid": 126,
+      "location": 2,
+      "content": "带的越高",
+      "music": 0
+    },
+    {
+      "from": 288.16,
+      "to": 290.25,
+      "sid": 127,
+      "location": 2,
+      "content": "我才后面望眼了",
+      "music": 0
+    },
+    {
+      "from": 290.53,
+      "to": 292.65,
+      "sid": 128,
+      "location": 2,
+      "content": "不敢不敢往后看算了",
+      "music": 0
+    },
+    {
+      "from": 292.65,
+      "to": 293.05,
+      "sid": 129,
+      "location": 2,
+      "content": "无所谓了",
+      "music": 0
+    },
+    {
+      "from": 293.05,
+      "to": 295.09,
+      "sid": 130,
+      "location": 2,
+      "content": "我后面的密封性应该还可以啊",
+      "music": 0
+    },
+    {
+      "from": 295.09,
+      "to": 295.85,
+      "sid": 131,
+      "location": 2,
+      "content": "镜头擦一下",
+      "music": 0
+    },
+    {
+      "from": 297.05,
+      "to": 298.05,
+      "sid": 132,
+      "location": 2,
+      "content": "但是这也很真实",
+      "music": 0
+    },
+    {
+      "from": 302.81,
+      "to": 304.41,
+      "sid": 133,
+      "location": 2,
+      "content": "代入感应该还蛮强的",
+      "music": 0
+    },
+    {
+      "from": 304.41,
+      "to": 305.99,
+      "sid": 134,
+      "location": 2,
+      "content": "哎呀卧槽",
+      "music": 0
+    },
+    {
+      "from": 305.99,
+      "to": 309.24,
+      "sid": 135,
+      "location": 2,
+      "content": "为什么刚开始骑我裤子就已经全湿光了",
+      "music": 0
+    },
+    {
+      "from": 309.6,
+      "to": 312.12,
+      "sid": 136,
+      "location": 2,
+      "content": "嗨呵呵呵呵哎呀",
+      "music": 0
+    },
+    {
+      "from": 312.12,
+      "to": 312.96,
+      "sid": 137,
+      "location": 2,
+      "content": "无所谓了",
+      "music": 0
+    },
+    {
+      "from": 312.96,
+      "to": 317.559,
+      "sid": 138,
+      "location": 2,
+      "content": "但是我们自从开始这个系列以后",
+      "music": 0
+    },
+    {
+      "from": 317.559,
+      "to": 319.83,
+      "sid": 139,
+      "location": 2,
+      "content": "第一次雨鞋",
+      "music": 0
+    },
+    {
+      "from": 319.83,
+      "to": 321.53,
+      "sid": 140,
+      "location": 2,
+      "content": "但是我还是在酒店等了一会儿",
+      "music": 0
+    },
+    {
+      "from": 321.53,
+      "to": 322.21,
+      "sid": 141,
+      "location": 2,
+      "content": "等到雨停了",
+      "music": 0
+    },
+    {
+      "from": 322.21,
+      "to": 323.1,
+      "sid": 142,
+      "location": 2,
+      "content": "我再出来的",
+      "music": 0
+    },
+    {
+      "from": 323.1,
+      "to": 324.62,
+      "sid": 143,
+      "location": 2,
+      "content": "因为岛上的雨还蛮大的",
+      "music": 0
+    },
+    {
+      "from": 324.62,
+      "to": 326.02,
+      "sid": 144,
+      "location": 2,
+      "content": "你们看这里积了这么多水",
+      "music": 0
+    },
+    {
+      "from": 326.02,
+      "to": 327.44,
+      "sid": 145,
+      "location": 2,
+      "content": "就是因为岛上的雨特别大",
+      "music": 0
+    },
+    {
+      "from": 327.44,
+      "to": 330.47,
+      "sid": 146,
+      "location": 2,
+      "content": "我觉得冒着这么大的雨去洗有点逆天",
+      "music": 0
+    },
+    {
+      "from": 330.47,
+      "to": 331.15,
+      "sid": 147,
+      "location": 2,
+      "content": "好消息",
+      "music": 0
+    },
+    {
+      "from": 331.15,
+      "to": 333.59,
+      "sid": 148,
+      "location": 2,
+      "content": "就是我出门的时候也就是12点整嘛",
+      "music": 0
+    },
+    {
+      "from": 334.63,
+      "to": 336.39,
+      "sid": 149,
+      "location": 2,
+      "content": "雨算停了",
+      "music": 0
+    },
+    {
+      "from": 336.869,
+      "to": 339.409,
+      "sid": 150,
+      "location": 2,
+      "content": "现在只是在飘点特别毛毛的雨",
+      "music": 0
+    },
+    {
+      "from": 339.409,
+      "to": 339.909,
+      "sid": 151,
+      "location": 2,
+      "content": "我跟你们说",
+      "music": 0
+    },
+    {
+      "from": 339.909,
+      "to": 341.429,
+      "sid": 152,
+      "location": 2,
+      "content": "这个酒店有什么很坑的地方啊",
+      "music": 0
+    },
+    {
+      "from": 341.429,
+      "to": 343.089,
+      "sid": 153,
+      "location": 2,
+      "content": "就因为他不是在山里吗",
+      "music": 0
+    },
+    {
+      "from": 343.089,
+      "to": 345.65,
+      "sid": 154,
+      "location": 2,
+      "content": "然后山里面很安静",
+      "music": 0
+    },
+    {
+      "from": 346.77,
+      "to": 348.33,
+      "sid": 155,
+      "location": 2,
+      "content": "它到了晚上的时候",
+      "music": 0
+    },
+    {
+      "from": 348.33,
+      "to": 350.09,
+      "sid": 156,
+      "location": 2,
+      "content": "外面又巨黑",
+      "music": 0
+    },
+    {
+      "from": 350.09,
+      "to": 352.49,
+      "sid": 157,
+      "location": 2,
+      "content": "然后他的入住率又没那么高",
+      "music": 0
+    },
+    {
+      "from": 352.49,
+      "to": 353.71,
+      "sid": 158,
+      "location": 2,
+      "content": "就出现了一个情况",
+      "music": 0
+    },
+    {
+      "from": 353.71,
+      "to": 355.11,
+      "sid": 159,
+      "location": 2,
+      "content": "就是其实他很安静",
+      "music": 0
+    },
+    {
+      "from": 355.11,
+      "to": 357.33,
+      "sid": 160,
+      "location": 2,
+      "content": "但是他安静到一个很诡异的程度",
+      "music": 0
+    },
+    {
+      "from": 357.33,
+      "to": 360.269,
+      "sid": 161,
+      "location": 2,
+      "content": "就是你隔壁的人说话你都听得清楚",
+      "music": 0
+    },
+    {
+      "from": 360.269,
+      "to": 361.789,
+      "sid": 162,
+      "location": 2,
+      "content": "而且还有一个比较坑的点吧",
+      "music": 0
+    },
+    {
+      "from": 361.789,
+      "to": 365.689,
+      "sid": 163,
+      "location": 2,
+      "content": "就是他那个他的那个书是说私汤嘛",
+      "music": 0
+    },
+    {
+      "from": 365.689,
+      "to": 367.409,
+      "sid": 164,
+      "location": 2,
+      "content": "但是其实你泡汤的时候",
+      "music": 0
+    },
+    {
+      "from": 367.409,
+      "to": 370.13,
+      "sid": 165,
+      "location": 2,
+      "content": "我隔壁的那一间正好住了人",
+      "music": 0
+    },
+    {
+      "from": 370.13,
+      "to": 371.23,
+      "sid": 166,
+      "location": 2,
+      "content": "然后就是",
+      "music": 0
+    },
+    {
+      "from": 371.23,
+      "to": 375.05,
+      "sid": 167,
+      "location": 2,
+      "content": "然后他要把那个泡温泉的时间定的特别死",
+      "music": 0
+    },
+    {
+      "from": 375.05,
+      "to": 376.39,
+      "sid": 168,
+      "location": 2,
+      "content": "06:30到09:30",
+      "music": 0
+    },
+    {
+      "from": 376.39,
+      "to": 378.15,
+      "sid": 169,
+      "location": 2,
+      "content": "只有在这个时间段里你才能泡",
+      "music": 0
+    },
+    {
+      "from": 378.15,
+      "to": 379.79,
+      "sid": 170,
+      "location": 2,
+      "content": "然后就导致了你泡温泉的时候",
+      "music": 0
+    },
+    {
+      "from": 379.79,
+      "to": 381.59,
+      "sid": 171,
+      "location": 2,
+      "content": "你就在听隔壁的人说话",
+      "music": 0
+    },
+    {
+      "from": 381.59,
+      "to": 383.31,
+      "sid": 172,
+      "location": 2,
+      "content": "具体的内容我不太方便说",
+      "music": 0
+    },
+    {
+      "from": 383.31,
+      "to": 385.07,
+      "sid": 173,
+      "location": 2,
+      "content": "因为其实这个温泉酒店",
+      "music": 0
+    },
+    {
+      "from": 385.07,
+      "to": 389.619,
+      "sid": 174,
+      "location": 2,
+      "content": "我今天早上发现都是小情侣来这边住着",
+      "music": 0
+    },
+    {
+      "from": 389.619,
+      "to": 395.44,
+      "sid": 175,
+      "location": 2,
+      "content": "然后我在那边泡温雪人的时候就听到隔壁",
+      "music": 0
+    },
+    {
+      "from": 395.44,
+      "to": 397.76,
+      "sid": 176,
+      "location": 2,
+      "content": "但是我不得不说山里的空气还可以",
+      "music": 0
+    },
+    {
+      "from": 397.76,
+      "to": 399.62,
+      "sid": 177,
+      "location": 2,
+      "content": "所以我昨天睡得特别好",
+      "music": 0
+    },
+    {
+      "from": 399.62,
+      "to": 401.58,
+      "sid": 178,
+      "location": 2,
+      "content": "然后他那床又贼舒服",
+      "music": 0
+    },
+    {
+      "from": 401.58,
+      "to": 404.1,
+      "sid": 179,
+      "location": 2,
+      "content": "就贵的酒店有一点是比较共性的",
+      "music": 0
+    },
+    {
+      "from": 404.1,
+      "to": 408.15,
+      "sid": 180,
+      "location": 2,
+      "content": "就是他们的就用的东西都还挺好",
+      "music": 0
+    },
+    {
+      "from": 408.51,
+      "to": 410.71,
+      "sid": 181,
+      "location": 2,
+      "content": "然后今天走的时候送了我一盒伴手礼",
+      "music": 0
+    },
+    {
+      "from": 410.71,
+      "to": 411.41,
+      "sid": 182,
+      "location": 2,
+      "content": "我还没有拆",
+      "music": 0
+    },
+    {
+      "from": 411.41,
+      "to": 413.19,
+      "sid": 183,
+      "location": 2,
+      "content": "我一会到了目的地",
+      "music": 0
+    },
+    {
+      "from": 413.19,
+      "to": 414.41,
+      "sid": 184,
+      "location": 2,
+      "content": "看一下长啥样吧",
+      "music": 0
+    },
+    {
+      "from": 414.41,
+      "to": 416.65,
+      "sid": 185,
+      "location": 2,
+      "content": "总体来说我的评价是",
+      "music": 0
+    },
+    {
+      "from": 416.65,
+      "to": 418.63,
+      "sid": 186,
+      "location": 2,
+      "content": "如果这个1500块是我自己花的",
+      "music": 0
+    },
+    {
+      "from": 418.63,
+      "to": 420.07,
+      "sid": 187,
+      "location": 2,
+      "content": "我一定觉得太坑了",
+      "music": 0
+    },
+    {
+      "from": 420.07,
+      "to": 422.07,
+      "sid": 188,
+      "location": 2,
+      "content": "但是如果是赤玉姐花的",
+      "music": 0
+    },
+    {
+      "from": 422.07,
+      "to": 423.7,
+      "sid": 189,
+      "location": 2,
+      "content": "我觉得诶还可以诶",
+      "music": 0
+    },
+    {
+      "from": 423.7,
+      "to": 425.1,
+      "sid": 190,
+      "location": 2,
+      "content": "席恩挺好的",
+      "music": 0
+    },
+    {
+      "from": 425.1,
+      "to": 427.86,
+      "sid": 191,
+      "location": 2,
+      "content": "嘿嘿嘿嘿嘿哦对了忘说了",
+      "music": 0
+    },
+    {
+      "from": 427.86,
+      "to": 429.35,
+      "sid": 192,
+      "location": 2,
+      "content": "还有一个很坑的事情",
+      "music": 0
+    },
+    {
+      "from": 429.35,
+      "to": 431.01,
+      "sid": 193,
+      "location": 2,
+      "content": "那个酒店的早饭",
+      "music": 0
+    },
+    {
+      "from": 431.01,
+      "to": 434.51,
+      "sid": 194,
+      "location": 2,
+      "content": "只有在08:30到10:30的时候才骑过",
+      "music": 0
+    },
+    {
+      "from": 434.72,
+      "to": 439.08,
+      "sid": 195,
+      "location": 2,
+      "content": "所以我就定了一个09:30的闹钟起来",
+      "music": 0
+    },
+    {
+      "from": 439.08,
+      "to": 441.2,
+      "sid": 196,
+      "location": 2,
+      "content": "就我觉得不吃早饭又亏了吧",
+      "music": 0
+    },
+    {
+      "from": 441.2,
+      "to": 444.52,
+      "sid": 197,
+      "location": 2,
+      "content": "所以我就硬定了个闹钟起来把早饭吃了",
+      "music": 0
+    },
+    {
+      "from": 444.52,
+      "to": 446.72,
+      "sid": 198,
+      "location": 2,
+      "content": "吃完以后在床上迷迷糊糊的",
+      "music": 0
+    },
+    {
+      "from": 446.72,
+      "to": 448.56,
+      "sid": 199,
+      "location": 2,
+      "content": "然后把视频上船",
+      "music": 0
+    },
+    {
+      "from": 448.56,
+      "to": 450.36,
+      "sid": 200,
+      "location": 2,
+      "content": "晚安又睡着了",
+      "music": 0
+    },
+    {
+      "from": 450.36,
+      "to": 451.46,
+      "sid": 201,
+      "location": 2,
+      "content": "睡到12点起",
+      "music": 0
+    },
+    {
+      "from": 451.46,
+      "to": 455.48,
+      "sid": 202,
+      "location": 2,
+      "content": "我在南京迷试了好多天",
+      "music": 0
+    },
+    {
+      "from": 456.84,
+      "to": 459.12,
+      "sid": 203,
+      "location": 2,
+      "content": "现在这个状态是又冷又热",
+      "music": 0
+    },
+    {
+      "from": 459.12,
+      "to": 460.3,
+      "sid": 204,
+      "location": 2,
+      "content": "刚开始骑车",
+      "music": 0
+    },
+    {
+      "from": 460.3,
+      "to": 462.21,
+      "sid": 205,
+      "location": 2,
+      "content": "身子开始热身开了",
+      "music": 0
+    },
+    {
+      "from": 462.21,
+      "to": 464.25,
+      "sid": 206,
+      "location": 2,
+      "content": "但是整体的气温又比较低",
+      "music": 0
+    },
+    {
+      "from": 464.25,
+      "to": 464.77,
+      "sid": 207,
+      "location": 2,
+      "content": "哎我跟你们讲",
+      "music": 0
+    },
+    {
+      "from": 464.77,
+      "to": 466.73,
+      "sid": 208,
+      "location": 2,
+      "content": "今天南京直接掉到15度了",
+      "music": 0
+    },
+    {
+      "from": 466.73,
+      "to": 468.2,
+      "sid": 209,
+      "location": 2,
+      "content": "太夸张了",
+      "music": 0
+    },
+    {
+      "from": 468.36,
+      "to": 469.72,
+      "sid": 210,
+      "location": 2,
+      "content": "前天还30度",
+      "music": 0
+    },
+    {
+      "from": 469.72,
+      "to": 470.76,
+      "sid": 211,
+      "location": 2,
+      "content": "这一天15度",
+      "music": 0
+    },
+    {
+      "from": 471.88,
+      "to": 473.97,
+      "sid": 212,
+      "location": 2,
+      "content": "这什么鬼天气啊",
+      "music": 0
+    },
+    {
+      "from": 474.25,
+      "to": 476.77,
+      "sid": 213,
+      "location": 2,
+      "content": "老板酒店的水抽出来了啊",
+      "music": 0
+    },
+    {
+      "from": 476.77,
+      "to": 477.37,
+      "sid": 214,
+      "location": 2,
+      "content": "这也不要偷",
+      "music": 0
+    },
+    {
+      "from": 477.37,
+      "to": 479.21,
+      "sid": 215,
+      "location": 2,
+      "content": "这本来就在哪",
+      "music": 0
+    },
+    {
+      "from": 487.34,
+      "to": 488.52,
+      "sid": 216,
+      "location": 2,
+      "content": "飞机也没飞",
+      "music": 0
+    },
+    {
+      "from": 488.52,
+      "to": 489.7,
+      "sid": 217,
+      "location": 2,
+      "content": "我本来跟他说好",
+      "music": 0
+    },
+    {
+      "from": 489.7,
+      "to": 492,
+      "sid": 218,
+      "location": 2,
+      "content": "那个我12点退房的时候飞一下的",
+      "music": 0
+    },
+    {
+      "from": 492,
+      "to": 493.26,
+      "sid": 219,
+      "location": 2,
+      "content": "但是当时在下雨",
+      "music": 0
+    },
+    {
+      "from": 493.26,
+      "to": 496.13,
+      "sid": 220,
+      "location": 2,
+      "content": "我觉得我这个水平还是别飞了",
+      "music": 0
+    },
+    {
+      "from": 496.13,
+      "to": 497.25,
+      "sid": 221,
+      "location": 2,
+      "content": "我现在才知道",
+      "music": 0
+    },
+    {
+      "from": 497.25,
+      "to": 499.85,
+      "sid": 222,
+      "location": 2,
+      "content": "原来江浙沪这一块有很多地方",
+      "music": 0
+    },
+    {
+      "from": 499.85,
+      "to": 502.67,
+      "sid": 223,
+      "location": 2,
+      "content": "就是以前三国演义的时候东吴的地方",
+      "music": 0
+    },
+    {
+      "from": 502.67,
+      "to": 504.52,
+      "sid": 224,
+      "location": 2,
+      "content": "这是我最近才知道的",
+      "music": 0
+    },
+    {
+      "from": 504.52,
+      "to": 506.8,
+      "sid": 225,
+      "location": 2,
+      "content": "以前虽然我看过三国演义",
+      "music": 0
+    },
+    {
+      "from": 506.8,
+      "to": 509.32,
+      "sid": 226,
+      "location": 2,
+      "content": "但是他在我心目当中",
+      "music": 0
+    },
+    {
+      "from": 509.32,
+      "to": 511.82,
+      "sid": 227,
+      "location": 2,
+      "content": "一直都是一个比较抽象的概念",
+      "music": 0
+    },
+    {
+      "from": 511.82,
+      "to": 514.74,
+      "sid": 228,
+      "location": 2,
+      "content": "那个啊前天去了玄武湖以后",
+      "music": 0
+    },
+    {
+      "from": 514.74,
+      "to": 515.58,
+      "sid": 229,
+      "location": 2,
+      "content": "我才意识到哦",
+      "music": 0
+    },
+    {
+      "from": 515.58,
+      "to": 518.72,
+      "sid": 230,
+      "location": 2,
+      "content": "原来这里就是当年周瑜操练水兵的地方哦",
+      "music": 0
+    },
+    {
+      "from": 518.72,
+      "to": 520.32,
+      "sid": 231,
+      "location": 2,
+      "content": "原来这里就是当年的东吴",
+      "music": 0
+    },
+    {
+      "from": 520.32,
+      "to": 523.42,
+      "sid": 232,
+      "location": 2,
+      "content": "我现在对于那个阵营划分有了新的想法",
+      "music": 0
+    },
+    {
+      "from": 523.42,
+      "to": 526.45,
+      "sid": 233,
+      "location": 2,
+      "content": "以前我是一个蜀国党",
+      "music": 0
+    },
+    {
+      "from": 526.45,
+      "to": 531.099,
+      "sid": 234,
+      "location": 2,
+      "content": "因为那个很多游戏不都是蜀国是主角吗",
+      "music": 0
+    },
+    {
+      "from": 531.099,
+      "to": 533.68,
+      "sid": 235,
+      "location": 2,
+      "content": "现在我变成了吴国党啊",
+      "music": 0
+    },
+    {
+      "from": 534,
+      "to": 535.84,
+      "sid": 236,
+      "location": 2,
+      "content": "我的阵营切换了",
+      "music": 0
+    },
+    {
+      "from": 535.84,
+      "to": 538.18,
+      "sid": 237,
+      "location": 2,
+      "content": "我以后玩那个三国无双",
+      "music": 0
+    },
+    {
+      "from": 538.18,
+      "to": 539.28,
+      "sid": 238,
+      "location": 2,
+      "content": "我只用大乔",
+      "music": 0
+    },
+    {
+      "from": 539.28,
+      "to": 539.78,
+      "sid": 239,
+      "location": 2,
+      "content": "小乔",
+      "music": 0
+    },
+    {
+      "from": 539.78,
+      "to": 541.12,
+      "sid": 240,
+      "location": 2,
+      "content": "还有孙尚香哦",
+      "music": 0
+    },
+    {
+      "from": 541.12,
+      "to": 542.2,
+      "sid": 241,
+      "location": 2,
+      "content": "要上长江大桥了",
+      "music": 0
+    },
+    {
+      "from": 542.2,
+      "to": 542.95,
+      "sid": 242,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 542.95,
+      "to": 546.23,
+      "sid": 243,
+      "location": 2,
+      "content": "今天这是因为骑行体验特别差",
+      "music": 0
+    },
+    {
+      "from": 546.23,
+      "to": 549.99,
+      "sid": 244,
+      "location": 2,
+      "content": "我要一直非常认真的去注意前方的路况",
+      "music": 0
+    },
+    {
+      "from": 549.99,
+      "to": 552.37,
+      "sid": 245,
+      "location": 2,
+      "content": "所以我可能会话特别少",
+      "music": 0
+    },
+    {
+      "from": 552.37,
+      "to": 558.1,
+      "sid": 246,
+      "location": 2,
+      "content": "我今天会比较多的使用一些使用一些风景机位",
+      "music": 0
+    },
+    {
+      "from": 558.1,
+      "to": 560,
+      "sid": 247,
+      "location": 2,
+      "content": "大家就当看看风景吧",
+      "music": 0
+    },
+    {
+      "from": 561.36,
+      "to": 563.49,
+      "sid": 248,
+      "location": 2,
+      "content": "哎我到底该怎么走啊",
+      "music": 0
+    },
+    {
+      "from": 563.69,
+      "to": 566.09,
+      "sid": 249,
+      "location": 2,
+      "content": "那怎么才能上这个长江大桥呢",
+      "music": 0
+    },
+    {
+      "from": 566.09,
+      "to": 568.29,
+      "sid": 250,
+      "location": 2,
+      "content": "哦哦哦我知道了哦",
+      "music": 0
+    },
+    {
+      "from": 568.29,
+      "to": 569.27,
+      "sid": 251,
+      "location": 2,
+      "content": "我走错了",
+      "music": 0
+    },
+    {
+      "from": 569.27,
+      "to": 571.36,
+      "sid": 252,
+      "location": 2,
+      "content": "那里有一个标",
+      "music": 0
+    },
+    {
+      "from": 571.36,
+      "to": 573.04,
+      "sid": 253,
+      "location": 2,
+      "content": "唉完了右边有个水塘",
+      "music": 0
+    },
+    {
+      "from": 573.04,
+      "to": 575.38,
+      "sid": 254,
+      "location": 2,
+      "content": "这个水塘过一辆车就溅我一次",
+      "music": 0
+    },
+    {
+      "from": 575.38,
+      "to": 576.96,
+      "sid": 255,
+      "location": 2,
+      "content": "我现在的脚已经是这样的了",
+      "music": 0
+    },
+    {
+      "from": 576.96,
+      "to": 579.49,
+      "sid": 256,
+      "location": 2,
+      "content": "我应该等于看上去穿的长裤",
+      "music": 0
+    },
+    {
+      "from": 579.49,
+      "to": 581.01,
+      "sid": 257,
+      "location": 2,
+      "content": "其实等于穿着短裤",
+      "music": 0
+    },
+    {
+      "from": 581.01,
+      "to": 582.99,
+      "sid": 258,
+      "location": 2,
+      "content": "甚至比穿着短裤还难受",
+      "music": 0
+    },
+    {
+      "from": 582.99,
+      "to": 584.95,
+      "sid": 259,
+      "location": 2,
+      "content": "刚出完裤子就湿光了",
+      "music": 0
+    },
+    {
+      "from": 584.95,
+      "to": 586.19,
+      "sid": 260,
+      "location": 2,
+      "content": "我笑死",
+      "music": 0
+    },
+    {
+      "from": 586.19,
+      "to": 587.67,
+      "sid": 261,
+      "location": 2,
+      "content": "真是出师未捷",
+      "music": 0
+    },
+    {
+      "from": 587.67,
+      "to": 588.63,
+      "sid": 262,
+      "location": 2,
+      "content": "身先师",
+      "music": 0
+    },
+    {
+      "from": 588.63,
+      "to": 591.55,
+      "sid": 263,
+      "location": 2,
+      "content": "常使英雄泪满襟啊",
+      "music": 0
+    },
+    {
+      "from": 593,
+      "to": 595.68,
+      "sid": 264,
+      "location": 2,
+      "content": "但是我真不建议再走一次长江大桥",
+      "music": 0
+    },
+    {
+      "from": 595.68,
+      "to": 597.75,
+      "sid": 265,
+      "location": 2,
+      "content": "这个桥实在是太爽了",
+      "music": 0
+    },
+    {
+      "from": 597.75,
+      "to": 600.85,
+      "sid": 266,
+      "location": 2,
+      "content": "今天给你们来个一镜到底走长江大桥好吧",
+      "music": 0
+    },
+    {
+      "from": 600.85,
+      "to": 603.97,
+      "sid": 267,
+      "location": 2,
+      "content": "昨天拍的比较断断续续的",
+      "music": 0
+    },
+    {
+      "from": 603.97,
+      "to": 605.89,
+      "sid": 268,
+      "location": 2,
+      "content": "就他能造这么牛批",
+      "music": 0
+    },
+    {
+      "from": 605.89,
+      "to": 608.65,
+      "sid": 269,
+      "location": 2,
+      "content": "我已经不在乎他在非机动车道窄不窄",
+      "music": 0
+    },
+    {
+      "from": 608.65,
+      "to": 610.17,
+      "sid": 270,
+      "location": 2,
+      "content": "能造非机动车道",
+      "music": 0
+    },
+    {
+      "from": 610.17,
+      "to": 612.57,
+      "sid": 271,
+      "location": 2,
+      "content": "就我觉得很牛批了不是吗",
+      "music": 0
+    },
+    {
+      "from": 645.86,
+      "to": 648.14,
+      "sid": 272,
+      "location": 2,
+      "content": "豆包豆包给大家科普一下",
+      "music": 0
+    },
+    {
+      "from": 648.14,
+      "to": 649.9,
+      "sid": 273,
+      "location": 2,
+      "content": "长江大桥",
+      "music": 0
+    },
+    {
+      "from": 664.64,
+      "to": 667.44,
+      "sid": 274,
+      "location": 2,
+      "content": "他为什么不念出来",
+      "music": 0
+    },
+    {
+      "from": 668.09,
+      "to": 669.01,
+      "sid": 275,
+      "location": 2,
+      "content": "哦我要跟他",
+      "music": 0
+    },
+    {
+      "from": 670.01,
+      "to": 671.67,
+      "sid": 276,
+      "location": 2,
+      "content": "我要跟他对话才行",
+      "music": 0
+    },
+    {
+      "from": 671.67,
+      "to": 673.85,
+      "sid": 277,
+      "location": 2,
+      "content": "豆包豆包给大家科普一下",
+      "music": 0
+    },
+    {
+      "from": 673.85,
+      "to": 675.41,
+      "sid": 278,
+      "location": 2,
+      "content": "长江大桥",
+      "music": 0
+    },
+    {
+      "from": 681.88,
+      "to": 684.16,
+      "sid": 279,
+      "location": 2,
+      "content": "南京的长江大桥",
+      "music": 0
+    },
+    {
+      "from": 706.66,
+      "to": 708.66,
+      "sid": 280,
+      "location": 2,
+      "content": "你买的",
+      "music": 0
+    },
+    {
+      "from": 713.98,
+      "to": 717.98,
+      "sid": 281,
+      "location": 2,
+      "content": "哥们儿哥们一个字都没听见",
+      "music": 0
+    },
+    {
+      "from": 719.58,
+      "to": 722.34,
+      "sid": 282,
+      "location": 2,
+      "content": "街上的车型太丑了",
+      "music": 0
+    },
+    {
+      "from": 723.08,
+      "to": 724.48,
+      "sid": 283,
+      "location": 2,
+      "content": "我估计你们能听见",
+      "music": 0
+    },
+    {
+      "from": 724.48,
+      "to": 725.44,
+      "sid": 284,
+      "location": 2,
+      "content": "但是我不听见",
+      "music": 0
+    },
+    {
+      "from": 725.44,
+      "to": 726.44,
+      "sid": 285,
+      "location": 2,
+      "content": "我也不想跟你们说",
+      "music": 0
+    },
+    {
+      "from": 726.44,
+      "to": 727.88,
+      "sid": 286,
+      "location": 2,
+      "content": "我自己查",
+      "music": 0
+    },
+    {
+      "from": 757.82,
+      "to": 761.06,
+      "sid": 287,
+      "location": 2,
+      "content": "其实我觉得他们这边已经做了那种处理了",
+      "music": 0
+    },
+    {
+      "from": 761.06,
+      "to": 762.77,
+      "sid": 288,
+      "location": 2,
+      "content": "你们发现没",
+      "music": 0
+    },
+    {
+      "from": 763.13,
+      "to": 767.4,
+      "sid": 289,
+      "location": 2,
+      "content": "他这种砖其实已经算是比较繁华的",
+      "music": 0
+    },
+    {
+      "from": 784.88,
+      "to": 786.84,
+      "sid": 290,
+      "location": 2,
+      "content": "哎好累啊",
+      "music": 0
+    },
+    {
+      "from": 809.16,
+      "to": 814.08,
+      "sid": 291,
+      "location": 2,
+      "content": "不戴不戴头盔罚120个头",
+      "music": 0
+    },
+    {
+      "from": 842.02,
+      "to": 845.06,
+      "sid": 292,
+      "location": 2,
+      "content": "不戴头盔啥物质",
+      "music": 0
+    },
+    {
+      "from": 851.4,
+      "to": 853.56,
+      "sid": 293,
+      "location": 2,
+      "content": "哇还有人走的吧",
+      "music": 0
+    },
+    {
+      "from": 854.11,
+      "to": 855.97,
+      "sid": 294,
+      "location": 2,
+      "content": "卧槽牛批啊",
+      "music": 0
+    },
+    {
+      "from": 855.97,
+      "to": 858.83,
+      "sid": 295,
+      "location": 2,
+      "content": "拖着行李箱走长江大桥",
+      "music": 0
+    },
+    {
+      "from": 870.24,
+      "to": 871.08,
+      "sid": 296,
+      "location": 2,
+      "content": "真的很长",
+      "music": 0
+    },
+    {
+      "from": 872.4,
+      "to": 875.72,
+      "sid": 297,
+      "location": 2,
+      "content": "走的话我觉得少说也得走个一个小时吧",
+      "music": 0
+    },
+    {
+      "from": 916.58,
+      "to": 917.78,
+      "sid": 298,
+      "location": 2,
+      "content": "哎呀",
+      "music": 0
+    },
+    {
+      "from": 919.82,
+      "to": 923.369,
+      "sid": 299,
+      "location": 2,
+      "content": "呜谁懂啊",
+      "music": 0
+    },
+    {
+      "from": 923.369,
+      "to": 925.449,
+      "sid": 300,
+      "location": 2,
+      "content": "这一刻的救赎感",
+      "music": 0
+    },
+    {
+      "from": 939.08,
+      "to": 941.82,
+      "sid": 301,
+      "location": 2,
+      "content": "五十五十八天",
+      "music": 0
+    },
+    {
+      "from": 941.82,
+      "to": 943.84,
+      "sid": 302,
+      "location": 2,
+      "content": "长江大桥",
+      "music": 0
+    },
+    {
+      "from": 967.48,
+      "to": 970.56,
+      "sid": 303,
+      "location": 2,
+      "content": "呀58天居然没有接一个五八同城的广告",
+      "music": 0
+    },
+    {
+      "from": 970.56,
+      "to": 972.36,
+      "sid": 304,
+      "location": 2,
+      "content": "真的是亏了",
+      "music": 0
+    },
+    {
+      "from": 974.76,
+      "to": 977.32,
+      "sid": 305,
+      "location": 2,
+      "content": "现在五八同志还投广告吗",
+      "music": 0
+    },
+    {
+      "from": 1024.08,
+      "to": 1027.88,
+      "sid": 306,
+      "location": 2,
+      "content": "我觉得这一期摩托车啊",
+      "music": 0
+    },
+    {
+      "from": 1031.1,
+      "to": 1034.119,
+      "sid": 307,
+      "location": 2,
+      "content": "摩托车应该是机动车吧",
+      "music": 0
+    },
+    {
+      "from": 1044.08,
+      "to": 1046.08,
+      "sid": 308,
+      "location": 2,
+      "content": "好准备下一条",
+      "music": 0
+    },
+    {
+      "from": 1059.76,
+      "to": 1062,
+      "sid": 309,
+      "location": 2,
+      "content": "真就这么着急",
+      "music": 0
+    },
+    {
+      "from": 1064.9,
+      "to": 1067.56,
+      "sid": 310,
+      "location": 2,
+      "content": "我觉得下雨天还是可以适当慢一点的",
+      "music": 0
+    },
+    {
+      "from": 1067.56,
+      "to": 1069.46,
+      "sid": 311,
+      "location": 2,
+      "content": "别那么别那么急",
+      "music": 0
+    },
+    {
+      "from": 1069.46,
+      "to": 1070.98,
+      "sid": 312,
+      "location": 2,
+      "content": "很危险的",
+      "music": 0
+    },
+    {
+      "from": 1075.82,
+      "to": 1077.26,
+      "sid": 313,
+      "location": 2,
+      "content": "共50",
+      "music": 0
+    },
+    {
+      "from": 1138.74,
+      "to": 1141.1,
+      "sid": 314,
+      "location": 2,
+      "content": "好下桥啦",
+      "music": 0
+    },
+    {
+      "from": 1151.1,
+      "to": 1152.1,
+      "sid": 315,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 1152.1,
+      "to": 1155.62,
+      "sid": 316,
+      "location": 2,
+      "content": "南京长江大桥二周目功课",
+      "music": 0
+    },
+    {
+      "from": 1156.38,
+      "to": 1158.06,
+      "sid": 317,
+      "location": 2,
+      "content": "二周目比一周目要难",
+      "music": 0
+    },
+    {
+      "from": 1158.06,
+      "to": 1160.58,
+      "sid": 318,
+      "location": 2,
+      "content": "因为二周目是一个雨天副本",
+      "music": 0
+    },
+    {
+      "from": 1161.369,
+      "to": 1164.809,
+      "sid": 319,
+      "location": 2,
+      "content": "但是感觉已经今天已经骑了很远了",
+      "music": 0
+    },
+    {
+      "from": 1164.809,
+      "to": 1167.769,
+      "sid": 320,
+      "location": 2,
+      "content": "其实我们还有整整72km的",
+      "music": 0
+    },
+    {
+      "from": 1169.76,
+      "to": 1171.6,
+      "sid": 321,
+      "location": 2,
+      "content": "游戏才刚刚开始呢",
+      "music": 0
+    },
+    {
+      "from": 1172.68,
+      "to": 1176.76,
+      "sid": 322,
+      "location": 2,
+      "content": "卧槽在南京感觉诸事不顺啊",
+      "music": 0
+    },
+    {
+      "from": 1177.36,
+      "to": 1179.77,
+      "sid": 323,
+      "location": 2,
+      "content": "我的电便失灵了",
+      "music": 0
+    },
+    {
+      "from": 1180.25,
+      "to": 1181.85,
+      "sid": 324,
+      "location": 2,
+      "content": "就他不变速了",
+      "music": 0
+    },
+    {
+      "from": 1181.85,
+      "to": 1183.89,
+      "sid": 325,
+      "location": 2,
+      "content": "哎呀问题不是很大",
+      "music": 0
+    },
+    {
+      "from": 1183.89,
+      "to": 1186.49,
+      "sid": 326,
+      "location": 2,
+      "content": "但现在主要是我的档位太高了",
+      "music": 0
+    },
+    {
+      "from": 1186.65,
+      "to": 1187.99,
+      "sid": 327,
+      "location": 2,
+      "content": "所以我骑的很累",
+      "music": 0
+    },
+    {
+      "from": 1187.99,
+      "to": 1190.05,
+      "sid": 328,
+      "location": 2,
+      "content": "我跳不下来挡了",
+      "music": 0
+    },
+    {
+      "from": 1190.05,
+      "to": 1193.2,
+      "sid": 329,
+      "location": 2,
+      "content": "哈哈哈哎呀骑不动了",
+      "music": 0
+    },
+    {
+      "from": 1193.2,
+      "to": 1196.62,
+      "sid": 330,
+      "location": 2,
+      "content": "这样就因为我刚刚下坡的时候加了点档嘛",
+      "music": 0
+    },
+    {
+      "from": 1196.62,
+      "to": 1198.3,
+      "sid": 331,
+      "location": 2,
+      "content": "这样蹬起来会更加",
+      "music": 0
+    },
+    {
+      "from": 1198.3,
+      "to": 1204.67,
+      "sid": 332,
+      "location": 2,
+      "content": "然后那个到下完坡以后再那就不便当了",
+      "music": 0
+    },
+    {
+      "from": 1204.67,
+      "to": 1206.33,
+      "sid": 333,
+      "location": 2,
+      "content": "请直联系陈老板",
+      "music": 0
+    },
+    {
+      "from": 1206.33,
+      "to": 1208.58,
+      "sid": 334,
+      "location": 2,
+      "content": "就虽然我还能骑",
+      "music": 0
+    },
+    {
+      "from": 1208.86,
+      "to": 1211.74,
+      "sid": 335,
+      "location": 2,
+      "content": "但是这个事情还是要解决一下",
+      "music": 0
+    },
+    {
+      "from": 1211.74,
+      "to": 1212.94,
+      "sid": 336,
+      "location": 2,
+      "content": "还好我还在南京",
+      "music": 0
+    },
+    {
+      "from": 1212.94,
+      "to": 1214.64,
+      "sid": 337,
+      "location": 2,
+      "content": "他们南京店里",
+      "music": 0
+    },
+    {
+      "from": 1214.64,
+      "to": 1218.29,
+      "sid": 338,
+      "location": 2,
+      "content": "本来南京应该有店可以去忍一下",
+      "music": 0
+    },
+    {
+      "from": 1218.29,
+      "to": 1219.98,
+      "sid": 339,
+      "location": 2,
+      "content": "是有点烦啊",
+      "music": 0
+    },
+    {
+      "from": 1220.42,
+      "to": 1221.78,
+      "sid": 340,
+      "location": 2,
+      "content": "日华又被打乱了",
+      "music": 0
+    },
+    {
+      "from": 1223.14,
+      "to": 1229,
+      "sid": 341,
+      "location": 2,
+      "content": "哎啊我先找个地方停一下吧",
+      "music": 0
+    },
+    {
+      "from": 1229.32,
+      "to": 1232.4,
+      "sid": 342,
+      "location": 2,
+      "content": "找个能要不顺便吃点东西吧",
+      "music": 0
+    },
+    {
+      "from": 1232.4,
+      "to": 1233.99,
+      "sid": 343,
+      "location": 2,
+      "content": "我也挺饿的",
+      "music": 0
+    },
+    {
+      "from": 1234.15,
+      "to": 1236.79,
+      "sid": 344,
+      "location": 2,
+      "content": "早饭吃的不知道该吃些啥",
+      "music": 0
+    },
+    {
+      "from": 1236.79,
+      "to": 1238.4,
+      "sid": 345,
+      "location": 2,
+      "content": "吃的几点菜叶子",
+      "music": 0
+    },
+    {
+      "from": 1238.4,
+      "to": 1241.2,
+      "sid": 346,
+      "location": 2,
+      "content": "然后吃了一碗巨难吃的鸭血粉丝汤",
+      "music": 0
+    },
+    {
+      "from": 1241.2,
+      "to": 1242.92,
+      "sid": 347,
+      "location": 2,
+      "content": "对肉已经快爆发了",
+      "music": 0
+    },
+    {
+      "from": 1242.92,
+      "to": 1244.9,
+      "sid": 348,
+      "location": 2,
+      "content": "所以我现在已经饿了",
+      "music": 0
+    },
+    {
+      "from": 1245.14,
+      "to": 1251.06,
+      "sid": 349,
+      "location": 2,
+      "content": "唉但是我们离镇江还有整整70km呢",
+      "music": 0
+    },
+    {
+      "from": 1251.06,
+      "to": 1256.08,
+      "sid": 350,
+      "location": 2,
+      "content": "不知道一会儿那个去修车要不要走回头路啊",
+      "music": 0
+    },
+    {
+      "from": 1256.08,
+      "to": 1258.52,
+      "sid": 351,
+      "location": 2,
+      "content": "就在路边随便找个东西吃吧",
+      "music": 0
+    },
+    {
+      "from": 1258.52,
+      "to": 1262.54,
+      "sid": 352,
+      "location": 2,
+      "content": "哎嗯啊就在这里随便吃个",
+      "music": 0
+    },
+    {
+      "from": 1262.54,
+      "to": 1264.1,
+      "sid": 353,
+      "location": 2,
+      "content": "现在好像没东西吃啊",
+      "music": 0
+    },
+    {
+      "from": 1264.1,
+      "to": 1267.08,
+      "sid": 354,
+      "location": 2,
+      "content": "有啊蹬不动啊",
+      "music": 0
+    },
+    {
+      "from": 1267.08,
+      "to": 1267.94,
+      "sid": 355,
+      "location": 2,
+      "content": "卧槽哎",
+      "music": 0
+    },
+    {
+      "from": 1267.94,
+      "to": 1269.44,
+      "sid": 356,
+      "location": 2,
+      "content": "确确定换不了档",
+      "music": 0
+    },
+    {
+      "from": 1269.44,
+      "to": 1271.24,
+      "sid": 357,
+      "location": 2,
+      "content": "哎呀换挡这个功能咋说呢",
+      "music": 0
+    },
+    {
+      "from": 1271.24,
+      "to": 1272.8,
+      "sid": 358,
+      "location": 2,
+      "content": "就是就算它坏了",
+      "music": 0
+    },
+    {
+      "from": 1272.8,
+      "to": 1274.24,
+      "sid": 359,
+      "location": 2,
+      "content": "也不是那么影响我使用",
+      "music": 0
+    },
+    {
+      "from": 1274.24,
+      "to": 1276.61,
+      "sid": 360,
+      "location": 2,
+      "content": "但是现在问题是我档位太高了",
+      "music": 0
+    },
+    {
+      "from": 1276.61,
+      "to": 1277.33,
+      "sid": 361,
+      "location": 2,
+      "content": "我降不下来",
+      "music": 0
+    },
+    {
+      "from": 1278.65,
+      "to": 1279.53,
+      "sid": 362,
+      "location": 2,
+      "content": "唉这怎么走",
+      "music": 0
+    },
+    {
+      "from": 1279.53,
+      "to": 1282.49,
+      "sid": 363,
+      "location": 2,
+      "content": "原来是那个电变上的后锅",
+      "music": 0
+    },
+    {
+      "from": 1282.49,
+      "to": 1284.13,
+      "sid": 364,
+      "location": 2,
+      "content": "就是这里",
+      "music": 0
+    },
+    {
+      "from": 1286.32,
+      "to": 1287.76,
+      "sid": 365,
+      "location": 2,
+      "content": "就是他不是电变吗",
+      "music": 0
+    },
+    {
+      "from": 1287.76,
+      "to": 1290.68,
+      "sid": 366,
+      "location": 2,
+      "content": "然后这个地方这块电池没电了",
+      "music": 0
+    },
+    {
+      "from": 1290.68,
+      "to": 1294.44,
+      "sid": 367,
+      "location": 2,
+      "content": "但是他正常来说就是一个月左右充一次嘛",
+      "music": 0
+    },
+    {
+      "from": 1294.44,
+      "to": 1295.96,
+      "sid": 368,
+      "location": 2,
+      "content": "但是我的使用强度非常的高",
+      "music": 0
+    },
+    {
+      "from": 1295.96,
+      "to": 1297.9,
+      "sid": 369,
+      "location": 2,
+      "content": "所以没电了",
+      "music": 0
+    },
+    {
+      "from": 1297.9,
+      "to": 1299.36,
+      "sid": 370,
+      "location": 2,
+      "content": "但是他们当时没给我充电器",
+      "music": 0
+    },
+    {
+      "from": 1300.72,
+      "to": 1301.78,
+      "sid": 371,
+      "location": 2,
+      "content": "这可是有点乌龙",
+      "music": 0
+    },
+    {
+      "from": 1302.78,
+      "to": 1305.26,
+      "sid": 372,
+      "location": 2,
+      "content": "然后现在办法还好",
+      "music": 0
+    },
+    {
+      "from": 1305.26,
+      "to": 1306.14,
+      "sid": 373,
+      "location": 2,
+      "content": "就是我在南京",
+      "music": 0
+    },
+    {
+      "from": 1306.14,
+      "to": 1310.6,
+      "sid": 374,
+      "location": 2,
+      "content": "所以我随便找一个比较近的那个大的车店",
+      "music": 0
+    },
+    {
+      "from": 1310.6,
+      "to": 1311.92,
+      "sid": 375,
+      "location": 2,
+      "content": "都能整这玩意儿",
+      "music": 0
+    },
+    {
+      "from": 1311.92,
+      "to": 1314.86,
+      "sid": 376,
+      "location": 2,
+      "content": "这个问题咋说呢",
+      "music": 0
+    },
+    {
+      "from": 1316.1,
+      "to": 1318.46,
+      "sid": 377,
+      "location": 2,
+      "content": "现在发现是好事",
+      "music": 0
+    },
+    {
+      "from": 1320.24,
+      "to": 1321.84,
+      "sid": 378,
+      "location": 2,
+      "content": "要再走远一点",
+      "music": 0
+    },
+    {
+      "from": 1321.84,
+      "to": 1323.32,
+      "sid": 379,
+      "location": 2,
+      "content": "没车电就尴尬了啊",
+      "music": 0
+    },
+    {
+      "from": 1323.32,
+      "to": 1323.76,
+      "sid": 380,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 1324.88,
+      "to": 1328.88,
+      "sid": 381,
+      "location": 2,
+      "content": "谁想要混沌终极一直菜",
+      "music": 0
+    },
+    {
+      "from": 1330.46,
+      "to": 1331.74,
+      "sid": 382,
+      "location": 2,
+      "content": "但也不是不能吃哎",
+      "music": 0
+    },
+    {
+      "from": 1331.74,
+      "to": 1332.42,
+      "sid": 383,
+      "location": 2,
+      "content": "我吃吉祥混沌",
+      "music": 0
+    },
+    {
+      "from": 1332.42,
+      "to": 1334.58,
+      "sid": 384,
+      "location": 2,
+      "content": "我还是没有吃这个麦当劳的",
+      "music": 0
+    },
+    {
+      "from": 1338.08,
+      "to": 1339.74,
+      "sid": 385,
+      "location": 2,
+      "content": "先看附近有没有",
+      "music": 0
+    },
+    {
+      "from": 1339.74,
+      "to": 1341.6,
+      "sid": 386,
+      "location": 2,
+      "content": "先让他发我车电吧",
+      "music": 0
+    },
+    {
+      "from": 1341.6,
+      "to": 1342.46,
+      "sid": 387,
+      "location": 2,
+      "content": "我先去车店",
+      "music": 0
+    },
+    {
+      "from": 1342.46,
+      "to": 1344.7,
+      "sid": 388,
+      "location": 2,
+      "content": "然后充电的时候再去吃比较好",
+      "music": 0
+    },
+    {
+      "from": 1344.7,
+      "to": 1348.37,
+      "sid": 389,
+      "location": 2,
+      "content": "兄弟们亏电发我的6.5km",
+      "music": 0
+    },
+    {
+      "from": 1348.37,
+      "to": 1350.97,
+      "sid": 390,
+      "location": 2,
+      "content": "哎呀原来电变要充电呢",
+      "music": 0
+    },
+    {
+      "from": 1350.97,
+      "to": 1354.01,
+      "sid": 391,
+      "location": 2,
+      "content": "我就想来这电子产品怎么可能不用充电呢",
+      "music": 0
+    },
+    {
+      "from": 1354.01,
+      "to": 1355.33,
+      "sid": 392,
+      "location": 2,
+      "content": "我就一直在变速的时候",
+      "music": 0
+    },
+    {
+      "from": 1355.33,
+      "to": 1356.679,
+      "sid": 393,
+      "location": 2,
+      "content": "脑子里想着这个问题",
+      "music": 0
+    },
+    {
+      "from": 1356.679,
+      "to": 1359.239,
+      "sid": 394,
+      "location": 2,
+      "content": "结果今天终于给我答案了啊",
+      "music": 0
+    },
+    {
+      "from": 1359.239,
+      "to": 1360.479,
+      "sid": 395,
+      "location": 2,
+      "content": "顺便给大家科普一下啊",
+      "music": 0
+    },
+    {
+      "from": 1360.479,
+      "to": 1364.57,
+      "sid": 396,
+      "location": 2,
+      "content": "就是那个自行车不是有变速的功能吗",
+      "music": 0
+    },
+    {
+      "from": 1364.57,
+      "to": 1366.37,
+      "sid": 397,
+      "location": 2,
+      "content": "现在大部分自行车都有",
+      "music": 0
+    },
+    {
+      "from": 1366.37,
+      "to": 1367.97,
+      "sid": 398,
+      "location": 2,
+      "content": "就算便宜的也有变速的",
+      "music": 0
+    },
+    {
+      "from": 1367.97,
+      "to": 1373.08,
+      "sid": 399,
+      "location": 2,
+      "content": "意思就是指的是你你那个呃我用人话讲吧",
+      "music": 0
+    },
+    {
+      "from": 1373.08,
+      "to": 1374.32,
+      "sid": 400,
+      "location": 2,
+      "content": "什么飞轮小飞轮",
+      "music": 0
+    },
+    {
+      "from": 1374.32,
+      "to": 1375.74,
+      "sid": 401,
+      "location": 2,
+      "content": "这是正常人听不懂",
+      "music": 0
+    },
+    {
+      "from": 1375.74,
+      "to": 1377.12,
+      "sid": 402,
+      "location": 2,
+      "content": "用人话讲的话",
+      "music": 0
+    },
+    {
+      "from": 1377.12,
+      "to": 1378.82,
+      "sid": 403,
+      "location": 2,
+      "content": "就是在两种情况",
+      "music": 0
+    },
+    {
+      "from": 1378.82,
+      "to": 1380.54,
+      "sid": 404,
+      "location": 2,
+      "content": "一种是你蹬起来更费力",
+      "music": 0
+    },
+    {
+      "from": 1380.54,
+      "to": 1381.74,
+      "sid": 405,
+      "location": 2,
+      "content": "但是他骑的更快",
+      "music": 0
+    },
+    {
+      "from": 1381.74,
+      "to": 1383.42,
+      "sid": 406,
+      "location": 2,
+      "content": "第二种是你蹬起来更省力",
+      "music": 0
+    },
+    {
+      "from": 1383.42,
+      "to": 1385.18,
+      "sid": 407,
+      "location": 2,
+      "content": "但是你要做很多圈的功",
+      "music": 0
+    },
+    {
+      "from": 1385.18,
+      "to": 1386.6,
+      "sid": 408,
+      "location": 2,
+      "content": "才能让你的车轮滚进去",
+      "music": 0
+    },
+    {
+      "from": 1386.6,
+      "to": 1387.56,
+      "sid": 409,
+      "location": 2,
+      "content": "就你上坡的时候",
+      "music": 0
+    },
+    {
+      "from": 1387.56,
+      "to": 1389.98,
+      "sid": 410,
+      "location": 2,
+      "content": "一般会选择使用那个低档位嘛",
+      "music": 0
+    },
+    {
+      "from": 1389.98,
+      "to": 1392.1,
+      "sid": 411,
+      "location": 2,
+      "content": "这样的话你可以省点力",
+      "music": 0
+    },
+    {
+      "from": 1392.1,
+      "to": 1393.3,
+      "sid": 412,
+      "location": 2,
+      "content": "虽然他骑的很慢",
+      "music": 0
+    },
+    {
+      "from": 1393.3,
+      "to": 1395.38,
+      "sid": 413,
+      "location": 2,
+      "content": "但是你就不用蹬的那么累",
+      "music": 0
+    },
+    {
+      "from": 1395.38,
+      "to": 1397.9,
+      "sid": 414,
+      "location": 2,
+      "content": "如果你上坡的时候使用高档位的话",
+      "music": 0
+    },
+    {
+      "from": 1397.9,
+      "to": 1399.1,
+      "sid": 415,
+      "location": 2,
+      "content": "你蹬都蹬不动",
+      "music": 0
+    },
+    {
+      "from": 1399.1,
+      "to": 1400.22,
+      "sid": 416,
+      "location": 2,
+      "content": "差不多就这个意思啊",
+      "music": 0
+    },
+    {
+      "from": 1400.22,
+      "to": 1402.51,
+      "sid": 417,
+      "location": 2,
+      "content": "我解释的应该挺清楚的",
+      "music": 0
+    },
+    {
+      "from": 1402.63,
+      "to": 1404.83,
+      "sid": 418,
+      "location": 2,
+      "content": "那你下坡的时候一般要拉高档位吧",
+      "music": 0
+    },
+    {
+      "from": 1404.83,
+      "to": 1406.75,
+      "sid": 419,
+      "location": 2,
+      "content": "或者说你要超车的时候",
+      "music": 0
+    },
+    {
+      "from": 1406.75,
+      "to": 1409.929,
+      "sid": 420,
+      "location": 2,
+      "content": "然后这辆车比较好的车嘛",
+      "music": 0
+    },
+    {
+      "from": 1409.929,
+      "to": 1411.409,
+      "sid": 421,
+      "location": 2,
+      "content": "他用的是电子变速",
+      "music": 0
+    },
+    {
+      "from": 1411.409,
+      "to": 1414.009,
+      "sid": 422,
+      "location": 2,
+      "content": "还有一种是手动变速",
+      "music": 0
+    },
+    {
+      "from": 1414.34,
+      "to": 1416.3,
+      "sid": 423,
+      "location": 2,
+      "content": "反正他们的目的都是为了变速",
+      "music": 0
+    },
+    {
+      "from": 1416.3,
+      "to": 1419.14,
+      "sid": 424,
+      "location": 2,
+      "content": "但是电子变速呢就比较高级一点",
+      "music": 0
+    },
+    {
+      "from": 1419.14,
+      "to": 1421.14,
+      "sid": 425,
+      "location": 2,
+      "content": "也比较贵一点啊",
+      "music": 0
+    },
+    {
+      "from": 1421.14,
+      "to": 1423.18,
+      "sid": 426,
+      "location": 2,
+      "content": "哎呀刚刚给我那家店已经关了",
+      "music": 0
+    },
+    {
+      "from": 1423.18,
+      "to": 1424.15,
+      "sid": 427,
+      "location": 2,
+      "content": "笑死哼",
+      "music": 0
+    },
+    {
+      "from": 1424.225,
+      "to": 1426.07,
+      "sid": 428,
+      "location": 2,
+      "content": "玄武蝴蝶已经关了",
+      "music": 0
+    },
+    {
+      "from": 1426.07,
+      "to": 1428.86,
+      "sid": 429,
+      "location": 2,
+      "content": "哈哈哈哈哎呀",
+      "music": 0
+    },
+    {
+      "from": 1428.86,
+      "to": 1432.02,
+      "sid": 430,
+      "location": 2,
+      "content": "那还得重新找一家11km",
+      "music": 0
+    },
+    {
+      "from": 1432.02,
+      "to": 1433.98,
+      "sid": 431,
+      "location": 2,
+      "content": "我问他有没有顺路的",
+      "music": 0
+    },
+    {
+      "from": 1433.98,
+      "to": 1440.24,
+      "sid": 432,
+      "location": 2,
+      "content": "有没有朝不用右边走的",
+      "music": 0
+    },
+    {
+      "from": 1440.48,
+      "to": 1442.2,
+      "sid": 433,
+      "location": 2,
+      "content": "我去镇江",
+      "music": 0
+    },
+    {
+      "from": 1443.28,
+      "to": 1446.1,
+      "sid": 434,
+      "location": 2,
+      "content": "反正我还是先吃饭吧",
+      "music": 0
+    },
+    {
+      "from": 1447.62,
+      "to": 1448.58,
+      "sid": 435,
+      "location": 2,
+      "content": "事已至此",
+      "music": 0
+    },
+    {
+      "from": 1448.58,
+      "to": 1449.46,
+      "sid": 436,
+      "location": 2,
+      "content": "先吃饭吧",
+      "music": 0
+    },
+    {
+      "from": 1449.46,
+      "to": 1450.8,
+      "sid": 437,
+      "location": 2,
+      "content": "小事这个也不是坏",
+      "music": 0
+    },
+    {
+      "from": 1450.8,
+      "to": 1453.37,
+      "sid": 438,
+      "location": 2,
+      "content": "这个就是单纯的疏忽了",
+      "music": 0
+    },
+    {
+      "from": 1453.37,
+      "to": 1456.75,
+      "sid": 439,
+      "location": 2,
+      "content": "就是老板以为他们底下的人把充电器给我了",
+      "music": 0
+    },
+    {
+      "from": 1456.75,
+      "to": 1459.87,
+      "sid": 440,
+      "location": 2,
+      "content": "但是底下的人以为老板把充电器给我了",
+      "music": 0
+    },
+    {
+      "from": 1459.87,
+      "to": 1462.249,
+      "sid": 441,
+      "location": 2,
+      "content": "于是我就没拿到充电器",
+      "music": 0
+    },
+    {
+      "from": 1462.249,
+      "to": 1465.69,
+      "sid": 442,
+      "location": 2,
+      "content": "他说镇江有个车店呃",
+      "music": 0
+    },
+    {
+      "from": 1465.69,
+      "to": 1467.65,
+      "sid": 443,
+      "location": 2,
+      "content": "我想想我顶得到镇江吗",
+      "music": 0
+    },
+    {
+      "from": 1468.65,
+      "to": 1470.63,
+      "sid": 444,
+      "location": 2,
+      "content": "我我再骑两下",
+      "music": 0
+    },
+    {
+      "from": 1470.75,
+      "to": 1472.93,
+      "sid": 445,
+      "location": 2,
+      "content": "其实也不是不可以呃",
+      "music": 0
+    },
+    {
+      "from": 1472.93,
+      "to": 1474.03,
+      "sid": 446,
+      "location": 2,
+      "content": "我得我再骑两下",
+      "music": 0
+    },
+    {
+      "from": 1474.03,
+      "to": 1475.38,
+      "sid": 447,
+      "location": 2,
+      "content": "感受一下啊",
+      "music": 0
+    },
+    {
+      "from": 1475.38,
+      "to": 1477.94,
+      "sid": 448,
+      "location": 2,
+      "content": "哎但是如果顶到这章的问题",
+      "music": 0
+    },
+    {
+      "from": 1477.94,
+      "to": 1480.16,
+      "sid": 449,
+      "location": 2,
+      "content": "就是我现在必须得开那个啥了",
+      "music": 0
+    },
+    {
+      "from": 1480.16,
+      "to": 1482.51,
+      "sid": 450,
+      "location": 2,
+      "content": "我必须得开电助力了",
+      "music": 0
+    },
+    {
+      "from": 1482.51,
+      "to": 1485.27,
+      "sid": 451,
+      "location": 2,
+      "content": "不是其实我今天一天骑过来",
+      "music": 0
+    },
+    {
+      "from": 1485.27,
+      "to": 1489.29,
+      "sid": 452,
+      "location": 2,
+      "content": "除了那个上长江大桥的时候稍微开了一点店",
+      "music": 0
+    },
+    {
+      "from": 1489.29,
+      "to": 1490.67,
+      "sid": 453,
+      "location": 2,
+      "content": "其实我一直都没开店",
+      "music": 0
+    },
+    {
+      "from": 1490.67,
+      "to": 1492.13,
+      "sid": 454,
+      "location": 2,
+      "content": "因为我想锻炼身体嘛",
+      "music": 0
+    },
+    {
+      "from": 1492.13,
+      "to": 1494,
+      "sid": 455,
+      "location": 2,
+      "content": "然后再加上下雨天不用骑的很快",
+      "music": 0
+    },
+    {
+      "from": 1494,
+      "to": 1494.92,
+      "sid": 456,
+      "location": 2,
+      "content": "但是你们看一下",
+      "music": 0
+    },
+    {
+      "from": 1494.92,
+      "to": 1495.88,
+      "sid": 457,
+      "location": 2,
+      "content": "如果现在我不开店",
+      "music": 0
+    },
+    {
+      "from": 1495.88,
+      "to": 1497.34,
+      "sid": 458,
+      "location": 2,
+      "content": "我就只能骑到这个速度了",
+      "music": 0
+    },
+    {
+      "from": 1497.34,
+      "to": 1499.83,
+      "sid": 459,
+      "location": 2,
+      "content": "我给你们看看我的脚啊",
+      "music": 0
+    },
+    {
+      "from": 1500.15,
+      "to": 1502.36,
+      "sid": 460,
+      "location": 2,
+      "content": "这是我脚的蹬的踏平",
+      "music": 0
+    },
+    {
+      "from": 1502.36,
+      "to": 1504,
+      "sid": 461,
+      "location": 2,
+      "content": "就是我现在没法变档了",
+      "music": 0
+    },
+    {
+      "from": 1504,
+      "to": 1505.64,
+      "sid": 462,
+      "location": 2,
+      "content": "我的太平在这种情况下",
+      "music": 0
+    },
+    {
+      "from": 1505.64,
+      "to": 1507.16,
+      "sid": 463,
+      "location": 2,
+      "content": "然后你们看下速度有多快",
+      "music": 0
+    },
+    {
+      "from": 1507.16,
+      "to": 1508.22,
+      "sid": 464,
+      "location": 2,
+      "content": "我们看速度啊",
+      "music": 0
+    },
+    {
+      "from": 1508.22,
+      "to": 1510.11,
+      "sid": 465,
+      "location": 2,
+      "content": "就差不多是这个速度",
+      "music": 0
+    },
+    {
+      "from": 1510.11,
+      "to": 1511.67,
+      "sid": 466,
+      "location": 2,
+      "content": "那我这必须得开店",
+      "music": 0
+    },
+    {
+      "from": 1511.67,
+      "to": 1512.69,
+      "sid": 467,
+      "location": 2,
+      "content": "我看看啊",
+      "music": 0
+    },
+    {
+      "from": 1512.69,
+      "to": 1514.99,
+      "sid": 468,
+      "location": 2,
+      "content": "离我7km",
+      "music": 0
+    },
+    {
+      "from": 1520.26,
+      "to": 1525.05,
+      "sid": 469,
+      "location": 2,
+      "content": "哦那我就去潘叔的家10km啊",
+      "music": 0
+    },
+    {
+      "from": 1525.49,
+      "to": 1526.53,
+      "sid": 470,
+      "location": 2,
+      "content": "关键要走一点",
+      "music": 0
+    },
+    {
+      "from": 1526.53,
+      "to": 1527.41,
+      "sid": 471,
+      "location": 2,
+      "content": "回头路很烦",
+      "music": 0
+    },
+    {
+      "from": 1527.41,
+      "to": 1530.85,
+      "sid": 472,
+      "location": 2,
+      "content": "那今天我的直行距离又变长了",
+      "music": 0
+    },
+    {
+      "from": 1530.85,
+      "to": 1532.49,
+      "sid": 473,
+      "location": 2,
+      "content": "可能今天要干到100km了",
+      "music": 0
+    },
+    {
+      "from": 1532.49,
+      "to": 1533.57,
+      "sid": 474,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 1533.85,
+      "to": 1538.05,
+      "sid": 475,
+      "location": 2,
+      "content": "而且最关键的是可能会在晚上的时候到镇江",
+      "music": 0
+    },
+    {
+      "from": 1538.05,
+      "to": 1539.27,
+      "sid": 476,
+      "location": 2,
+      "content": "这个比较尴尬",
+      "music": 0
+    },
+    {
+      "from": 1539.27,
+      "to": 1542.48,
+      "sid": 477,
+      "location": 2,
+      "content": "但是到那边去顺手给车保养一下吧",
+      "music": 0
+    },
+    {
+      "from": 1542.48,
+      "to": 1545.7,
+      "sid": 478,
+      "location": 2,
+      "content": "把什么该拧的螺丝紧呵呵",
+      "music": 0
+    },
+    {
+      "from": 1545.7,
+      "to": 1546.9,
+      "sid": 479,
+      "location": 2,
+      "content": "天天这么颠",
+      "music": 0
+    },
+    {
+      "from": 1546.9,
+      "to": 1548.2,
+      "sid": 480,
+      "location": 2,
+      "content": "学习一些小技巧",
+      "music": 0
+    },
+    {
+      "from": 1548.2,
+      "to": 1550.78,
+      "sid": 481,
+      "location": 2,
+      "content": "反正我的小技巧都是出了问题以后",
+      "music": 0
+    },
+    {
+      "from": 1550.78,
+      "to": 1552.06,
+      "sid": 482,
+      "location": 2,
+      "content": "现学的不对劲",
+      "music": 0
+    },
+    {
+      "from": 1552.06,
+      "to": 1553.06,
+      "sid": 483,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 1553.06,
+      "to": 1553.58,
+      "sid": 484,
+      "location": 2,
+      "content": "哎呀",
+      "music": 0
+    },
+    {
+      "from": 1553.58,
+      "to": 1554.7,
+      "sid": 485,
+      "location": 2,
+      "content": "我被困在南京了",
+      "music": 0
+    },
+    {
+      "from": 1554.7,
+      "to": 1555.9,
+      "sid": 486,
+      "location": 2,
+      "content": "我吐了",
+      "music": 0
+    },
+    {
+      "from": 1555.9,
+      "to": 1557.18,
+      "sid": 487,
+      "location": 2,
+      "content": "还有8km",
+      "music": 0
+    },
+    {
+      "from": 1558.34,
+      "to": 1560.02,
+      "sid": 488,
+      "location": 2,
+      "content": "也就一单十块钱的外卖",
+      "music": 0
+    },
+    {
+      "from": 1560.02,
+      "to": 1562.02,
+      "sid": 489,
+      "location": 2,
+      "content": "我靠这条路叫虎峪关",
+      "music": 0
+    },
+    {
+      "from": 1562.02,
+      "to": 1562.34,
+      "sid": 490,
+      "location": 2,
+      "content": "诶",
+      "music": 0
+    },
+    {
+      "from": 1562.34,
+      "to": 1564.81,
+      "sid": 491,
+      "location": 2,
+      "content": "那右边就是清凉寺",
+      "music": 0
+    },
+    {
+      "from": 1565.33,
+      "to": 1568.59,
+      "sid": 492,
+      "location": 2,
+      "content": "完了这个小上坡真的是要了命了",
+      "music": 0
+    },
+    {
+      "from": 1568.59,
+      "to": 1571.61,
+      "sid": 493,
+      "location": 2,
+      "content": "我现在高档位上都上坡",
+      "music": 0
+    },
+    {
+      "from": 1571.61,
+      "to": 1574.305,
+      "sid": 494,
+      "location": 2,
+      "content": "简直是折磨我",
+      "music": 0
+    },
+    {
+      "from": 1574.98,
+      "to": 1577.5,
+      "sid": 495,
+      "location": 2,
+      "content": "那是我讲真在南京的骑行爱好者",
+      "music": 0
+    },
+    {
+      "from": 1578.74,
+      "to": 1579.68,
+      "sid": 496,
+      "location": 2,
+      "content": "他是真的爱骑车",
+      "music": 0
+    },
+    {
+      "from": 1579.68,
+      "to": 1582.34,
+      "sid": 497,
+      "location": 2,
+      "content": "这地儿骑车太难了",
+      "music": 0
+    },
+    {
+      "from": 1582.34,
+      "to": 1585.04,
+      "sid": 498,
+      "location": 2,
+      "content": "其实我前天就应该离开南京了",
+      "music": 0
+    },
+    {
+      "from": 1585.04,
+      "to": 1587.06,
+      "sid": 499,
+      "location": 2,
+      "content": "结果各种各样的事情",
+      "music": 0
+    },
+    {
+      "from": 1587.06,
+      "to": 1589.36,
+      "sid": 500,
+      "location": 2,
+      "content": "比如说昨天也不算什么坏事啊",
+      "music": 0
+    },
+    {
+      "from": 1589.36,
+      "to": 1592.669,
+      "sid": 501,
+      "location": 2,
+      "content": "比如说昨天智姐请我住酒店",
+      "music": 0
+    },
+    {
+      "from": 1592.669,
+      "to": 1596.61,
+      "sid": 502,
+      "location": 2,
+      "content": "今天那个变速没电",
+      "music": 0
+    },
+    {
+      "from": 1596.61,
+      "to": 1598.97,
+      "sid": 503,
+      "location": 2,
+      "content": "哈哈不是什么大事",
+      "music": 0
+    },
+    {
+      "from": 1598.97,
+      "to": 1602.53,
+      "sid": 504,
+      "location": 2,
+      "content": "但是总是感觉莫名其妙的就逃不出南京了",
+      "music": 0
+    },
+    {
+      "from": 1602.53,
+      "to": 1603.23,
+      "sid": 505,
+      "location": 2,
+      "content": "很恐怖",
+      "music": 0
+    },
+    {
+      "from": 1603.23,
+      "to": 1605.43,
+      "sid": 506,
+      "location": 2,
+      "content": "我前天就想走的",
+      "music": 0
+    },
+    {
+      "from": 1605.87,
+      "to": 1608.3,
+      "sid": 507,
+      "location": 2,
+      "content": "镇江的兄弟们再等等我",
+      "music": 0
+    },
+    {
+      "from": 1608.3,
+      "to": 1610.02,
+      "sid": 508,
+      "location": 2,
+      "content": "我不知道今天还来不来得及",
+      "music": 0
+    },
+    {
+      "from": 1610.02,
+      "to": 1612.42,
+      "sid": 509,
+      "location": 2,
+      "content": "我一会等车都弄完了以后",
+      "music": 0
+    },
+    {
+      "from": 1612.42,
+      "to": 1613.14,
+      "sid": 510,
+      "location": 2,
+      "content": "看一下时间",
+      "music": 0
+    },
+    {
+      "from": 1614.46,
+      "to": 1616.54,
+      "sid": 511,
+      "location": 2,
+      "content": "好气啊",
+      "music": 0
+    },
+    {
+      "from": 1616.78,
+      "to": 1617.86,
+      "sid": 512,
+      "location": 2,
+      "content": "龙潭里哎",
+      "music": 0
+    },
+    {
+      "from": 1617.86,
+      "to": 1619.6,
+      "sid": 513,
+      "location": 2,
+      "content": "这里好像是一个很热闹的地方",
+      "music": 0
+    },
+    {
+      "from": 1619.6,
+      "to": 1621.04,
+      "sid": 514,
+      "location": 2,
+      "content": "我听到过这个名字",
+      "music": 0
+    },
+    {
+      "from": 1621.04,
+      "to": 1621.94,
+      "sid": 515,
+      "location": 2,
+      "content": "确实热闹啊",
+      "music": 0
+    },
+    {
+      "from": 1621.94,
+      "to": 1622.86,
+      "sid": 516,
+      "location": 2,
+      "content": "人超多",
+      "music": 0
+    },
+    {
+      "from": 1622.86,
+      "to": 1625.03,
+      "sid": 517,
+      "location": 2,
+      "content": "汉中门大街",
+      "music": 0
+    },
+    {
+      "from": 1625.03,
+      "to": 1628.19,
+      "sid": 518,
+      "location": 2,
+      "content": "我咋感觉我被逼着在南京市内又逛了一圈",
+      "music": 0
+    },
+    {
+      "from": 1631.52,
+      "to": 1633.83,
+      "sid": 519,
+      "location": 2,
+      "content": "因为我现在是投南京的",
+      "music": 0
+    },
+    {
+      "from": 1633.83,
+      "to": 1638.31,
+      "sid": 520,
+      "location": 2,
+      "content": "最最最最西边驶到了南京的中间",
+      "music": 0
+    },
+    {
+      "from": 1638.31,
+      "to": 1639.87,
+      "sid": 521,
+      "location": 2,
+      "content": "偏西北的一点地方",
+      "music": 0
+    },
+    {
+      "from": 1639.87,
+      "to": 1641.78,
+      "sid": 522,
+      "location": 2,
+      "content": "我本来想继续朝东走的",
+      "music": 0
+    },
+    {
+      "from": 1641.78,
+      "to": 1642.9,
+      "sid": 523,
+      "location": 2,
+      "content": "结果因为这个事情",
+      "music": 0
+    },
+    {
+      "from": 1642.9,
+      "to": 1644.47,
+      "sid": 524,
+      "location": 2,
+      "content": "我不得不说朝下面走",
+      "music": 0
+    },
+    {
+      "from": 1644.47,
+      "to": 1647.43,
+      "sid": 525,
+      "location": 2,
+      "content": "我现在就被逼着来到了南京的西南角",
+      "music": 0
+    },
+    {
+      "from": 1647.43,
+      "to": 1649.67,
+      "sid": 526,
+      "location": 2,
+      "content": "我一会走的时候还得穿过右边",
+      "music": 0
+    },
+    {
+      "from": 1649.67,
+      "to": 1652.8,
+      "sid": 527,
+      "location": 2,
+      "content": "那我基本上已经把南京走了个遍了",
+      "music": 0
+    },
+    {
+      "from": 1653,
+      "to": 1655.48,
+      "sid": 528,
+      "location": 2,
+      "content": "至少说南京室内啊",
+      "music": 0
+    },
+    {
+      "from": 1658.82,
+      "to": 1661.96,
+      "sid": 529,
+      "location": 2,
+      "content": "哇这个眼看上去就转一转",
+      "music": 0
+    },
+    {
+      "from": 1661.96,
+      "to": 1665.23,
+      "sid": 530,
+      "location": 2,
+      "content": "是对宇宙那边车带吗",
+      "music": 0.08938546986678107
+    },
+    {
+      "from": 1665.23,
+      "to": 1668.43,
+      "sid": 531,
+      "location": 2,
+      "content": "带了这肯定是在外面对的",
+      "music": 0
+    },
+    {
+      "from": 1668.43,
+      "to": 1670.23,
+      "sid": 532,
+      "location": 2,
+      "content": "在后面",
+      "music": 0
+    },
+    {
+      "from": 1671.88,
+      "to": 1674.56,
+      "sid": 533,
+      "location": 2,
+      "content": "哦有点重啊",
+      "music": 0
+    },
+    {
+      "from": 1674.56,
+      "to": 1676.44,
+      "sid": 534,
+      "location": 2,
+      "content": "后面有点重啊",
+      "music": 0
+    },
+    {
+      "from": 1678.66,
+      "to": 1681.03,
+      "sid": 535,
+      "location": 2,
+      "content": "你怎么到南京了",
+      "music": 0
+    },
+    {
+      "from": 1681.03,
+      "to": 1682.81,
+      "sid": 536,
+      "location": 2,
+      "content": "我从上海起",
+      "music": 0
+    },
+    {
+      "from": 1682.81,
+      "to": 1684.23,
+      "sid": 537,
+      "location": 2,
+      "content": "我来给你报一遍啊",
+      "music": 0
+    },
+    {
+      "from": 1684.23,
+      "to": 1686.31,
+      "sid": 538,
+      "location": 2,
+      "content": "上海嘉善嘉兴桐乡",
+      "music": 0
+    },
+    {
+      "from": 1686.31,
+      "to": 1688.65,
+      "sid": 539,
+      "location": 2,
+      "content": "杭州黄山黄山风景区",
+      "music": 0
+    },
+    {
+      "from": 1688.65,
+      "to": 1692.08,
+      "sid": 540,
+      "location": 2,
+      "content": "然后那个金德靖县",
+      "music": 0
+    },
+    {
+      "from": 1693.24,
+      "to": 1695.48,
+      "sid": 541,
+      "location": 2,
+      "content": "芜湖马鞍山南京",
+      "music": 0
+    },
+    {
+      "from": 1696.33,
+      "to": 1699.21,
+      "sid": 542,
+      "location": 2,
+      "content": "我记得贼牢了",
+      "music": 0
+    },
+    {
+      "from": 1699.21,
+      "to": 1701.77,
+      "sid": 543,
+      "location": 2,
+      "content": "就电变没电了",
+      "music": 0
+    },
+    {
+      "from": 1701.77,
+      "to": 1703.01,
+      "sid": 544,
+      "location": 2,
+      "content": "我不确定是不是没电",
+      "music": 0
+    },
+    {
+      "from": 1703.01,
+      "to": 1704.13,
+      "sid": 545,
+      "location": 2,
+      "content": "我估计是因为没电了",
+      "music": 0
+    },
+    {
+      "from": 1704.13,
+      "to": 1705.955,
+      "sid": 546,
+      "location": 2,
+      "content": "因为前面用的都好好的",
+      "music": 0
+    },
+    {
+      "from": 1706.33,
+      "to": 1707.49,
+      "sid": 547,
+      "location": 2,
+      "content": "出来几天了",
+      "music": 0
+    },
+    {
+      "from": 1707.49,
+      "to": 1708.11,
+      "sid": 548,
+      "location": 2,
+      "content": "呃",
+      "music": 0
+    },
+    {
+      "from": 1708.11,
+      "to": 1709.05,
+      "sid": 549,
+      "location": 2,
+      "content": "两周吧",
+      "music": 0
+    },
+    {
+      "from": 1709.05,
+      "to": 1712.01,
+      "sid": 550,
+      "location": 2,
+      "content": "哦因为到哪都玩一会吧",
+      "music": 0
+    },
+    {
+      "from": 1712.01,
+      "to": 1713.73,
+      "sid": 551,
+      "location": 2,
+      "content": "像我南京已经待了四天了",
+      "music": 0
+    },
+    {
+      "from": 1714.81,
+      "to": 1716.17,
+      "sid": 552,
+      "location": 2,
+      "content": "今天本来想骑到镇江的",
+      "music": 0
+    },
+    {
+      "from": 1716.17,
+      "to": 1717.89,
+      "sid": 553,
+      "location": 2,
+      "content": "结果就没电了",
+      "music": 0
+    },
+    {
+      "from": 1719.299,
+      "to": 1720.939,
+      "sid": 554,
+      "location": 2,
+      "content": "啊顺便出去吃个饭",
+      "music": 0
+    },
+    {
+      "from": 1722.659,
+      "to": 1723.739,
+      "sid": 555,
+      "location": 2,
+      "content": "哎呦还在下雨",
+      "music": 0
+    },
+    {
+      "from": 1723.739,
+      "to": 1725.809,
+      "sid": 556,
+      "location": 2,
+      "content": "骑车的时候感觉不到哎",
+      "music": 0
+    },
+    {
+      "from": 1725.809,
+      "to": 1726.609,
+      "sid": 557,
+      "location": 2,
+      "content": "我先看一下",
+      "music": 0
+    },
+    {
+      "from": 1726.609,
+      "to": 1729.109,
+      "sid": 558,
+      "location": 2,
+      "content": "我这边如果要从这里开始朝镇江骑",
+      "music": 0
+    },
+    {
+      "from": 1729.109,
+      "to": 1730.069,
+      "sid": 559,
+      "location": 2,
+      "content": "还有多久啊",
+      "music": 0
+    },
+    {
+      "from": 1730.069,
+      "to": 1731.109,
+      "sid": 560,
+      "location": 2,
+      "content": "现在02:30",
+      "music": 0
+    },
+    {
+      "from": 1731.109,
+      "to": 1732.42,
+      "sid": 561,
+      "location": 2,
+      "content": "镇江市",
+      "music": 0
+    },
+    {
+      "from": 1732.42,
+      "to": 1735.389,
+      "sid": 562,
+      "location": 2,
+      "content": "如果是市中心的话",
+      "music": 0
+    },
+    {
+      "from": 1737.69,
+      "to": 1738.57,
+      "sid": 563,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 1738.57,
+      "to": 1739.83,
+      "sid": 564,
+      "location": 2,
+      "content": "76km",
+      "music": 0
+    },
+    {
+      "from": 1739.83,
+      "to": 1743.05,
+      "sid": 565,
+      "location": 2,
+      "content": "我今天出发的时候搜的是79km",
+      "music": 0
+    },
+    {
+      "from": 1743.05,
+      "to": 1745.659,
+      "sid": 566,
+      "location": 2,
+      "content": "如果按照我的目标的角度来讲",
+      "music": 0
+    },
+    {
+      "from": 1745.659,
+      "to": 1748.34,
+      "sid": 567,
+      "location": 2,
+      "content": "我就骑了大半天",
+      "music": 0
+    },
+    {
+      "from": 1748.34,
+      "to": 1749.74,
+      "sid": 568,
+      "location": 2,
+      "content": "也没有大半天啊",
+      "music": 0
+    },
+    {
+      "from": 1749.74,
+      "to": 1751.36,
+      "sid": 569,
+      "location": 2,
+      "content": "我又骑了的",
+      "music": 0
+    },
+    {
+      "from": 1751.36,
+      "to": 1753.22,
+      "sid": 570,
+      "location": 2,
+      "content": "过了长江大桥的时候是14km",
+      "music": 0
+    },
+    {
+      "from": 1753.22,
+      "to": 1755.12,
+      "sid": 571,
+      "location": 2,
+      "content": "我也就骑了25km嘛对吧",
+      "music": 0
+    },
+    {
+      "from": 1755.12,
+      "to": 1756.699,
+      "sid": 572,
+      "location": 2,
+      "content": "骑了25km以后",
+      "music": 0
+    },
+    {
+      "from": 1756.699,
+      "to": 1759.879,
+      "sid": 573,
+      "location": 2,
+      "content": "我的地图上离镇江的距离缩短了3km",
+      "music": 0
+    },
+    {
+      "from": 1759.879,
+      "to": 1763.73,
+      "sid": 574,
+      "location": 2,
+      "content": "还哭了还哭了啊",
+      "music": 0
+    },
+    {
+      "from": 1763.73,
+      "to": 1764.33,
+      "sid": 575,
+      "location": 2,
+      "content": "那咋整啊",
+      "music": 0
+    },
+    {
+      "from": 1764.33,
+      "to": 1765.29,
+      "sid": 576,
+      "location": 2,
+      "content": "我今天要出发吗",
+      "music": 0
+    },
+    {
+      "from": 1765.29,
+      "to": 1767.29,
+      "sid": 577,
+      "location": 2,
+      "content": "还是说我看一下南京到镇江",
+      "music": 0
+    },
+    {
+      "from": 1767.29,
+      "to": 1769.69,
+      "sid": 578,
+      "location": 2,
+      "content": "中间有没有镇子啥的啊",
+      "music": 0
+    },
+    {
+      "from": 1769.69,
+      "to": 1773.04,
+      "sid": 579,
+      "location": 2,
+      "content": "你可以在中间先待一下",
+      "music": 0
+    },
+    {
+      "from": 1773.04,
+      "to": 1775.86,
+      "sid": 580,
+      "location": 2,
+      "content": "其实感觉中间地方蛮多的",
+      "music": 0
+    },
+    {
+      "from": 1775.86,
+      "to": 1777.06,
+      "sid": 581,
+      "location": 2,
+      "content": "宝华镇啊",
+      "music": 0
+    },
+    {
+      "from": 1777.06,
+      "to": 1778.08,
+      "sid": 582,
+      "location": 2,
+      "content": "下属镇啊",
+      "music": 0
+    },
+    {
+      "from": 1778.08,
+      "to": 1779.98,
+      "sid": 583,
+      "location": 2,
+      "content": "边城镇啊",
+      "music": 0
+    },
+    {
+      "from": 1780.02,
+      "to": 1781.06,
+      "sid": 584,
+      "location": 2,
+      "content": "挺多镇的",
+      "music": 0
+    },
+    {
+      "from": 1781.06,
+      "to": 1781.42,
+      "sid": 585,
+      "location": 2,
+      "content": "哎",
+      "music": 0
+    },
+    {
+      "from": 1781.42,
+      "to": 1782.98,
+      "sid": 586,
+      "location": 2,
+      "content": "就先朝那边骑吧",
+      "music": 0
+    },
+    {
+      "from": 1782.98,
+      "to": 1784.96,
+      "sid": 587,
+      "location": 2,
+      "content": "反正我酒店也没定对吧",
+      "music": 0
+    },
+    {
+      "from": 1784.96,
+      "to": 1786.42,
+      "sid": 588,
+      "location": 2,
+      "content": "骑到哪是哪呗",
+      "music": 0
+    },
+    {
+      "from": 1786.42,
+      "to": 1788.51,
+      "sid": 589,
+      "location": 2,
+      "content": "这很符合我们的风格",
+      "music": 0
+    },
+    {
+      "from": 1788.51,
+      "to": 1789.95,
+      "sid": 590,
+      "location": 2,
+      "content": "有一个大的方向",
+      "music": 0
+    },
+    {
+      "from": 1789.95,
+      "to": 1792.79,
+      "sid": 591,
+      "location": 2,
+      "content": "但是朝那个大的方向走的时",
+      "music": 0
+    },
+    {
+      "from": 1792.79,
+      "to": 1794.99,
+      "sid": 592,
+      "location": 2,
+      "content": "候的路程是非常急性",
+      "music": 0
+    },
+    {
+      "from": 1794.99,
+      "to": 1796.03,
+      "sid": 593,
+      "location": 2,
+      "content": "非常随机的",
+      "music": 0
+    },
+    {
+      "from": 1796.03,
+      "to": 1798.139,
+      "sid": 594,
+      "location": 2,
+      "content": "这就是我们这个频道的风格",
+      "music": 0
+    },
+    {
+      "from": 1798.139,
+      "to": 1799.899,
+      "sid": 595,
+      "location": 2,
+      "content": "不是说无头苍蝇啊",
+      "music": 0
+    },
+    {
+      "from": 1799.899,
+      "to": 1801.259,
+      "sid": 596,
+      "location": 2,
+      "content": "我们是有大方向的",
+      "music": 0
+    },
+    {
+      "from": 1802.499,
+      "to": 1804.419,
+      "sid": 597,
+      "location": 2,
+      "content": "但是在路上的时候比较无头苍蝇",
+      "music": 0
+    },
+    {
+      "from": 1808.18,
+      "to": 1809.2,
+      "sid": 598,
+      "location": 2,
+      "content": "一个肉夹馍",
+      "music": 0
+    },
+    {
+      "from": 1809.2,
+      "to": 1809.78,
+      "sid": 599,
+      "location": 2,
+      "content": "一碗面",
+      "music": 0
+    },
+    {
+      "from": 1809.78,
+      "to": 1811.4,
+      "sid": 600,
+      "location": 2,
+      "content": "一个可乐39块",
+      "music": 0
+    },
+    {
+      "from": 1811.4,
+      "to": 1812.8,
+      "sid": 601,
+      "location": 2,
+      "content": "但是我又吃陕西标",
+      "music": 0
+    },
+    {
+      "from": 1812.8,
+      "to": 1813.2,
+      "sid": 602,
+      "location": 2,
+      "content": "不要面了",
+      "music": 0
+    },
+    {
+      "from": 1813.2,
+      "to": 1814.16,
+      "sid": 603,
+      "location": 2,
+      "content": "我真爱吃这玩意",
+      "music": 0
+    },
+    {
+      "from": 1814.16,
+      "to": 1814.72,
+      "sid": 604,
+      "location": 2,
+      "content": "不是陕西",
+      "music": 0
+    },
+    {
+      "from": 1814.72,
+      "to": 1815.8,
+      "sid": 605,
+      "location": 2,
+      "content": "是西安",
+      "music": 0
+    },
+    {
+      "from": 1815.8,
+      "to": 1819.42,
+      "sid": 606,
+      "location": 2,
+      "content": "A few moments later",
+      "music": 0
+    },
+    {
+      "from": 1820.32,
+      "to": 1820.98,
+      "sid": 607,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 1820.98,
+      "to": 1823.409,
+      "sid": 608,
+      "location": 2,
+      "content": "他又变成一辆新车了",
+      "music": 0
+    },
+    {
+      "from": 1823.689,
+      "to": 1825.049,
+      "sid": 609,
+      "location": 2,
+      "content": "我可以拍一下你吗",
+      "music": 0
+    },
+    {
+      "from": 1825.049,
+      "to": 1825.929,
+      "sid": 610,
+      "location": 2,
+      "content": "拍一下没关系",
+      "music": 0
+    },
+    {
+      "from": 1825.929,
+      "to": 1830.189,
+      "sid": 611,
+      "location": 2,
+      "content": "谢谢谢谢谢谢谢谢谢谢谢谢",
+      "music": 0
+    },
+    {
+      "from": 1830.189,
+      "to": 1831.52,
+      "sid": 612,
+      "location": 2,
+      "content": "辛苦了",
+      "music": 0
+    },
+    {
+      "from": 1831.52,
+      "to": 1834.88,
+      "sid": 613,
+      "location": 2,
+      "content": "我之前看你在熊猫TV的时候",
+      "music": 0
+    },
+    {
+      "from": 1834.88,
+      "to": 1835.8,
+      "sid": 614,
+      "location": 2,
+      "content": "你们还挺迷",
+      "music": 0
+    },
+    {
+      "from": 1835.8,
+      "to": 1836.68,
+      "sid": 615,
+      "location": 2,
+      "content": "真的假的啊",
+      "music": 0
+    },
+    {
+      "from": 1836.68,
+      "to": 1837.6,
+      "sid": 616,
+      "location": 2,
+      "content": "真的这么牛",
+      "music": 0
+    },
+    {
+      "from": 1837.6,
+      "to": 1841.87,
+      "sid": 617,
+      "location": 2,
+      "content": "批我隔壁的室友他喜欢打炉石是吧",
+      "music": 0
+    },
+    {
+      "from": 1841.87,
+      "to": 1844.35,
+      "sid": 618,
+      "location": 2,
+      "content": "哇那太有缘分了",
+      "music": 0
+    },
+    {
+      "from": 1849.82,
+      "to": 1853.34,
+      "sid": 619,
+      "location": 2,
+      "content": "他帮我把所有的螺丝都拧紧了",
+      "music": 0
+    },
+    {
+      "from": 1854.54,
+      "to": 1858.87,
+      "sid": 620,
+      "location": 2,
+      "content": "其实每天这么骑松的还挺快的呃",
+      "music": 0
+    },
+    {
+      "from": 1858.87,
+      "to": 1861.79,
+      "sid": 621,
+      "location": 2,
+      "content": "主要是给电变充电的那个充电器",
+      "music": 0
+    },
+    {
+      "from": 1861.79,
+      "to": 1864.03,
+      "sid": 622,
+      "location": 2,
+      "content": "它我我晚上回去可以给你们看一下",
+      "music": 0
+    },
+    {
+      "from": 1864.03,
+      "to": 1865.389,
+      "sid": 623,
+      "location": 2,
+      "content": "它是个啥东西",
+      "music": 0
+    },
+    {
+      "from": 1865.389,
+      "to": 1869.069,
+      "sid": 624,
+      "location": 2,
+      "content": "因为他要把那个电变上面的一块电池给拿下来",
+      "music": 0
+    },
+    {
+      "from": 1869.069,
+      "to": 1870.989,
+      "sid": 625,
+      "location": 2,
+      "content": "然后直接用充电器来充电",
+      "music": 0
+    },
+    {
+      "from": 1870.989,
+      "to": 1873.37,
+      "sid": 626,
+      "location": 2,
+      "content": "然后那个充电器充的比较慢",
+      "music": 0
+    },
+    {
+      "from": 1873.69,
+      "to": 1875.57,
+      "sid": 627,
+      "location": 2,
+      "content": "现在也就充到了70%几",
+      "music": 0
+    },
+    {
+      "from": 1875.57,
+      "to": 1877.47,
+      "sid": 628,
+      "location": 2,
+      "content": "所以就在那边等充电呢",
+      "music": 0
+    },
+    {
+      "from": 1877.47,
+      "to": 1879.33,
+      "sid": 629,
+      "location": 2,
+      "content": "现在04:30说明什么",
+      "music": 0
+    },
+    {
+      "from": 1879.33,
+      "to": 1883.25,
+      "sid": 630,
+      "location": 2,
+      "content": "说明我们已经不用想着今天骑到镇江了",
+      "music": 0
+    },
+    {
+      "from": 1883.25,
+      "to": 1885.27,
+      "sid": 631,
+      "location": 2,
+      "content": "所以我刚刚在等的时候",
+      "music": 0
+    },
+    {
+      "from": 1885.27,
+      "to": 1888.25,
+      "sid": 632,
+      "location": 2,
+      "content": "我把那个目的地定在了",
+      "music": 0
+    },
+    {
+      "from": 1888.25,
+      "to": 1890.79,
+      "sid": 633,
+      "location": 2,
+      "content": "南京和镇江之间的一个城市",
+      "music": 0
+    },
+    {
+      "from": 1890.79,
+      "to": 1891.99,
+      "sid": 634,
+      "location": 2,
+      "content": "叫做巨容",
+      "music": 0
+    },
+    {
+      "from": 1891.99,
+      "to": 1893.34,
+      "sid": 635,
+      "location": 2,
+      "content": "聚是句号的聚",
+      "music": 0
+    },
+    {
+      "from": 1893.34,
+      "to": 1896.1,
+      "sid": 636,
+      "location": 2,
+      "content": "我感我我觉得应该没有住在那里的水友",
+      "music": 0
+    },
+    {
+      "from": 1896.1,
+      "to": 1898.409,
+      "sid": 637,
+      "location": 2,
+      "content": "因为那确实是个小城市",
+      "music": 0
+    },
+    {
+      "from": 1898.409,
+      "to": 1899.769,
+      "sid": 638,
+      "location": 2,
+      "content": "但他是一个市啊",
+      "music": 0
+    },
+    {
+      "from": 1899.769,
+      "to": 1900.709,
+      "sid": 639,
+      "location": 2,
+      "content": "他叫句容市",
+      "music": 0
+    },
+    {
+      "from": 1900.709,
+      "to": 1901.729,
+      "sid": 640,
+      "location": 2,
+      "content": "他本来是个县",
+      "music": 0
+    },
+    {
+      "from": 1901.729,
+      "to": 1906.63,
+      "sid": 641,
+      "location": 2,
+      "content": "然后后来那个被划到了镇江的管理",
+      "music": 0
+    },
+    {
+      "from": 1906.63,
+      "to": 1908.47,
+      "sid": 642,
+      "location": 2,
+      "content": "那就改名叫句容市了",
+      "music": 0
+    },
+    {
+      "from": 1908.47,
+      "to": 1909.59,
+      "sid": 643,
+      "location": 2,
+      "content": "我从来没有去过",
+      "music": 0
+    },
+    {
+      "from": 1909.59,
+      "to": 1911.25,
+      "sid": 644,
+      "location": 2,
+      "content": "我甚至也没有听说过",
+      "music": 0
+    },
+    {
+      "from": 1911.25,
+      "to": 1914.99,
+      "sid": 645,
+      "location": 2,
+      "content": "但是今天恰恰就要住在那了",
+      "music": 0
+    },
+    {
+      "from": 1914.99,
+      "to": 1917.69,
+      "sid": 646,
+      "location": 2,
+      "content": "而且现在过去其实距离也不近啊",
+      "music": 0
+    },
+    {
+      "from": 1917.69,
+      "to": 1919.01,
+      "sid": 647,
+      "location": 2,
+      "content": "46.7km",
+      "music": 0
+    },
+    {
+      "from": 1919.01,
+      "to": 1920.23,
+      "sid": 648,
+      "location": 2,
+      "content": "我们还是要快点骑",
+      "music": 0
+    },
+    {
+      "from": 1920.23,
+      "to": 1921.23,
+      "sid": 649,
+      "location": 2,
+      "content": "现在04:30",
+      "music": 0
+    },
+    {
+      "from": 1921.23,
+      "to": 1922.79,
+      "sid": 650,
+      "location": 2,
+      "content": "如果按照导航的时间",
+      "music": 0
+    },
+    {
+      "from": 1922.79,
+      "to": 1923.95,
+      "sid": 651,
+      "location": 2,
+      "content": "我需要骑四个小时",
+      "music": 0
+    },
+    {
+      "from": 1925.07,
+      "to": 1927.49,
+      "sid": 652,
+      "location": 2,
+      "content": "46km应该不至于四个小时",
+      "music": 0
+    },
+    {
+      "from": 1927.49,
+      "to": 1929.33,
+      "sid": 653,
+      "location": 2,
+      "content": "但是今天要走一段夜路",
+      "music": 0
+    },
+    {
+      "from": 1930.53,
+      "to": 1932.41,
+      "sid": 654,
+      "location": 2,
+      "content": "我是尽量不太想走夜路的",
+      "music": 0
+    },
+    {
+      "from": 1932.41,
+      "to": 1935.26,
+      "sid": 655,
+      "location": 2,
+      "content": "因为走夜路还是有点危险的",
+      "music": 0
+    },
+    {
+      "from": 1935.26,
+      "to": 1937.9,
+      "sid": 656,
+      "location": 2,
+      "content": "哎但是现在好消息就是我等了这一个多小时",
+      "music": 0
+    },
+    {
+      "from": 1937.9,
+      "to": 1939.9,
+      "sid": 657,
+      "location": 2,
+      "content": "地上又差不多干了",
+      "music": 0
+    },
+    {
+      "from": 1940.02,
+      "to": 1942.22,
+      "sid": 658,
+      "location": 2,
+      "content": "不知道等我到了巨容",
+      "music": 0
+    },
+    {
+      "from": 1942.22,
+      "to": 1944.56,
+      "sid": 659,
+      "location": 2,
+      "content": "我还能不能看到IG的比赛",
+      "music": 0
+    },
+    {
+      "from": 1944.56,
+      "to": 1948.84,
+      "sid": 660,
+      "location": 2,
+      "content": "我不知道他们能不能坚持到坚持到08:30",
+      "music": 0
+    },
+    {
+      "from": 1948.84,
+      "to": 1950.26,
+      "sid": 661,
+      "location": 2,
+      "content": "小屁吃呢",
+      "music": 0
+    },
+    {
+      "from": 1950.26,
+      "to": 1951.82,
+      "sid": 662,
+      "location": 2,
+      "content": "46km我算算啊",
+      "music": 0
+    },
+    {
+      "from": 1951.82,
+      "to": 1952.82,
+      "sid": 663,
+      "location": 2,
+      "content": "如果我极限情况下",
+      "music": 0
+    },
+    {
+      "from": 1952.82,
+      "to": 1957.31,
+      "sid": 664,
+      "location": 2,
+      "content": "我可以两个半小时骑到不得三个小时左右吧",
+      "music": 0
+    },
+    {
+      "from": 1957.31,
+      "to": 1960.55,
+      "sid": 665,
+      "location": 2,
+      "content": "22个半小时",
+      "music": 0
+    },
+    {
+      "from": 1960.55,
+      "to": 1961.63,
+      "sid": 666,
+      "location": 2,
+      "content": "如果能坚持到的话",
+      "music": 0
+    },
+    {
+      "from": 1961.63,
+      "to": 1963.62,
+      "sid": 667,
+      "location": 2,
+      "content": "我还能看到一个屁股",
+      "music": 0
+    },
+    {
+      "from": 1963.62,
+      "to": 1965.82,
+      "sid": 668,
+      "location": 2,
+      "content": "哎别别别别别别别",
+      "music": 0
+    },
+    {
+      "from": 1965.82,
+      "to": 1966.66,
+      "sid": 669,
+      "location": 2,
+      "content": "那被三比零了",
+      "music": 0
+    },
+    {
+      "from": 1966.66,
+      "to": 1968.26,
+      "sid": 670,
+      "location": 2,
+      "content": "被三比零我吐了哇",
+      "music": 0
+    },
+    {
+      "from": 1968.26,
+      "to": 1971.37,
+      "sid": 671,
+      "location": 2,
+      "content": "现在把车去那个保养了一下以后",
+      "music": 0
+    },
+    {
+      "from": 1971.37,
+      "to": 1973.73,
+      "sid": 672,
+      "location": 2,
+      "content": "就感觉像骑新车一样的好爽啊",
+      "music": 0
+    },
+    {
+      "from": 1973.73,
+      "to": 1974.49,
+      "sid": 673,
+      "location": 2,
+      "content": "不管怎么样",
+      "music": 0
+    },
+    {
+      "from": 1974.49,
+      "to": 1976.61,
+      "sid": 674,
+      "location": 2,
+      "content": "我今天一定要骑出南京",
+      "music": 0
+    },
+    {
+      "from": 1977.11,
+      "to": 1978.63,
+      "sid": 675,
+      "location": 2,
+      "content": "我必须得骑出南丁",
+      "music": 0
+    },
+    {
+      "from": 1979.79,
+      "to": 1980.49,
+      "sid": 676,
+      "location": 2,
+      "content": "烦死了",
+      "music": 0
+    },
+    {
+      "from": 1980.49,
+      "to": 1982.55,
+      "sid": 677,
+      "location": 2,
+      "content": "在南京哪里运气都不好啊",
+      "music": 0
+    },
+    {
+      "from": 1982.55,
+      "to": 1984.03,
+      "sid": 678,
+      "location": 2,
+      "content": "想飘雨啊啊",
+      "music": 0
+    },
+    {
+      "from": 1984.03,
+      "to": 1989.34,
+      "sid": 679,
+      "location": 2,
+      "content": "这边上工厂飘出来的这这个点下个雨",
+      "music": 0
+    },
+    {
+      "from": 1989.34,
+      "to": 1990.06,
+      "sid": 680,
+      "location": 2,
+      "content": "我吐了",
+      "music": 0
+    },
+    {
+      "from": 1990.06,
+      "to": 1990.26,
+      "sid": 681,
+      "location": 2,
+      "content": "哎",
+      "music": 0
+    },
+    {
+      "from": 1990.26,
+      "to": 1992.62,
+      "sid": 682,
+      "location": 2,
+      "content": "我现在等于从南京市中心里穿过来",
+      "music": 0
+    },
+    {
+      "from": 1992.62,
+      "to": 1994.3,
+      "sid": 683,
+      "location": 2,
+      "content": "哎哎我头盔忘拿了",
+      "music": 0
+    },
+    {
+      "from": 1994.3,
+      "to": 1996.67,
+      "sid": 684,
+      "location": 2,
+      "content": "哎呦",
+      "music": 0
+    },
+    {
+      "from": 1996.77,
+      "to": 1998.33,
+      "sid": 685,
+      "location": 2,
+      "content": "哎我头盔没拿",
+      "music": 0
+    },
+    {
+      "from": 1998.33,
+      "to": 1999.65,
+      "sid": 686,
+      "location": 2,
+      "content": "我都骑了这么远出去了",
+      "music": 0
+    },
+    {
+      "from": 1999.65,
+      "to": 2001.42,
+      "sid": 687,
+      "location": 2,
+      "content": "我吐了哎呀",
+      "music": 0
+    },
+    {
+      "from": 2001.42,
+      "to": 2003.66,
+      "sid": 688,
+      "location": 2,
+      "content": "还好就2km哎呦",
+      "music": 0
+    },
+    {
+      "from": 2003.66,
+      "to": 2004.98,
+      "sid": 689,
+      "location": 2,
+      "content": "烦死了",
+      "music": 0
+    },
+    {
+      "from": 2004.98,
+      "to": 2006.84,
+      "sid": 690,
+      "location": 2,
+      "content": "那更下定了决心了",
+      "music": 0
+    },
+    {
+      "from": 2006.84,
+      "to": 2009.08,
+      "sid": 691,
+      "location": 2,
+      "content": "我今天晚上聚容的酒店都订好了",
+      "music": 0
+    },
+    {
+      "from": 2009.85,
+      "to": 2012.29,
+      "sid": 692,
+      "location": 2,
+      "content": "不用想我头上怎么凉飕飕的感觉",
+      "music": 0
+    },
+    {
+      "from": 2012.29,
+      "to": 2013.61,
+      "sid": 693,
+      "location": 2,
+      "content": "少了点什么东西",
+      "music": 0
+    },
+    {
+      "from": 2013.61,
+      "to": 2015.37,
+      "sid": 694,
+      "location": 2,
+      "content": "我没有安全感哦",
+      "music": 0
+    },
+    {
+      "from": 2015.37,
+      "to": 2018.1,
+      "sid": 695,
+      "location": 2,
+      "content": "安全帽为拿哎",
+      "music": 0
+    },
+    {
+      "from": 2018.1,
+      "to": 2019.58,
+      "sid": 696,
+      "location": 2,
+      "content": "气死我了",
+      "music": 0
+    },
+    {
+      "from": 2019.58,
+      "to": 2026.08,
+      "sid": 697,
+      "location": 2,
+      "content": "哎呀哎我刚刚跟车店的老板说有缘再见",
+      "music": 0
+    },
+    {
+      "from": 2026.08,
+      "to": 2028.01,
+      "sid": 698,
+      "location": 2,
+      "content": "这也太有缘了",
+      "music": 0
+    },
+    {
+      "from": 2028.01,
+      "to": 2029.79,
+      "sid": 699,
+      "location": 2,
+      "content": "我们马上就要再见了",
+      "music": 0
+    },
+    {
+      "from": 2029.79,
+      "to": 2031.85,
+      "sid": 700,
+      "location": 2,
+      "content": "哎呀我还走错门了",
+      "music": 0
+    },
+    {
+      "from": 2031.85,
+      "to": 2033.73,
+      "sid": 701,
+      "location": 2,
+      "content": "哎呀我又回来了",
+      "music": 0
+    },
+    {
+      "from": 2033.73,
+      "to": 2035.949,
+      "sid": 702,
+      "location": 2,
+      "content": "我吐了",
+      "music": 0
+    },
+    {
+      "from": 2054.48,
+      "to": 2056.56,
+      "sid": 703,
+      "location": 2,
+      "content": "逆天啊",
+      "music": 0
+    },
+    {
+      "from": 2057.51,
+      "to": 2063.279,
+      "sid": 704,
+      "location": 2,
+      "content": "我给我两天前发的视频起名字叫罗斯汀南京",
+      "music": 0
+    },
+    {
+      "from": 2063.719,
+      "to": 2065.679,
+      "sid": 705,
+      "location": 2,
+      "content": "今天的视频名字我已经想好了",
+      "music": 0
+    },
+    {
+      "from": 2065.679,
+      "to": 2068.519,
+      "sid": 706,
+      "location": 2,
+      "content": "标题叫做罗斯汀南京二",
+      "music": 0
+    },
+    {
+      "from": 2068.519,
+      "to": 2070.679,
+      "sid": 707,
+      "location": 2,
+      "content": "真的我感觉我陷入了某种魔咒",
+      "music": 0
+    },
+    {
+      "from": 2070.679,
+      "to": 2072.929,
+      "sid": 708,
+      "location": 2,
+      "content": "就是我走不出去",
+      "music": 0
+    },
+    {
+      "from": 2074.15,
+      "to": 2075.05,
+      "sid": 709,
+      "location": 2,
+      "content": "哦哦兄弟们",
+      "music": 0
+    },
+    {
+      "from": 2075.05,
+      "to": 2077.45,
+      "sid": 710,
+      "location": 2,
+      "content": "我刚刚穿过的这条河",
+      "music": 0
+    },
+    {
+      "from": 2077.45,
+      "to": 2079.31,
+      "sid": 711,
+      "location": 2,
+      "content": "就是秦淮河",
+      "music": 0
+    },
+    {
+      "from": 2079.31,
+      "to": 2081.31,
+      "sid": 712,
+      "location": 2,
+      "content": "就是这座桥穿过的河",
+      "music": 0
+    },
+    {
+      "from": 2081.31,
+      "to": 2082.88,
+      "sid": 713,
+      "location": 2,
+      "content": "它就是秦淮河",
+      "music": 0
+    },
+    {
+      "from": 2082.88,
+      "to": 2083.56,
+      "sid": 714,
+      "location": 2,
+      "content": "巧了吗",
+      "music": 0
+    },
+    {
+      "from": 2083.56,
+      "to": 2085.54,
+      "sid": 715,
+      "location": 2,
+      "content": "这不是",
+      "music": 0
+    },
+    {
+      "from": 2096.68,
+      "to": 2098.32,
+      "sid": 716,
+      "location": 2,
+      "content": "哦前面就是中山陵了",
+      "music": 0
+    },
+    {
+      "from": 2098.32,
+      "to": 2099.52,
+      "sid": 717,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 2103.14,
+      "to": 2104.94,
+      "sid": 718,
+      "location": 2,
+      "content": "哎基本上都倒过了",
+      "music": 0
+    },
+    {
+      "from": 2104.94,
+      "to": 2107.62,
+      "sid": 719,
+      "location": 2,
+      "content": "虽然没进去",
+      "music": 0.12820511998673917
+    },
+    {
+      "from": 2109.34,
+      "to": 2109.94,
+      "sid": 720,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 2109.94,
+      "to": 2111.14,
+      "sid": 721,
+      "location": 2,
+      "content": "我骑了15km",
+      "music": 0
+    },
+    {
+      "from": 2111.14,
+      "to": 2112.46,
+      "sid": 722,
+      "location": 2,
+      "content": "我还在中山门大街",
+      "music": 0
+    },
+    {
+      "from": 2113.46,
+      "to": 2116.18,
+      "sid": 723,
+      "location": 2,
+      "content": "中山门大街真的好长啊",
+      "music": 0
+    },
+    {
+      "from": 2116.76,
+      "to": 2119.16,
+      "sid": 724,
+      "location": 2,
+      "content": "那我夸一下南京的这个红绿灯啊",
+      "music": 0
+    },
+    {
+      "from": 2119.16,
+      "to": 2121.6,
+      "sid": 725,
+      "location": 2,
+      "content": "他这个红绿灯一直都有一个数字计时",
+      "music": 0
+    },
+    {
+      "from": 2121.6,
+      "to": 2122.64,
+      "sid": 726,
+      "location": 2,
+      "content": "我觉得还挺好的",
+      "music": 0
+    },
+    {
+      "from": 2122.64,
+      "to": 2124.26,
+      "sid": 727,
+      "location": 2,
+      "content": "就看的很清晰",
+      "music": 0
+    },
+    {
+      "from": 2124.26,
+      "to": 2126.68,
+      "sid": 728,
+      "location": 2,
+      "content": "然后多久该走也会有个数字",
+      "music": 0
+    },
+    {
+      "from": 2126.68,
+      "to": 2128.92,
+      "sid": 729,
+      "location": 2,
+      "content": "这个数字红绿灯我自己非常喜欢",
+      "music": 0
+    },
+    {
+      "from": 2128.92,
+      "to": 2131.18,
+      "sid": 730,
+      "location": 2,
+      "content": "已经05:45分了",
+      "music": 0
+    },
+    {
+      "from": 2131.18,
+      "to": 2135.479,
+      "sid": 731,
+      "location": 2,
+      "content": "我离我今天的目标还有32.6km",
+      "music": 0
+    },
+    {
+      "from": 2135.479,
+      "to": 2138.239,
+      "sid": 732,
+      "location": 2,
+      "content": "哎哎又开始下雨了",
+      "music": 0
+    },
+    {
+      "from": 2138.239,
+      "to": 2144.64,
+      "sid": 733,
+      "location": 2,
+      "content": "哎哎呀哎妈呀",
+      "music": 0
+    },
+    {
+      "from": 2145.82,
+      "to": 2147.62,
+      "sid": 734,
+      "location": 2,
+      "content": "怎么还是中山门大街啦",
+      "music": 0
+    },
+    {
+      "from": 2147.62,
+      "to": 2150.48,
+      "sid": 735,
+      "location": 2,
+      "content": "哈哈哈哎呦",
+      "music": 0
+    },
+    {
+      "from": 2150.48,
+      "to": 2152.88,
+      "sid": 736,
+      "location": 2,
+      "content": "上面火轻轨正好过",
+      "music": 0
+    },
+    {
+      "from": 2152.88,
+      "to": 2153.46,
+      "sid": 737,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 2153.46,
+      "to": 2154.8,
+      "sid": 738,
+      "location": 2,
+      "content": "好美好的画面啊",
+      "music": 0
+    },
+    {
+      "from": 2154.8,
+      "to": 2156.34,
+      "sid": 739,
+      "location": 2,
+      "content": "右边是烟火气息",
+      "music": 0
+    },
+    {
+      "from": 2156.34,
+      "to": 2159.499,
+      "sid": 740,
+      "location": 2,
+      "content": "左边是高科技的结晶",
+      "music": 0
+    },
+    {
+      "from": 2159.499,
+      "to": 2162.72,
+      "sid": 741,
+      "location": 2,
+      "content": "中间是我在骑自行车",
+      "music": 0
+    },
+    {
+      "from": 2162.72,
+      "to": 2163.84,
+      "sid": 742,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 2163.84,
+      "to": 2167.12,
+      "sid": 743,
+      "location": 2,
+      "content": "我们终于走出了中山门大街了",
+      "music": 0
+    },
+    {
+      "from": 2167.12,
+      "to": 2170.16,
+      "sid": 744,
+      "location": 2,
+      "content": "中山门大街出去以后直接上了宁航公路",
+      "music": 0
+    },
+    {
+      "from": 2171.44,
+      "to": 2174.84,
+      "sid": 745,
+      "location": 2,
+      "content": "雨雨也下起了金色的雨",
+      "music": 0
+    },
+    {
+      "from": 2175.11,
+      "to": 2177.27,
+      "sid": 746,
+      "location": 2,
+      "content": "银行公路要走15km哦",
+      "music": 0
+    },
+    {
+      "from": 2177.27,
+      "to": 2179.53,
+      "sid": 747,
+      "location": 2,
+      "content": "这个中山门大街真是奇死我了",
+      "music": 0
+    },
+    {
+      "from": 2179.53,
+      "to": 2182.75,
+      "sid": 748,
+      "location": 2,
+      "content": "我感觉我就从那一头骑到另外一头了",
+      "music": 0
+    },
+    {
+      "from": 2182.75,
+      "to": 2185.23,
+      "sid": 749,
+      "location": 2,
+      "content": "但是怎么刚出南京又开始下雨了",
+      "music": 0
+    },
+    {
+      "from": 2185.23,
+      "to": 2186.47,
+      "sid": 750,
+      "location": 2,
+      "content": "你们现在看得见这个雨吗",
+      "music": 0
+    },
+    {
+      "from": 2186.47,
+      "to": 2188.63,
+      "sid": 751,
+      "location": 2,
+      "content": "我我我那个手电筒在前面",
+      "music": 0
+    },
+    {
+      "from": 2188.63,
+      "to": 2189.47,
+      "sid": 752,
+      "location": 2,
+      "content": "你们好像看得见",
+      "music": 0
+    },
+    {
+      "from": 2189.47,
+      "to": 2191.109,
+      "sid": 753,
+      "location": 2,
+      "content": "因为镜头湿了",
+      "music": 0
+    },
+    {
+      "from": 2191.109,
+      "to": 2194.85,
+      "sid": 754,
+      "location": 2,
+      "content": "六点整还有30km",
+      "music": 0
+    },
+    {
+      "from": 2195.85,
+      "to": 2197.83,
+      "sid": 755,
+      "location": 2,
+      "content": "我是真不想骑夜车啊",
+      "music": 0
+    },
+    {
+      "from": 2197.83,
+      "to": 2199.53,
+      "sid": 756,
+      "location": 2,
+      "content": "但是今天是真没办法了",
+      "music": 0
+    },
+    {
+      "from": 2199.53,
+      "to": 2200.48,
+      "sid": 757,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 2200.48,
+      "to": 2201.8,
+      "sid": 758,
+      "location": 2,
+      "content": "我们小心好吧",
+      "music": 0
+    },
+    {
+      "from": 2201.8,
+      "to": 2203.06,
+      "sid": 759,
+      "location": 2,
+      "content": "我们小心再小心",
+      "music": 0
+    },
+    {
+      "from": 2203.06,
+      "to": 2204.52,
+      "sid": 760,
+      "location": 2,
+      "content": "现在是又是夜车",
+      "music": 0
+    },
+    {
+      "from": 2204.52,
+      "to": 2205.73,
+      "sid": 761,
+      "location": 2,
+      "content": "又下雨",
+      "music": 0
+    },
+    {
+      "from": 2205.73,
+      "to": 2207.59,
+      "sid": 762,
+      "location": 2,
+      "content": "路还很难特别难",
+      "music": 0
+    },
+    {
+      "from": 2207.59,
+      "to": 2209.97,
+      "sid": 763,
+      "location": 2,
+      "content": "但是这也是我这次旅程的一个经历",
+      "music": 0
+    },
+    {
+      "from": 2209.97,
+      "to": 2211.82,
+      "sid": 764,
+      "location": 2,
+      "content": "所有的开心的",
+      "music": 0
+    },
+    {
+      "from": 2211.82,
+      "to": 2212.9,
+      "sid": 765,
+      "location": 2,
+      "content": "不开心的",
+      "music": 0
+    },
+    {
+      "from": 2212.9,
+      "to": 2213.76,
+      "sid": 766,
+      "location": 2,
+      "content": "痛苦的",
+      "music": 0
+    },
+    {
+      "from": 2213.76,
+      "to": 2214.48,
+      "sid": 767,
+      "location": 2,
+      "content": "折磨的",
+      "music": 0
+    },
+    {
+      "from": 2214.48,
+      "to": 2215.18,
+      "sid": 768,
+      "location": 2,
+      "content": "惊险的",
+      "music": 0
+    },
+    {
+      "from": 2215.18,
+      "to": 2216.65,
+      "sid": 769,
+      "location": 2,
+      "content": "刺激的",
+      "music": 0
+    },
+    {
+      "from": 2216.81,
+      "to": 2219.37,
+      "sid": 770,
+      "location": 2,
+      "content": "都是你旅行的经历的一部分",
+      "music": 0
+    },
+    {
+      "from": 2220.37,
+      "to": 2223.41,
+      "sid": 771,
+      "location": 2,
+      "content": "或者说都是你生活的经历的一部分",
+      "music": 0
+    },
+    {
+      "from": 2224.86,
+      "to": 2226.8,
+      "sid": 772,
+      "location": 2,
+      "content": "雨下大了",
+      "music": 0
+    },
+    {
+      "from": 2226.8,
+      "to": 2230.42,
+      "sid": 773,
+      "location": 2,
+      "content": "我把帽子戴到头盔里了",
+      "music": 0
+    },
+    {
+      "from": 2230.42,
+      "to": 2232.42,
+      "sid": 774,
+      "location": 2,
+      "content": "然后吸了一条能量胶",
+      "music": 0
+    },
+    {
+      "from": 2232.42,
+      "to": 2234.48,
+      "sid": 775,
+      "location": 2,
+      "content": "我们真是没苦硬吃啊",
+      "music": 0
+    },
+    {
+      "from": 2238.02,
+      "to": 2239.52,
+      "sid": 776,
+      "location": 2,
+      "content": "雨越下越大了",
+      "music": 0
+    },
+    {
+      "from": 2239.52,
+      "to": 2240.14,
+      "sid": 777,
+      "location": 2,
+      "content": "没关系",
+      "music": 0
+    },
+    {
+      "from": 2240.14,
+      "to": 2241.14,
+      "sid": 778,
+      "location": 2,
+      "content": "我们还有25km",
+      "music": 0
+    },
+    {
+      "from": 2241.14,
+      "to": 2244.37,
+      "sid": 779,
+      "location": 2,
+      "content": "兄弟们最多一个半小时",
+      "music": 0
+    },
+    {
+      "from": 2244.61,
+      "to": 2246.19,
+      "sid": 780,
+      "location": 2,
+      "content": "其实我跟你们讲",
+      "music": 0
+    },
+    {
+      "from": 2246.19,
+      "to": 2248.55,
+      "sid": 781,
+      "location": 2,
+      "content": "我是有一些朋友问过我",
+      "music": 0
+    },
+    {
+      "from": 2248.55,
+      "to": 2251.899,
+      "sid": 782,
+      "location": 2,
+      "content": "你为什么要拯救美苦应诗的佛",
+      "music": 0
+    },
+    {
+      "from": 2251.899,
+      "to": 2253.739,
+      "sid": 783,
+      "location": 2,
+      "content": "你做这个事情到底有啥意义",
+      "music": 0
+    },
+    {
+      "from": 2256.499,
+      "to": 2260.679,
+      "sid": 784,
+      "location": 2,
+      "content": "我觉得哪有那么多意义不易的",
+      "music": 0
+    },
+    {
+      "from": 2260.679,
+      "to": 2263.379,
+      "sid": 785,
+      "location": 2,
+      "content": "我说一句最简单的最朴实的",
+      "music": 0
+    },
+    {
+      "from": 2263.379,
+      "to": 2265.11,
+      "sid": 786,
+      "location": 2,
+      "content": "最傻的道理",
+      "music": 0
+    },
+    {
+      "from": 2265.35,
+      "to": 2267.55,
+      "sid": 787,
+      "location": 2,
+      "content": "如果我今天没有淋这个雨",
+      "music": 0
+    },
+    {
+      "from": 2267.55,
+      "to": 2270.23,
+      "sid": 788,
+      "location": 2,
+      "content": "那么我明天或者后天看到的风景",
+      "music": 0
+    },
+    {
+      "from": 2270.23,
+      "to": 2272.61,
+      "sid": 789,
+      "location": 2,
+      "content": "就不会那么美好",
+      "music": 0
+    },
+    {
+      "from": 2273.33,
+      "to": 2276.47,
+      "sid": 790,
+      "location": 2,
+      "content": "我不知道你们同不同意我这个观点哇",
+      "music": 0
+    },
+    {
+      "from": 2276.47,
+      "to": 2278.76,
+      "sid": 791,
+      "location": 2,
+      "content": "现在突然好孤单啊",
+      "music": 0
+    },
+    {
+      "from": 2279.16,
+      "to": 2281.36,
+      "sid": 792,
+      "location": 2,
+      "content": "这条路上只有我一辆车",
+      "music": 0
+    },
+    {
+      "from": 2281.36,
+      "to": 2282.88,
+      "sid": 793,
+      "location": 2,
+      "content": "后面完全没有",
+      "music": 0
+    },
+    {
+      "from": 2284.2,
+      "to": 2286.24,
+      "sid": 794,
+      "location": 2,
+      "content": "前面也完全没有",
+      "music": 0
+    },
+    {
+      "from": 2287.489,
+      "to": 2290.969,
+      "sid": 795,
+      "location": 2,
+      "content": "今天今天骑车的画面会有很多点啊",
+      "music": 0
+    },
+    {
+      "from": 2290.969,
+      "to": 2291.889,
+      "sid": 796,
+      "location": 2,
+      "content": "因为一直在下雨",
+      "music": 0
+    },
+    {
+      "from": 2291.889,
+      "to": 2292.85,
+      "sid": 797,
+      "location": 2,
+      "content": "没有办法",
+      "music": 0
+    },
+    {
+      "from": 2292.85,
+      "to": 2294.23,
+      "sid": 798,
+      "location": 2,
+      "content": "大家见谅啊",
+      "music": 0
+    },
+    {
+      "from": 2294.23,
+      "to": 2294.89,
+      "sid": 799,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 2294.89,
+      "to": 2295.79,
+      "sid": 800,
+      "location": 2,
+      "content": "我讲真",
+      "music": 0
+    },
+    {
+      "from": 2295.79,
+      "to": 2297.05,
+      "sid": 801,
+      "location": 2,
+      "content": "出了南京以后",
+      "music": 0
+    },
+    {
+      "from": 2297.05,
+      "to": 2297.95,
+      "sid": 802,
+      "location": 2,
+      "content": "路变好了",
+      "music": 0
+    },
+    {
+      "from": 2297.95,
+      "to": 2300.51,
+      "sid": 803,
+      "location": 2,
+      "content": "哼你们看这个路啊多平整啊",
+      "music": 0
+    },
+    {
+      "from": 2300.51,
+      "to": 2303.9,
+      "sid": 804,
+      "location": 2,
+      "content": "哎自行车道那",
+      "music": 0
+    },
+    {
+      "from": 2306.2,
+      "to": 2307.6,
+      "sid": 805,
+      "location": 2,
+      "content": "卧槽我话刚说完",
+      "music": 0
+    },
+    {
+      "from": 2307.6,
+      "to": 2309.47,
+      "sid": 806,
+      "location": 2,
+      "content": "自行车倒没了",
+      "music": 0
+    },
+    {
+      "from": 2310.03,
+      "to": 2311.55,
+      "sid": 807,
+      "location": 2,
+      "content": "骑的倒还蛮舒服的",
+      "music": 0
+    },
+    {
+      "from": 2312.87,
+      "to": 2314.47,
+      "sid": 808,
+      "location": 2,
+      "content": "就是下雨有点不太舒服",
+      "music": 0
+    },
+    {
+      "from": 2315.67,
+      "to": 2317.67,
+      "sid": 809,
+      "location": 2,
+      "content": "降温加下雨",
+      "music": 0
+    },
+    {
+      "from": 2318.74,
+      "to": 2322.04,
+      "sid": 810,
+      "location": 2,
+      "content": "哇这是我第一次在外面",
+      "music": 0
+    },
+    {
+      "from": 2322.04,
+      "to": 2325.279,
+      "sid": 811,
+      "location": 2,
+      "content": "实际的去感受这个入秋的感觉",
+      "music": 0
+    },
+    {
+      "from": 2325.719,
+      "to": 2327.479,
+      "sid": 812,
+      "location": 2,
+      "content": "以前直播这么多年",
+      "music": 0
+    },
+    {
+      "from": 2327.479,
+      "to": 2330.719,
+      "sid": 813,
+      "location": 2,
+      "content": "一直对于季节没有什么很明显的认知",
+      "music": 0
+    },
+    {
+      "from": 2330.719,
+      "to": 2333.17,
+      "sid": 814,
+      "location": 2,
+      "content": "起码有10年这样的生活",
+      "music": 0
+    },
+    {
+      "from": 2333.17,
+      "to": 2337.49,
+      "sid": 815,
+      "location": 2,
+      "content": "这次我真的感觉到什么叫做一夜之间入秋了",
+      "music": 0
+    },
+    {
+      "from": 2338.13,
+      "to": 2339.97,
+      "sid": 816,
+      "location": 2,
+      "content": "前天南京30度",
+      "music": 0
+    },
+    {
+      "from": 2339.97,
+      "to": 2341.43,
+      "sid": 817,
+      "location": 2,
+      "content": "昨天南京20度",
+      "music": 0
+    },
+    {
+      "from": 2341.43,
+      "to": 2343.65,
+      "sid": 818,
+      "location": 2,
+      "content": "今天南京15度",
+      "music": 0
+    },
+    {
+      "from": 2343.93,
+      "to": 2346.899,
+      "sid": 819,
+      "location": 2,
+      "content": "直接就进秋天了",
+      "music": 0
+    },
+    {
+      "from": 2346.899,
+      "to": 2348.199,
+      "sid": 820,
+      "location": 2,
+      "content": "猝不及防",
+      "music": 0
+    },
+    {
+      "from": 2348.199,
+      "to": 2350.239,
+      "sid": 821,
+      "location": 2,
+      "content": "我的冬天的衣服都没来得及赶上啊",
+      "music": 0
+    },
+    {
+      "from": 2351.419,
+      "to": 2353.18,
+      "sid": 822,
+      "location": 2,
+      "content": "还好我带了件外套啊",
+      "music": 0
+    },
+    {
+      "from": 2353.18,
+      "to": 2354.26,
+      "sid": 823,
+      "location": 2,
+      "content": "我没带外套",
+      "music": 0
+    },
+    {
+      "from": 2354.26,
+      "to": 2355.12,
+      "sid": 824,
+      "location": 2,
+      "content": "我就完蛋了",
+      "music": 0
+    },
+    {
+      "from": 2355.12,
+      "to": 2356.22,
+      "sid": 825,
+      "location": 2,
+      "content": "哎不过我也能买啊",
+      "music": 0
+    },
+    {
+      "from": 2356.22,
+      "to": 2360.52,
+      "sid": 826,
+      "location": 2,
+      "content": "就是我买做事情不要想的那么周到啊",
+      "music": 0
+    },
+    {
+      "from": 2360.52,
+      "to": 2362.18,
+      "sid": 827,
+      "location": 2,
+      "content": "还有很多同学跟我说什么",
+      "music": 0
+    },
+    {
+      "from": 2362.18,
+      "to": 2365.32,
+      "sid": 828,
+      "location": 2,
+      "content": "你要把这全套的修车都学会了再上路",
+      "music": 0
+    },
+    {
+      "from": 2365.32,
+      "to": 2367.53,
+      "sid": 829,
+      "location": 2,
+      "content": "咱们要不去这样吧",
+      "music": 0
+    },
+    {
+      "from": 2368.36,
+      "to": 2372.6,
+      "sid": 830,
+      "location": 2,
+      "content": "咱们现到现在还在那个浙江呢",
+      "music": 0
+    },
+    {
+      "from": 2372.6,
+      "to": 2375.6,
+      "sid": 831,
+      "location": 2,
+      "content": "不不是这位当江苏真的碰到什么问题",
+      "music": 0
+    },
+    {
+      "from": 2375.6,
+      "to": 2377.42,
+      "sid": 832,
+      "location": 2,
+      "content": "那我们就想办法去解决它",
+      "music": 0
+    },
+    {
+      "from": 2377.42,
+      "to": 2379.84,
+      "sid": 833,
+      "location": 2,
+      "content": "解决的时候顺便学这样不好吗",
+      "music": 0
+    },
+    {
+      "from": 2379.84,
+      "to": 2383.05,
+      "sid": 834,
+      "location": 2,
+      "content": "你们觉得有很多同学都是因为各种事情",
+      "music": 0
+    },
+    {
+      "from": 2383.05,
+      "to": 2385.25,
+      "sid": 835,
+      "location": 2,
+      "content": "就觉得我没有做好万全的准备",
+      "music": 0
+    },
+    {
+      "from": 2385.25,
+      "to": 2386.6,
+      "sid": 836,
+      "location": 2,
+      "content": "我就不能出发了",
+      "music": 0
+    },
+    {
+      "from": 2386.6,
+      "to": 2390.68,
+      "sid": 837,
+      "location": 2,
+      "content": "管他有的没的哥们从上海骑到杭州200km",
+      "music": 0
+    },
+    {
+      "from": 2390.68,
+      "to": 2392.75,
+      "sid": 838,
+      "location": 2,
+      "content": "啥准备都没做",
+      "music": 0
+    },
+    {
+      "from": 2393.11,
+      "to": 2394.47,
+      "sid": 839,
+      "location": 2,
+      "content": "啥东西都没带",
+      "music": 0
+    },
+    {
+      "from": 2394.47,
+      "to": 2395.73,
+      "sid": 840,
+      "location": 2,
+      "content": "骑这辆车走",
+      "music": 0
+    },
+    {
+      "from": 2395.73,
+      "to": 2396.79,
+      "sid": 841,
+      "location": 2,
+      "content": "不过讲道理",
+      "music": 0
+    },
+    {
+      "from": 2396.79,
+      "to": 2397.59,
+      "sid": 842,
+      "location": 2,
+      "content": "走了这么久",
+      "music": 0
+    },
+    {
+      "from": 2397.59,
+      "to": 2399.319,
+      "sid": 843,
+      "location": 2,
+      "content": "还没有回过上海",
+      "music": 0
+    },
+    {
+      "from": 2399.319,
+      "to": 2400.519,
+      "sid": 844,
+      "location": 2,
+      "content": "好像回了一次",
+      "music": 0
+    },
+    {
+      "from": 2400.519,
+      "to": 2401.399,
+      "sid": 845,
+      "location": 2,
+      "content": "但那个也不算回",
+      "music": 0
+    },
+    {
+      "from": 2401.399,
+      "to": 2402.819,
+      "sid": 846,
+      "location": 2,
+      "content": "我不是说不要做准备",
+      "music": 0
+    },
+    {
+      "from": 2402.819,
+      "to": 2404.119,
+      "sid": 847,
+      "location": 2,
+      "content": "准备肯定是要做的",
+      "music": 0
+    },
+    {
+      "from": 2404.119,
+      "to": 2407.45,
+      "sid": 848,
+      "location": 2,
+      "content": "但是你不需要做到100%的准备",
+      "music": 0
+    },
+    {
+      "from": 2407.77,
+      "to": 2410.25,
+      "sid": 849,
+      "location": 2,
+      "content": "你只要大致了解你会碰到的问题",
+      "music": 0
+    },
+    {
+      "from": 2410.25,
+      "to": 2413.15,
+      "sid": 850,
+      "location": 2,
+      "content": "然后给一个大概的解决方案就行了",
+      "music": 0
+    },
+    {
+      "from": 2413.15,
+      "to": 2415.63,
+      "sid": 851,
+      "location": 2,
+      "content": "你不需要给出最好的方案",
+      "music": 0
+    },
+    {
+      "from": 2416.03,
+      "to": 2418.99,
+      "sid": 852,
+      "location": 2,
+      "content": "说你如果一定要执着于给出最好的方案",
+      "music": 0
+    },
+    {
+      "from": 2418.99,
+      "to": 2422.51,
+      "sid": 853,
+      "location": 2,
+      "content": "那你的结果就一定是不会去做这些事情",
+      "music": 0
+    },
+    {
+      "from": 2422.51,
+      "to": 2424.75,
+      "sid": 854,
+      "location": 2,
+      "content": "你们觉得我现在说话声音是不是有点闷",
+      "music": 0
+    },
+    {
+      "from": 2424.75,
+      "to": 2426.95,
+      "sid": 855,
+      "location": 2,
+      "content": "因为我整个嘴都在衣服里面",
+      "music": 0
+    },
+    {
+      "from": 2426.95,
+      "to": 2428.17,
+      "sid": 856,
+      "location": 2,
+      "content": "这是哪呀",
+      "music": 0
+    },
+    {
+      "from": 2428.17,
+      "to": 2429.45,
+      "sid": 857,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 2429.45,
+      "to": 2431.01,
+      "sid": 858,
+      "location": 2,
+      "content": "这里有个摩天轮",
+      "music": 0
+    },
+    {
+      "from": 2431.01,
+      "to": 2432.45,
+      "sid": 859,
+      "location": 2,
+      "content": "我看看这是哪啊",
+      "music": 0
+    },
+    {
+      "from": 2433.81,
+      "to": 2437.239,
+      "sid": 860,
+      "location": 2,
+      "content": "百联奥特莱斯哦",
+      "music": 0
+    },
+    {
+      "from": 2437.239,
+      "to": 2439.879,
+      "sid": 861,
+      "location": 2,
+      "content": "这是南京汤山百联奥特莱斯",
+      "music": 0
+    },
+    {
+      "from": 2439.879,
+      "to": 2441.879,
+      "sid": 862,
+      "location": 2,
+      "content": "那我还以为是个什么游乐园呢",
+      "music": 0
+    },
+    {
+      "from": 2441.879,
+      "to": 2442.919,
+      "sid": 863,
+      "location": 2,
+      "content": "哎我把镜头擦一下",
+      "music": 0
+    },
+    {
+      "from": 2442.919,
+      "to": 2444.519,
+      "sid": 864,
+      "location": 2,
+      "content": "水太多了",
+      "music": 0
+    },
+    {
+      "from": 2447.44,
+      "to": 2448.94,
+      "sid": 865,
+      "location": 2,
+      "content": "现在雨没那么大了",
+      "music": 0
+    },
+    {
+      "from": 2448.94,
+      "to": 2450.96,
+      "sid": 866,
+      "location": 2,
+      "content": "就再飘了一点点",
+      "music": 0
+    },
+    {
+      "from": 2451.36,
+      "to": 2456.09,
+      "sid": 867,
+      "location": 2,
+      "content": "哎呀从你我本来以为从南京走的时候",
+      "music": 0
+    },
+    {
+      "from": 2456.09,
+      "to": 2457.35,
+      "sid": 868,
+      "location": 2,
+      "content": "雨就已经停了",
+      "music": 0
+    },
+    {
+      "from": 2457.35,
+      "to": 2459.15,
+      "sid": 869,
+      "location": 2,
+      "content": "但是我刚出南京",
+      "music": 0
+    },
+    {
+      "from": 2459.15,
+      "to": 2461.17,
+      "sid": 870,
+      "location": 2,
+      "content": "雨就下大了",
+      "music": 0
+    },
+    {
+      "from": 2461.52,
+      "to": 2464.08,
+      "sid": 871,
+      "location": 2,
+      "content": "现在又小了一点啊",
+      "music": 0
+    },
+    {
+      "from": 2464.08,
+      "to": 2465.52,
+      "sid": 872,
+      "location": 2,
+      "content": "这个是百联的图标",
+      "music": 0
+    },
+    {
+      "from": 2465.52,
+      "to": 2467.9,
+      "sid": 873,
+      "location": 2,
+      "content": "今天话真的有点少了",
+      "music": 0
+    },
+    {
+      "from": 2467.9,
+      "to": 2469.95,
+      "sid": 874,
+      "location": 2,
+      "content": "脸都有点动了",
+      "music": 0
+    },
+    {
+      "from": 2470.35,
+      "to": 2472.97,
+      "sid": 875,
+      "location": 2,
+      "content": "我觉得我选中间点选的蛮好的",
+      "music": 0
+    },
+    {
+      "from": 2472.97,
+      "to": 2474.71,
+      "sid": 876,
+      "location": 2,
+      "content": "如果今天还想骑到镇江",
+      "music": 0
+    },
+    {
+      "from": 2474.71,
+      "to": 2476.55,
+      "sid": 877,
+      "location": 2,
+      "content": "有点作死了",
+      "music": 0
+    },
+    {
+      "from": 2476.78,
+      "to": 2478.92,
+      "sid": 878,
+      "location": 2,
+      "content": "我觉得我已经差不多燃尽了",
+      "music": 0
+    },
+    {
+      "from": 2478.92,
+      "to": 2480.74,
+      "sid": 879,
+      "location": 2,
+      "content": "但还有13.2km",
+      "music": 0
+    },
+    {
+      "from": 2480.74,
+      "to": 2482.12,
+      "sid": 880,
+      "location": 2,
+      "content": "6.54分",
+      "music": 0
+    },
+    {
+      "from": 2482.12,
+      "to": 2485.06,
+      "sid": 881,
+      "location": 2,
+      "content": "我感觉我说不出话",
+      "music": 0
+    },
+    {
+      "from": 2485.06,
+      "to": 2485.5,
+      "sid": 882,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 2486.9,
+      "to": 2489.62,
+      "sid": 883,
+      "location": 2,
+      "content": "下雨天你会觉得特别闷",
+      "music": 0
+    },
+    {
+      "from": 2490.82,
+      "to": 2495.06,
+      "sid": 884,
+      "location": 2,
+      "content": "尤其是晚上你骑车的时候要超级集中注意力",
+      "music": 0
+    },
+    {
+      "from": 2495.06,
+      "to": 2497.68,
+      "sid": 885,
+      "location": 2,
+      "content": "就感觉对自己的消耗特别大",
+      "music": 0
+    },
+    {
+      "from": 2497.68,
+      "to": 2499.92,
+      "sid": 886,
+      "location": 2,
+      "content": "几个Buff叠加到一起去了",
+      "music": 0
+    },
+    {
+      "from": 2499.92,
+      "to": 2502.29,
+      "sid": 887,
+      "location": 2,
+      "content": "现在七点整",
+      "music": 0
+    },
+    {
+      "from": 2502.29,
+      "to": 2505.77,
+      "sid": 888,
+      "location": 2,
+      "content": "我到那儿还来得及看AG吧",
+      "music": 0
+    },
+    {
+      "from": 2505.77,
+      "to": 2506.81,
+      "sid": 889,
+      "location": 2,
+      "content": "急不急了",
+      "music": 0
+    },
+    {
+      "from": 2506.81,
+      "to": 2509.18,
+      "sid": 890,
+      "location": 2,
+      "content": "兄弟们快点弹幕跟我说一下",
+      "music": 0
+    },
+    {
+      "from": 2509.18,
+      "to": 2511.42,
+      "sid": 891,
+      "location": 2,
+      "content": "现在七点我都没停过车",
+      "music": 0
+    },
+    {
+      "from": 2511.42,
+      "to": 2515.529,
+      "sid": 892,
+      "location": 2,
+      "content": "刚刚路边路过了一群卖大闸蟹的",
+      "music": 0
+    },
+    {
+      "from": 2515.729,
+      "to": 2518.349,
+      "sid": 893,
+      "location": 2,
+      "content": "你们知道这边大闸蟹多少钱一只吗",
+      "music": 0
+    },
+    {
+      "from": 2518.349,
+      "to": 2519.869,
+      "sid": 894,
+      "location": 2,
+      "content": "五块钱一只",
+      "music": 0
+    },
+    {
+      "from": 2519.869,
+      "to": 2520.809,
+      "sid": 895,
+      "location": 2,
+      "content": "但它不是阳澄湖的",
+      "music": 0
+    },
+    {
+      "from": 2520.809,
+      "to": 2522.049,
+      "sid": 896,
+      "location": 2,
+      "content": "还好是五固城湖",
+      "music": 0
+    },
+    {
+      "from": 2522.049,
+      "to": 2524.31,
+      "sid": 897,
+      "location": 2,
+      "content": "那五块钱一只也太便宜了",
+      "music": 0
+    },
+    {
+      "from": 2524.55,
+      "to": 2525.67,
+      "sid": 898,
+      "location": 2,
+      "content": "但我没停下来看",
+      "music": 0
+    },
+    {
+      "from": 2525.67,
+      "to": 2527.03,
+      "sid": 899,
+      "location": 2,
+      "content": "因为他那边没啥人",
+      "music": 0
+    },
+    {
+      "from": 2527.03,
+      "to": 2527.63,
+      "sid": 900,
+      "location": 2,
+      "content": "今天下雨",
+      "music": 0
+    },
+    {
+      "from": 2527.63,
+      "to": 2529.21,
+      "sid": 901,
+      "location": 2,
+      "content": "我估计他都不想那啥了",
+      "music": 0
+    },
+    {
+      "from": 2529.21,
+      "to": 2530.91,
+      "sid": 902,
+      "location": 2,
+      "content": "也不想做生意了",
+      "music": 0
+    },
+    {
+      "from": 2530.91,
+      "to": 2533.819,
+      "sid": 903,
+      "location": 2,
+      "content": "好像要到了这个新城市了",
+      "music": 0
+    },
+    {
+      "from": 2533.819,
+      "to": 2535.339,
+      "sid": 904,
+      "location": 2,
+      "content": "这个绝对是幸福",
+      "music": 0
+    },
+    {
+      "from": 2535.339,
+      "to": 2536.979,
+      "sid": 905,
+      "location": 2,
+      "content": "这个地方叫聚溶巨石",
+      "music": 0
+    },
+    {
+      "from": 2536.979,
+      "to": 2538.739,
+      "sid": 906,
+      "location": 2,
+      "content": "巨号的质溶是容易的",
+      "music": 0
+    },
+    {
+      "from": 2538.739,
+      "to": 2539.699,
+      "sid": 907,
+      "location": 2,
+      "content": "绒不是聚拢",
+      "music": 0
+    },
+    {
+      "from": 2539.699,
+      "to": 2540.299,
+      "sid": 908,
+      "location": 2,
+      "content": "是聚荣",
+      "music": 0
+    },
+    {
+      "from": 2540.299,
+      "to": 2542.64,
+      "sid": 909,
+      "location": 2,
+      "content": "真的会有住在这的水友们",
+      "music": 0
+    },
+    {
+      "from": 2542.64,
+      "to": 2545.08,
+      "sid": 910,
+      "location": 2,
+      "content": "我不信你别骗我",
+      "music": 0
+    },
+    {
+      "from": 2545.08,
+      "to": 2545.68,
+      "sid": 911,
+      "location": 2,
+      "content": "你别跟我说",
+      "music": 0
+    },
+    {
+      "from": 2545.68,
+      "to": 2546.16,
+      "sid": 912,
+      "location": 2,
+      "content": "你住这",
+      "music": 0
+    },
+    {
+      "from": 2546.16,
+      "to": 2548.32,
+      "sid": 913,
+      "location": 2,
+      "content": "你肯定不住这",
+      "music": 0
+    },
+    {
+      "from": 2549.72,
+      "to": 2552.72,
+      "sid": 914,
+      "location": 2,
+      "content": "还有2.4km就到了锻炼",
+      "music": 0
+    },
+    {
+      "from": 2552.72,
+      "to": 2554.71,
+      "sid": 915,
+      "location": 2,
+      "content": "你猜我从哪骑过来的哪里",
+      "music": 0
+    },
+    {
+      "from": 2554.71,
+      "to": 2556.03,
+      "sid": 916,
+      "location": 2,
+      "content": "今天叫队长讲了两句",
+      "music": 0
+    },
+    {
+      "from": 2556.03,
+      "to": 2556.59,
+      "sid": 917,
+      "location": 2,
+      "content": "给我听听",
+      "music": 0
+    },
+    {
+      "from": 2556.59,
+      "to": 2557.27,
+      "sid": 918,
+      "location": 2,
+      "content": "弄到上海",
+      "music": 0
+    },
+    {
+      "from": 2557.27,
+      "to": 2558.07,
+      "sid": 919,
+      "location": 2,
+      "content": "我听得懂啊",
+      "music": 0
+    },
+    {
+      "from": 2558.07,
+      "to": 2560.63,
+      "sid": 920,
+      "location": 2,
+      "content": "我靠你从上海骑过来啊",
+      "music": 0
+    },
+    {
+      "from": 2560.63,
+      "to": 2562.34,
+      "sid": 921,
+      "location": 2,
+      "content": "干嘛外面兴起",
+      "music": 0
+    },
+    {
+      "from": 2562.34,
+      "to": 2563.02,
+      "sid": 922,
+      "location": 2,
+      "content": "我是要骑的",
+      "music": 0
+    },
+    {
+      "from": 2563.02,
+      "to": 2565.02,
+      "sid": 923,
+      "location": 2,
+      "content": "我从上海到嘉善到嘉兴",
+      "music": 0
+    },
+    {
+      "from": 2565.02,
+      "to": 2565.62,
+      "sid": 924,
+      "location": 2,
+      "content": "到桐乡",
+      "music": 0
+    },
+    {
+      "from": 2565.62,
+      "to": 2566.28,
+      "sid": 925,
+      "location": 2,
+      "content": "到杭州",
+      "music": 0
+    },
+    {
+      "from": 2566.28,
+      "to": 2567.3,
+      "sid": 926,
+      "location": 2,
+      "content": "到黄山",
+      "music": 0
+    },
+    {
+      "from": 2567.3,
+      "to": 2570.569,
+      "sid": 927,
+      "location": 2,
+      "content": "朝上走过金国马鞍山",
+      "music": 0
+    },
+    {
+      "from": 2570.769,
+      "to": 2573.73,
+      "sid": 928,
+      "location": 2,
+      "content": "对中间忘了一个进线",
+      "music": 0
+    },
+    {
+      "from": 2573.73,
+      "to": 2574.59,
+      "sid": 929,
+      "location": 2,
+      "content": "芜湖马鞍山",
+      "music": 0
+    },
+    {
+      "from": 2574.59,
+      "to": 2576.57,
+      "sid": 930,
+      "location": 2,
+      "content": "那你回头等于说回头回上海了",
+      "music": 0
+    },
+    {
+      "from": 2576.57,
+      "to": 2577.55,
+      "sid": 931,
+      "location": 2,
+      "content": "不回往北京走",
+      "music": 0
+    },
+    {
+      "from": 2577.55,
+      "to": 2580.029,
+      "sid": 932,
+      "location": 2,
+      "content": "可以的可以的可以可以可以可以",
+      "music": 0
+    },
+    {
+      "from": 2580.029,
+      "to": 2581.749,
+      "sid": 933,
+      "location": 2,
+      "content": "今天下雨有点折磨啊",
+      "music": 0
+    },
+    {
+      "from": 2581.749,
+      "to": 2582.509,
+      "sid": 934,
+      "location": 2,
+      "content": "这没办法",
+      "music": 0
+    },
+    {
+      "from": 2582.509,
+      "to": 2583.66,
+      "sid": 935,
+      "location": 2,
+      "content": "那你住哪里",
+      "music": 0
+    },
+    {
+      "from": 2583.66,
+      "to": 2584.7,
+      "sid": 936,
+      "location": 2,
+      "content": "宾馆的还是什么的",
+      "music": 0
+    },
+    {
+      "from": 2584.7,
+      "to": 2585.74,
+      "sid": 937,
+      "location": 2,
+      "content": "住酒店是可以的",
+      "music": 0
+    },
+    {
+      "from": 2585.74,
+      "to": 2588,
+      "sid": 938,
+      "location": 2,
+      "content": "但能坚持住不容易的还行",
+      "music": 0
+    },
+    {
+      "from": 2588,
+      "to": 2590.38,
+      "sid": 939,
+      "location": 2,
+      "content": "人家还有很多人是搭帐篷住的",
+      "music": 0
+    },
+    {
+      "from": 2590.38,
+      "to": 2591.84,
+      "sid": 940,
+      "location": 2,
+      "content": "我觉得还比较辛苦啊",
+      "music": 0
+    },
+    {
+      "from": 2591.84,
+      "to": 2594.02,
+      "sid": 941,
+      "location": 2,
+      "content": "嗯他他讲知道有时艰难",
+      "music": 0
+    },
+    {
+      "from": 2594.84,
+      "to": 2596.12,
+      "sid": 942,
+      "location": 2,
+      "content": "拿到回就很烦",
+      "music": 0
+    },
+    {
+      "from": 2596.12,
+      "to": 2596.86,
+      "sid": 943,
+      "location": 2,
+      "content": "太菜了",
+      "music": 0
+    },
+    {
+      "from": 2596.86,
+      "to": 2598.08,
+      "sid": 944,
+      "location": 2,
+      "content": "装就要装个半小时",
+      "music": 0
+    },
+    {
+      "from": 2598.08,
+      "to": 2600.04,
+      "sid": 945,
+      "location": 2,
+      "content": "也得说个半小时的",
+      "music": 0
+    },
+    {
+      "from": 2600.04,
+      "to": 2600.38,
+      "sid": 946,
+      "location": 2,
+      "content": "加油",
+      "music": 0
+    },
+    {
+      "from": 2600.38,
+      "to": 2601.54,
+      "sid": 947,
+      "location": 2,
+      "content": "这有啥好吃的",
+      "music": 0
+    },
+    {
+      "from": 2601.54,
+      "to": 2603.9,
+      "sid": 948,
+      "location": 2,
+      "content": "巨龙老鹅一定要去吃一趟",
+      "music": 0
+    },
+    {
+      "from": 2603.9,
+      "to": 2605.74,
+      "sid": 949,
+      "location": 2,
+      "content": "巨龙老鹅现在还吃得到吗",
+      "music": 0
+    },
+    {
+      "from": 2605.74,
+      "to": 2607.37,
+      "sid": 950,
+      "location": 2,
+      "content": "可以哪里都到市区去",
+      "music": 0
+    },
+    {
+      "from": 2607.37,
+      "to": 2608.13,
+      "sid": 951,
+      "location": 2,
+      "content": "可以吃",
+      "music": 0
+    },
+    {
+      "from": 2608.13,
+      "to": 2610.19,
+      "sid": 952,
+      "location": 2,
+      "content": "老鹅一定要吃巨龙当地的老鹅",
+      "music": 0
+    },
+    {
+      "from": 2610.19,
+      "to": 2611.34,
+      "sid": 953,
+      "location": 2,
+      "content": "巨龙的特产",
+      "music": 0
+    },
+    {
+      "from": 2611.34,
+      "to": 2612.7,
+      "sid": 954,
+      "location": 2,
+      "content": "狮头鹅不是狮头鹅",
+      "music": 0
+    },
+    {
+      "from": 2612.7,
+      "to": 2615.1,
+      "sid": 955,
+      "location": 2,
+      "content": "狮头鹅是浙江那边的老鹅",
+      "music": 0
+    },
+    {
+      "from": 2615.1,
+      "to": 2615.9,
+      "sid": 956,
+      "location": 2,
+      "content": "其实是养的鹅",
+      "music": 0
+    },
+    {
+      "from": 2615.9,
+      "to": 2617.46,
+      "sid": 957,
+      "location": 2,
+      "content": "但是他养的时间比较久",
+      "music": 0
+    },
+    {
+      "from": 2617.46,
+      "to": 2619.24,
+      "sid": 958,
+      "location": 2,
+      "content": "对做的还挺好",
+      "music": 0
+    },
+    {
+      "from": 2619.24,
+      "to": 2620.36,
+      "sid": 959,
+      "location": 2,
+      "content": "到达终点",
+      "music": 0
+    },
+    {
+      "from": 2620.36,
+      "to": 2621.02,
+      "sid": 960,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 2621.02,
+      "to": 2622.84,
+      "sid": 961,
+      "location": 2,
+      "content": "这好皮肤还出来",
+      "music": 0
+    },
+    {
+      "from": 2622.84,
+      "to": 2624.36,
+      "sid": 962,
+      "location": 2,
+      "content": "这坨实在是水太多了",
+      "music": 0
+    },
+    {
+      "from": 2624.36,
+      "to": 2624.9,
+      "sid": 963,
+      "location": 2,
+      "content": "没办法",
+      "music": 0
+    },
+    {
+      "from": 2624.9,
+      "to": 2627.59,
+      "sid": 964,
+      "location": 2,
+      "content": "还有800米就到了",
+      "music": 0
+    },
+    {
+      "from": 2627.59,
+      "to": 2630.13,
+      "sid": 965,
+      "location": 2,
+      "content": "我感觉我一定会去市中心",
+      "music": 0
+    },
+    {
+      "from": 2630.13,
+      "to": 2634.01,
+      "sid": 966,
+      "location": 2,
+      "content": "我可能会让酒店前台给我推荐一个外卖点",
+      "music": 0
+    },
+    {
+      "from": 2635.15,
+      "to": 2637.43,
+      "sid": 967,
+      "location": 2,
+      "content": "因为这实在是有点骑不动了",
+      "music": 0
+    },
+    {
+      "from": 2637.43,
+      "to": 2641.52,
+      "sid": 968,
+      "location": 2,
+      "content": "虽然说从南京到这边一共就40几公里",
+      "music": 0
+    },
+    {
+      "from": 2641.52,
+      "to": 2643.96,
+      "sid": 969,
+      "location": 2,
+      "content": "但今天其实我加起来骑了很远",
+      "music": 0
+    },
+    {
+      "from": 2643.96,
+      "to": 2644.88,
+      "sid": 970,
+      "location": 2,
+      "content": "看一下我的手表",
+      "music": 0
+    },
+    {
+      "from": 2644.88,
+      "to": 2646.94,
+      "sid": 971,
+      "location": 2,
+      "content": "我今天一共骑了75km",
+      "music": 0
+    },
+    {
+      "from": 2646.94,
+      "to": 2649.44,
+      "sid": 972,
+      "location": 2,
+      "content": "其实我是从南京的西边骑过来的",
+      "music": 0
+    },
+    {
+      "from": 2649.44,
+      "to": 2652.01,
+      "sid": 973,
+      "location": 2,
+      "content": "过了长江大桥又朝下走",
+      "music": 0
+    },
+    {
+      "from": 2652.01,
+      "to": 2652.95,
+      "sid": 974,
+      "location": 2,
+      "content": "绕了一大圈",
+      "music": 0
+    },
+    {
+      "from": 2652.95,
+      "to": 2654.21,
+      "sid": 975,
+      "location": 2,
+      "content": "直接骑了75km",
+      "music": 0
+    },
+    {
+      "from": 2654.21,
+      "to": 2655.97,
+      "sid": 976,
+      "location": 2,
+      "content": "怪不得我觉得我有点累",
+      "music": 0
+    },
+    {
+      "from": 2655.97,
+      "to": 2657.25,
+      "sid": 977,
+      "location": 2,
+      "content": "而且还是奥运修",
+      "music": 0
+    },
+    {
+      "from": 2657.25,
+      "to": 2658.79,
+      "sid": 978,
+      "location": 2,
+      "content": "骑电车超累",
+      "music": 0
+    },
+    {
+      "from": 2658.79,
+      "to": 2660.609,
+      "sid": 979,
+      "location": 2,
+      "content": "我今天又订了一个电竞酒店",
+      "music": 0
+    },
+    {
+      "from": 2660.629,
+      "to": 2662.929,
+      "sid": 980,
+      "location": 2,
+      "content": "其实我现在发现订酒店还可以",
+      "music": 0.09148084096728931
+    },
+    {
+      "from": 2662.929,
+      "to": 2665.089,
+      "sid": 981,
+      "location": 2,
+      "content": "虽然大多数订酒店网都没那么好",
+      "music": 0
+    },
+    {
+      "from": 2665.089,
+      "to": 2667.709,
+      "sid": 982,
+      "location": 2,
+      "content": "但是至少他一有电脑",
+      "music": 0
+    },
+    {
+      "from": 2667.709,
+      "to": 2670.1,
+      "sid": 983,
+      "location": 2,
+      "content": "第二很便宜",
+      "music": 0
+    },
+    {
+      "from": 2671.14,
+      "to": 2672.46,
+      "sid": 984,
+      "location": 2,
+      "content": "我一会给你们看一下我的房间",
+      "music": 0
+    },
+    {
+      "from": 2672.46,
+      "to": 2674.43,
+      "sid": 985,
+      "location": 2,
+      "content": "你们猜一下我们先订了多少钱",
+      "music": 0
+    },
+    {
+      "from": 2674.43,
+      "to": 2675.55,
+      "sid": 986,
+      "location": 2,
+      "content": "我绝对猜不到",
+      "music": 0
+    },
+    {
+      "from": 2675.55,
+      "to": 2677.75,
+      "sid": 987,
+      "location": 2,
+      "content": "我感觉以前很多那种很便宜的宾馆",
+      "music": 0
+    },
+    {
+      "from": 2677.75,
+      "to": 2679.59,
+      "sid": 988,
+      "location": 2,
+      "content": "他就会改成电竞酒店",
+      "music": 0
+    },
+    {
+      "from": 2679.59,
+      "to": 2680.83,
+      "sid": 989,
+      "location": 2,
+      "content": "这样就一举两得",
+      "music": 0
+    },
+    {
+      "from": 2680.83,
+      "to": 2683.57,
+      "sid": 990,
+      "location": 2,
+      "content": "对于我们消费者来说可能还挺全的",
+      "music": 0
+    },
+    {
+      "from": 2683.57,
+      "to": 2684.63,
+      "sid": 991,
+      "location": 2,
+      "content": "有可能就是失中",
+      "music": 0
+    },
+    {
+      "from": 2684.63,
+      "to": 2687.95,
+      "sid": 992,
+      "location": 2,
+      "content": "必等一会有可能可以下楼就能吃个饭",
+      "music": 0.07326007057648708
+    },
+    {
+      "from": 2687.95,
+      "to": 2689.37,
+      "sid": 993,
+      "location": 2,
+      "content": "但是现在的问题是",
+      "music": 0
+    },
+    {
+      "from": 2689.37,
+      "to": 2691.81,
+      "sid": 994,
+      "location": 2,
+      "content": "IG到底到底值钱呢",
+      "music": 0
+    },
+    {
+      "from": 2691.81,
+      "to": 2696.61,
+      "sid": 995,
+      "location": 2,
+      "content": "现在07:45分四点开始打三个小时",
+      "music": 0.035294116609092555
+    },
+    {
+      "from": 2696.61,
+      "to": 2697.67,
+      "sid": 996,
+      "location": 2,
+      "content": "不一定打完",
+      "music": 0
+    },
+    {
+      "from": 2697.67,
+      "to": 2698.89,
+      "sid": 997,
+      "location": 2,
+      "content": "我我一直都没看",
+      "music": 0
+    },
+    {
+      "from": 2698.89,
+      "to": 2700.6,
+      "sid": 998,
+      "location": 2,
+      "content": "我想给自己留个悬念",
+      "music": 0
+    },
+    {
+      "from": 2700.6,
+      "to": 2701.64,
+      "sid": 999,
+      "location": 2,
+      "content": "我想知道",
+      "music": 0
+    },
+    {
+      "from": 2701.64,
+      "to": 2702.84,
+      "sid": 1000,
+      "location": 2,
+      "content": "当我提到这的时候",
+      "music": 0
+    },
+    {
+      "from": 2702.84,
+      "to": 2705.42,
+      "sid": 1001,
+      "location": 2,
+      "content": "我突然看到一个还在打",
+      "music": 0
+    },
+    {
+      "from": 2705.42,
+      "to": 2707.6,
+      "sid": 1002,
+      "location": 2,
+      "content": "或者看到一个决胜局",
+      "music": 0
+    },
+    {
+      "from": 2708.61,
+      "to": 2711.65,
+      "sid": 1003,
+      "location": 2,
+      "content": "在旁边还可以不想间简简单的房间",
+      "music": 0
+    },
+    {
+      "from": 2711.65,
+      "to": 2713.49,
+      "sid": 1004,
+      "location": 2,
+      "content": "大小挺大的",
+      "music": 0
+    },
+    {
+      "from": 2713.85,
+      "to": 2717.15,
+      "sid": 1005,
+      "location": 2,
+      "content": "厕所洗澡洗手台",
+      "music": 0
+    },
+    {
+      "from": 2717.15,
+      "to": 2718.71,
+      "sid": 1006,
+      "location": 2,
+      "content": "这里还有个大衣柜",
+      "music": 0
+    },
+    {
+      "from": 2718.71,
+      "to": 2720.05,
+      "sid": 1007,
+      "location": 2,
+      "content": "两台电脑还可以",
+      "music": 0
+    },
+    {
+      "from": 2720.05,
+      "to": 2722.84,
+      "sid": 1008,
+      "location": 2,
+      "content": "你们一定想不到这个房间一天多少钱哇",
+      "music": 0
+    },
+    {
+      "from": 2722.84,
+      "to": 2724.82,
+      "sid": 1009,
+      "location": 2,
+      "content": "开一下电脑怎么开",
+      "music": 0
+    },
+    {
+      "from": 2724.82,
+      "to": 2725.92,
+      "sid": 1010,
+      "location": 2,
+      "content": "这怎么开机",
+      "music": 0
+    },
+    {
+      "from": 2725.92,
+      "to": 2729.33,
+      "sid": 1011,
+      "location": 2,
+      "content": "没你们想象不到这房间多少钱150",
+      "music": 0
+    },
+    {
+      "from": 2729.33,
+      "to": 2730.77,
+      "sid": 1012,
+      "location": 2,
+      "content": "嘿嘿嘿嘿",
+      "music": 0
+    },
+    {
+      "from": 2731.93,
+      "to": 2732.89,
+      "sid": 1013,
+      "location": 2,
+      "content": "爽死了",
+      "music": 0
+    },
+    {
+      "from": 2732.89,
+      "to": 2733.85,
+      "sid": 1014,
+      "location": 2,
+      "content": "就说真的",
+      "music": 0
+    },
+    {
+      "from": 2733.85,
+      "to": 2735.48,
+      "sid": 1015,
+      "location": 2,
+      "content": "如果是两个人就太爽了",
+      "music": 0
+    },
+    {
+      "from": 2735.48,
+      "to": 2737,
+      "sid": 1016,
+      "location": 2,
+      "content": "两个人就要订双床房了",
+      "music": 0
+    },
+    {
+      "from": 2737,
+      "to": 2738.72,
+      "sid": 1017,
+      "location": 2,
+      "content": "哈哈这两台机器多舒服",
+      "music": 0
+    },
+    {
+      "from": 2738.72,
+      "to": 2739.68,
+      "sid": 1018,
+      "location": 2,
+      "content": "但这房间有个缺点",
+      "music": 0
+    },
+    {
+      "from": 2739.68,
+      "to": 2743.53,
+      "sid": 1019,
+      "location": 2,
+      "content": "就是进来以后有一股那种老酒吃的那种霉味",
+      "music": 0
+    },
+    {
+      "from": 2743.53,
+      "to": 2744.75,
+      "sid": 1020,
+      "location": 2,
+      "content": "别的都挺好",
+      "music": 0
+    },
+    {
+      "from": 2744.75,
+      "to": 2747.17,
+      "sid": 1021,
+      "location": 2,
+      "content": "你看看看IG怎么说",
+      "music": 0
+    },
+    {
+      "from": 2748.53,
+      "to": 2754.779,
+      "sid": 1022,
+      "location": 2,
+      "content": "现在是北京时间十月14号7.58分",
+      "music": 0.04751619767779623
+    },
+    {
+      "from": 2754.779,
+      "to": 2758.219,
+      "sid": 1023,
+      "location": 2,
+      "content": "我一路风尘仆仆赶到了酒店",
+      "music": 0
+    },
+    {
+      "from": 2758.219,
+      "to": 2760.539,
+      "sid": 1024,
+      "location": 2,
+      "content": "一路上我都没有看过比赛的战报",
+      "music": 0
+    },
+    {
+      "from": 2760.539,
+      "to": 2762.18,
+      "sid": 1025,
+      "location": 2,
+      "content": "还知道你还在不在",
+      "music": 0
+    },
+    {
+      "from": 2762.18,
+      "to": 2763.28,
+      "sid": 1026,
+      "location": 2,
+      "content": "带不带打",
+      "music": 0
+    },
+    {
+      "from": 2763.28,
+      "to": 2764.48,
+      "sid": 1027,
+      "location": 2,
+      "content": "早就卖了就行",
+      "music": 0
+    },
+    {
+      "from": 2764.48,
+      "to": 2765.44,
+      "sid": 1028,
+      "location": 2,
+      "content": "还在哪没结束",
+      "music": 0
+    },
+    {
+      "from": 2765.44,
+      "to": 2766.7,
+      "sid": 1029,
+      "location": 2,
+      "content": "怎么抽签啦",
+      "music": 0
+    },
+    {
+      "from": 2766.7,
+      "to": 2770.539,
+      "sid": 1030,
+      "location": 2,
+      "content": "能让人拖进度条的操三比一啊",
+      "music": 0
+    },
+    {
+      "from": 2770.539,
+      "to": 2772.119,
+      "sid": 1031,
+      "location": 2,
+      "content": "现在7.59分",
+      "music": 0
+    },
+    {
+      "from": 2772.679,
+      "to": 2773.499,
+      "sid": 1032,
+      "location": 2,
+      "content": "刚打完",
+      "music": 0
+    },
+    {
+      "from": 2773.499,
+      "to": 2775.679,
+      "sid": 1033,
+      "location": 2,
+      "content": "我丢哎",
+      "music": 0.12790696930759907
+    },
+    {
+      "from": 2775.679,
+      "to": 2776.659,
+      "sid": 1034,
+      "location": 2,
+      "content": "但也挺好的",
+      "music": 0
+    },
+    {
+      "from": 2776.659,
+      "to": 2779.319,
+      "sid": 1035,
+      "location": 2,
+      "content": "没看到输三比一也行吧",
+      "music": 0
+    },
+    {
+      "from": 2779.319,
+      "to": 2781.04,
+      "sid": 1036,
+      "location": 2,
+      "content": "至少赢了一把了",
+      "music": 0
+    },
+    {
+      "from": 2781.04,
+      "to": 2781.72,
+      "sid": 1037,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 2781.72,
+      "to": 2783.5,
+      "sid": 1038,
+      "location": 2,
+      "content": "遗憾才是人生的主旋律",
+      "music": 0
+    },
+    {
+      "from": 2783.5,
+      "to": 2787.54,
+      "sid": 1039,
+      "location": 2,
+      "content": "另外今天从那个开始掐表到现在一共七个小时",
+      "music": 0
+    },
+    {
+      "from": 2787.54,
+      "to": 2790.31,
+      "sid": 1040,
+      "location": 2,
+      "content": "骑了76.75km",
+      "music": 0
+    },
+    {
+      "from": 2790.31,
+      "to": 2791.79,
+      "sid": 1041,
+      "location": 2,
+      "content": "If we just try",
+      "music": 0.9999998717948883
+    },
+    {
+      "from": 2791.79,
+      "to": 2793.43,
+      "sid": 1042,
+      "location": 2,
+      "content": "这月第58天",
+      "music": 0
+    },
+    {
+      "from": 2793.43,
+      "to": 2794.27,
+      "sid": 1043,
+      "location": 2,
+      "content": "嘿嘿嘿",
+      "music": 0
+    },
+    {
+      "from": 2794.27,
+      "to": 2796.15,
+      "sid": 1044,
+      "location": 2,
+      "content": "open up还可以吧",
+      "music": 0
+    },
+    {
+      "from": 2796.15,
+      "to": 2797.75,
+      "sid": 1045,
+      "location": 2,
+      "content": "经历了各种波折",
+      "music": 0
+    },
+    {
+      "from": 2797.75,
+      "to": 2800.93,
+      "sid": 1046,
+      "location": 2,
+      "content": "但是最终还是成功的离开了南京",
+      "music": 0
+    },
+    {
+      "from": 2800.93,
+      "to": 2803.05,
+      "sid": 1047,
+      "location": 2,
+      "content": "嘿嘿嘿嘿嘿呵呵",
+      "music": 0
+    },
+    {
+      "from": 2803.05,
+      "to": 2804.44,
+      "sid": 1048,
+      "location": 2,
+      "content": "好话不多说",
+      "music": 0
+    },
+    {
+      "from": 2804.44,
+      "to": 2807.24,
+      "sid": 1049,
+      "location": 2,
+      "content": "我今天不等我洗好澡再给你们安定了",
+      "music": 0
+    },
+    {
+      "from": 2807.24,
+      "to": 2808.56,
+      "sid": 1050,
+      "location": 2,
+      "content": "因为我要把这裤子洗了",
+      "music": 0
+    },
+    {
+      "from": 2808.56,
+      "to": 2810,
+      "sid": 1051,
+      "location": 2,
+      "content": "这裤子你们看看",
+      "music": 0
+    },
+    {
+      "from": 2810,
+      "to": 2812.68,
+      "sid": 1052,
+      "location": 2,
+      "content": "腿上全全湿光了",
+      "music": 0
+    },
+    {
+      "from": 2812.68,
+      "to": 2814.48,
+      "sid": 1053,
+      "location": 2,
+      "content": "祝10月16号过生日",
+      "music": 0
+    },
+    {
+      "from": 2814.48,
+      "to": 2815.6,
+      "sid": 1054,
+      "location": 2,
+      "content": "我们生日快乐",
+      "music": 0
+    },
+    {
+      "from": 2815.6,
+      "to": 2819.5,
+      "sid": 1055,
+      "location": 2,
+      "content": "明天在巨容感觉没有特别好逛的",
+      "music": 0
+    },
+    {
+      "from": 2819.5,
+      "to": 2821.06,
+      "sid": 1056,
+      "location": 2,
+      "content": "因为我已经把它骑的差不多了",
+      "music": 0
+    },
+    {
+      "from": 2821.06,
+      "to": 2824,
+      "sid": 1057,
+      "location": 2,
+      "content": "明天白天在这里吃个早饭或者中饭",
+      "music": 0
+    },
+    {
+      "from": 2824,
+      "to": 2826.37,
+      "sid": 1058,
+      "location": 2,
+      "content": "然后直接出发去镇江",
+      "music": 0
+    },
+    {
+      "from": 2826.37,
+      "to": 2828.27,
+      "sid": 1059,
+      "location": 2,
+      "content": "湛江的兄弟们等着我",
+      "music": 0
+    },
+    {
+      "from": 2828.27,
+      "to": 2830.13,
+      "sid": 1060,
+      "location": 2,
+      "content": "我明天见耶",
+      "music": 0
+    },
+    {
+      "from": 2830.13,
+      "to": 2831.87,
+      "sid": 1061,
+      "location": 2,
+      "content": "Just to be n",
+      "music": 0.9999998717948883
+    },
+    {
+      "from": 2832.19,
+      "to": 2833.41,
+      "sid": 1062,
+      "location": 2,
+      "content": "唉记得点个赞啊",
+      "music": 0
+    },
+    {
+      "from": 2833.41,
+      "to": 2834.35,
+      "sid": 1063,
+      "location": 2,
+      "content": "每期视频不教你",
+      "music": 0
+    },
+    {
+      "from": 2834.35,
+      "to": 2835.11,
+      "sid": 1064,
+      "location": 2,
+      "content": "不让我",
+      "music": 0
+    },
+    {
+      "from": 2835.11,
+      "to": 2836.46,
+      "sid": 1065,
+      "location": 2,
+      "content": "只我发现一件事情",
+      "music": 0
+    },
+    {
+      "from": 2836.46,
+      "to": 2838.06,
+      "sid": 1066,
+      "location": 2,
+      "content": "就是我只要跟大家说了点赞",
+      "music": 0
+    },
+    {
+      "from": 2838.06,
+      "to": 2839.1,
+      "sid": 1067,
+      "location": 2,
+      "content": "我们的点赞就会很多",
+      "music": 0
+    },
+    {
+      "from": 2839.1,
+      "to": 2840.38,
+      "sid": 1068,
+      "location": 2,
+      "content": "但是我老是会忘记说",
+      "music": 0
+    },
+    {
+      "from": 2840.38,
+      "to": 2841.98,
+      "sid": 1069,
+      "location": 2,
+      "content": "但是大家能不能养成习惯",
+      "music": 0
+    },
+    {
+      "from": 2841.98,
+      "to": 2844.13,
+      "sid": 1070,
+      "location": 2,
+      "content": "因为毕竟咱们每天更新",
+      "music": 0
+    },
+    {
+      "from": 2844.13,
+      "to": 2844.87,
+      "sid": 1071,
+      "location": 2,
+      "content": "我这么说",
+      "music": 0
+    },
+    {
+      "from": 2844.87,
+      "to": 2846.39,
+      "sid": 1072,
+      "location": 2,
+      "content": "虽然会引起有些同学的反感",
+      "music": 0
+    },
+    {
+      "from": 2846.39,
+      "to": 2847.47,
+      "sid": 1073,
+      "location": 2,
+      "content": "但毕竟我们每天更新",
+      "music": 0
+    },
+    {
+      "from": 2847.47,
+      "to": 2849.87,
+      "sid": 1074,
+      "location": 2,
+      "content": "给大家产出消磨时间的好好内容",
+      "music": 0
+    },
+    {
+      "from": 2849.87,
+      "to": 2850.52,
+      "sid": 1075,
+      "location": 2,
+      "content": "对不对",
+      "music": 0
+    },
+    {
+      "from": 2850.52,
+      "to": 2852.74,
+      "sid": 1076,
+      "location": 2,
+      "content": "那大家就给我点一个免费的小赞",
+      "music": 0
+    },
+    {
+      "from": 2852.74,
+      "to": 2855.44,
+      "sid": 1077,
+      "location": 2,
+      "content": "这样我们就形成了一个良性循环",
+      "music": 0
+    },
+    {
+      "from": 2855.44,
+      "to": 2856.16,
+      "sid": 1078,
+      "location": 2,
+      "content": "这很合理",
+      "music": 0
+    },
+    {
+      "from": 2856.16,
+      "to": 2858.38,
+      "sid": 1079,
+      "location": 2,
+      "content": "哈哈谢谢大家的点赞",
+      "music": 0
+    },
+    {
+      "from": 2858.38,
+      "to": 2859.48,
+      "sid": 1080,
+      "location": 2,
+      "content": "明天见",
+      "music": 0
+    }
+  ]
+}

@@ -1,0 +1,4844 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 1.08,
+      "to": 2.98,
+      "sid": 1,
+      "location": 2,
+      "content": "出来给我出来",
+      "music": 0
+    },
+    {
+      "from": 2.98,
+      "to": 7.5,
+      "sid": 2,
+      "location": 2,
+      "content": "哎哎哎哎喜欢玩啊",
+      "music": 0
+    },
+    {
+      "from": 7.5,
+      "to": 11.65,
+      "sid": 3,
+      "location": 2,
+      "content": "给我出来出来出来嗯",
+      "music": 0
+    },
+    {
+      "from": 11.65,
+      "to": 12.87,
+      "sid": 4,
+      "location": 2,
+      "content": "很喜欢玩是吧",
+      "music": 0
+    },
+    {
+      "from": 12.87,
+      "to": 15.87,
+      "sid": 5,
+      "location": 2,
+      "content": "喜欢玩儿啊啊",
+      "music": 0
+    },
+    {
+      "from": 17.5,
+      "to": 19.34,
+      "sid": 6,
+      "location": 2,
+      "content": "啊啊啊啊",
+      "music": 0
+    },
+    {
+      "from": 19.34,
+      "to": 20.68,
+      "sid": 7,
+      "location": 2,
+      "content": "要玩啊",
+      "music": 0
+    },
+    {
+      "from": 20.68,
+      "to": 24.72,
+      "sid": 8,
+      "location": 2,
+      "content": "跟你玩可好玩是吧啊啊啊啊",
+      "music": 0
+    },
+    {
+      "from": 24.72,
+      "to": 27.42,
+      "sid": 9,
+      "location": 2,
+      "content": "这是一部根据真实事件改编的电影",
+      "music": 0
+    },
+    {
+      "from": 27.42,
+      "to": 28.94,
+      "sid": 10,
+      "location": 2,
+      "content": "由于上映期间排片少",
+      "music": 0
+    },
+    {
+      "from": 28.94,
+      "to": 29.7,
+      "sid": 11,
+      "location": 2,
+      "content": "宣传少",
+      "music": 0
+    },
+    {
+      "from": 29.7,
+      "to": 31.48,
+      "sid": 12,
+      "location": 2,
+      "content": "再加上相对沉重的主题",
+      "music": 0
+    },
+    {
+      "from": 31.48,
+      "to": 34.98,
+      "sid": 13,
+      "location": 2,
+      "content": "让这部电影的票房成绩最终只停留在1000多万",
+      "music": 0
+    },
+    {
+      "from": 34.98,
+      "to": 37.78,
+      "sid": 14,
+      "location": 2,
+      "content": "但他却在第42届香港金像奖上",
+      "music": 0
+    },
+    {
+      "from": 37.78,
+      "to": 39.2,
+      "sid": 15,
+      "location": 2,
+      "content": "获得了16项提名",
+      "music": 0
+    },
+    {
+      "from": 39.2,
+      "to": 41.24,
+      "sid": 16,
+      "location": 2,
+      "content": "并最终斩获了最佳女主",
+      "music": 0
+    },
+    {
+      "from": 41.24,
+      "to": 44.08,
+      "sid": 17,
+      "location": 2,
+      "content": "最佳男配和最佳女女配三项大奖",
+      "music": 0
+    },
+    {
+      "from": 44.08,
+      "to": 45.94,
+      "sid": 18,
+      "location": 2,
+      "content": "那么这到底是怎样的一部电影",
+      "music": 0
+    },
+    {
+      "from": 45.94,
+      "to": 48.26,
+      "sid": 19,
+      "location": 2,
+      "content": "能够引发如此多的讨论与争议呢",
+      "music": 0
+    },
+    {
+      "from": 48.26,
+      "to": 51.5,
+      "sid": 20,
+      "location": 2,
+      "content": "本期咱们就来看看这部后劲十足的高分影片",
+      "music": 0
+    },
+    {
+      "from": 51.5,
+      "to": 52.4,
+      "sid": 21,
+      "location": 2,
+      "content": "白日之下",
+      "music": 0
+    },
+    {
+      "from": 52.4,
+      "to": 53.62,
+      "sid": 22,
+      "location": 2,
+      "content": "正片开始前",
+      "music": 0
+    },
+    {
+      "from": 53.62,
+      "to": 56.58,
+      "sid": 23,
+      "location": 2,
+      "content": "特别鸣谢淘宝的独家冠名赞助",
+      "music": 0
+    },
+    {
+      "from": 56.58,
+      "to": 58.24,
+      "sid": 24,
+      "location": 2,
+      "content": "这次淘宝活动力度超大",
+      "music": 0
+    },
+    {
+      "from": 58.24,
+      "to": 60.6,
+      "sid": 25,
+      "location": 2,
+      "content": "像我一直很舍不得买的PS5",
+      "music": 0
+    },
+    {
+      "from": 60.6,
+      "to": 63.4,
+      "sid": 26,
+      "location": 2,
+      "content": "现在购买仅需2889元",
+      "music": 0
+    },
+    {
+      "from": 63.4,
+      "to": 64.38,
+      "sid": 27,
+      "location": 2,
+      "content": "性能强劲",
+      "music": 0
+    },
+    {
+      "from": 64.38,
+      "to": 65.3,
+      "sid": 28,
+      "location": 2,
+      "content": "加载超快",
+      "music": 0
+    },
+    {
+      "from": 65.3,
+      "to": 66.46,
+      "sid": 29,
+      "location": 2,
+      "content": "让人爱不释手",
+      "music": 0
+    },
+    {
+      "from": 66.46,
+      "to": 68.58,
+      "sid": 30,
+      "location": 2,
+      "content": "特别是玩黑神话悟空的时候",
+      "music": 0
+    },
+    {
+      "from": 68.58,
+      "to": 70.82,
+      "sid": 31,
+      "location": 2,
+      "content": "那画面和特效还有沉浸感",
+      "music": 0
+    },
+    {
+      "from": 70.82,
+      "to": 71.58,
+      "sid": 32,
+      "location": 2,
+      "content": "简直绝了",
+      "music": 0
+    },
+    {
+      "from": 71.58,
+      "to": 75.78,
+      "sid": 33,
+      "location": 2,
+      "content": "还有这款小米CV4pro用的是第三代骁龙处理器",
+      "music": 0
+    },
+    {
+      "from": 75.78,
+      "to": 78.12,
+      "sid": 34,
+      "location": 2,
+      "content": "搭配莱卡光学专业三摄像头",
+      "music": 0
+    },
+    {
+      "from": 78.12,
+      "to": 80.16,
+      "sid": 35,
+      "location": 2,
+      "content": "让你的拍照体验大幅提升",
+      "music": 0
+    },
+    {
+      "from": 80.16,
+      "to": 82.88,
+      "sid": 36,
+      "location": 2,
+      "content": "到手价仅需2799元",
+      "music": 0
+    },
+    {
+      "from": 82.88,
+      "to": 85.7,
+      "sid": 37,
+      "location": 2,
+      "content": "现在上淘宝搜索数码超值好物",
+      "music": 0
+    },
+    {
+      "from": 85.7,
+      "to": 86.96,
+      "sid": 38,
+      "location": 2,
+      "content": "不仅品牌齐全",
+      "music": 0
+    },
+    {
+      "from": 86.96,
+      "to": 88.28,
+      "sid": 39,
+      "location": 2,
+      "content": "而且还价格实惠",
+      "music": 0
+    },
+    {
+      "from": 88.28,
+      "to": 88.78,
+      "sid": 40,
+      "location": 2,
+      "content": "怎么说",
+      "music": 0
+    },
+    {
+      "from": 88.78,
+      "to": 89.7,
+      "sid": 41,
+      "location": 2,
+      "content": "还是淘宝箱",
+      "music": 0
+    },
+    {
+      "from": 89.7,
+      "to": 90.86,
+      "sid": 42,
+      "location": 2,
+      "content": "有需要的小伙伴们",
+      "music": 0
+    },
+    {
+      "from": 90.86,
+      "to": 94.8,
+      "sid": 43,
+      "location": 2,
+      "content": "也可以点击评论区的置顶链接或视频下方浮窗",
+      "music": 0
+    },
+    {
+      "from": 94.8,
+      "to": 96.4,
+      "sid": 44,
+      "location": 2,
+      "content": "大家可千万不要错过哦",
+      "music": 0
+    },
+    {
+      "from": 96.4,
+      "to": 97.22,
+      "sid": 45,
+      "location": 2,
+      "content": "故事开始",
+      "music": 0
+    },
+    {
+      "from": 97.22,
+      "to": 101.24,
+      "sid": 46,
+      "location": 2,
+      "content": "我们的女主小齐来到一家名为彩桥之家的院舍",
+      "music": 0
+    },
+    {
+      "from": 101.24,
+      "to": 102.52,
+      "sid": 47,
+      "location": 2,
+      "content": "居住在这里的院友",
+      "music": 0
+    },
+    {
+      "from": 102.52,
+      "to": 105.92,
+      "sid": 48,
+      "location": 2,
+      "content": "大多数有一些身体上或者精神上的疾病障碍",
+      "music": 0
+    },
+    {
+      "from": 105.92,
+      "to": 108.26,
+      "sid": 49,
+      "location": 2,
+      "content": "又或者是一些无人照顾的老人",
+      "music": 0
+    },
+    {
+      "from": 108.26,
+      "to": 109.24,
+      "sid": 50,
+      "location": 2,
+      "content": "可小齐一进来",
+      "music": 0
+    },
+    {
+      "from": 109.24,
+      "to": 112.36,
+      "sid": 51,
+      "location": 2,
+      "content": "就看到七八十个人挤在这小小的屋子里居住",
+      "music": 0
+    },
+    {
+      "from": 112.36,
+      "to": 113.78,
+      "sid": 52,
+      "location": 2,
+      "content": "环境实在是很恶劣",
+      "music": 0
+    },
+    {
+      "from": 113.78,
+      "to": 115.76,
+      "sid": 53,
+      "location": 2,
+      "content": "这时一位护工看见了小齐",
+      "music": 0
+    },
+    {
+      "from": 115.76,
+      "to": 118.28,
+      "sid": 54,
+      "location": 2,
+      "content": "他便连忙解释说自己是来找爷爷的",
+      "music": 0
+    },
+    {
+      "from": 118.28,
+      "to": 120.26,
+      "sid": 55,
+      "location": 2,
+      "content": "随后小齐在护工的指点下",
+      "music": 0
+    },
+    {
+      "from": 120.26,
+      "to": 122.26,
+      "sid": 56,
+      "location": 2,
+      "content": "来到走廊里最后一间屋子",
+      "music": 0
+    },
+    {
+      "from": 122.26,
+      "to": 123.96,
+      "sid": 57,
+      "location": 2,
+      "content": "并见到了他的爷爷通博",
+      "music": 0
+    },
+    {
+      "from": 123.96,
+      "to": 125.9,
+      "sid": 58,
+      "location": 2,
+      "content": "可通博却显得十分茫然",
+      "music": 0
+    },
+    {
+      "from": 125.9,
+      "to": 127.74,
+      "sid": 59,
+      "location": 2,
+      "content": "似乎并不认识他这个孙女",
+      "music": 0
+    },
+    {
+      "from": 127.74,
+      "to": 129.86,
+      "sid": 60,
+      "location": 2,
+      "content": "小齐见状连忙轻声询问",
+      "music": 0
+    },
+    {
+      "from": 129.86,
+      "to": 131.22,
+      "sid": 61,
+      "location": 2,
+      "content": "他在这里住得开心吗",
+      "music": 0
+    },
+    {
+      "from": 131.22,
+      "to": 133.24,
+      "sid": 62,
+      "location": 2,
+      "content": "可童博却说在船上住着",
+      "music": 0
+    },
+    {
+      "from": 133.24,
+      "to": 134.16,
+      "sid": 63,
+      "location": 2,
+      "content": "不知道有多好",
+      "music": 0
+    },
+    {
+      "from": 134.16,
+      "to": 136.02,
+      "sid": 64,
+      "location": 2,
+      "content": "这驴唇不对马嘴的回答",
+      "music": 0
+    },
+    {
+      "from": 136.02,
+      "to": 138.44,
+      "sid": 65,
+      "location": 2,
+      "content": "足以看出老人的精神不太正常",
+      "music": 0
+    },
+    {
+      "from": 138.44,
+      "to": 140.6,
+      "sid": 66,
+      "location": 2,
+      "content": "这时另一位老人水哥回来了",
+      "music": 0
+    },
+    {
+      "from": 140.6,
+      "to": 142.32,
+      "sid": 67,
+      "location": 2,
+      "content": "通博便立刻躲到他身后",
+      "music": 0
+    },
+    {
+      "from": 142.32,
+      "to": 143.98,
+      "sid": 68,
+      "location": 2,
+      "content": "指控女孩乱认爷爷",
+      "music": 0
+    },
+    {
+      "from": 143.98,
+      "to": 145.66,
+      "sid": 69,
+      "location": 2,
+      "content": "太稀里糊涂的",
+      "music": 0
+    },
+    {
+      "from": 145.66,
+      "to": 150.03,
+      "sid": 70,
+      "location": 2,
+      "content": "有时说话语语无伦次的回床上去",
+      "music": 0
+    },
+    {
+      "from": 150.03,
+      "to": 152.09,
+      "sid": 71,
+      "location": 2,
+      "content": "水哥手里还握着一张请柬",
+      "music": 0
+    },
+    {
+      "from": 152.09,
+      "to": 154.59,
+      "sid": 72,
+      "location": 2,
+      "content": "他向小齐炫耀说自己也有一个孙女",
+      "music": 0
+    },
+    {
+      "from": 154.59,
+      "to": 156.11,
+      "sid": 73,
+      "location": 2,
+      "content": "而且很快就要结婚了",
+      "music": 0
+    },
+    {
+      "from": 156.11,
+      "to": 157.7,
+      "sid": 74,
+      "location": 2,
+      "content": "小齐笑着送上祝福",
+      "music": 0
+    },
+    {
+      "from": 157.7,
+      "to": 159.34,
+      "sid": 75,
+      "location": 2,
+      "content": "但他马上就笑不出来了",
+      "music": 0
+    },
+    {
+      "from": 159.34,
+      "to": 161.84,
+      "sid": 76,
+      "location": 2,
+      "content": "因为这间屋子里居然有一只死老鼠",
+      "music": 0
+    },
+    {
+      "from": 161.84,
+      "to": 163.98,
+      "sid": 77,
+      "location": 2,
+      "content": "小齐便立刻找到院长办公室",
+      "music": 0
+    },
+    {
+      "from": 163.98,
+      "to": 166.2,
+      "sid": 78,
+      "location": 2,
+      "content": "发现这里还有两个女孩在玩耍",
+      "music": 0
+    },
+    {
+      "from": 166.2,
+      "to": 167.78,
+      "sid": 79,
+      "location": 2,
+      "content": "院长倒是态度很好",
+      "music": 0
+    },
+    {
+      "from": 167.78,
+      "to": 169.6,
+      "sid": 80,
+      "location": 2,
+      "content": "说自己很快就会去处理",
+      "music": 0
+    },
+    {
+      "from": 169.6,
+      "to": 171.28,
+      "sid": 81,
+      "location": 2,
+      "content": "还夸赞小齐很孝顺",
+      "music": 0
+    },
+    {
+      "from": 171.28,
+      "to": 173.6,
+      "sid": 82,
+      "location": 2,
+      "content": "毕竟这里很少会有家属来探望",
+      "music": 0
+    },
+    {
+      "from": 173.6,
+      "to": 176.48,
+      "sid": 83,
+      "location": 2,
+      "content": "小齐说他在院舍只看见两名护工",
+      "music": 0
+    },
+    {
+      "from": 176.48,
+      "to": 178.4,
+      "sid": 84,
+      "location": 2,
+      "content": "却要照顾七八十个院友",
+      "music": 0
+    },
+    {
+      "from": 178.4,
+      "to": 180.34,
+      "sid": 85,
+      "location": 2,
+      "content": "显然人手严重不足",
+      "music": 0
+    },
+    {
+      "from": 180.34,
+      "to": 183.269,
+      "sid": 86,
+      "location": 2,
+      "content": "我们这人手从来就没够过",
+      "music": 0
+    },
+    {
+      "from": 183.269,
+      "to": 185.409,
+      "sid": 87,
+      "location": 2,
+      "content": "也没什么好计较的",
+      "music": 0
+    },
+    {
+      "from": 185.409,
+      "to": 187.089,
+      "sid": 88,
+      "location": 2,
+      "content": "我们是一家人",
+      "music": 0
+    },
+    {
+      "from": 187.089,
+      "to": 189.85,
+      "sid": 89,
+      "location": 2,
+      "content": "哈哈人手不够就不要谁都收进来了",
+      "music": 0
+    },
+    {
+      "from": 189.85,
+      "to": 192.25,
+      "sid": 90,
+      "location": 2,
+      "content": "我刚看见外面有很多老人腿脚不好",
+      "music": 0
+    },
+    {
+      "from": 192.25,
+      "to": 193.51,
+      "sid": 91,
+      "location": 2,
+      "content": "还有智力低下的",
+      "music": 0
+    },
+    {
+      "from": 193.51,
+      "to": 196.61,
+      "sid": 92,
+      "location": 2,
+      "content": "其实我们残疾人很难找到这种地方的",
+      "music": 0
+    },
+    {
+      "from": 196.61,
+      "to": 198.29,
+      "sid": 93,
+      "location": 2,
+      "content": "我要是有能力的话",
+      "music": 0
+    },
+    {
+      "from": 198.29,
+      "to": 199.91,
+      "sid": 94,
+      "location": 2,
+      "content": "我会再多收一些",
+      "music": 0
+    },
+    {
+      "from": 199.91,
+      "to": 202.11,
+      "sid": 95,
+      "location": 2,
+      "content": "可能是见小奇询问太多问题了",
+      "music": 0
+    },
+    {
+      "from": 202.11,
+      "to": 203.78,
+      "sid": 96,
+      "location": 2,
+      "content": "院长便不经意地问起",
+      "music": 0
+    },
+    {
+      "from": 203.78,
+      "to": 205.66,
+      "sid": 97,
+      "location": 2,
+      "content": "通博在这里住了十多年了",
+      "music": 0
+    },
+    {
+      "from": 205.66,
+      "to": 207.8,
+      "sid": 98,
+      "location": 2,
+      "content": "为什么之前从来没见过他的孙女",
+      "music": 0
+    },
+    {
+      "from": 207.8,
+      "to": 208.7,
+      "sid": 99,
+      "location": 2,
+      "content": "小齐解释说",
+      "music": 0
+    },
+    {
+      "from": 208.7,
+      "to": 210.72,
+      "sid": 100,
+      "location": 2,
+      "content": "她从小就跟父母去了加拿大",
+      "music": 0
+    },
+    {
+      "from": 210.72,
+      "to": 212.34,
+      "sid": 101,
+      "location": 2,
+      "content": "前段时间才回的香港",
+      "music": 0
+    },
+    {
+      "from": 212.34,
+      "to": 214.08,
+      "sid": 102,
+      "location": 2,
+      "content": "还说自己最近没事可做",
+      "music": 0
+    },
+    {
+      "from": 214.08,
+      "to": 216.06,
+      "sid": 103,
+      "location": 2,
+      "content": "可不可以过来帮忙照顾老人",
+      "music": 0
+    },
+    {
+      "from": 216.06,
+      "to": 217.9,
+      "sid": 104,
+      "location": 2,
+      "content": "院长想都没想就答应了",
+      "music": 0
+    },
+    {
+      "from": 217.9,
+      "to": 219.5,
+      "sid": 105,
+      "location": 2,
+      "content": "说完他拿出一盒雪糕",
+      "music": 0
+    },
+    {
+      "from": 219.5,
+      "to": 221.38,
+      "sid": 106,
+      "location": 2,
+      "content": "递给两个智力低下的女孩",
+      "music": 0
+    },
+    {
+      "from": 221.38,
+      "to": 223.7,
+      "sid": 107,
+      "location": 2,
+      "content": "看得出来这院长非常关爱爱怨",
+      "music": 0
+    },
+    {
+      "from": 223.7,
+      "to": 225.78,
+      "sid": 108,
+      "location": 2,
+      "content": "有可事实真的会是如此吗",
+      "music": 0
+    },
+    {
+      "from": 225.78,
+      "to": 228.4,
+      "sid": 109,
+      "location": 2,
+      "content": "第二天小齐一大早就来到院舍门口",
+      "music": 0
+    },
+    {
+      "from": 228.4,
+      "to": 230.88,
+      "sid": 110,
+      "location": 2,
+      "content": "他看到有个母亲要将傻儿儿子送进去",
+      "music": 0
+    },
+    {
+      "from": 230.88,
+      "to": 232.74,
+      "sid": 111,
+      "location": 2,
+      "content": "但男孩似乎非常害怕",
+      "music": 0
+    },
+    {
+      "from": 232.74,
+      "to": 234.72,
+      "sid": 112,
+      "location": 2,
+      "content": "仿佛院舍里有什么洪水猛兽",
+      "music": 0
+    },
+    {
+      "from": 234.72,
+      "to": 238.04,
+      "sid": 113,
+      "location": 2,
+      "content": "最后还是院舍护工同芳姐强行将她带了进去",
+      "music": 0
+    },
+    {
+      "from": 238.04,
+      "to": 240.5,
+      "sid": 114,
+      "location": 2,
+      "content": "可紧接着一具尸体就被抬出院舍",
+      "music": 0
+    },
+    {
+      "from": 240.5,
+      "to": 243.56,
+      "sid": 115,
+      "location": 2,
+      "content": "小齐进入院舍后发现水哥在为死者打摘",
+      "music": 0
+    },
+    {
+      "from": 243.56,
+      "to": 244.52,
+      "sid": 116,
+      "location": 2,
+      "content": "有人死了",
+      "music": 0
+    },
+    {
+      "from": 244.52,
+      "to": 246.1,
+      "sid": 117,
+      "location": 2,
+      "content": "不是你有人死了吗",
+      "music": 0
+    },
+    {
+      "from": 246.1,
+      "to": 249.83,
+      "sid": 118,
+      "location": 2,
+      "content": "嗯嗯你见过有活人要打柴的",
+      "music": 0
+    },
+    {
+      "from": 249.83,
+      "to": 251.31,
+      "sid": 119,
+      "location": 2,
+      "content": "这时小七突然看见",
+      "music": 0
+    },
+    {
+      "from": 251.31,
+      "to": 254.16,
+      "sid": 120,
+      "location": 2,
+      "content": "护工芳姐给了傻男孩鸣仔一个巴掌",
+      "music": 0
+    },
+    {
+      "from": 254.16,
+      "to": 255.02,
+      "sid": 121,
+      "location": 2,
+      "content": "他还要再打",
+      "music": 0
+    },
+    {
+      "from": 255.02,
+      "to": 256.58,
+      "sid": 122,
+      "location": 2,
+      "content": "小琪本想护住明仔",
+      "music": 0
+    },
+    {
+      "from": 256.58,
+      "to": 260.2,
+      "sid": 123,
+      "location": 2,
+      "content": "可芳姐却以不打不听话为由直接带走了明仔",
+      "music": 0
+    },
+    {
+      "from": 260.2,
+      "to": 263,
+      "sid": 124,
+      "location": 2,
+      "content": "随后小齐来到厨房询问要不要帮忙",
+      "music": 0
+    },
+    {
+      "from": 263,
+      "to": 265.44,
+      "sid": 125,
+      "location": 2,
+      "content": "并出言提醒食材早已过期",
+      "music": 0
+    },
+    {
+      "from": 265.44,
+      "to": 268.4,
+      "sid": 126,
+      "location": 2,
+      "content": "但负责做饭的小伙阿琛却毫不在意",
+      "music": 0
+    },
+    {
+      "from": 268.4,
+      "to": 269.26,
+      "sid": 127,
+      "location": 2,
+      "content": "午饭期间",
+      "music": 0
+    },
+    {
+      "from": 269.26,
+      "to": 271.28,
+      "sid": 128,
+      "location": 2,
+      "content": "水哥见自己分到了七块烧麦",
+      "music": 0
+    },
+    {
+      "from": 271.28,
+      "to": 273.22,
+      "sid": 129,
+      "location": 2,
+      "content": "便想让阿琛再多给他一块",
+      "music": 0
+    },
+    {
+      "from": 273.22,
+      "to": 275.42,
+      "sid": 130,
+      "location": 2,
+      "content": "因为只有死人才会吃七块烧麦",
+      "music": 0
+    },
+    {
+      "from": 275.42,
+      "to": 277.12,
+      "sid": 131,
+      "location": 2,
+      "content": "你也差不多了",
+      "music": 0
+    },
+    {
+      "from": 299.42,
+      "to": 300.18,
+      "sid": 132,
+      "location": 2,
+      "content": "要么吃",
+      "music": 0
+    },
+    {
+      "from": 301.3,
+      "to": 303.14,
+      "sid": 133,
+      "location": 2,
+      "content": "要么不吃",
+      "music": 0
+    },
+    {
+      "from": 304.86,
+      "to": 305.78,
+      "sid": 134,
+      "location": 2,
+      "content": "看到这里",
+      "music": 0
+    },
+    {
+      "from": 305.78,
+      "to": 307.46,
+      "sid": 135,
+      "location": 2,
+      "content": "我想你们也应该猜到了",
+      "music": 0
+    },
+    {
+      "from": 307.46,
+      "to": 309.66,
+      "sid": 136,
+      "location": 2,
+      "content": "其实小齐并不是通博的孙女",
+      "music": 0
+    },
+    {
+      "from": 309.66,
+      "to": 312.42,
+      "sid": 137,
+      "location": 2,
+      "content": "她的真实身份是报社调查科的记者",
+      "music": 0
+    },
+    {
+      "from": 312.42,
+      "to": 313.5,
+      "sid": 138,
+      "location": 2,
+      "content": "早在两个星期前",
+      "music": 0
+    },
+    {
+      "from": 313.5,
+      "to": 315.06,
+      "sid": 139,
+      "location": 2,
+      "content": "他们收到一张匿名照片",
+      "music": 0
+    },
+    {
+      "from": 315.06,
+      "to": 317.34,
+      "sid": 140,
+      "location": 2,
+      "content": "提到彩桥之家院舍虐待院友",
+      "music": 0
+    },
+    {
+      "from": 317.34,
+      "to": 319.5,
+      "sid": 141,
+      "location": 2,
+      "content": "小齐打探到通博脑子不正常",
+      "music": 0
+    },
+    {
+      "from": 319.5,
+      "to": 321.92,
+      "sid": 142,
+      "location": 2,
+      "content": "所以才假扮成她孙女混进院舍",
+      "music": 0
+    },
+    {
+      "from": 321.92,
+      "to": 324.12,
+      "sid": 143,
+      "location": 2,
+      "content": "伺机拍摄下有力的虐待证据",
+      "music": 0
+    },
+    {
+      "from": 324.12,
+      "to": 326.4,
+      "sid": 144,
+      "location": 2,
+      "content": "不过小齐并不是为了正义",
+      "music": 0
+    },
+    {
+      "from": 326.4,
+      "to": 329.24,
+      "sid": 145,
+      "location": 2,
+      "content": "而是为了保住岌岌可危的调查科",
+      "music": 0
+    },
+    {
+      "from": 329.24,
+      "to": 330.94,
+      "sid": 146,
+      "location": 2,
+      "content": "如果能报道出一个大热点",
+      "music": 0
+    },
+    {
+      "from": 330.94,
+      "to": 333.64,
+      "sid": 147,
+      "location": 2,
+      "content": "那么报社就暂时不会裁掉调查科",
+      "music": 0
+    },
+    {
+      "from": 333.64,
+      "to": 336.72,
+      "sid": 148,
+      "location": 2,
+      "content": "然而社会福利署已经把社负责任外派出去",
+      "music": 0
+    },
+    {
+      "from": 336.72,
+      "to": 339.12,
+      "sid": 149,
+      "location": 2,
+      "content": "而小齐拍到的视频又不够震撼",
+      "music": 0
+    },
+    {
+      "from": 339.12,
+      "to": 340.32,
+      "sid": 150,
+      "location": 2,
+      "content": "社鼠一定会说",
+      "music": 0
+    },
+    {
+      "from": 340.32,
+      "to": 341.38,
+      "sid": 151,
+      "location": 2,
+      "content": "这是个别事件",
+      "music": 0
+    },
+    {
+      "from": 341.38,
+      "to": 342.64,
+      "sid": 152,
+      "location": 2,
+      "content": "要想把事情整大",
+      "music": 0
+    },
+    {
+      "from": 342.64,
+      "to": 345.1,
+      "sid": 153,
+      "location": 2,
+      "content": "就要指责整个社鼠的相关制度",
+      "music": 0
+    },
+    {
+      "from": 345.1,
+      "to": 347.8,
+      "sid": 154,
+      "location": 2,
+      "content": "这次我们是为弱势社群发声的",
+      "music": 0
+    },
+    {
+      "from": 347.8,
+      "to": 350.42,
+      "sid": 155,
+      "location": 2,
+      "content": "拿点使命感出来嗯",
+      "music": 0
+    },
+    {
+      "from": 350.42,
+      "to": 352.539,
+      "sid": 156,
+      "location": 2,
+      "content": "使命感是什么",
+      "music": 0
+    },
+    {
+      "from": 352.539,
+      "to": 354.439,
+      "sid": 157,
+      "location": 2,
+      "content": "我只想领奖加工资",
+      "music": 0
+    },
+    {
+      "from": 354.439,
+      "to": 355.439,
+      "sid": 158,
+      "location": 2,
+      "content": "与此同时",
+      "music": 0
+    },
+    {
+      "from": 355.439,
+      "to": 358.139,
+      "sid": 159,
+      "location": 2,
+      "content": "院舍里的护工正在给老人上绑带",
+      "music": 0
+    },
+    {
+      "from": 358.139,
+      "to": 360.72,
+      "sid": 160,
+      "location": 2,
+      "content": "结果却遭到了对方的激烈反抗",
+      "music": 0
+    },
+    {
+      "from": 360.72,
+      "to": 362.86,
+      "sid": 161,
+      "location": 2,
+      "content": "最后还是芳姐给了老人一巴掌",
+      "music": 0
+    },
+    {
+      "from": 362.86,
+      "to": 364.38,
+      "sid": 162,
+      "location": 2,
+      "content": "这才将她的绑带弄完",
+      "music": 0
+    },
+    {
+      "from": 364.38,
+      "to": 365.74,
+      "sid": 163,
+      "location": 2,
+      "content": "随后统一推走",
+      "music": 0
+    },
+    {
+      "from": 365.74,
+      "to": 366.74,
+      "sid": 164,
+      "location": 2,
+      "content": "被绑的老人们",
+      "music": 0
+    },
+    {
+      "from": 366.74,
+      "to": 368.48,
+      "sid": 165,
+      "location": 2,
+      "content": "接着又将大门反锁上",
+      "music": 0
+    },
+    {
+      "from": 368.48,
+      "to": 369.9,
+      "sid": 166,
+      "location": 2,
+      "content": "不知道在干什么勾当",
+      "music": 0
+    },
+    {
+      "from": 369.9,
+      "to": 370.58,
+      "sid": 167,
+      "location": 2,
+      "content": "第二天",
+      "music": 0
+    },
+    {
+      "from": 370.58,
+      "to": 373.24,
+      "sid": 168,
+      "location": 2,
+      "content": "小齐蹲守到阿琛偷卖老人的奶粉",
+      "music": 0
+    },
+    {
+      "from": 373.24,
+      "to": 374.98,
+      "sid": 169,
+      "location": 2,
+      "content": "便赶紧拿出手机拍摄",
+      "music": 0
+    },
+    {
+      "from": 374.98,
+      "to": 376.08,
+      "sid": 170,
+      "location": 2,
+      "content": "并拿出录音笔",
+      "music": 0
+    },
+    {
+      "from": 376.08,
+      "to": 377.4,
+      "sid": 171,
+      "location": 2,
+      "content": "把阿琛叫到车上",
+      "music": 0
+    },
+    {
+      "from": 377.4,
+      "to": 379.6,
+      "sid": 172,
+      "location": 2,
+      "content": "以视频威胁他回答问题",
+      "music": 0
+    },
+    {
+      "from": 379.6,
+      "to": 380.54,
+      "sid": 173,
+      "location": 2,
+      "content": "据阿琛交代",
+      "music": 0
+    },
+    {
+      "from": 380.54,
+      "to": 382.58,
+      "sid": 174,
+      "location": 2,
+      "content": "院舍只有两名正职员工",
+      "music": 0
+    },
+    {
+      "from": 382.58,
+      "to": 384.8,
+      "sid": 175,
+      "location": 2,
+      "content": "像他这种能动弹的也会帮忙",
+      "music": 0
+    },
+    {
+      "from": 384.8,
+      "to": 385.78,
+      "sid": 176,
+      "location": 2,
+      "content": "只是没有工资",
+      "music": 0
+    },
+    {
+      "from": 385.78,
+      "to": 388.88,
+      "sid": 177,
+      "location": 2,
+      "content": "并且愿有的政府援助资金要全臀部上交",
+      "music": 0
+    },
+    {
+      "from": 388.88,
+      "to": 390.54,
+      "sid": 178,
+      "location": 2,
+      "content": "至于死亡记录人数对不上",
+      "music": 0
+    },
+    {
+      "from": 390.54,
+      "to": 392.24,
+      "sid": 179,
+      "location": 2,
+      "content": "是因为只要不叫救护车",
+      "music": 0
+    },
+    {
+      "from": 392.24,
+      "to": 392.84,
+      "sid": 180,
+      "location": 2,
+      "content": "不报警",
+      "music": 0
+    },
+    {
+      "from": 392.84,
+      "to": 395.42,
+      "sid": 181,
+      "location": 2,
+      "content": "那院舍就不必为死亡的院友负责",
+      "music": 0
+    },
+    {
+      "from": 395.42,
+      "to": 397.48,
+      "sid": 182,
+      "location": 2,
+      "content": "就是说找救护机构就不会有记录",
+      "music": 0
+    },
+    {
+      "from": 397.48,
+      "to": 398.5,
+      "sid": 183,
+      "location": 2,
+      "content": "院社就不用负责了",
+      "music": 0
+    },
+    {
+      "from": 398.5,
+      "to": 399.82,
+      "sid": 184,
+      "location": 2,
+      "content": "睁只眼闭只眼了",
+      "music": 0
+    },
+    {
+      "from": 399.82,
+      "to": 403.35,
+      "sid": 185,
+      "location": 2,
+      "content": "这种事全香港都床位不足",
+      "music": 0
+    },
+    {
+      "from": 404.39,
+      "to": 406.28,
+      "sid": 186,
+      "location": 2,
+      "content": "全按规定坐我们睡大街啊",
+      "music": 0
+    },
+    {
+      "from": 406.28,
+      "to": 407.18,
+      "sid": 187,
+      "location": 2,
+      "content": "到了晚上",
+      "music": 0
+    },
+    {
+      "from": 407.18,
+      "to": 409.04,
+      "sid": 188,
+      "location": 2,
+      "content": "小齐与社署负责人见面",
+      "music": 0
+    },
+    {
+      "from": 409.04,
+      "to": 411.26,
+      "sid": 189,
+      "location": 2,
+      "content": "他说自己调查的私营院舍里",
+      "music": 0
+    },
+    {
+      "from": 411.26,
+      "to": 412.84,
+      "sid": 190,
+      "location": 2,
+      "content": "很多都没有正式牌照",
+      "music": 0
+    },
+    {
+      "from": 412.84,
+      "to": 414.9,
+      "sid": 191,
+      "location": 2,
+      "content": "只有一张豁免证明书",
+      "music": 0
+    },
+    {
+      "from": 414.9,
+      "to": 416.98,
+      "sid": 192,
+      "location": 2,
+      "content": "可负责人听后却告诉小齐",
+      "music": 0
+    },
+    {
+      "from": 416.98,
+      "to": 419.02,
+      "sid": 193,
+      "location": 2,
+      "content": "残疾人想要入住正规院舍",
+      "music": 0
+    },
+    {
+      "from": 419.02,
+      "to": 421.26,
+      "sid": 194,
+      "location": 2,
+      "content": "最起码需要等上15年的时间",
+      "music": 0
+    },
+    {
+      "from": 421.26,
+      "to": 423.96,
+      "sid": 195,
+      "location": 2,
+      "content": "因为院舍长期以来都是求过于功",
+      "music": 0
+    },
+    {
+      "from": 423.96,
+      "to": 426.2,
+      "sid": 196,
+      "location": 2,
+      "content": "而社鼠又不想担起这个责任",
+      "music": 0
+    },
+    {
+      "from": 426.2,
+      "to": 427.92,
+      "sid": 197,
+      "location": 2,
+      "content": "所以才外派给了私人市场",
+      "music": 0
+    },
+    {
+      "from": 427.92,
+      "to": 430.76,
+      "sid": 198,
+      "location": 2,
+      "content": "尽管很多私人院设在硬件上没有达标",
+      "music": 0
+    },
+    {
+      "from": 430.76,
+      "to": 432.68,
+      "sid": 199,
+      "location": 2,
+      "content": "但社署还是会选择豁免",
+      "music": 0
+    },
+    {
+      "from": 432.68,
+      "to": 434.54,
+      "sid": 200,
+      "location": 2,
+      "content": "他们现在收到上千宗投诉",
+      "music": 0
+    },
+    {
+      "from": 434.54,
+      "to": 435.76,
+      "sid": 201,
+      "location": 2,
+      "content": "又出了那么多事",
+      "music": 0
+    },
+    {
+      "from": 435.76,
+      "to": 437.64,
+      "sid": 202,
+      "location": 2,
+      "content": "社署吊销过多少件牌照",
+      "music": 0
+    },
+    {
+      "from": 437.64,
+      "to": 440.48,
+      "sid": 203,
+      "location": 2,
+      "content": "哼这么久了",
+      "music": 0
+    },
+    {
+      "from": 440.48,
+      "to": 444.18,
+      "sid": 204,
+      "location": 2,
+      "content": "一间都没有得到这样的回答",
+      "music": 0
+    },
+    {
+      "from": 444.18,
+      "to": 445.8,
+      "sid": 205,
+      "location": 2,
+      "content": "小齐显然有些震惊",
+      "music": 0
+    },
+    {
+      "from": 445.8,
+      "to": 447.58,
+      "sid": 206,
+      "location": 2,
+      "content": "隔天他看望通博的时候",
+      "music": 0
+    },
+    {
+      "from": 447.58,
+      "to": 450.6,
+      "sid": 207,
+      "location": 2,
+      "content": "意外发现对方的手机里跟根本没有电话卡",
+      "music": 0
+    },
+    {
+      "from": 450.6,
+      "to": 452.92,
+      "sid": 208,
+      "location": 2,
+      "content": "那他的家人该如何找到他呢",
+      "music": 0
+    },
+    {
+      "from": 452.92,
+      "to": 455.34,
+      "sid": 209,
+      "location": 2,
+      "content": "我小时候住的是山上面的木屋",
+      "music": 0
+    },
+    {
+      "from": 455.34,
+      "to": 456.26,
+      "sid": 210,
+      "location": 2,
+      "content": "那里没有电",
+      "music": 0
+    },
+    {
+      "from": 456.26,
+      "to": 457.2,
+      "sid": 211,
+      "location": 2,
+      "content": "也没有电话",
+      "music": 0
+    },
+    {
+      "from": 457.2,
+      "to": 459.14,
+      "sid": 212,
+      "location": 2,
+      "content": "这三姑六婆来找我妈打麻将",
+      "music": 0
+    },
+    {
+      "from": 459.14,
+      "to": 460.96,
+      "sid": 213,
+      "location": 2,
+      "content": "就从山下边走到山上边",
+      "music": 0
+    },
+    {
+      "from": 460.96,
+      "to": 462.08,
+      "sid": 214,
+      "location": 2,
+      "content": "要找一个人的话",
+      "music": 0
+    },
+    {
+      "from": 462.08,
+      "to": 462.94,
+      "sid": 215,
+      "location": 2,
+      "content": "一定能找到",
+      "music": 0
+    },
+    {
+      "from": 462.94,
+      "to": 464.36,
+      "sid": 216,
+      "location": 2,
+      "content": "还有什么电话呢",
+      "music": 0
+    },
+    {
+      "from": 464.36,
+      "to": 467.36,
+      "sid": 217,
+      "location": 2,
+      "content": "这时智力低下的女孩小玲前来串门",
+      "music": 0
+    },
+    {
+      "from": 467.36,
+      "to": 469.36,
+      "sid": 218,
+      "location": 2,
+      "content": "还给小齐身上粘上贴纸",
+      "music": 0
+    },
+    {
+      "from": 469.36,
+      "to": 470.58,
+      "sid": 219,
+      "location": 2,
+      "content": "明仔则在画画",
+      "music": 0
+    },
+    {
+      "from": 470.58,
+      "to": 471.82,
+      "sid": 220,
+      "location": 2,
+      "content": "他似乎想到了什么",
+      "music": 0
+    },
+    {
+      "from": 471.82,
+      "to": 473.14,
+      "sid": 221,
+      "location": 2,
+      "content": "表情十分痛苦",
+      "music": 0
+    },
+    {
+      "from": 473.14,
+      "to": 474.72,
+      "sid": 222,
+      "location": 2,
+      "content": "小玲便拿起了订书机",
+      "music": 0
+    },
+    {
+      "from": 474.72,
+      "to": 475.94,
+      "sid": 223,
+      "location": 2,
+      "content": "小齐明白过来后",
+      "music": 0
+    },
+    {
+      "from": 475.94,
+      "to": 477.32,
+      "sid": 224,
+      "location": 2,
+      "content": "当即去看明仔的胳膊",
+      "music": 0
+    },
+    {
+      "from": 477.32,
+      "to": 479.3,
+      "sid": 225,
+      "location": 2,
+      "content": "果然男就发现上面伤痕累累",
+      "music": 0
+    },
+    {
+      "from": 479.3,
+      "to": 480.42,
+      "sid": 226,
+      "location": 2,
+      "content": "小七拍下照片后",
+      "music": 0
+    },
+    {
+      "from": 480.42,
+      "to": 481.1,
+      "sid": 227,
+      "location": 2,
+      "content": "叫到明仔",
+      "music": 0
+    },
+    {
+      "from": 481.1,
+      "to": 481.98,
+      "sid": 228,
+      "location": 2,
+      "content": "受到欺负时",
+      "music": 0
+    },
+    {
+      "from": 481.98,
+      "to": 483.06,
+      "sid": 229,
+      "location": 2,
+      "content": "一定要学会反抗",
+      "music": 0
+    },
+    {
+      "from": 483.06,
+      "to": 485.52,
+      "sid": 230,
+      "location": 2,
+      "content": "而另一边院舍的老板告诉院长",
+      "music": 0
+    },
+    {
+      "from": 485.52,
+      "to": 487.06,
+      "sid": 231,
+      "location": 2,
+      "content": "要是能拿到正规牌照",
+      "music": 0
+    },
+    {
+      "from": 487.06,
+      "to": 489.44,
+      "sid": 232,
+      "location": 2,
+      "content": "那政府每年就会多买100张床位",
+      "music": 0
+    },
+    {
+      "from": 489.44,
+      "to": 490.88,
+      "sid": 233,
+      "location": 2,
+      "content": "他们就能能多赚几百万",
+      "music": 0
+    },
+    {
+      "from": 490.88,
+      "to": 492.5,
+      "sid": 234,
+      "location": 2,
+      "content": "临走时又嘱咐院长",
+      "music": 0
+    },
+    {
+      "from": 492.5,
+      "to": 494.76,
+      "sid": 235,
+      "location": 2,
+      "content": "明天的宣传片一定要好好拍",
+      "music": 0
+    },
+    {
+      "from": 494.76,
+      "to": 498.02,
+      "sid": 236,
+      "location": 2,
+      "content": "很快院友们便头戴圣诞帽坐在镜头前",
+      "music": 0
+    },
+    {
+      "from": 498.02,
+      "to": 500.22,
+      "sid": 237,
+      "location": 2,
+      "content": "好像在这里生活会很快乐一样",
+      "music": 0
+    },
+    {
+      "from": 500.22,
+      "to": 501.04,
+      "sid": 238,
+      "location": 2,
+      "content": "不久以后",
+      "music": 0
+    },
+    {
+      "from": 501.04,
+      "to": 502.88,
+      "sid": 239,
+      "location": 2,
+      "content": "小齐调查到院舍的院长",
+      "music": 0
+    },
+    {
+      "from": 502.88,
+      "to": 504.82,
+      "sid": 240,
+      "location": 2,
+      "content": "原先在盲人学校教游泳",
+      "music": 0
+    },
+    {
+      "from": 504.82,
+      "to": 507.14,
+      "sid": 241,
+      "location": 2,
+      "content": "后来去一家残疾院舍做院长",
+      "music": 0
+    },
+    {
+      "from": 507.14,
+      "to": 508.68,
+      "sid": 242,
+      "location": 2,
+      "content": "几年之内换了三家",
+      "music": 0
+    },
+    {
+      "from": 508.68,
+      "to": 510.68,
+      "sid": 243,
+      "location": 2,
+      "content": "最后他又创立了彩桥之家",
+      "music": 0
+    },
+    {
+      "from": 510.68,
+      "to": 512.179,
+      "sid": 244,
+      "location": 2,
+      "content": "并一直做到了现在",
+      "music": 0
+    },
+    {
+      "from": 512.179,
+      "to": 515.599,
+      "sid": 245,
+      "location": 2,
+      "content": "小七便让后辈去细查院长这三次变动的原因",
+      "music": 0
+    },
+    {
+      "from": 515.599,
+      "to": 519.419,
+      "sid": 246,
+      "location": 2,
+      "content": "可曾经与院长共事过的老人却对此避而不谈",
+      "music": 0
+    },
+    {
+      "from": 519.419,
+      "to": 521.629,
+      "sid": 247,
+      "location": 2,
+      "content": "我警告你最好离开",
+      "music": 0
+    },
+    {
+      "from": 523.559,
+      "to": 526.759,
+      "sid": 248,
+      "location": 2,
+      "content": "嗯你不会问出你想要的答案",
+      "music": 0
+    },
+    {
+      "from": 526.759,
+      "to": 528.839,
+      "sid": 249,
+      "location": 2,
+      "content": "张院长很爱护他的院友们",
+      "music": 0
+    },
+    {
+      "from": 528.839,
+      "to": 529.73,
+      "sid": 250,
+      "location": 2,
+      "content": "你明不明白",
+      "music": 0
+    },
+    {
+      "from": 529.73,
+      "to": 531.91,
+      "sid": 251,
+      "location": 2,
+      "content": "这天小齐照常混进院舍",
+      "music": 0
+    },
+    {
+      "from": 531.91,
+      "to": 534.05,
+      "sid": 252,
+      "location": 2,
+      "content": "竟发现水哥居然还在屋里",
+      "music": 0
+    },
+    {
+      "from": 534.05,
+      "to": 536.2,
+      "sid": 253,
+      "location": 2,
+      "content": "因为今天就是他孙女的婚礼",
+      "music": 0
+    },
+    {
+      "from": 536.2,
+      "to": 538.26,
+      "sid": 254,
+      "location": 2,
+      "content": "得知是没有合适的衣服后",
+      "music": 0
+    },
+    {
+      "from": 538.26,
+      "to": 540.46,
+      "sid": 255,
+      "location": 2,
+      "content": "小齐立刻开始四处搜刮",
+      "music": 0
+    },
+    {
+      "from": 540.46,
+      "to": 543,
+      "sid": 256,
+      "location": 2,
+      "content": "最终在阿琛那里凑够了一身行头",
+      "music": 0
+    },
+    {
+      "from": 543,
+      "to": 545.28,
+      "sid": 257,
+      "location": 2,
+      "content": "小齐带着两位老人离开院舍",
+      "music": 0
+    },
+    {
+      "from": 545.28,
+      "to": 547.52,
+      "sid": 258,
+      "location": 2,
+      "content": "他们已经记不清多久没有外出过",
+      "music": 0
+    },
+    {
+      "from": 547.52,
+      "to": 549.28,
+      "sid": 259,
+      "location": 2,
+      "content": "外面的一切都很新奇",
+      "music": 0
+    },
+    {
+      "from": 549.28,
+      "to": 550.22,
+      "sid": 260,
+      "location": 2,
+      "content": "到了地方后",
+      "music": 0
+    },
+    {
+      "from": 550.22,
+      "to": 552.22,
+      "sid": 261,
+      "location": 2,
+      "content": "水哥兴高采烈的进去",
+      "music": 0
+    },
+    {
+      "from": 552.22,
+      "to": 554.3,
+      "sid": 262,
+      "location": 2,
+      "content": "可很快就被女儿撵了出来",
+      "music": 0
+    },
+    {
+      "from": 554.3,
+      "to": 555.1,
+      "sid": 263,
+      "location": 2,
+      "content": "我说了",
+      "music": 0
+    },
+    {
+      "from": 555.1,
+      "to": 556.46,
+      "sid": 264,
+      "location": 2,
+      "content": "不要邀请他",
+      "music": 0
+    },
+    {
+      "from": 556.46,
+      "to": 558.88,
+      "sid": 265,
+      "location": 2,
+      "content": "你为什么还是要给他请帖呀",
+      "music": 0
+    },
+    {
+      "from": 558.88,
+      "to": 560.24,
+      "sid": 266,
+      "location": 2,
+      "content": "都多少年了",
+      "music": 0
+    },
+    {
+      "from": 560.24,
+      "to": 561.62,
+      "sid": 267,
+      "location": 2,
+      "content": "你怎么还没有放下",
+      "music": 0
+    },
+    {
+      "from": 561.62,
+      "to": 562.93,
+      "sid": 268,
+      "location": 2,
+      "content": "怎么了",
+      "music": 0
+    },
+    {
+      "from": 563.21,
+      "to": 564.31,
+      "sid": 269,
+      "location": 2,
+      "content": "没事没事",
+      "music": 0
+    },
+    {
+      "from": 564.31,
+      "to": 566.59,
+      "sid": 270,
+      "location": 2,
+      "content": "是我给人家添麻烦了",
+      "music": 0
+    },
+    {
+      "from": 566.59,
+      "to": 567.47,
+      "sid": 271,
+      "location": 2,
+      "content": "对不起",
+      "music": 0
+    },
+    {
+      "from": 567.47,
+      "to": 568.05,
+      "sid": 272,
+      "location": 2,
+      "content": "对不起",
+      "music": 0
+    },
+    {
+      "from": 568.05,
+      "to": 569.7,
+      "sid": 273,
+      "location": 2,
+      "content": "对不起",
+      "music": 0
+    },
+    {
+      "from": 570.06,
+      "to": 571.84,
+      "sid": 274,
+      "location": 2,
+      "content": "40年前你不说",
+      "music": 0
+    },
+    {
+      "from": 571.84,
+      "to": 573.42,
+      "sid": 275,
+      "location": 2,
+      "content": "30年前说啊",
+      "music": 0
+    },
+    {
+      "from": 573.42,
+      "to": 575.78,
+      "sid": 276,
+      "location": 2,
+      "content": "为什么在我今天最开心的日子",
+      "music": 0
+    },
+    {
+      "from": 575.78,
+      "to": 576.76,
+      "sid": 277,
+      "location": 2,
+      "content": "你才说呀",
+      "music": 0
+    },
+    {
+      "from": 576.76,
+      "to": 578.5,
+      "sid": 278,
+      "location": 2,
+      "content": "我不是这个意思",
+      "music": 0
+    },
+    {
+      "from": 578.5,
+      "to": 579.26,
+      "sid": 279,
+      "location": 2,
+      "content": "这样好了",
+      "music": 0
+    },
+    {
+      "from": 579.26,
+      "to": 580.1,
+      "sid": 280,
+      "location": 2,
+      "content": "我不进去了",
+      "music": 0
+    },
+    {
+      "from": 580.1,
+      "to": 581.66,
+      "sid": 281,
+      "location": 2,
+      "content": "你们你们都快进去吧",
+      "music": 0
+    },
+    {
+      "from": 581.66,
+      "to": 583.14,
+      "sid": 282,
+      "location": 2,
+      "content": "我不用你说什么",
+      "music": 0
+    },
+    {
+      "from": 583.14,
+      "to": 583.94,
+      "sid": 283,
+      "location": 2,
+      "content": "对不起",
+      "music": 0
+    },
+    {
+      "from": 583.94,
+      "to": 585.26,
+      "sid": 284,
+      "location": 2,
+      "content": "以后等你下去",
+      "music": 0
+    },
+    {
+      "from": 585.26,
+      "to": 586.38,
+      "sid": 285,
+      "location": 2,
+      "content": "自己跟我妈说",
+      "music": 0
+    },
+    {
+      "from": 586.38,
+      "to": 588.86,
+      "sid": 286,
+      "location": 2,
+      "content": "水哥不想闹的孙女婚礼不开心",
+      "music": 0
+    },
+    {
+      "from": 588.86,
+      "to": 591.48,
+      "sid": 287,
+      "location": 2,
+      "content": "最终只能趴在窗户外面偷偷观看",
+      "music": 0
+    },
+    {
+      "from": 591.48,
+      "to": 592.32,
+      "sid": 288,
+      "location": 2,
+      "content": "当天傍晚",
+      "music": 0
+    },
+    {
+      "from": 592.32,
+      "to": 594.58,
+      "sid": 289,
+      "location": 2,
+      "content": "小齐应通博的要求带她去看海",
+      "music": 0
+    },
+    {
+      "from": 594.58,
+      "to": 594.82,
+      "sid": 290,
+      "location": 2,
+      "content": "海",
+      "music": 0
+    },
+    {
+      "from": 594.82,
+      "to": 596.82,
+      "sid": 291,
+      "location": 2,
+      "content": "通博聊起从前他在船上时",
+      "music": 0
+    },
+    {
+      "from": 596.82,
+      "to": 598.46,
+      "sid": 292,
+      "location": 2,
+      "content": "只想着什么时候能上岸",
+      "music": 0
+    },
+    {
+      "from": 598.46,
+      "to": 600.2,
+      "sid": 293,
+      "location": 2,
+      "content": "可如今他已经上了岸",
+      "music": 0
+    },
+    {
+      "from": 600.2,
+      "to": 602.02,
+      "sid": 294,
+      "location": 2,
+      "content": "又还有什么可以期待的呢",
+      "music": 0
+    },
+    {
+      "from": 602.02,
+      "to": 603.52,
+      "sid": 295,
+      "location": 2,
+      "content": "这时他突发奇想",
+      "music": 0
+    },
+    {
+      "from": 603.52,
+      "to": 605.84,
+      "sid": 296,
+      "location": 2,
+      "content": "让小齐帮自己和大海留张影",
+      "music": 0
+    },
+    {
+      "from": 605.84,
+      "to": 610.51,
+      "sid": 297,
+      "location": 2,
+      "content": "123对准海",
+      "music": 0
+    },
+    {
+      "from": 611.81,
+      "to": 618.31,
+      "sid": 298,
+      "location": 2,
+      "content": "嗯123啊哼夜里水哥和通博躺着聊天",
+      "music": 0
+    },
+    {
+      "from": 618.31,
+      "to": 620.99,
+      "sid": 299,
+      "location": 2,
+      "content": "水哥非常羡慕通博有个孝顺的孙女",
+      "music": 0
+    },
+    {
+      "from": 620.99,
+      "to": 623.93,
+      "sid": 300,
+      "location": 2,
+      "content": "通博却羡慕水哥能亲眼看到孙女结婚",
+      "music": 0
+    },
+    {
+      "from": 623.93,
+      "to": 624.52,
+      "sid": 301,
+      "location": 2,
+      "content": "第二天",
+      "music": 0
+    },
+    {
+      "from": 624.52,
+      "to": 626.66,
+      "sid": 302,
+      "location": 2,
+      "content": "小齐看到院舍多出不少护工",
+      "music": 0
+    },
+    {
+      "from": 626.66,
+      "to": 628.52,
+      "sid": 303,
+      "location": 2,
+      "content": "原来今天是社属检查日",
+      "music": 0
+    },
+    {
+      "from": 628.52,
+      "to": 630.84,
+      "sid": 304,
+      "location": 2,
+      "content": "老板故意调来应付检查的小齐",
+      "music": 0
+    },
+    {
+      "from": 630.84,
+      "to": 632.02,
+      "sid": 305,
+      "location": 2,
+      "content": "一来到通博屋子里",
+      "music": 0
+    },
+    {
+      "from": 632.02,
+      "to": 633.88,
+      "sid": 306,
+      "location": 2,
+      "content": "却发现他情绪非常低迷",
+      "music": 0
+    },
+    {
+      "from": 633.88,
+      "to": 635.76,
+      "sid": 307,
+      "location": 2,
+      "content": "水哥也一直赖在床上不起",
+      "music": 0
+    },
+    {
+      "from": 635.76,
+      "to": 637.42,
+      "sid": 308,
+      "location": 2,
+      "content": "可等小齐上前查看时",
+      "music": 0
+    },
+    {
+      "from": 637.42,
+      "to": 639.68,
+      "sid": 309,
+      "location": 2,
+      "content": "才发现水哥早已没了呼吸",
+      "music": 0
+    },
+    {
+      "from": 639.68,
+      "to": 641.48,
+      "sid": 310,
+      "location": 2,
+      "content": "小齐气冲冲的找到护工",
+      "music": 0
+    },
+    {
+      "from": 641.48,
+      "to": 643.14,
+      "sid": 311,
+      "location": 2,
+      "content": "结果他们早就知道此事",
+      "music": 0
+    },
+    {
+      "from": 643.14,
+      "to": 644.8,
+      "sid": 312,
+      "location": 2,
+      "content": "只因为今天是检查日",
+      "music": 0
+    },
+    {
+      "from": 644.8,
+      "to": 646.3,
+      "sid": 313,
+      "location": 2,
+      "content": "所以才不想声张出来",
+      "music": 0
+    },
+    {
+      "from": 646.3,
+      "to": 648.76,
+      "sid": 314,
+      "location": 2,
+      "content": "甚至张口胡扯说水哥还在睡觉",
+      "music": 0
+    },
+    {
+      "from": 648.76,
+      "to": 650.06,
+      "sid": 315,
+      "location": 2,
+      "content": "直到检查结束后",
+      "music": 0
+    },
+    {
+      "from": 650.06,
+      "to": 651.7,
+      "sid": 316,
+      "location": 2,
+      "content": "才将水哥的尸体抬走",
+      "music": 0
+    },
+    {
+      "from": 651.7,
+      "to": 652.74,
+      "sid": 317,
+      "location": 2,
+      "content": "通博告诉小齐",
+      "music": 0
+    },
+    {
+      "from": 652.74,
+      "to": 654.38,
+      "sid": 318,
+      "location": 2,
+      "content": "这已经是半年来的第六个了",
+      "music": 0
+    },
+    {
+      "from": 654.38,
+      "to": 656.18,
+      "sid": 319,
+      "location": 2,
+      "content": "他们早已对死亡麻木了",
+      "music": 0
+    },
+    {
+      "from": 656.18,
+      "to": 659.329,
+      "sid": 320,
+      "location": 2,
+      "content": "到时候你看见我快死的时候",
+      "music": 0
+    },
+    {
+      "from": 660.049,
+      "to": 662.089,
+      "sid": 321,
+      "location": 2,
+      "content": "千万不要救我",
+      "music": 0
+    },
+    {
+      "from": 684.5,
+      "to": 686.46,
+      "sid": 322,
+      "location": 2,
+      "content": "你没有家人啊",
+      "music": 0
+    },
+    {
+      "from": 692.9,
+      "to": 695.089,
+      "sid": 323,
+      "location": 2,
+      "content": "你不就是我家人",
+      "music": 0
+    },
+    {
+      "from": 695.809,
+      "to": 697.089,
+      "sid": 324,
+      "location": 2,
+      "content": "两人相视一笑",
+      "music": 0
+    },
+    {
+      "from": 697.089,
+      "to": 698.249,
+      "sid": 325,
+      "location": 2,
+      "content": "谁也没有拆穿谁",
+      "music": 0
+    },
+    {
+      "from": 698.249,
+      "to": 701.26,
+      "sid": 326,
+      "location": 2,
+      "content": "不论是小齐假装孙女还是通博装傻",
+      "music": 0
+    },
+    {
+      "from": 701.26,
+      "to": 702.14,
+      "sid": 327,
+      "location": 2,
+      "content": "小齐走后",
+      "music": 0
+    },
+    {
+      "from": 702.14,
+      "to": 703.7,
+      "sid": 328,
+      "location": 2,
+      "content": "一群人进来打扫卫生",
+      "music": 0
+    },
+    {
+      "from": 703.7,
+      "to": 706.2,
+      "sid": 329,
+      "location": 2,
+      "content": "并且很快通博就迎来了新舍友",
+      "music": 0
+    },
+    {
+      "from": 706.2,
+      "to": 708.38,
+      "sid": 330,
+      "location": 2,
+      "content": "仿佛这里没住过水哥一样",
+      "music": 0
+    },
+    {
+      "from": 708.38,
+      "to": 710.7,
+      "sid": 331,
+      "location": 2,
+      "content": "一开始小齐只想保住调查科",
+      "music": 0
+    },
+    {
+      "from": 710.7,
+      "to": 711.88,
+      "sid": 332,
+      "location": 2,
+      "content": "可这么多天下来",
+      "music": 0
+    },
+    {
+      "from": 711.88,
+      "to": 713.42,
+      "sid": 333,
+      "location": 2,
+      "content": "他的想法早已改变",
+      "music": 0
+    },
+    {
+      "from": 713.42,
+      "to": 715.44,
+      "sid": 334,
+      "location": 2,
+      "content": "小齐希望真的能改变院设",
+      "music": 0
+    },
+    {
+      "from": 715.44,
+      "to": 716.98,
+      "sid": 335,
+      "location": 2,
+      "content": "但这又谈何容易呢",
+      "music": 0
+    },
+    {
+      "from": 716.98,
+      "to": 718.52,
+      "sid": 336,
+      "location": 2,
+      "content": "因为没有足够的证据",
+      "music": 0
+    },
+    {
+      "from": 718.52,
+      "to": 720.4,
+      "sid": 337,
+      "location": 2,
+      "content": "稿子最终被上司压了下来",
+      "music": 0
+    },
+    {
+      "from": 720.4,
+      "to": 721.16,
+      "sid": 338,
+      "location": 2,
+      "content": "冬至这天",
+      "music": 0
+    },
+    {
+      "from": 721.16,
+      "to": 723.32,
+      "sid": 339,
+      "location": 2,
+      "content": "小齐和同事采购了一堆便当",
+      "music": 0
+    },
+    {
+      "from": 723.32,
+      "to": 724.26,
+      "sid": 340,
+      "location": 2,
+      "content": "拿到院舍",
+      "music": 0
+    },
+    {
+      "from": 724.26,
+      "to": 725.9,
+      "sid": 341,
+      "location": 2,
+      "content": "为院友们改善了伙食",
+      "music": 0
+    },
+    {
+      "from": 725.9,
+      "to": 728.5,
+      "sid": 342,
+      "location": 2,
+      "content": "大家难得度过一个欢声笑语的晚上",
+      "music": 0
+    },
+    {
+      "from": 728.5,
+      "to": 729.84,
+      "sid": 343,
+      "location": 2,
+      "content": "夜宵时间结束后",
+      "music": 0
+    },
+    {
+      "from": 729.84,
+      "to": 731.18,
+      "sid": 344,
+      "location": 2,
+      "content": "通博还请小齐吃",
+      "music": 0
+    },
+    {
+      "from": 731.18,
+      "to": 732.36,
+      "sid": 345,
+      "location": 2,
+      "content": "他藏起来的饼干",
+      "music": 0
+    },
+    {
+      "from": 732.36,
+      "to": 733.46,
+      "sid": 346,
+      "location": 2,
+      "content": "小齐有些好奇",
+      "music": 0
+    },
+    {
+      "from": 733.46,
+      "to": 734.58,
+      "sid": 347,
+      "location": 2,
+      "content": "他为什么要装傻",
+      "music": 0
+    },
+    {
+      "from": 734.58,
+      "to": 735.96,
+      "sid": 348,
+      "location": 2,
+      "content": "可通博却解释说",
+      "music": 0
+    },
+    {
+      "from": 735.96,
+      "to": 739.2,
+      "sid": 349,
+      "location": 2,
+      "content": "在这种地方傻比不傻好",
+      "music": 0
+    },
+    {
+      "from": 739.2,
+      "to": 740.72,
+      "sid": 350,
+      "location": 2,
+      "content": "这里虽然条件不好",
+      "music": 0
+    },
+    {
+      "from": 740.72,
+      "to": 741.76,
+      "sid": 351,
+      "location": 2,
+      "content": "但有瓦遮头",
+      "music": 0
+    },
+    {
+      "from": 741.76,
+      "to": 743.04,
+      "sid": 352,
+      "location": 2,
+      "content": "不至于流落街头",
+      "music": 0
+    },
+    {
+      "from": 743.04,
+      "to": 744.86,
+      "sid": 353,
+      "location": 2,
+      "content": "小齐也难得讲起心事",
+      "music": 0
+    },
+    {
+      "from": 744.86,
+      "to": 747.12,
+      "sid": 354,
+      "location": 2,
+      "content": "他刚工作时也去探望过爷爷",
+      "music": 0
+    },
+    {
+      "from": 747.12,
+      "to": 749.64,
+      "sid": 355,
+      "location": 2,
+      "content": "可等忙起来后就很难抽出时间",
+      "music": 0
+    },
+    {
+      "from": 749.64,
+      "to": 751.54,
+      "sid": 356,
+      "location": 2,
+      "content": "现在后悔也来不及了",
+      "music": 0
+    },
+    {
+      "from": 751.54,
+      "to": 752.54,
+      "sid": 357,
+      "location": 2,
+      "content": "第二天一大早",
+      "music": 0
+    },
+    {
+      "from": 752.54,
+      "to": 754.44,
+      "sid": 358,
+      "location": 2,
+      "content": "小齐叫醒留宿一晚的同事",
+      "music": 0
+    },
+    {
+      "from": 754.44,
+      "to": 756.4,
+      "sid": 359,
+      "location": 2,
+      "content": "两人其实还有另一个目的",
+      "music": 0
+    },
+    {
+      "from": 756.4,
+      "to": 758.68,
+      "sid": 360,
+      "location": 2,
+      "content": "那就是弄清楚院舍的行程表",
+      "music": 0
+    },
+    {
+      "from": 758.68,
+      "to": 761.38,
+      "sid": 361,
+      "location": 2,
+      "content": "上星期三的洗澡日到底是怎么回事",
+      "music": 0
+    },
+    {
+      "from": 761.38,
+      "to": 762.84,
+      "sid": 362,
+      "location": 2,
+      "content": "可两人跟过去的时候",
+      "music": 0
+    },
+    {
+      "from": 762.84,
+      "to": 764.68,
+      "sid": 363,
+      "location": 2,
+      "content": "却发现门被反锁上了",
+      "music": 0
+    },
+    {
+      "from": 764.68,
+      "to": 766.72,
+      "sid": 364,
+      "location": 2,
+      "content": "于是立刻跑到对面大楼楼顶",
+      "music": 0
+    },
+    {
+      "from": 766.72,
+      "to": 768.08,
+      "sid": 365,
+      "location": 2,
+      "content": "在光天白日之下",
+      "music": 0
+    },
+    {
+      "from": 768.08,
+      "to": 770.06,
+      "sid": 366,
+      "location": 2,
+      "content": "见证了黑暗残酷的现实",
+      "music": 0
+    },
+    {
+      "from": 770.06,
+      "to": 772.16,
+      "sid": 367,
+      "location": 2,
+      "content": "只见护工将老人们脱光了",
+      "music": 0
+    },
+    {
+      "from": 772.16,
+      "to": 773.04,
+      "sid": 368,
+      "location": 2,
+      "content": "绑在轮椅上",
+      "music": 0
+    },
+    {
+      "from": 773.04,
+      "to": 775.3,
+      "sid": 369,
+      "location": 2,
+      "content": "然后用冰冷的水浇在他们身上",
+      "music": 0
+    },
+    {
+      "from": 775.3,
+      "to": 776.5,
+      "sid": 370,
+      "location": 2,
+      "content": "这已经是秋天了",
+      "music": 0
+    },
+    {
+      "from": 776.5,
+      "to": 777.94,
+      "sid": 371,
+      "location": 2,
+      "content": "年轻人都承受不住",
+      "music": 0
+    },
+    {
+      "from": 777.94,
+      "to": 780.9,
+      "sid": 372,
+      "location": 2,
+      "content": "更何况是体弱多病的老人呢",
+      "music": 0
+    },
+    {
+      "from": 847.28,
+      "to": 849.16,
+      "sid": 373,
+      "location": 2,
+      "content": "两人震惊得说不出话来",
+      "music": 0
+    },
+    {
+      "from": 849.16,
+      "to": 851.58,
+      "sid": 374,
+      "location": 2,
+      "content": "只能将这一幕原原本本记录下来",
+      "music": 0
+    },
+    {
+      "from": 851.58,
+      "to": 853.44,
+      "sid": 375,
+      "location": 2,
+      "content": "随后几人不断走访调查",
+      "music": 0
+    },
+    {
+      "from": 853.44,
+      "to": 854.78,
+      "sid": 376,
+      "location": 2,
+      "content": "寻找除了水哥外",
+      "music": 0
+    },
+    {
+      "from": 854.78,
+      "to": 856.32,
+      "sid": 377,
+      "location": 2,
+      "content": "另外几名死者的资料",
+      "music": 0
+    },
+    {
+      "from": 856.32,
+      "to": 859.68,
+      "sid": 378,
+      "location": 2,
+      "content": "其中不乏有人见过院舍是怎样给老人洗澡的",
+      "music": 0
+    },
+    {
+      "from": 859.68,
+      "to": 861.28,
+      "sid": 379,
+      "location": 2,
+      "content": "他们也向社鼠举报过",
+      "music": 0
+    },
+    {
+      "from": 861.28,
+      "to": 863.22,
+      "sid": 380,
+      "location": 2,
+      "content": "但最终都被社鼠压了下来",
+      "music": 0
+    },
+    {
+      "from": 863.22,
+      "to": 865.56,
+      "sid": 381,
+      "location": 2,
+      "content": "此外有一名护工也愿意作证",
+      "music": 0
+    },
+    {
+      "from": 865.56,
+      "to": 868.96,
+      "sid": 382,
+      "location": 2,
+      "content": "因为最初小齐收到的照片就是他匿名寄出的",
+      "music": 0
+    },
+    {
+      "from": 868.96,
+      "to": 870.3,
+      "sid": 383,
+      "location": 2,
+      "content": "综合以上所有资料",
+      "music": 0
+    },
+    {
+      "from": 870.3,
+      "to": 873.02,
+      "sid": 384,
+      "location": 2,
+      "content": "小齐写出一份振聋发聩的报道",
+      "music": 0
+    },
+    {
+      "from": 873.02,
+      "to": 876.04,
+      "sid": 385,
+      "location": 2,
+      "content": "并加急刊印后送到大街小巷上",
+      "music": 0
+    },
+    {
+      "from": 876.04,
+      "to": 878.24,
+      "sid": 386,
+      "location": 2,
+      "content": "社属与院舍相互勾结一事",
+      "music": 0
+    },
+    {
+      "from": 878.24,
+      "to": 880.36,
+      "sid": 387,
+      "location": 2,
+      "content": "很快就引发了社会的大量关注",
+      "music": 0
+    },
+    {
+      "from": 880.36,
+      "to": 882.64,
+      "sid": 388,
+      "location": 2,
+      "content": "院社门口记者们蜂拥而至",
+      "music": 0
+    },
+    {
+      "from": 882.64,
+      "to": 883.94,
+      "sid": 389,
+      "location": 2,
+      "content": "电视台争相报道",
+      "music": 0
+    },
+    {
+      "from": 883.94,
+      "to": 886.46,
+      "sid": 390,
+      "location": 2,
+      "content": "在网络上也引起轩然大波",
+      "music": 0
+    },
+    {
+      "from": 886.46,
+      "to": 887.8,
+      "sid": 391,
+      "location": 2,
+      "content": "上司通知小齐",
+      "music": 0
+    },
+    {
+      "from": 887.8,
+      "to": 890.3,
+      "sid": 392,
+      "location": 2,
+      "content": "因为这轰动香港的大新闻调查科",
+      "music": 0
+    },
+    {
+      "from": 890.3,
+      "to": 891.66,
+      "sid": 393,
+      "location": 2,
+      "content": "得以暂时保留下来",
+      "music": 0
+    },
+    {
+      "from": 891.66,
+      "to": 894.3,
+      "sid": 394,
+      "location": 2,
+      "content": "不过他也看出小齐动了真情",
+      "music": 0
+    },
+    {
+      "from": 894.3,
+      "to": 895.68,
+      "sid": 395,
+      "location": 2,
+      "content": "便好心劝告他",
+      "music": 0
+    },
+    {
+      "from": 895.68,
+      "to": 897.329,
+      "sid": 396,
+      "location": 2,
+      "content": "你改变不了这个世界",
+      "music": 0
+    },
+    {
+      "from": 897.329,
+      "to": 898.469,
+      "sid": 397,
+      "location": 2,
+      "content": "20年了",
+      "music": 0
+    },
+    {
+      "from": 898.469,
+      "to": 899.729,
+      "sid": 398,
+      "location": 2,
+      "content": "我做了多少专题",
+      "music": 0
+    },
+    {
+      "from": 901.089,
+      "to": 903.169,
+      "sid": 399,
+      "location": 2,
+      "content": "很多都有回响",
+      "music": 0
+    },
+    {
+      "from": 904.52,
+      "to": 906.12,
+      "sid": 400,
+      "location": 2,
+      "content": "但这个世界有变过吗",
+      "music": 0
+    },
+    {
+      "from": 908.28,
+      "to": 910.16,
+      "sid": 401,
+      "location": 2,
+      "content": "有变好过吗",
+      "music": 0
+    },
+    {
+      "from": 912.14,
+      "to": 912.94,
+      "sid": 402,
+      "location": 2,
+      "content": "其实善",
+      "music": 0
+    },
+    {
+      "from": 915.02,
+      "to": 918.69,
+      "sid": 403,
+      "location": 2,
+      "content": "不一定有善报恶",
+      "music": 0
+    },
+    {
+      "from": 918.69,
+      "to": 920.96,
+      "sid": 404,
+      "location": 2,
+      "content": "也不一定有恶报的",
+      "music": 0
+    },
+    {
+      "from": 920.96,
+      "to": 922.26,
+      "sid": 405,
+      "location": 2,
+      "content": "与上司聊完后",
+      "music": 0
+    },
+    {
+      "from": 922.26,
+      "to": 924.56,
+      "sid": 406,
+      "location": 2,
+      "content": "小齐拿出明仔送自己的画本",
+      "music": 0
+    },
+    {
+      "from": 924.56,
+      "to": 927.78,
+      "sid": 407,
+      "location": 2,
+      "content": "里面有一幅画作是明仔挡在一个女孩面前",
+      "music": 0
+    },
+    {
+      "from": 927.78,
+      "to": 929.18,
+      "sid": 408,
+      "location": 2,
+      "content": "似乎在防着谁",
+      "music": 0
+    },
+    {
+      "from": 929.18,
+      "to": 929.74,
+      "sid": 409,
+      "location": 2,
+      "content": "另一边",
+      "music": 0
+    },
+    {
+      "from": 929.74,
+      "to": 932.38,
+      "sid": 410,
+      "location": 2,
+      "content": "那个先前不肯透露院长信息的老人",
+      "music": 0
+    },
+    {
+      "from": 932.38,
+      "to": 934.08,
+      "sid": 411,
+      "location": 2,
+      "content": "主动联系了小齐的后辈",
+      "music": 0
+    },
+    {
+      "from": 934.08,
+      "to": 935.68,
+      "sid": 412,
+      "location": 2,
+      "content": "但说的话和上次一样",
+      "music": 0
+    },
+    {
+      "from": 935.68,
+      "to": 937.98,
+      "sid": 413,
+      "location": 2,
+      "content": "那就是院长真的很爱护院友们",
+      "music": 0
+    },
+    {
+      "from": 937.98,
+      "to": 941,
+      "sid": 414,
+      "location": 2,
+      "content": "可这句话如今听后似乎意有所指",
+      "music": 0
+    },
+    {
+      "from": 941,
+      "to": 942.5,
+      "sid": 415,
+      "location": 2,
+      "content": "后背按着这个方向",
+      "music": 0
+    },
+    {
+      "from": 942.5,
+      "to": 943.64,
+      "sid": 416,
+      "location": 2,
+      "content": "果然查到东西",
+      "music": 0
+    },
+    {
+      "from": 943.64,
+      "to": 947.04,
+      "sid": 417,
+      "location": 2,
+      "content": "院长的那三次变动都是因为涉嫌性侵智障",
+      "music": 0
+    },
+    {
+      "from": 947.04,
+      "to": 949.28,
+      "sid": 418,
+      "location": 2,
+      "content": "院有可三次指控都没有成功",
+      "music": 0
+    },
+    {
+      "from": 949.28,
+      "to": 950.08,
+      "sid": 419,
+      "location": 2,
+      "content": "与此同时",
+      "music": 0
+    },
+    {
+      "from": 950.08,
+      "to": 952.12,
+      "sid": 420,
+      "location": 2,
+      "content": "院长再次对女孩小玲下手",
+      "music": 0
+    },
+    {
+      "from": 952.12,
+      "to": 954.62,
+      "sid": 421,
+      "location": 2,
+      "content": "他先是用雪糕诱惑女孩到办公室",
+      "music": 0
+    },
+    {
+      "from": 954.62,
+      "to": 956.58,
+      "sid": 422,
+      "location": 2,
+      "content": "然后开始对她动手动脚",
+      "music": 0
+    },
+    {
+      "from": 956.58,
+      "to": 958.06,
+      "sid": 423,
+      "location": 2,
+      "content": "明仔想要保护小玲",
+      "music": 0
+    },
+    {
+      "from": 958.06,
+      "to": 959.7,
+      "sid": 424,
+      "location": 2,
+      "content": "却被院长强行拖走",
+      "music": 0
+    },
+    {
+      "from": 959.7,
+      "to": 961.56,
+      "sid": 425,
+      "location": 2,
+      "content": "并像狗一样被拴在杂物室",
+      "music": 0
+    },
+    {
+      "from": 961.56,
+      "to": 965.48,
+      "sid": 426,
+      "location": 2,
+      "content": "随后院长回去接着实施恶行活动啊",
+      "music": 0
+    },
+    {
+      "from": 965.64,
+      "to": 969.26,
+      "sid": 427,
+      "location": 2,
+      "content": "不动啊不动",
+      "music": 0
+    },
+    {
+      "from": 969.26,
+      "to": 970.92,
+      "sid": 428,
+      "location": 2,
+      "content": "乖",
+      "music": 0.9999996666667778
+    },
+    {
+      "from": 1015.34,
+      "to": 1017.44,
+      "sid": 429,
+      "location": 2,
+      "content": "最终明仔承受不住折磨",
+      "music": 0
+    },
+    {
+      "from": 1017.44,
+      "to": 1020.2,
+      "sid": 430,
+      "location": 2,
+      "content": "解开绳索后被阳光吸引到窗户边",
+      "music": 0
+    },
+    {
+      "from": 1020.2,
+      "to": 1023.02,
+      "sid": 431,
+      "location": 2,
+      "content": "然后打开窗户奔向了自由",
+      "music": 0
+    },
+    {
+      "from": 1029.86,
+      "to": 1031.96,
+      "sid": 432,
+      "location": 2,
+      "content": "小齐陪着明妈一块烧纸",
+      "music": 0
+    },
+    {
+      "from": 1031.96,
+      "to": 1033.78,
+      "sid": 433,
+      "location": 2,
+      "content": "女人承认儿子这样离开",
+      "music": 0
+    },
+    {
+      "from": 1033.78,
+      "to": 1035.8,
+      "sid": 434,
+      "location": 2,
+      "content": "她心中反而落下一块巨石",
+      "music": 0
+    },
+    {
+      "from": 1035.8,
+      "to": 1038.2,
+      "sid": 435,
+      "location": 2,
+      "content": "可能她也一直在等这一天的解脱",
+      "music": 0
+    },
+    {
+      "from": 1038.2,
+      "to": 1040.32,
+      "sid": 436,
+      "location": 2,
+      "content": "随后小齐又找到小玲家里",
+      "music": 0
+    },
+    {
+      "from": 1040.32,
+      "to": 1042.699,
+      "sid": 437,
+      "location": 2,
+      "content": "可他母亲不想承认女儿被嫌亲一事",
+      "music": 0
+    },
+    {
+      "from": 1042.699,
+      "to": 1044.839,
+      "sid": 438,
+      "location": 2,
+      "content": "因为他不想小玲受到二次伤害",
+      "music": 0
+    },
+    {
+      "from": 1044.839,
+      "to": 1046.86,
+      "sid": 439,
+      "location": 2,
+      "content": "但在经过小小齐的一番劝说后",
+      "music": 0
+    },
+    {
+      "from": 1046.86,
+      "to": 1049.2,
+      "sid": 440,
+      "location": 2,
+      "content": "最终还是答应让女儿出庭作证",
+      "music": 0
+    },
+    {
+      "from": 1049.2,
+      "to": 1051.8,
+      "sid": 441,
+      "location": 2,
+      "content": "小齐发现小玲对雪糕反应极大",
+      "music": 0
+    },
+    {
+      "from": 1051.8,
+      "to": 1053.66,
+      "sid": 442,
+      "location": 2,
+      "content": "并顺利问出了院长的名名字",
+      "music": 0
+    },
+    {
+      "from": 1053.66,
+      "to": 1056.22,
+      "sid": 443,
+      "location": 2,
+      "content": "很快就有人将他带走调查和审问",
+      "music": 0
+    },
+    {
+      "from": 1056.22,
+      "to": 1058.72,
+      "sid": 444,
+      "location": 2,
+      "content": "不过这个老油条审讯经验丰富",
+      "music": 0
+    },
+    {
+      "from": 1058.72,
+      "to": 1060.86,
+      "sid": 445,
+      "location": 2,
+      "content": "避开了所有对自己不利的证据",
+      "music": 0
+    },
+    {
+      "from": 1060.86,
+      "to": 1062.44,
+      "sid": 446,
+      "location": 2,
+      "content": "而小齐找到检方律师",
+      "music": 0
+    },
+    {
+      "from": 1062.44,
+      "to": 1064.56,
+      "sid": 447,
+      "location": 2,
+      "content": "得知当年他经手的第一个案子",
+      "music": 0
+    },
+    {
+      "from": 1064.56,
+      "to": 1066.2,
+      "sid": 448,
+      "location": 2,
+      "content": "就是这位院长的性侵案",
+      "music": 0
+    },
+    {
+      "from": 1066.2,
+      "to": 1068.14,
+      "sid": 449,
+      "location": 2,
+      "content": "当时受害者也是中度弱智",
+      "music": 0
+    },
+    {
+      "from": 1068.14,
+      "to": 1070.2,
+      "sid": 450,
+      "location": 2,
+      "content": "可最终的结果却是不了了之",
+      "music": 0
+    },
+    {
+      "from": 1070.2,
+      "to": 1072.58,
+      "sid": 451,
+      "location": 2,
+      "content": "毕竟这类案子大多数都是庭外和解",
+      "music": 0
+    },
+    {
+      "from": 1072.58,
+      "to": 1075.48,
+      "sid": 452,
+      "location": 2,
+      "content": "并且香港现行制度下也不能录影作证",
+      "music": 0
+    },
+    {
+      "from": 1075.48,
+      "to": 1077.44,
+      "sid": 453,
+      "location": 2,
+      "content": "因为法庭不接受传闻证供",
+      "music": 0
+    },
+    {
+      "from": 1077.44,
+      "to": 1079.78,
+      "sid": 454,
+      "location": 2,
+      "content": "除非能提供很强的环境证明",
+      "music": 0
+    },
+    {
+      "from": 1079.78,
+      "to": 1083.14,
+      "sid": 455,
+      "location": 2,
+      "content": "小七回报社时发现院长居然不请自来",
+      "music": 0
+    },
+    {
+      "from": 1083.14,
+      "to": 1084.98,
+      "sid": 456,
+      "location": 2,
+      "content": "不过上司明白他的意图",
+      "music": 0
+    },
+    {
+      "from": 1084.98,
+      "to": 1086.96,
+      "sid": 457,
+      "location": 2,
+      "content": "他就是想让报社把他写黑",
+      "music": 0
+    },
+    {
+      "from": 1086.96,
+      "to": 1088.82,
+      "sid": 458,
+      "location": 2,
+      "content": "这样他出庭时就可以狡辩",
+      "music": 0
+    },
+    {
+      "from": 1088.82,
+      "to": 1091.38,
+      "sid": 459,
+      "location": 2,
+      "content": "院长指责小其只在乎自己的报道",
+      "music": 0
+    },
+    {
+      "from": 1091.38,
+      "to": 1092.22,
+      "sid": 460,
+      "location": 2,
+      "content": "混进院舍",
+      "music": 0
+    },
+    {
+      "from": 1092.22,
+      "to": 1093.4,
+      "sid": 461,
+      "location": 2,
+      "content": "破坏这个大家庭",
+      "music": 0
+    },
+    {
+      "from": 1093.4,
+      "to": 1095.92,
+      "sid": 462,
+      "location": 2,
+      "content": "他根本不明白残疾人有多么孤独",
+      "music": 0
+    },
+    {
+      "from": 1095.92,
+      "to": 1097.68,
+      "sid": 463,
+      "location": 2,
+      "content": "在社会上又是多么无助",
+      "music": 0
+    },
+    {
+      "from": 1097.68,
+      "to": 1101.24,
+      "sid": 464,
+      "location": 2,
+      "content": "晚上小齐开车时看到街头有很多无家可归之人",
+      "music": 0
+    },
+    {
+      "from": 1101.24,
+      "to": 1102.38,
+      "sid": 465,
+      "location": 2,
+      "content": "不免得心烦意乱",
+      "music": 0
+    },
+    {
+      "from": 1102.38,
+      "to": 1103.74,
+      "sid": 466,
+      "location": 2,
+      "content": "他再次来看望通博",
+      "music": 0
+    },
+    {
+      "from": 1103.74,
+      "to": 1104.54,
+      "sid": 467,
+      "location": 2,
+      "content": "可临走时",
+      "music": 0
+    },
+    {
+      "from": 1104.54,
+      "to": 1107.2,
+      "sid": 468,
+      "location": 2,
+      "content": "通博竟然把形影不离的手机交给了小齐",
+      "music": 0
+    },
+    {
+      "from": 1107.2,
+      "to": 1108.18,
+      "sid": 469,
+      "location": 2,
+      "content": "还让他拿回去",
+      "music": 0
+    },
+    {
+      "from": 1108.18,
+      "to": 1108.92,
+      "sid": 470,
+      "location": 2,
+      "content": "有空看看",
+      "music": 0
+    },
+    {
+      "from": 1108.92,
+      "to": 1110.46,
+      "sid": 471,
+      "location": 2,
+      "content": "而小齐翻看相册时",
+      "music": 0
+    },
+    {
+      "from": 1110.46,
+      "to": 1112.1,
+      "sid": 472,
+      "location": 2,
+      "content": "果然就发现了一段视频",
+      "music": 0
+    },
+    {
+      "from": 1112.1,
+      "to": 1114.54,
+      "sid": 473,
+      "location": 2,
+      "content": "里面正是院长对小玲施暴的画面",
+      "music": 0
+    },
+    {
+      "from": 1114.54,
+      "to": 1116.22,
+      "sid": 474,
+      "location": 2,
+      "content": "小七便立刻传给了律师",
+      "music": 0
+    },
+    {
+      "from": 1116.22,
+      "to": 1117.14,
+      "sid": 475,
+      "location": 2,
+      "content": "开庭当天",
+      "music": 0
+    },
+    {
+      "from": 1117.14,
+      "to": 1118.46,
+      "sid": 476,
+      "location": 2,
+      "content": "小齐也来到现场",
+      "music": 0
+    },
+    {
+      "from": 1118.46,
+      "to": 1120.46,
+      "sid": 477,
+      "location": 2,
+      "content": "可检方律师突然走到法官面前",
+      "music": 0
+    },
+    {
+      "from": 1120.46,
+      "to": 1121.58,
+      "sid": 478,
+      "location": 2,
+      "content": "似乎在交流什么",
+      "music": 0
+    },
+    {
+      "from": 1121.58,
+      "to": 1123.48,
+      "sid": 479,
+      "location": 2,
+      "content": "接着法官又叫来被告律师",
+      "music": 0
+    },
+    {
+      "from": 1123.48,
+      "to": 1125.52,
+      "sid": 480,
+      "location": 2,
+      "content": "双方最终达成统一意见",
+      "music": 0
+    },
+    {
+      "from": 1125.52,
+      "to": 1128,
+      "sid": 481,
+      "location": 2,
+      "content": "律政司经过长时间考虑",
+      "music": 0
+    },
+    {
+      "from": 1128,
+      "to": 1130.88,
+      "sid": 482,
+      "location": 2,
+      "content": "基于保护受害人的理由",
+      "music": 0
+    },
+    {
+      "from": 1131.73,
+      "to": 1134.05,
+      "sid": 483,
+      "location": 2,
+      "content": "决定撤销对被告的监控",
+      "music": 0
+    },
+    {
+      "from": 1134.05,
+      "to": 1135.81,
+      "sid": 484,
+      "location": 2,
+      "content": "法官作出相应裁决后",
+      "music": 0
+    },
+    {
+      "from": 1135.81,
+      "to": 1137.77,
+      "sid": 485,
+      "location": 2,
+      "content": "也表态这是被害者的幸运",
+      "music": 0
+    },
+    {
+      "from": 1137.77,
+      "to": 1139.92,
+      "sid": 486,
+      "location": 2,
+      "content": "但也是受害者和社会的不幸",
+      "music": 0
+    },
+    {
+      "from": 1139.92,
+      "to": 1142.5,
+      "sid": 487,
+      "location": 2,
+      "content": "小齐被此情此景气红了眼眶",
+      "music": 0
+    },
+    {
+      "from": 1142.5,
+      "to": 1144.36,
+      "sid": 488,
+      "location": 2,
+      "content": "当院长走到法院门口时",
+      "music": 0
+    },
+    {
+      "from": 1144.36,
+      "to": 1146.24,
+      "sid": 489,
+      "location": 2,
+      "content": "这里早已等候了不少记者",
+      "music": 0
+    },
+    {
+      "from": 1146.24,
+      "to": 1148.56,
+      "sid": 490,
+      "location": 2,
+      "content": "只见他掏出一张提前打好的草稿",
+      "music": 0
+    },
+    {
+      "from": 1148.56,
+      "to": 1150,
+      "sid": 491,
+      "location": 2,
+      "content": "竟然厚颜无耻地说",
+      "music": 0
+    },
+    {
+      "from": 1150,
+      "to": 1151.34,
+      "sid": 492,
+      "location": 2,
+      "content": "感谢法院判决",
+      "music": 0
+    },
+    {
+      "from": 1151.34,
+      "to": 1152.82,
+      "sid": 493,
+      "location": 2,
+      "content": "还他公道和清白",
+      "music": 0
+    },
+    {
+      "from": 1152.82,
+      "to": 1155.22,
+      "sid": 494,
+      "location": 2,
+      "content": "又宣称自己才是媒体受害者",
+      "music": 0
+    },
+    {
+      "from": 1155.22,
+      "to": 1157,
+      "sid": 495,
+      "location": 2,
+      "content": "他会向检方追讨诉讼费",
+      "music": 0
+    },
+    {
+      "from": 1157,
+      "to": 1159.62,
+      "sid": 496,
+      "location": 2,
+      "content": "更会向不负责任的传媒追讨赔偿",
+      "music": 0
+    },
+    {
+      "from": 1159.62,
+      "to": 1162.22,
+      "sid": 497,
+      "location": 2,
+      "content": "我会继续当院长服务",
+      "music": 0
+    },
+    {
+      "from": 1162.22,
+      "to": 1166.05,
+      "sid": 498,
+      "location": 2,
+      "content": "更更多有需要的人帮助他们",
+      "music": 0
+    },
+    {
+      "from": 1167.89,
+      "to": 1170.19,
+      "sid": 499,
+      "location": 2,
+      "content": "但也只能看着恶徒逍遥法外",
+      "music": 0
+    },
+    {
+      "from": 1170.19,
+      "to": 1172.6,
+      "sid": 500,
+      "location": 2,
+      "content": "甚至以后还有可能会继续作恶",
+      "music": 0
+    },
+    {
+      "from": 1172.6,
+      "to": 1174.18,
+      "sid": 501,
+      "location": 2,
+      "content": "小齐找上检方律师",
+      "music": 0
+    },
+    {
+      "from": 1174.18,
+      "to": 1176.24,
+      "sid": 502,
+      "location": 2,
+      "content": "他不明白都有那段视频作证",
+      "music": 0
+    },
+    {
+      "from": 1176.24,
+      "to": 1178.38,
+      "sid": 503,
+      "location": 2,
+      "content": "为什么还要撤销对院长的控诉",
+      "music": 0
+    },
+    {
+      "from": 1178.38,
+      "to": 1179.54,
+      "sid": 504,
+      "location": 2,
+      "content": "可律师却告诉他",
+      "music": 0
+    },
+    {
+      "from": 1179.54,
+      "to": 1181.24,
+      "sid": 505,
+      "location": 2,
+      "content": "几位医生评估后发现",
+      "music": 0
+    },
+    {
+      "from": 1181.24,
+      "to": 1183.8,
+      "sid": 506,
+      "location": 2,
+      "content": "小林患有创伤后压力症候群",
+      "music": 0
+    },
+    {
+      "from": 1183.8,
+      "to": 1185.96,
+      "sid": 507,
+      "location": 2,
+      "content": "再见到院长只会加重病情",
+      "music": 0
+    },
+    {
+      "from": 1185.96,
+      "to": 1187.58,
+      "sid": 508,
+      "location": 2,
+      "content": "根本不适合出庭作证",
+      "music": 0
+    },
+    {
+      "from": 1187.58,
+      "to": 1189.88,
+      "sid": 509,
+      "location": 2,
+      "content": "况且视频隔着磨砂玻璃拍摄",
+      "music": 0
+    },
+    {
+      "from": 1189.88,
+      "to": 1191.54,
+      "sid": 510,
+      "location": 2,
+      "content": "看不清里面发生了什么事",
+      "music": 0
+    },
+    {
+      "from": 1191.54,
+      "to": 1193.14,
+      "sid": 511,
+      "location": 2,
+      "content": "因此不构成环境证",
+      "music": 0
+    },
+    {
+      "from": 1193.14,
+      "to": 1193.38,
+      "sid": 512,
+      "location": 2,
+      "content": "供",
+      "music": 0
+    },
+    {
+      "from": 1193.38,
+      "to": 1195.2,
+      "sid": 513,
+      "location": 2,
+      "content": "见小齐还是愤愤不平",
+      "music": 0
+    },
+    {
+      "from": 1195.2,
+      "to": 1196.12,
+      "sid": 514,
+      "location": 2,
+      "content": "律师又提到",
+      "music": 0
+    },
+    {
+      "from": 1196.12,
+      "to": 1197.28,
+      "sid": 515,
+      "location": 2,
+      "content": "一罪不能两审",
+      "music": 0
+    },
+    {
+      "from": 1197.28,
+      "to": 1199.26,
+      "sid": 516,
+      "location": 2,
+      "content": "现在撤诉是保留机会",
+      "music": 0
+    },
+    {
+      "from": 1199.26,
+      "to": 1200.62,
+      "sid": 517,
+      "location": 2,
+      "content": "日后再控告他",
+      "music": 0
+    },
+    {
+      "from": 1200.62,
+      "to": 1201.64,
+      "sid": 518,
+      "location": 2,
+      "content": "可经过此事",
+      "music": 0
+    },
+    {
+      "from": 1201.64,
+      "to": 1203.98,
+      "sid": 519,
+      "location": 2,
+      "content": "小齐对法律制度失望透顶",
+      "music": 0
+    },
+    {
+      "from": 1203.98,
+      "to": 1205.12,
+      "sid": 520,
+      "location": 2,
+      "content": "他沉思良久后",
+      "music": 0
+    },
+    {
+      "from": 1205.12,
+      "to": 1207.3,
+      "sid": 521,
+      "location": 2,
+      "content": "找到上司提出辞职申请",
+      "music": 0
+    },
+    {
+      "from": 1207.3,
+      "to": 1208.42,
+      "sid": 522,
+      "location": 2,
+      "content": "因为小齐明白了",
+      "music": 0
+    },
+    {
+      "from": 1208.42,
+      "to": 1209.68,
+      "sid": 523,
+      "location": 2,
+      "content": "只要想追求真相",
+      "music": 0
+    },
+    {
+      "from": 1209.68,
+      "to": 1211.24,
+      "sid": 524,
+      "location": 2,
+      "content": "去哪里都可以是记者",
+      "music": 0
+    },
+    {
+      "from": 1211.24,
+      "to": 1213.26,
+      "sid": 525,
+      "location": 2,
+      "content": "并且就算恶未必会有恶报",
+      "music": 0
+    },
+    {
+      "from": 1213.26,
+      "to": 1215.64,
+      "sid": 526,
+      "location": 2,
+      "content": "他也还是会选择公义和善良",
+      "music": 0
+    },
+    {
+      "from": 1215.64,
+      "to": 1218,
+      "sid": 527,
+      "location": 2,
+      "content": "上司被他的固执无语了",
+      "music": 0
+    },
+    {
+      "from": 1218,
+      "to": 1220.18,
+      "sid": 528,
+      "location": 2,
+      "content": "但最终还是尊重了她的选择",
+      "music": 0
+    },
+    {
+      "from": 1220.18,
+      "to": 1220.9,
+      "sid": 529,
+      "location": 2,
+      "content": "不久以后",
+      "music": 0
+    },
+    {
+      "from": 1220.9,
+      "to": 1221.68,
+      "sid": 530,
+      "location": 2,
+      "content": "新闻报道了",
+      "music": 0
+    },
+    {
+      "from": 1221.68,
+      "to": 1224.18,
+      "sid": 531,
+      "location": 2,
+      "content": "社署撤销彩桥之家的豁免证明书",
+      "music": 0
+    },
+    {
+      "from": 1224.18,
+      "to": 1225.96,
+      "sid": 532,
+      "location": 2,
+      "content": "这还是全香港的地第一例",
+      "music": 0
+    },
+    {
+      "from": 1225.96,
+      "to": 1227.12,
+      "sid": 533,
+      "location": 2,
+      "content": "小齐得到消息后",
+      "music": 0
+    },
+    {
+      "from": 1227.12,
+      "to": 1228.5,
+      "sid": 534,
+      "location": 2,
+      "content": "立刻来到院舍门口",
+      "music": 0
+    },
+    {
+      "from": 1228.5,
+      "to": 1230.94,
+      "sid": 535,
+      "location": 2,
+      "content": "结果院友们一见到他就骂了起来",
+      "music": 0
+    },
+    {
+      "from": 1230.94,
+      "to": 1232.32,
+      "sid": 536,
+      "location": 2,
+      "content": "都是你看什么",
+      "music": 0
+    },
+    {
+      "from": 1232.32,
+      "to": 1234.399,
+      "sid": 537,
+      "location": 2,
+      "content": "看你还好意思来",
+      "music": 0
+    },
+    {
+      "from": 1235.759,
+      "to": 1236.519,
+      "sid": 538,
+      "location": 2,
+      "content": "你满意了",
+      "music": 0
+    },
+    {
+      "from": 1237.599,
+      "to": 1238.919,
+      "sid": 539,
+      "location": 2,
+      "content": "混蛋",
+      "music": 0
+    },
+    {
+      "from": 1240.32,
+      "to": 1243.58,
+      "sid": 540,
+      "location": 2,
+      "content": "你一句话我们都得搬走",
+      "music": 0
+    },
+    {
+      "from": 1243.58,
+      "to": 1245.48,
+      "sid": 541,
+      "location": 2,
+      "content": "害人不浅哪",
+      "music": 0
+    },
+    {
+      "from": 1246.42,
+      "to": 1248.56,
+      "sid": 542,
+      "location": 2,
+      "content": "每个人的眼睛里都是充满恨意",
+      "music": 0
+    },
+    {
+      "from": 1248.56,
+      "to": 1249.38,
+      "sid": 543,
+      "location": 2,
+      "content": "指责小齐",
+      "music": 0
+    },
+    {
+      "from": 1249.38,
+      "to": 1250.64,
+      "sid": 544,
+      "location": 2,
+      "content": "害他们颠沛流离",
+      "music": 0
+    },
+    {
+      "from": 1252.22,
+      "to": 1253.84,
+      "sid": 545,
+      "location": 2,
+      "content": "他径直走到通博面前",
+      "music": 0
+    },
+    {
+      "from": 1253.84,
+      "to": 1254.98,
+      "sid": 546,
+      "location": 2,
+      "content": "哭着说对不起",
+      "music": 0
+    },
+    {
+      "from": 1254.98,
+      "to": 1257.42,
+      "sid": 547,
+      "location": 2,
+      "content": "可老人却丝毫没有责怪他的意思",
+      "music": 0
+    },
+    {
+      "from": 1257.42,
+      "to": 1260.12,
+      "sid": 548,
+      "location": 2,
+      "content": "人生有很多事情可以选",
+      "music": 0
+    },
+    {
+      "from": 1262.14,
+      "to": 1263.42,
+      "sid": 549,
+      "location": 2,
+      "content": "会选的人不多",
+      "music": 0
+    },
+    {
+      "from": 1264.7,
+      "to": 1267.1,
+      "sid": 550,
+      "location": 2,
+      "content": "选对的更少",
+      "music": 0
+    },
+    {
+      "from": 1268.38,
+      "to": 1269.42,
+      "sid": 551,
+      "location": 2,
+      "content": "你要记住",
+      "music": 0
+    },
+    {
+      "from": 1271.46,
+      "to": 1274.5,
+      "sid": 552,
+      "location": 2,
+      "content": "不要为做对一件事情而内疚",
+      "music": 0
+    },
+    {
+      "from": 1281.5,
+      "to": 1284.38,
+      "sid": 553,
+      "location": 2,
+      "content": "小齐将插上卡的手机还给通博",
+      "music": 0
+    },
+    {
+      "from": 1284.38,
+      "to": 1286.84,
+      "sid": 554,
+      "location": 2,
+      "content": "而她则将帽子戴在小齐头上",
+      "music": 0
+    },
+    {
+      "from": 1286.84,
+      "to": 1288.22,
+      "sid": 555,
+      "location": 2,
+      "content": "虽然两人暂时分开",
+      "music": 0
+    },
+    {
+      "from": 1288.22,
+      "to": 1290.46,
+      "sid": 556,
+      "location": 2,
+      "content": "但今后肯定还是会再相见的",
+      "music": 0
+    },
+    {
+      "from": 1290.46,
+      "to": 1292.48,
+      "sid": 557,
+      "location": 2,
+      "content": "因为他们已经成了真正的家人",
+      "music": 0
+    },
+    {
+      "from": 1292.48,
+      "to": 1293.4,
+      "sid": 558,
+      "location": 2,
+      "content": "故事的最后",
+      "music": 0
+    },
+    {
+      "from": 1293.4,
+      "to": 1295.7,
+      "sid": 559,
+      "location": 2,
+      "content": "小齐开着车从彩虹之家离开",
+      "music": 0
+    },
+    {
+      "from": 1295.7,
+      "to": 1297.28,
+      "sid": 560,
+      "location": 2,
+      "content": "她在车里嚎啕大哭",
+      "music": 0
+    },
+    {
+      "from": 1297.28,
+      "to": 1299.34,
+      "sid": 561,
+      "location": 2,
+      "content": "车外因为暴雨而阴暗的天空",
+      "music": 0
+    },
+    {
+      "from": 1299.34,
+      "to": 1301.16,
+      "sid": 562,
+      "location": 2,
+      "content": "在最后一秒雨过天晴",
+      "music": 0
+    },
+    {
+      "from": 1301.16,
+      "to": 1303.66,
+      "sid": 563,
+      "location": 2,
+      "content": "而影片到这里也就全部结束了",
+      "music": 0
+    },
+    {
+      "from": 1303.66,
+      "to": 1305.88,
+      "sid": 564,
+      "location": 2,
+      "content": "白日之下的故事虽然有些沉重",
+      "music": 0
+    },
+    {
+      "from": 1305.88,
+      "to": 1308.7,
+      "sid": 565,
+      "location": 2,
+      "content": "但无论是彩桥之家还是院长张建华",
+      "music": 0
+    },
+    {
+      "from": 1308.7,
+      "to": 1310.5,
+      "sid": 566,
+      "location": 2,
+      "content": "其人都是有真实原型的",
+      "music": 0
+    },
+    {
+      "from": 1310.5,
+      "to": 1314.54,
+      "sid": 567,
+      "location": 2,
+      "content": "而电影本身只是用最为朴实的方法将一切还原",
+      "music": 0
+    },
+    {
+      "from": 1314.54,
+      "to": 1316.88,
+      "sid": 568,
+      "location": 2,
+      "content": "观众跟随小齐的视角了解这一切",
+      "music": 0
+    },
+    {
+      "from": 1316.88,
+      "to": 1320.06,
+      "sid": 569,
+      "location": 2,
+      "content": "但电影的结局似乎并未给予一个明确的答案",
+      "music": 0
+    },
+    {
+      "from": 1320.06,
+      "to": 1321.24,
+      "sid": 570,
+      "location": 2,
+      "content": "这也跟现实一样",
+      "music": 0
+    },
+    {
+      "from": 1321.24,
+      "to": 1324.26,
+      "sid": 571,
+      "location": 2,
+      "content": "香港福利院设的短缺和制度的不完善",
+      "music": 0
+    },
+    {
+      "from": 1324.26,
+      "to": 1326.9,
+      "sid": 572,
+      "location": 2,
+      "content": "也不会因为一两个新闻的报道而发生",
+      "music": 0
+    },
+    {
+      "from": 1326.9,
+      "to": 1328.26,
+      "sid": 573,
+      "location": 2,
+      "content": "翻翻天覆地的改变",
+      "music": 0
+    },
+    {
+      "from": 1328.26,
+      "to": 1329.56,
+      "sid": 574,
+      "location": 2,
+      "content": "可正如导演所说",
+      "music": 0
+    },
+    {
+      "from": 1329.56,
+      "to": 1331.58,
+      "sid": 575,
+      "location": 2,
+      "content": "电影未必可以解决问题",
+      "music": 0
+    },
+    {
+      "from": 1331.58,
+      "to": 1333.78,
+      "sid": 576,
+      "location": 2,
+      "content": "但至少可以向世界提出问题",
+      "music": 0
+    },
+    {
+      "from": 1333.78,
+      "to": 1335.34,
+      "sid": 577,
+      "location": 2,
+      "content": "能看到问题之所在",
+      "music": 0
+    },
+    {
+      "from": 1335.34,
+      "to": 1337.36,
+      "sid": 578,
+      "location": 2,
+      "content": "至少表明已经迈出了第一步",
+      "music": 0
+    },
+    {
+      "from": 1337.36,
+      "to": 1339.24,
+      "sid": 579,
+      "location": 2,
+      "content": "影片中小齐曾经问同事",
+      "music": 0
+    },
+    {
+      "from": 1339.24,
+      "to": 1341.76,
+      "sid": 580,
+      "location": 2,
+      "content": "你觉得10年之后还会不会有记者",
+      "music": 0
+    },
+    {
+      "from": 1341.76,
+      "to": 1343.22,
+      "sid": 581,
+      "location": 2,
+      "content": "这让我也忍不住联想",
+      "music": 0
+    },
+    {
+      "from": 1343.22,
+      "to": 1345.62,
+      "sid": 582,
+      "location": 2,
+      "content": "以后还会不会有像白日之下",
+      "music": 0
+    },
+    {
+      "from": 1345.62,
+      "to": 1347.28,
+      "sid": 583,
+      "location": 2,
+      "content": "这样的电影在院线上映",
+      "music": 0
+    },
+    {
+      "from": 1347.28,
+      "to": 1349.28,
+      "sid": 584,
+      "location": 2,
+      "content": "毕竟在这个充满压力的时代",
+      "music": 0
+    },
+    {
+      "from": 1349.28,
+      "to": 1352.2,
+      "sid": 585,
+      "location": 2,
+      "content": "连电影都想尽办法把自己做成快餐",
+      "music": 0
+    },
+    {
+      "from": 1352.2,
+      "to": 1353.9,
+      "sid": 586,
+      "location": 2,
+      "content": "刺激过瘾就已足够",
+      "music": 0
+    },
+    {
+      "from": 1353.9,
+      "to": 1357.08,
+      "sid": 587,
+      "location": 2,
+      "content": "似乎越来越没有观众愿意花时间走进影院",
+      "music": 0
+    },
+    {
+      "from": 1357.08,
+      "to": 1358.28,
+      "sid": 588,
+      "location": 2,
+      "content": "去看现实生活了",
+      "music": 0
+    },
+    {
+      "from": 1358.28,
+      "to": 1360.38,
+      "sid": 589,
+      "location": 2,
+      "content": "于是插科打混和抖机灵",
+      "music": 0
+    },
+    {
+      "from": 1360.38,
+      "to": 1362.66,
+      "sid": 590,
+      "location": 2,
+      "content": "逐渐占据了绝大多数的银幕",
+      "music": 0
+    },
+    {
+      "from": 1362.66,
+      "to": 1366.1,
+      "sid": 591,
+      "location": 2,
+      "content": "这从白日之下个位数的排片比也能看出端倪",
+      "music": 0
+    },
+    {
+      "from": 1366.1,
+      "to": 1368.1,
+      "sid": 592,
+      "location": 2,
+      "content": "但就像影片中小齐所说的",
+      "music": 0
+    },
+    {
+      "from": 1368.1,
+      "to": 1369.78,
+      "sid": 593,
+      "location": 2,
+      "content": "总要有人去追求真相",
+      "music": 0
+    },
+    {
+      "from": 1369.78,
+      "to": 1371.96,
+      "sid": 594,
+      "location": 2,
+      "content": "而我们也需要这样的华语电影",
+      "music": 0
+    },
+    {
+      "from": 1371.96,
+      "to": 1373.98,
+      "sid": 595,
+      "location": 2,
+      "content": "千万别让这样的电影死在院线",
+      "music": 0
+    },
+    {
+      "from": 1373.98,
+      "to": 1375.7,
+      "sid": 596,
+      "location": 2,
+      "content": "那么本期视频就到这里了",
+      "music": 0
+    },
+    {
+      "from": 1375.7,
+      "to": 1377.66,
+      "sid": 597,
+      "location": 2,
+      "content": "记得上淘宝搜索数码",
+      "music": 0
+    },
+    {
+      "from": 1377.66,
+      "to": 1380.52,
+      "sid": 598,
+      "location": 2,
+      "content": "超值好物直达3C数码产品会场",
+      "music": 0
+    },
+    {
+      "from": 1380.52,
+      "to": 1382.36,
+      "sid": 599,
+      "location": 2,
+      "content": "抓紧机会先到先得",
+      "music": 0
+    },
+    {
+      "from": 1382.36,
+      "to": 1383.1,
+      "sid": 600,
+      "location": 2,
+      "content": "不油不腻",
+      "music": 0
+    },
+    {
+      "from": 1383.1,
+      "to": 1383.94,
+      "sid": 601,
+      "location": 2,
+      "content": "分享好剧",
+      "music": 0
+    },
+    {
+      "from": 1383.94,
+      "to": 1386.32,
+      "sid": 602,
+      "location": 2,
+      "content": "你的点赞是我前进的最大动力",
+      "music": 0
+    },
+    {
+      "from": 1386.32,
+      "to": 1388,
+      "sid": 603,
+      "location": 2,
+      "content": "我是巧克力味的猪肘",
+      "music": 0
+    },
+    {
+      "from": 1388,
+      "to": 1389.22,
+      "sid": 604,
+      "location": 2,
+      "content": "我们下期再见",
+      "music": 0
+    }
+  ]
+}

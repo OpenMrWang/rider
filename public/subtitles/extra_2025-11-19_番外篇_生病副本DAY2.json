@@ -1,0 +1,708 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.34,
+      "to": 3.34,
+      "sid": 1,
+      "location": 2,
+      "content": "我来讲讲我今天的生命状态",
+      "music": 0
+    },
+    {
+      "from": 4.38,
+      "to": 6.91,
+      "sid": 2,
+      "location": 2,
+      "content": "昨天第一天",
+      "music": 0
+    },
+    {
+      "from": 6.91,
+      "to": 10.41,
+      "sid": 3,
+      "location": 2,
+      "content": "要不我是在去东极岛那一天",
+      "music": 0
+    },
+    {
+      "from": 11.9,
+      "to": 13.9,
+      "sid": 4,
+      "location": 2,
+      "content": "上岛的时候头很晕嘛",
+      "music": 0
+    },
+    {
+      "from": 13.9,
+      "to": 15.719,
+      "sid": 5,
+      "location": 2,
+      "content": "我以为是晕船了",
+      "music": 0
+    },
+    {
+      "from": 15.719,
+      "to": 19.559,
+      "sid": 6,
+      "location": 2,
+      "content": "然后上在岛上走的时候稍微好一点",
+      "music": 0
+    },
+    {
+      "from": 19.559,
+      "to": 20.479,
+      "sid": 7,
+      "location": 2,
+      "content": "因为晒晒太阳",
+      "music": 0
+    },
+    {
+      "from": 20.479,
+      "to": 22.439,
+      "sid": 8,
+      "location": 2,
+      "content": "吹吹海风还挺舒服的",
+      "music": 0
+    },
+    {
+      "from": 22.439,
+      "to": 25.31,
+      "sid": 9,
+      "location": 2,
+      "content": "然后咳咳嘶",
+      "music": 0
+    },
+    {
+      "from": 25.31,
+      "to": 27.58,
+      "sid": 10,
+      "location": 2,
+      "content": "然后到了第二天",
+      "music": 0
+    },
+    {
+      "from": 27.58,
+      "to": 31.26,
+      "sid": 11,
+      "location": 2,
+      "content": "不是那天晚上吃完海鲜以后拉肚子吗",
+      "music": 0
+    },
+    {
+      "from": 31.26,
+      "to": 33.72,
+      "sid": 12,
+      "location": 2,
+      "content": "我现在想来可能不是那家店的问题",
+      "music": 0
+    },
+    {
+      "from": 33.72,
+      "to": 37.93,
+      "sid": 13,
+      "location": 2,
+      "content": "可能是我感染的病毒的问题",
+      "music": 0
+    },
+    {
+      "from": 37.93,
+      "to": 41.65,
+      "sid": 14,
+      "location": 2,
+      "content": "然后晚上拉肚子拉了一个小时",
+      "music": 0
+    },
+    {
+      "from": 41.65,
+      "to": 47.64,
+      "sid": 15,
+      "location": 2,
+      "content": "然后第二天早上起来以后就头一直都疼疼的",
+      "music": 0
+    },
+    {
+      "from": 47.64,
+      "to": 49.98,
+      "sid": 16,
+      "location": 2,
+      "content": "然后后来骑车骑着骑着就还好",
+      "music": 0
+    },
+    {
+      "from": 49.98,
+      "to": 52.73,
+      "sid": 17,
+      "location": 2,
+      "content": "就没有特别很严重的感受",
+      "music": 0
+    },
+    {
+      "from": 52.73,
+      "to": 55.17,
+      "sid": 18,
+      "location": 2,
+      "content": "然后到晚上的时候头又开始疼了",
+      "music": 0
+    },
+    {
+      "from": 56.21,
+      "to": 56.89,
+      "sid": 19,
+      "location": 2,
+      "content": "嗓子疼啊",
+      "music": 0
+    },
+    {
+      "from": 56.89,
+      "to": 59.11,
+      "sid": 20,
+      "location": 2,
+      "content": "这嗓子疼是伴随始终的",
+      "music": 0
+    },
+    {
+      "from": 59.11,
+      "to": 64.14,
+      "sid": 21,
+      "location": 2,
+      "content": "然后昨天基本上是在一个嗓子疼",
+      "music": 0
+    },
+    {
+      "from": 64.14,
+      "to": 67.04,
+      "sid": 22,
+      "location": 2,
+      "content": "然后头疼的状态下",
+      "music": 0
+    },
+    {
+      "from": 67.68,
+      "to": 68.82,
+      "sid": 23,
+      "location": 2,
+      "content": "然后咳咳",
+      "music": 0
+    },
+    {
+      "from": 68.82,
+      "to": 72.64,
+      "sid": 24,
+      "location": 2,
+      "content": "到了今天早上开始说话就变得特别夸张",
+      "music": 0
+    },
+    {
+      "from": 72.64,
+      "to": 73.58,
+      "sid": 25,
+      "location": 2,
+      "content": "就变这样了",
+      "music": 0
+    },
+    {
+      "from": 73.58,
+      "to": 75.56,
+      "sid": 26,
+      "location": 2,
+      "content": "然后流鼻涕也开始了",
+      "music": 0
+    },
+    {
+      "from": 75.56,
+      "to": 78.21,
+      "sid": 27,
+      "location": 2,
+      "content": "然后身体感觉有点冷",
+      "music": 0
+    },
+    {
+      "from": 78.21,
+      "to": 80.49,
+      "sid": 28,
+      "location": 2,
+      "content": "我现在怀疑我稍微有点发烧",
+      "music": 0
+    },
+    {
+      "from": 80.49,
+      "to": 85.6,
+      "sid": 29,
+      "location": 2,
+      "content": "然后左腿大腿感觉特别酸",
+      "music": 0
+    },
+    {
+      "from": 85.6,
+      "to": 87.68,
+      "sid": 30,
+      "location": 2,
+      "content": "不知道为啥",
+      "music": 0
+    },
+    {
+      "from": 88.03,
+      "to": 90.07,
+      "sid": 31,
+      "location": 2,
+      "content": "然后今天就一天都是这样的状态",
+      "music": 0
+    },
+    {
+      "from": 90.07,
+      "to": 92.03,
+      "sid": 32,
+      "location": 2,
+      "content": "现在已经是晚上了",
+      "music": 0
+    },
+    {
+      "from": 92.03,
+      "to": 93.35,
+      "sid": 33,
+      "location": 2,
+      "content": "很难受",
+      "music": 0
+    },
+    {
+      "from": 95.84,
+      "to": 97.92,
+      "sid": 34,
+      "location": 2,
+      "content": "这次感冒和上次不一样",
+      "music": 0
+    },
+    {
+      "from": 97.92,
+      "to": 100.48,
+      "sid": 35,
+      "location": 2,
+      "content": "上次我感觉我是着凉了嘛",
+      "music": 0
+    },
+    {
+      "from": 100.48,
+      "to": 102.02,
+      "sid": 36,
+      "location": 2,
+      "content": "然后一天基本上就好了",
+      "music": 0
+    },
+    {
+      "from": 102.02,
+      "to": 103.24,
+      "sid": 37,
+      "location": 2,
+      "content": "两天基本上就好了",
+      "music": 0
+    },
+    {
+      "from": 103.24,
+      "to": 106.84,
+      "sid": 38,
+      "location": 2,
+      "content": "但这次第二天比第一天还严重了",
+      "music": 0
+    },
+    {
+      "from": 107.58,
+      "to": 108.32,
+      "sid": 39,
+      "location": 2,
+      "content": "啧",
+      "music": 0
+    },
+    {
+      "from": 108.32,
+      "to": 109.1,
+      "sid": 40,
+      "location": 2,
+      "content": "咋办呀",
+      "music": 0
+    },
+    {
+      "from": 109.1,
+      "to": 109.7,
+      "sid": 41,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 109.7,
+      "to": 112.42,
+      "sid": 42,
+      "location": 2,
+      "content": "现在外面天气也转凉了",
+      "music": 0
+    },
+    {
+      "from": 112.42,
+      "to": 117.41,
+      "sid": 43,
+      "location": 2,
+      "content": "今天最低气温好像只有四度哇",
+      "music": 0
+    },
+    {
+      "from": 117.41,
+      "to": 119.93,
+      "sid": 44,
+      "location": 2,
+      "content": "接下来到了冬天",
+      "music": 0
+    },
+    {
+      "from": 119.93,
+      "to": 122.11,
+      "sid": 45,
+      "location": 2,
+      "content": "做内容的压力开始变大了",
+      "music": 0
+    },
+    {
+      "from": 124.11,
+      "to": 125.57,
+      "sid": 46,
+      "location": 2,
+      "content": "但不管怎么样",
+      "music": 0
+    },
+    {
+      "from": 125.57,
+      "to": 129.19,
+      "sid": 47,
+      "location": 2,
+      "content": "祝8月为什么8月脑子坏了呵",
+      "music": 0
+    },
+    {
+      "from": 129.19,
+      "to": 131.71,
+      "sid": 48,
+      "location": 2,
+      "content": "祝我11月19号过生日",
+      "music": 0
+    },
+    {
+      "from": 131.71,
+      "to": 133.53,
+      "sid": 49,
+      "location": 2,
+      "content": "同学们生日快乐",
+      "music": 0
+    },
+    {
+      "from": 134.41,
+      "to": 136.65,
+      "sid": 50,
+      "location": 2,
+      "content": "这两天稍微要养一下病",
+      "music": 0
+    },
+    {
+      "from": 136.65,
+      "to": 138.61,
+      "sid": 51,
+      "location": 2,
+      "content": "但是我每日更是不会断的",
+      "music": 0
+    },
+    {
+      "from": 138.61,
+      "to": 142.399,
+      "sid": 52,
+      "location": 2,
+      "content": "兄弟们记得继续关注我们的频道",
+      "music": 0
+    },
+    {
+      "from": 142.399,
+      "to": 143.959,
+      "sid": 53,
+      "location": 2,
+      "content": "等我病好了以后",
+      "music": 0
+    },
+    {
+      "from": 143.959,
+      "to": 145.339,
+      "sid": 54,
+      "location": 2,
+      "content": "我不知道明天能不能好",
+      "music": 0
+    },
+    {
+      "from": 145.339,
+      "to": 146.459,
+      "sid": 55,
+      "location": 2,
+      "content": "我就明天也选了",
+      "music": 0
+    },
+    {
+      "from": 146.459,
+      "to": 148.52,
+      "sid": 56,
+      "location": 2,
+      "content": "本来我觉得昨天休息一天",
+      "music": 0
+    },
+    {
+      "from": 148.52,
+      "to": 149.76,
+      "sid": 57,
+      "location": 2,
+      "content": "今天应该能骑车了",
+      "music": 0
+    },
+    {
+      "from": 149.76,
+      "to": 151.91,
+      "sid": 58,
+      "location": 2,
+      "content": "但是今天状态比昨天还要更差了",
+      "music": 0
+    },
+    {
+      "from": 151.91,
+      "to": 154.25,
+      "sid": 59,
+      "location": 2,
+      "content": "你们听我说话的声音就已经很明显了",
+      "music": 0
+    },
+    {
+      "from": 155.15,
+      "to": 157.19,
+      "sid": 60,
+      "location": 2,
+      "content": "现在鼻子是完全堵住的",
+      "music": 0
+    },
+    {
+      "from": 157.19,
+      "to": 159.26,
+      "sid": 61,
+      "location": 2,
+      "content": "这边狂流鼻涕",
+      "music": 0
+    },
+    {
+      "from": 159.26,
+      "to": 161.89,
+      "sid": 62,
+      "location": 2,
+      "content": "哎嘿嘿啊",
+      "music": 0
+    },
+    {
+      "from": 161.89,
+      "to": 162.73,
+      "sid": 63,
+      "location": 2,
+      "content": "话不多说",
+      "music": 0
+    },
+    {
+      "from": 162.73,
+      "to": 164.61,
+      "sid": 64,
+      "location": 2,
+      "content": "只能跟你们说这么一段了",
+      "music": 0
+    },
+    {
+      "from": 164.61,
+      "to": 168,
+      "sid": 65,
+      "location": 2,
+      "content": "但说成了哎呀",
+      "music": 0
+    },
+    {
+      "from": 168.2,
+      "to": 170.12,
+      "sid": 66,
+      "location": 2,
+      "content": "现在眼前还有点冒白光",
+      "music": 0
+    },
+    {
+      "from": 170.12,
+      "to": 171.96,
+      "sid": 67,
+      "location": 2,
+      "content": "卧槽好夸张啊",
+      "music": 0
+    },
+    {
+      "from": 172.44,
+      "to": 175.36,
+      "sid": 68,
+      "location": 2,
+      "content": "现在生病在外面生感觉就很烦",
+      "music": 0
+    },
+    {
+      "from": 175.36,
+      "to": 179.66,
+      "sid": 69,
+      "location": 2,
+      "content": "一天170块钱的酒店非常的愚蠢",
+      "music": 0
+    },
+    {
+      "from": 179.66,
+      "to": 182.04,
+      "sid": 70,
+      "location": 2,
+      "content": "嘿嘿嘿好",
+      "music": 0
+    },
+    {
+      "from": 182.04,
+      "to": 183.62,
+      "sid": 71,
+      "location": 2,
+      "content": "那这期视频就到这里",
+      "music": 0
+    },
+    {
+      "from": 183.62,
+      "to": 184.94,
+      "sid": 72,
+      "location": 2,
+      "content": "大家明天见",
+      "music": 0
+    },
+    {
+      "from": 185.98,
+      "to": 188.44,
+      "sid": 73,
+      "location": 2,
+      "content": "大家啧",
+      "music": 0
+    },
+    {
+      "from": 188.44,
+      "to": 189.56,
+      "sid": 74,
+      "location": 2,
+      "content": "哎这冬天了",
+      "music": 0
+    },
+    {
+      "from": 189.56,
+      "to": 190.38,
+      "sid": 75,
+      "location": 2,
+      "content": "注意保暖",
+      "music": 0
+    },
+    {
+      "from": 190.38,
+      "to": 193.48,
+      "sid": 76,
+      "location": 2,
+      "content": "虽然我这个事情好像跟保暖也不是特别有关系",
+      "music": 0
+    },
+    {
+      "from": 194.64,
+      "to": 198.45,
+      "sid": 77,
+      "location": 2,
+      "content": "呃反正去公共场所戴一下口罩吧",
+      "music": 0
+    },
+    {
+      "from": 198.45,
+      "to": 201.33,
+      "sid": 78,
+      "location": 2,
+      "content": "现在好像流感特别严重",
+      "music": 0
+    },
+    {
+      "from": 201.33,
+      "to": 206.36,
+      "sid": 79,
+      "location": 2,
+      "content": "咳咳注意出门回家洗手",
+      "music": 0
+    },
+    {
+      "from": 206.64,
+      "to": 208.24,
+      "sid": 80,
+      "location": 2,
+      "content": "勤做消毒",
+      "music": 0
+    },
+    {
+      "from": 208.24,
+      "to": 209.44,
+      "sid": 81,
+      "location": 2,
+      "content": "然后像我一样",
+      "music": 0
+    },
+    {
+      "from": 209.44,
+      "to": 211.52,
+      "sid": 82,
+      "location": 2,
+      "content": "这个这个真的很难受",
+      "music": 0
+    },
+    {
+      "from": 211.52,
+      "to": 215.68,
+      "sid": 83,
+      "location": 2,
+      "content": "因为你头一直都疼疼的胀胀的就很烦",
+      "music": 0
+    },
+    {
+      "from": 218.57,
+      "to": 220.45,
+      "sid": 84,
+      "location": 2,
+      "content": "哎大家明天见",
+      "music": 0
+    },
+    {
+      "from": 221.81,
+      "to": 222.73,
+      "sid": 85,
+      "location": 2,
+      "content": "希望明天不是",
+      "music": 0
+    },
+    {
+      "from": 222.73,
+      "to": 224.07,
+      "sid": 86,
+      "location": 2,
+      "content": "但是这个状态了",
+      "music": 0
+    },
+    {
+      "from": 224.07,
+      "to": 225.7,
+      "sid": 87,
+      "location": 2,
+      "content": "别别别别别别",
+      "music": 0
+    }
+  ]
+}

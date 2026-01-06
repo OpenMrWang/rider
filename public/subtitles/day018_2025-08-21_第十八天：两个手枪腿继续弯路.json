@@ -1,0 +1,324 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.12,
+      "to": 1.86,
+      "sid": 1,
+      "location": 2,
+      "content": "自律就是为了更好的放纵",
+      "music": 0
+    },
+    {
+      "from": 1.86,
+      "to": 4.76,
+      "sid": 2,
+      "location": 2,
+      "content": "今天是我自律的第18天",
+      "music": 0
+    },
+    {
+      "from": 4.76,
+      "to": 6.44,
+      "sid": 3,
+      "location": 2,
+      "content": "在我自律的过程当中",
+      "music": 0
+    },
+    {
+      "from": 6.44,
+      "to": 8.52,
+      "sid": 4,
+      "location": 2,
+      "content": "我决定每天给自己一顿放纵餐",
+      "music": 0
+    },
+    {
+      "from": 8.52,
+      "to": 10.3,
+      "sid": 5,
+      "location": 2,
+      "content": "这样我还能瘦吗",
+      "music": 0
+    },
+    {
+      "from": 10.3,
+      "to": 11.16,
+      "sid": 6,
+      "location": 2,
+      "content": "三个鸡蛋",
+      "music": 0
+    },
+    {
+      "from": 11.16,
+      "to": 11.94,
+      "sid": 7,
+      "location": 2,
+      "content": "一根香蕉",
+      "music": 0
+    },
+    {
+      "from": 11.94,
+      "to": 12.969,
+      "sid": 8,
+      "location": 2,
+      "content": "一点蓝莓",
+      "music": 0
+    },
+    {
+      "from": 12.969,
+      "to": 15.849,
+      "sid": 9,
+      "location": 2,
+      "content": "今天要开始做力量训练",
+      "music": 0
+    },
+    {
+      "from": 20.12,
+      "to": 23.36,
+      "sid": 10,
+      "location": 2,
+      "content": "呀昨天的牛肉又忘吃了",
+      "music": 0
+    },
+    {
+      "from": 29.66,
+      "to": 31.82,
+      "sid": 11,
+      "location": 2,
+      "content": "2.5L水",
+      "music": 0
+    },
+    {
+      "from": 38.6,
+      "to": 40.08,
+      "sid": 12,
+      "location": 2,
+      "content": "好很好",
+      "music": 0
+    },
+    {
+      "from": 40.08,
+      "to": 44.32,
+      "sid": 13,
+      "location": 2,
+      "content": "这个这个",
+      "music": 0
+    },
+    {
+      "from": 61.28,
+      "to": 63.22,
+      "sid": 14,
+      "location": 2,
+      "content": "怎么每天都这么硬啊",
+      "music": 0.3382352692474022
+    },
+    {
+      "from": 63.22,
+      "to": 64.82,
+      "sid": 15,
+      "location": 2,
+      "content": "放纵时间",
+      "music": 0
+    },
+    {
+      "from": 64.82,
+      "to": 66.6,
+      "sid": 16,
+      "location": 2,
+      "content": "这可是真放纵",
+      "music": 0
+    },
+    {
+      "from": 66.6,
+      "to": 69.06,
+      "sid": 17,
+      "location": 2,
+      "content": "两个脆皮手枪腿",
+      "music": 0
+    },
+    {
+      "from": 69.22,
+      "to": 74.26,
+      "sid": 18,
+      "location": 2,
+      "content": "好香啊",
+      "music": 0
+    },
+    {
+      "from": 82.12,
+      "to": 84.8,
+      "sid": 19,
+      "location": 2,
+      "content": "呃食不能吃",
+      "music": 0
+    },
+    {
+      "from": 89.16,
+      "to": 91,
+      "sid": 20,
+      "location": 2,
+      "content": "有点意犹未尽啊",
+      "music": 0
+    },
+    {
+      "from": 91,
+      "to": 93.48,
+      "sid": 21,
+      "location": 2,
+      "content": "炸鸡的皮都没失",
+      "music": 0
+    },
+    {
+      "from": 95.64,
+      "to": 98.2,
+      "sid": 22,
+      "location": 2,
+      "content": "太爽啦",
+      "music": 0
+    },
+    {
+      "from": 110.84,
+      "to": 113.4,
+      "sid": 23,
+      "location": 2,
+      "content": "加油",
+      "music": 0
+    },
+    {
+      "from": 127.12,
+      "to": 129.82,
+      "sid": 24,
+      "location": 2,
+      "content": "1万步完成啊",
+      "music": 0
+    },
+    {
+      "from": 129.82,
+      "to": 135.22,
+      "sid": 25,
+      "location": 2,
+      "content": "最后一口啧哎呀啧",
+      "music": 0
+    },
+    {
+      "from": 135.22,
+      "to": 136.8,
+      "sid": 26,
+      "location": 2,
+      "content": "加了力量训练",
+      "music": 0
+    },
+    {
+      "from": 136.8,
+      "to": 139.14,
+      "sid": 27,
+      "location": 2,
+      "content": "确实感觉做有氧都更有劲了",
+      "music": 0
+    },
+    {
+      "from": 139.14,
+      "to": 141.74,
+      "sid": 28,
+      "location": 2,
+      "content": "我觉得每天有放纵餐真的太爽了",
+      "music": 0
+    },
+    {
+      "from": 141.74,
+      "to": 143.3,
+      "sid": 29,
+      "location": 2,
+      "content": "因为你有盼头了",
+      "music": 0
+    },
+    {
+      "from": 143.3,
+      "to": 144.42,
+      "sid": 30,
+      "location": 2,
+      "content": "今天坦白",
+      "music": 0
+    },
+    {
+      "from": 144.42,
+      "to": 147.62,
+      "sid": 31,
+      "location": 2,
+      "content": "我除了早饭和德克士的那两个鸡腿",
+      "music": 0
+    },
+    {
+      "from": 147.62,
+      "to": 150.12,
+      "sid": 32,
+      "location": 2,
+      "content": "我还吃了一个芭比馒头的包子",
+      "music": 0
+    },
+    {
+      "from": 150.12,
+      "to": 154.78,
+      "sid": 33,
+      "location": 2,
+      "content": "晚上骑车的时候还吃了一个50卡的素食",
+      "music": 0
+    },
+    {
+      "from": 154.78,
+      "to": 156,
+      "sid": 34,
+      "location": 2,
+      "content": "鸡胸肉",
+      "music": 0
+    },
+    {
+      "from": 156,
+      "to": 158.57,
+      "sid": 35,
+      "location": 2,
+      "content": "所以今天热量可能有点超标",
+      "music": 0
+    },
+    {
+      "from": 158.57,
+      "to": 161.53,
+      "sid": 36,
+      "location": 2,
+      "content": "我们去看一下晚上的体重和白天有什么变化",
+      "music": 0
+    },
+    {
+      "from": 161.53,
+      "to": 162.09,
+      "sid": 37,
+      "location": 2,
+      "content": "哦对了",
+      "music": 0
+    },
+    {
+      "from": 162.09,
+      "to": 166.51,
+      "sid": 38,
+      "location": 2,
+      "content": "在这之前先祝8月21号的同学们生日快乐",
+      "music": 0
+    },
+    {
+      "from": 166.91,
+      "to": 170.62,
+      "sid": 39,
+      "location": 2,
+      "content": "我敲今天晚上居然比白比早上轻了这么多",
+      "music": 0
+    }
+  ]
+}

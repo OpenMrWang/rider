@@ -1,0 +1,1164 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 3.36,
+      "to": 3.96,
+      "sid": 1,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 3.96,
+      "to": 8.179,
+      "sid": 2,
+      "location": 2,
+      "content": "我现在知道为什么那些骑行博主",
+      "music": 0
+    },
+    {
+      "from": 8.179,
+      "to": 10.619,
+      "sid": 3,
+      "location": 2,
+      "content": "旅游博主没有办法每天都更新了",
+      "music": 0
+    },
+    {
+      "from": 13.52,
+      "to": 16.34,
+      "sid": 4,
+      "location": 2,
+      "content": "我这一年生一次病",
+      "music": 0
+    },
+    {
+      "from": 16.34,
+      "to": 18.36,
+      "sid": 5,
+      "location": 2,
+      "content": "基本上一年生一次病啊",
+      "music": 0
+    },
+    {
+      "from": 18.36,
+      "to": 22.35,
+      "sid": 6,
+      "location": 2,
+      "content": "然后被这个点正好赶上了",
+      "music": 0.1044776080418806
+    },
+    {
+      "from": 22.51,
+      "to": 26.23,
+      "sid": 7,
+      "location": 2,
+      "content": "唉本来以为骑自行车天天骑身体会变好的",
+      "music": 0
+    },
+    {
+      "from": 26.23,
+      "to": 29.07,
+      "sid": 8,
+      "location": 2,
+      "content": "然后我骑自己感觉我的身体确实变好了",
+      "music": 0
+    },
+    {
+      "from": 29.07,
+      "to": 33.39,
+      "sid": 9,
+      "location": 2,
+      "content": "但是一生病就连生好多天",
+      "music": 0
+    },
+    {
+      "from": 33.39,
+      "to": 35.03,
+      "sid": 10,
+      "location": 2,
+      "content": "今天其实我觉得差不多好了",
+      "music": 0
+    },
+    {
+      "from": 35.03,
+      "to": 38.23,
+      "sid": 11,
+      "location": 2,
+      "content": "但是本来我计划是啥呢",
+      "music": 0
+    },
+    {
+      "from": 38.23,
+      "to": 41.39,
+      "sid": 12,
+      "location": 2,
+      "content": "是下午带大家出去吃个饭对吧",
+      "music": 0
+    },
+    {
+      "from": 41.39,
+      "to": 42.81,
+      "sid": 13,
+      "location": 2,
+      "content": "然后后来又懒得走",
+      "music": 0
+    },
+    {
+      "from": 42.81,
+      "to": 44.8,
+      "sid": 14,
+      "location": 2,
+      "content": "所以又点了外卖",
+      "music": 0
+    },
+    {
+      "from": 48.07,
+      "to": 50.43,
+      "sid": 15,
+      "location": 2,
+      "content": "这两天也看了很多视频",
+      "music": 0
+    },
+    {
+      "from": 51.51,
+      "to": 53.31,
+      "sid": 16,
+      "location": 2,
+      "content": "学了很多",
+      "music": 0
+    },
+    {
+      "from": 54.179,
+      "to": 55.939,
+      "sid": 17,
+      "location": 2,
+      "content": "优秀的骑行啊",
+      "music": 0
+    },
+    {
+      "from": 55.939,
+      "to": 56.719,
+      "sid": 18,
+      "location": 2,
+      "content": "旅游啊",
+      "music": 0
+    },
+    {
+      "from": 56.719,
+      "to": 59.619,
+      "sid": 19,
+      "location": 2,
+      "content": "甚至送外卖博主啊都看了",
+      "music": 0
+    },
+    {
+      "from": 59.619,
+      "to": 62.74,
+      "sid": 20,
+      "location": 2,
+      "content": "然后啊",
+      "music": 0
+    },
+    {
+      "from": 62.74,
+      "to": 66.56,
+      "sid": 21,
+      "location": 2,
+      "content": "对自己以前做的内容也有了一些新的想法",
+      "music": 0
+    },
+    {
+      "from": 66.56,
+      "to": 69.28,
+      "sid": 22,
+      "location": 2,
+      "content": "但我觉得现在也不太方便全说出来",
+      "music": 0
+    },
+    {
+      "from": 69.28,
+      "to": 71.58,
+      "sid": 23,
+      "location": 2,
+      "content": "因为我只要把我的想法说出来",
+      "music": 0
+    },
+    {
+      "from": 71.58,
+      "to": 72.7,
+      "sid": 24,
+      "location": 2,
+      "content": "然后我没有做到",
+      "music": 0
+    },
+    {
+      "from": 72.7,
+      "to": 73.7,
+      "sid": 25,
+      "location": 2,
+      "content": "大家就会生气",
+      "music": 0
+    },
+    {
+      "from": 73.7,
+      "to": 74.84,
+      "sid": 26,
+      "location": 2,
+      "content": "我也不知道为什么",
+      "music": 0
+    },
+    {
+      "from": 74.84,
+      "to": 77.71,
+      "sid": 27,
+      "location": 2,
+      "content": "呵呵现在搞得我有点畏首畏尾的",
+      "music": 0
+    },
+    {
+      "from": 77.71,
+      "to": 79.06,
+      "sid": 28,
+      "location": 2,
+      "content": "I know",
+      "music": 0.9999997368421745
+    },
+    {
+      "from": 79.58,
+      "to": 81.18,
+      "sid": 29,
+      "location": 2,
+      "content": "其实有挺多想做的吧",
+      "music": 0
+    },
+    {
+      "from": 81.18,
+      "to": 84.81,
+      "sid": 30,
+      "location": 2,
+      "content": "因为在没出来之前",
+      "music": 0
+    },
+    {
+      "from": 85.89,
+      "to": 87.49,
+      "sid": 31,
+      "location": 2,
+      "content": "因为我的这次出来",
+      "music": 0
+    },
+    {
+      "from": 87.49,
+      "to": 90.81,
+      "sid": 32,
+      "location": 2,
+      "content": "其实也是一个非常随性的一个出来吧",
+      "music": 0
+    },
+    {
+      "from": 90.81,
+      "to": 92.509,
+      "sid": 33,
+      "location": 2,
+      "content": "就跟我的性格一样",
+      "music": 0
+    },
+    {
+      "from": 92.509,
+      "to": 94.109,
+      "sid": 34,
+      "location": 2,
+      "content": "然后出来以后发现",
+      "music": 0
+    },
+    {
+      "from": 94.109,
+      "to": 98.63,
+      "sid": 35,
+      "location": 2,
+      "content": "跟当时一拍脑门想的很多事情他不太一样",
+      "music": 0
+    },
+    {
+      "from": 99.03,
+      "to": 102.51,
+      "sid": 36,
+      "location": 2,
+      "content": "我我我的这个是并不是一个负面的意思啊",
+      "music": 0
+    },
+    {
+      "from": 102.51,
+      "to": 103.85,
+      "sid": 37,
+      "location": 2,
+      "content": "他是一个正面的意思",
+      "music": 0
+    },
+    {
+      "from": 103.85,
+      "to": 107.79,
+      "sid": 38,
+      "location": 2,
+      "content": "就是因为我是很喜欢一件事情产生变化的",
+      "music": 0
+    },
+    {
+      "from": 107.79,
+      "to": 111.829,
+      "sid": 39,
+      "location": 2,
+      "content": "如果一件事情他是按照我自己的计划去做",
+      "music": 0
+    },
+    {
+      "from": 111.829,
+      "to": 113.789,
+      "sid": 40,
+      "location": 2,
+      "content": "然后他又按部就班的完成以后",
+      "music": 0
+    },
+    {
+      "from": 113.789,
+      "to": 115.349,
+      "sid": 41,
+      "location": 2,
+      "content": "会觉得这件事情非常的无聊",
+      "music": 0
+    },
+    {
+      "from": 115.349,
+      "to": 116.549,
+      "sid": 42,
+      "location": 2,
+      "content": "非常的没有成就感",
+      "music": 0
+    },
+    {
+      "from": 116.549,
+      "to": 118.71,
+      "sid": 43,
+      "location": 2,
+      "content": "非常的不能让我获得正反馈",
+      "music": 0
+    },
+    {
+      "from": 118.71,
+      "to": 121.95,
+      "sid": 44,
+      "location": 2,
+      "content": "所以其实我觉得发生这些事情都挺有意思的",
+      "music": 0
+    },
+    {
+      "from": 121.95,
+      "to": 127.55,
+      "sid": 45,
+      "location": 2,
+      "content": "比如说你要怎么去安排自己的行程",
+      "music": 0.05574912697738134
+    },
+    {
+      "from": 127.55,
+      "to": 129.85,
+      "sid": 46,
+      "location": 2,
+      "content": "这件事情我觉得贼有意思",
+      "music": 0
+    },
+    {
+      "from": 129.85,
+      "to": 132.43,
+      "sid": 47,
+      "location": 2,
+      "content": "因为你们看我现在走的路线",
+      "music": 0
+    },
+    {
+      "from": 132.43,
+      "to": 133.65,
+      "sid": 48,
+      "location": 2,
+      "content": "上海嘉善",
+      "music": 0
+    },
+    {
+      "from": 133.65,
+      "to": 135.47,
+      "sid": 49,
+      "location": 2,
+      "content": "嘉兴桐乡杭州",
+      "music": 0
+    },
+    {
+      "from": 135.47,
+      "to": 138.619,
+      "sid": 50,
+      "location": 2,
+      "content": "然后黄山金德泾县",
+      "music": 0
+    },
+    {
+      "from": 138.619,
+      "to": 140.199,
+      "sid": 51,
+      "location": 2,
+      "content": "宣城芜湖",
+      "music": 0
+    },
+    {
+      "from": 140.199,
+      "to": 141.339,
+      "sid": 52,
+      "location": 2,
+      "content": "马鞍山南京",
+      "music": 0
+    },
+    {
+      "from": 141.339,
+      "to": 142.32,
+      "sid": 53,
+      "location": 2,
+      "content": "现在在镇江",
+      "music": 0
+    },
+    {
+      "from": 142.32,
+      "to": 143.8,
+      "sid": 54,
+      "location": 2,
+      "content": "他这个行程啊",
+      "music": 0
+    },
+    {
+      "from": 143.8,
+      "to": 145.66,
+      "sid": 55,
+      "location": 2,
+      "content": "他其实是从上海开始画了一个圆",
+      "music": 0
+    },
+    {
+      "from": 145.66,
+      "to": 149.79,
+      "sid": 56,
+      "location": 2,
+      "content": "你没发现吧呵那包括我想一直去东北嘛",
+      "music": 0
+    },
+    {
+      "from": 149.79,
+      "to": 151.71,
+      "sid": 57,
+      "location": 2,
+      "content": "然后我现在看了一下东北的天气预报",
+      "music": 0
+    },
+    {
+      "from": 151.71,
+      "to": 153.27,
+      "sid": 58,
+      "location": 2,
+      "content": "今天北京已经开始下雪了",
+      "music": 0
+    },
+    {
+      "from": 153.27,
+      "to": 156.37,
+      "sid": 59,
+      "location": 2,
+      "content": "更别说大连哈尔滨哈哈",
+      "music": 0
+    },
+    {
+      "from": 156.37,
+      "to": 161.13,
+      "sid": 60,
+      "location": 2,
+      "content": "就但是呢如果按照我现在画的这个圆呢",
+      "music": 0.14326647153964228
+    },
+    {
+      "from": 161.13,
+      "to": 162.85,
+      "sid": 61,
+      "location": 2,
+      "content": "我又不太方便去往下走",
+      "music": 0
+    },
+    {
+      "from": 162.85,
+      "to": 164.3,
+      "sid": 62,
+      "location": 2,
+      "content": "所以就很纠结",
+      "music": 0
+    },
+    {
+      "from": 164.3,
+      "to": 166.1,
+      "sid": 63,
+      "location": 2,
+      "content": "这两天也没有想清楚",
+      "music": 0
+    },
+    {
+      "from": 166.1,
+      "to": 169.5,
+      "sid": 64,
+      "location": 2,
+      "content": "这个我之后的行程到底怎么怎么做",
+      "music": 0.2704402430679206
+    },
+    {
+      "from": 170.19,
+      "to": 172.35,
+      "sid": 65,
+      "location": 2,
+      "content": "所以我希望大家能帮我出点意见吧",
+      "music": 0
+    },
+    {
+      "from": 172.35,
+      "to": 174.63,
+      "sid": 66,
+      "location": 2,
+      "content": "就是我到底是继续北上呢",
+      "music": 0
+    },
+    {
+      "from": 174.63,
+      "to": 175.79,
+      "sid": 67,
+      "location": 2,
+      "content": "还是南下",
+      "music": 0
+    },
+    {
+      "from": 175.79,
+      "to": 177.87,
+      "sid": 68,
+      "location": 2,
+      "content": "因为南下就必然会走回头路",
+      "music": 0
+    },
+    {
+      "from": 177.87,
+      "to": 179.99,
+      "sid": 69,
+      "location": 2,
+      "content": "但是我这个人真的很讨厌走回头路",
+      "music": 0
+    },
+    {
+      "from": 179.99,
+      "to": 181.89,
+      "sid": 70,
+      "location": 2,
+      "content": "或者我们就按照原计划呃",
+      "music": 0
+    },
+    {
+      "from": 181.89,
+      "to": 183.43,
+      "sid": 71,
+      "location": 2,
+      "content": "我们先不要管那么多",
+      "music": 0
+    },
+    {
+      "from": 183.43,
+      "to": 184.95,
+      "sid": 72,
+      "location": 2,
+      "content": "先慢慢的朝北方骑",
+      "music": 0
+    },
+    {
+      "from": 184.95,
+      "to": 186.51,
+      "sid": 73,
+      "location": 2,
+      "content": "还有一个点是啥呢",
+      "music": 0
+    },
+    {
+      "from": 186.51,
+      "to": 187.63,
+      "sid": 74,
+      "location": 2,
+      "content": "我我在想一个问题",
+      "music": 0
+    },
+    {
+      "from": 187.63,
+      "to": 192,
+      "sid": 75,
+      "location": 2,
+      "content": "就是我感觉我现在从行程上来说",
+      "music": 0.11428571065759958
+    },
+    {
+      "from": 192,
+      "to": 194.14,
+      "sid": 76,
+      "location": 2,
+      "content": "有点太缺乏目标感",
+      "music": 0
+    },
+    {
+      "from": 195.22,
+      "to": 197.14,
+      "sid": 77,
+      "location": 2,
+      "content": "我知道大家喜欢我的这个性格",
+      "music": 0
+    },
+    {
+      "from": 197.14,
+      "to": 198.85,
+      "sid": 78,
+      "location": 2,
+      "content": "我自己也喜欢我的这个性格",
+      "music": 0
+    },
+    {
+      "from": 198.85,
+      "to": 199.61,
+      "sid": 79,
+      "location": 2,
+      "content": "但是我跟你们说",
+      "music": 0
+    },
+    {
+      "from": 199.61,
+      "to": 200.33,
+      "sid": 80,
+      "location": 2,
+      "content": "没有目标感",
+      "music": 0
+    },
+    {
+      "from": 200.33,
+      "to": 201.53,
+      "sid": 81,
+      "location": 2,
+      "content": "对于我这种性格的人",
+      "music": 0
+    },
+    {
+      "from": 201.53,
+      "to": 203.77,
+      "sid": 82,
+      "location": 2,
+      "content": "有一个很大的问题",
+      "music": 0.2539682405307773
+    },
+    {
+      "from": 203.97,
+      "to": 204.93,
+      "sid": 83,
+      "location": 2,
+      "content": "太容易摆烂",
+      "music": 0
+    },
+    {
+      "from": 206.73,
+      "to": 209.25,
+      "sid": 84,
+      "location": 2,
+      "content": "就是如果我没有一个给自己定好的",
+      "music": 0
+    },
+    {
+      "from": 209.25,
+      "to": 211.77,
+      "sid": 85,
+      "location": 2,
+      "content": "一个紧迫的长线目标",
+      "music": 0
+    },
+    {
+      "from": 211.77,
+      "to": 213.42,
+      "sid": 86,
+      "location": 2,
+      "content": "或者说中长线目标",
+      "music": 0
+    },
+    {
+      "from": 213.42,
+      "to": 215.36,
+      "sid": 87,
+      "location": 2,
+      "content": "我就会比如说像我在镇江",
+      "music": 0
+    },
+    {
+      "from": 215.36,
+      "to": 217.02,
+      "sid": 88,
+      "location": 2,
+      "content": "今天其实我觉得我已经好了",
+      "music": 0
+    },
+    {
+      "from": 217.02,
+      "to": 218.26,
+      "sid": 89,
+      "location": 2,
+      "content": "但是我还是不想出门",
+      "music": 0
+    },
+    {
+      "from": 218.26,
+      "to": 220.42,
+      "sid": 90,
+      "location": 2,
+      "content": "因为你一躺就会犯懒",
+      "music": 0
+    },
+    {
+      "from": 220.42,
+      "to": 221.23,
+      "sid": 91,
+      "location": 2,
+      "content": "你们知道吧",
+      "music": 0
+    },
+    {
+      "from": 221.23,
+      "to": 222.51,
+      "sid": 92,
+      "location": 2,
+      "content": "哎能能理解我这感觉吗",
+      "music": 0
+    },
+    {
+      "from": 222.51,
+      "to": 224.47,
+      "sid": 93,
+      "location": 2,
+      "content": "就是我前两天因为生病躺了两天",
+      "music": 0
+    },
+    {
+      "from": 224.47,
+      "to": 226.35,
+      "sid": 94,
+      "location": 2,
+      "content": "今天第三天我感觉我差不多好了",
+      "music": 0
+    },
+    {
+      "from": 226.35,
+      "to": 227.69,
+      "sid": 95,
+      "location": 2,
+      "content": "但是我就不想动",
+      "music": 0
+    },
+    {
+      "from": 227.69,
+      "to": 228.82,
+      "sid": 96,
+      "location": 2,
+      "content": "我不想起来",
+      "music": 0
+    },
+    {
+      "from": 228.82,
+      "to": 231.66,
+      "sid": 97,
+      "location": 2,
+      "content": "我连门都不想出",
+      "music": 0.15492956655425333
+    },
+    {
+      "from": 232.02,
+      "to": 232.74,
+      "sid": 98,
+      "location": 2,
+      "content": "好消息",
+      "music": 0
+    },
+    {
+      "from": 232.74,
+      "to": 234.02,
+      "sid": 99,
+      "location": 2,
+      "content": "就是明天我回上海",
+      "music": 0
+    },
+    {
+      "from": 234.02,
+      "to": 236.82,
+      "sid": 100,
+      "location": 2,
+      "content": "然后在上海要拍探店视频嘛",
+      "music": 0
+    },
+    {
+      "from": 236.82,
+      "to": 238.3,
+      "sid": 101,
+      "location": 2,
+      "content": "然后还有一些广告啥的",
+      "music": 0
+    },
+    {
+      "from": 238.3,
+      "to": 240.86,
+      "sid": 102,
+      "location": 2,
+      "content": "大概要去个四天左右",
+      "music": 0
+    },
+    {
+      "from": 240.86,
+      "to": 244.54,
+      "sid": 103,
+      "location": 2,
+      "content": "然后我就跟那个本地的车店",
+      "music": 0
+    },
+    {
+      "from": 244.54,
+      "to": 247.12,
+      "sid": 104,
+      "location": 2,
+      "content": "然后托宇宙宇宙电助力的老板",
+      "music": 0
+    },
+    {
+      "from": 247.12,
+      "to": 248.88,
+      "sid": 105,
+      "location": 2,
+      "content": "帮我去联系他本地的车店",
+      "music": 0
+    },
+    {
+      "from": 248.88,
+      "to": 252.08,
+      "sid": 106,
+      "location": 2,
+      "content": "然后把车再再放在这边放个四天",
+      "music": 0
+    },
+    {
+      "from": 252.08,
+      "to": 255.01,
+      "sid": 107,
+      "location": 2,
+      "content": "就相当于在镇江存了一个存档点嘛",
+      "music": 0
+    },
+    {
+      "from": 255.01,
+      "to": 258.25,
+      "sid": 108,
+      "location": 2,
+      "content": "然后回上海把事情全搞定以后再回到镇江",
+      "music": 0
+    },
+    {
+      "from": 258.25,
+      "to": 261.33,
+      "sid": 109,
+      "location": 2,
+      "content": "重新要不要重新秩序我们的青春",
+      "music": 0
+    },
+    {
+      "from": 261.33,
+      "to": 264.86,
+      "sid": 110,
+      "location": 2,
+      "content": "那么我觉得这也是一个契机吧",
+      "music": 0
+    },
+    {
+      "from": 264.86,
+      "to": 266.96,
+      "sid": 111,
+      "location": 2,
+      "content": "可以把这个问题好好想一下",
+      "music": 0
+    },
+    {
+      "from": 266.96,
+      "to": 268.72,
+      "sid": 112,
+      "location": 2,
+      "content": "你有没有感觉我生病",
+      "music": 0
+    },
+    {
+      "from": 268.72,
+      "to": 270.27,
+      "sid": 113,
+      "location": 2,
+      "content": "这两天躺床上了",
+      "music": 0
+    },
+    {
+      "from": 270.27,
+      "to": 271.63,
+      "sid": 114,
+      "location": 2,
+      "content": "脸垮了",
+      "music": 0
+    },
+    {
+      "from": 271.63,
+      "to": 273.37,
+      "sid": 115,
+      "location": 2,
+      "content": "呵呵就不运动",
+      "music": 0
+    },
+    {
+      "from": 273.37,
+      "to": 273.95,
+      "sid": 116,
+      "location": 2,
+      "content": "我跟你说",
+      "music": 0
+    },
+    {
+      "from": 273.95,
+      "to": 276.95,
+      "sid": 117,
+      "location": 2,
+      "content": "连续的运动以后不运动就会出现这种问题",
+      "music": 0
+    },
+    {
+      "from": 276.95,
+      "to": 279.23,
+      "sid": 118,
+      "location": 2,
+      "content": "就这感觉肉都耷拉下去了",
+      "music": 0
+    },
+    {
+      "from": 279.23,
+      "to": 280.15,
+      "sid": 119,
+      "location": 2,
+      "content": "很恐怖",
+      "music": 0
+    },
+    {
+      "from": 282.61,
+      "to": 284.59,
+      "sid": 120,
+      "location": 2,
+      "content": "今天这期视频也是一起摆烂",
+      "music": 0
+    },
+    {
+      "from": 284.59,
+      "to": 288.76,
+      "sid": 121,
+      "location": 2,
+      "content": "连摆三期难免会产生一些小小的焦虑啊",
+      "music": 0
+    },
+    {
+      "from": 289.6,
+      "to": 291.8,
+      "sid": 122,
+      "location": 2,
+      "content": "毕竟我们这个账号也算在上升期嘛",
+      "music": 0
+    },
+    {
+      "from": 291.8,
+      "to": 295.09,
+      "sid": 123,
+      "location": 2,
+      "content": "但是大家少喷就是了",
+      "music": 0.12834223912608803
+    },
+    {
+      "from": 295.09,
+      "to": 295.29,
+      "sid": 124,
+      "location": 2,
+      "content": "好吧",
+      "music": 0
+    },
+    {
+      "from": 295.29,
+      "to": 297.75,
+      "sid": 125,
+      "location": 2,
+      "content": "我已经认认错了",
+      "music": 0.11299434389861937
+    },
+    {
+      "from": 297.83,
+      "to": 299.75,
+      "sid": 126,
+      "location": 2,
+      "content": "然后还是要更新的",
+      "music": 0
+    },
+    {
+      "from": 299.75,
+      "to": 302.35,
+      "sid": 127,
+      "location": 2,
+      "content": "原因是因为要祝10月20号同学",
+      "music": 0
+    },
+    {
+      "from": 302.35,
+      "to": 303.67,
+      "sid": 128,
+      "location": 2,
+      "content": "10月20号过生日",
+      "music": 0
+    },
+    {
+      "from": 303.67,
+      "to": 306.039,
+      "sid": 129,
+      "location": 2,
+      "content": "同学们生日快乐嗯",
+      "music": 0
+    },
+    {
+      "from": 307.039,
+      "to": 309.119,
+      "sid": 130,
+      "location": 2,
+      "content": "然后接下来在上海也不知道咋排",
+      "music": 0
+    },
+    {
+      "from": 309.119,
+      "to": 311.859,
+      "sid": 131,
+      "location": 2,
+      "content": "因为四天行程排的满满的",
+      "music": 0
+    },
+    {
+      "from": 312.979,
+      "to": 314.039,
+      "sid": 132,
+      "location": 2,
+      "content": "就很烦",
+      "music": 0
+    },
+    {
+      "from": 314.039,
+      "to": 317.6,
+      "sid": 133,
+      "location": 2,
+      "content": "这就是日更的一个压力所在了",
+      "music": 0
+    },
+    {
+      "from": 317.6,
+      "to": 318.08,
+      "sid": 134,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 318.08,
+      "to": 318.96,
+      "sid": 135,
+      "location": 2,
+      "content": "但是不管怎么样",
+      "music": 0
+    },
+    {
+      "from": 318.96,
+      "to": 321.88,
+      "sid": 136,
+      "location": 2,
+      "content": "我尽量争取每天都祝大家生日快乐好吧",
+      "music": 0
+    },
+    {
+      "from": 321.88,
+      "to": 323.92,
+      "sid": 137,
+      "location": 2,
+      "content": "因为这件事情我觉得还是不能放弃的",
+      "music": 0
+    },
+    {
+      "from": 323.92,
+      "to": 325.36,
+      "sid": 138,
+      "location": 2,
+      "content": "就是我要连续做一年的",
+      "music": 0
+    },
+    {
+      "from": 325.36,
+      "to": 326.4,
+      "sid": 139,
+      "location": 2,
+      "content": "祝大家生日快乐",
+      "music": 0
+    },
+    {
+      "from": 326.4,
+      "to": 327.65,
+      "sid": 140,
+      "location": 2,
+      "content": "祝到每一个人",
+      "music": 0
+    },
+    {
+      "from": 327.65,
+      "to": 329.81,
+      "sid": 141,
+      "location": 2,
+      "content": "当然如果你是2月29号生的",
+      "music": 0
+    },
+    {
+      "from": 329.81,
+      "to": 331.18,
+      "sid": 142,
+      "location": 2,
+      "content": "那我也没办法",
+      "music": 0
+    },
+    {
+      "from": 331.18,
+      "to": 332.78,
+      "sid": 143,
+      "location": 2,
+      "content": "呵呵好",
+      "music": 0
+    },
+    {
+      "from": 332.78,
+      "to": 336.34,
+      "sid": 144,
+      "location": 2,
+      "content": "那今天这期视频就到这里",
+      "music": 0.09701492175317299
+    }
+  ]
+}

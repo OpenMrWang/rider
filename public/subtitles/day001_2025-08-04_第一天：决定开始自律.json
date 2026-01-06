@@ -1,0 +1,1172 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 3.28,
+      "sid": 1,
+      "location": 2,
+      "content": "35岁网瘾中年假装自律的一天",
+      "music": 0
+    },
+    {
+      "from": 3.28,
+      "to": 6.35,
+      "sid": 2,
+      "location": 2,
+      "content": "自律第一天早上07:30",
+      "music": 0
+    },
+    {
+      "from": 11.31,
+      "to": 13.23,
+      "sid": 3,
+      "location": 2,
+      "content": "先抱走个1万步",
+      "music": 0
+    },
+    {
+      "from": 17.48,
+      "to": 19.48,
+      "sid": 4,
+      "location": 2,
+      "content": "啊get get get get",
+      "music": 0
+    },
+    {
+      "from": 19.62,
+      "to": 25.26,
+      "sid": 5,
+      "location": 2,
+      "content": "十碗面还有7500步啊",
+      "music": 0
+    },
+    {
+      "from": 34.04,
+      "to": 35.76,
+      "sid": 6,
+      "location": 2,
+      "content": "原来是我的宝贝",
+      "music": 0
+    },
+    {
+      "from": 35.76,
+      "to": 38.04,
+      "sid": 7,
+      "location": 2,
+      "content": "我没换过这一次花",
+      "music": 0.5416665538194742
+    },
+    {
+      "from": 38.04,
+      "to": 43.56,
+      "sid": 8,
+      "location": 2,
+      "content": "唉没想到光走路能把自己走成这个样子",
+      "music": 0.07558139315170316
+    },
+    {
+      "from": 44.15,
+      "to": 45.41,
+      "sid": 9,
+      "location": 2,
+      "content": "♪ 天选酒醉 ♪",
+      "music": 0.9999997674419145
+    },
+    {
+      "from": 45.41,
+      "to": 46.29,
+      "sid": 10,
+      "location": 2,
+      "content": "♪ 真真的伤悲 ♪",
+      "music": 0.9999998863636493
+    },
+    {
+      "from": 46.29,
+      "to": 48.76,
+      "sid": 11,
+      "location": 2,
+      "content": "酒干化被生活的城市",
+      "music": 0.08045976086669472
+    },
+    {
+      "from": 49.36,
+      "to": 51.08,
+      "sid": 12,
+      "location": 2,
+      "content": "今天一漫步完成",
+      "music": 0
+    },
+    {
+      "from": 51.08,
+      "to": 52.64,
+      "sid": 13,
+      "location": 2,
+      "content": "奖励自己一把金铲铲",
+      "music": 0
+    },
+    {
+      "from": 55.56,
+      "to": 57.56,
+      "sid": 14,
+      "location": 2,
+      "content": "哈哈第三名",
+      "music": 0
+    },
+    {
+      "from": 57.96,
+      "to": 62.44,
+      "sid": 15,
+      "location": 2,
+      "content": "哎呀啊你好对的",
+      "music": 0
+    },
+    {
+      "from": 62.44,
+      "to": 65.02,
+      "sid": 16,
+      "location": 2,
+      "content": "1万步比我想象的累好多",
+      "music": 0
+    },
+    {
+      "from": 65.02,
+      "to": 68.16,
+      "sid": 17,
+      "location": 2,
+      "content": "全湿锅洗个澡",
+      "music": 0
+    },
+    {
+      "from": 68.86,
+      "to": 70.4,
+      "sid": 18,
+      "location": 2,
+      "content": "♪ 人生路还短 ♪",
+      "music": 0.9999998979591942
+    },
+    {
+      "from": 70.4,
+      "to": 71.32,
+      "sid": 19,
+      "location": 2,
+      "content": "不换自渡",
+      "music": 0
+    },
+    {
+      "from": 71.32,
+      "to": 72.1,
+      "sid": 20,
+      "location": 2,
+      "content": "在受伤",
+      "music": 0
+    },
+    {
+      "from": 72.1,
+      "to": 74.04,
+      "sid": 21,
+      "location": 2,
+      "content": "忍着心的人潮",
+      "music": 0
+    },
+    {
+      "from": 74.04,
+      "to": 76,
+      "sid": 22,
+      "location": 2,
+      "content": "总谁能不迷茫",
+      "music": 0
+    },
+    {
+      "from": 76,
+      "to": 78.12,
+      "sid": 23,
+      "location": 2,
+      "content": "谁与泪水纷纷怨怨",
+      "music": 0
+    },
+    {
+      "from": 78.12,
+      "to": 79.7,
+      "sid": 24,
+      "location": 2,
+      "content": "终究这死光",
+      "music": 0
+    },
+    {
+      "from": 79.7,
+      "to": 81.789,
+      "sid": 25,
+      "location": 2,
+      "content": "烦恼无解开",
+      "music": 0
+    },
+    {
+      "from": 81.789,
+      "to": 83.509,
+      "sid": 26,
+      "location": 2,
+      "content": "是否的纠缠",
+      "music": 0
+    },
+    {
+      "from": 83.509,
+      "to": 86.849,
+      "sid": 27,
+      "location": 2,
+      "content": "谁不是奔跑在黑暗中追寻微弱的光",
+      "music": 0.38834949817012626
+    },
+    {
+      "from": 86.849,
+      "to": 88.789,
+      "sid": 28,
+      "location": 2,
+      "content": "♪ 也曾惊艳过失望 ♪",
+      "music": 0.8499999468750059
+    },
+    {
+      "from": 88.789,
+      "to": 90.389,
+      "sid": 29,
+      "location": 2,
+      "content": "♪ 也曾被冷眼相待 ♪",
+      "music": 0.8897484919569044
+    },
+    {
+      "from": 90.389,
+      "to": 92.89,
+      "sid": 30,
+      "location": 2,
+      "content": "在刚洗完澡做个巴拉",
+      "music": 0
+    },
+    {
+      "from": 92.89,
+      "to": 94.45,
+      "sid": 31,
+      "location": 2,
+      "content": "这又是一头汗",
+      "music": 0
+    },
+    {
+      "from": 94.45,
+      "to": 97.21,
+      "sid": 32,
+      "location": 2,
+      "content": "他把这个当做拉伸等的辅食物",
+      "music": 0
+    },
+    {
+      "from": 97.21,
+      "to": 99.05,
+      "sid": 33,
+      "location": 2,
+      "content": "吃完以后奖励一把大乱斗",
+      "music": 0
+    },
+    {
+      "from": 99.05,
+      "to": 101.19,
+      "sid": 34,
+      "location": 2,
+      "content": "♪ 我可不会长大的孩子 ♪",
+      "music": 0.9293477755789201
+    },
+    {
+      "from": 101.19,
+      "to": 105.22,
+      "sid": 35,
+      "location": 2,
+      "content": "有人去阿卡丽用",
+      "music": 0.5718849657544749
+    },
+    {
+      "from": 106.82,
+      "to": 109.4,
+      "sid": 36,
+      "location": 2,
+      "content": "他为了录忘记换雪球了",
+      "music": 0.10101009590858225
+    },
+    {
+      "from": 109.44,
+      "to": 111.34,
+      "sid": 37,
+      "location": 2,
+      "content": "我还带了致命节奏",
+      "music": 0
+    },
+    {
+      "from": 111.34,
+      "to": 112.82,
+      "sid": 38,
+      "location": 2,
+      "content": "我证明一下啊",
+      "music": 0
+    },
+    {
+      "from": 112.82,
+      "to": 114.66,
+      "sid": 39,
+      "location": 2,
+      "content": "我的致命节奏有用啊",
+      "music": 0
+    },
+    {
+      "from": 114.66,
+      "to": 116.46,
+      "sid": 40,
+      "location": 2,
+      "content": "打了40点伤害啊",
+      "music": 0
+    },
+    {
+      "from": 116.46,
+      "to": 121.88,
+      "sid": 41,
+      "location": 2,
+      "content": "11杠16杠18伤害全队第三",
+      "music": 0
+    },
+    {
+      "from": 121.88,
+      "to": 123.54,
+      "sid": 42,
+      "location": 2,
+      "content": "还行啊还行啊",
+      "music": 0
+    },
+    {
+      "from": 123.54,
+      "to": 124.42,
+      "sid": 43,
+      "location": 2,
+      "content": "虽然输了",
+      "music": 0
+    },
+    {
+      "from": 124.42,
+      "to": 126.02,
+      "sid": 44,
+      "location": 2,
+      "content": "但虽败犹荣",
+      "music": 0
+    },
+    {
+      "from": 126.42,
+      "to": 127.62,
+      "sid": 45,
+      "location": 2,
+      "content": "午饭三个菜",
+      "music": 0
+    },
+    {
+      "from": 130.74,
+      "to": 132.13,
+      "sid": 46,
+      "location": 2,
+      "content": "阿姨做的",
+      "music": 0
+    },
+    {
+      "from": 132.13,
+      "to": 132.89,
+      "sid": 47,
+      "location": 2,
+      "content": "我跟你们讲",
+      "music": 0
+    },
+    {
+      "from": 132.89,
+      "to": 135.75,
+      "sid": 48,
+      "location": 2,
+      "content": "我以前一般是下午两点起来的",
+      "music": 0
+    },
+    {
+      "from": 135.75,
+      "to": 137.63,
+      "sid": 49,
+      "location": 2,
+      "content": "然后我起来以后一点都不饿",
+      "music": 0
+    },
+    {
+      "from": 137.63,
+      "to": 139.85,
+      "sid": 50,
+      "location": 2,
+      "content": "我基本上要到五点才开始吃饭",
+      "music": 0
+    },
+    {
+      "from": 139.85,
+      "to": 142.65,
+      "sid": 51,
+      "location": 2,
+      "content": "今天我早上七点起来",
+      "music": 0
+    },
+    {
+      "from": 142.65,
+      "to": 145.31,
+      "sid": 52,
+      "location": 2,
+      "content": "07:30出门走路",
+      "music": 0
+    },
+    {
+      "from": 145.31,
+      "to": 147.63,
+      "sid": 53,
+      "location": 2,
+      "content": "然后大概快九点的时候吃了个早饭",
+      "music": 0
+    },
+    {
+      "from": 147.63,
+      "to": 149.57,
+      "sid": 54,
+      "location": 2,
+      "content": "现在12点我已经饿的不行了",
+      "music": 0
+    },
+    {
+      "from": 149.57,
+      "to": 151.37,
+      "sid": 55,
+      "location": 2,
+      "content": "嗯中饭多吃一点",
+      "music": 0
+    },
+    {
+      "from": 151.37,
+      "to": 152.75,
+      "sid": 56,
+      "location": 2,
+      "content": "晚饭直接不吃了",
+      "music": 0
+    },
+    {
+      "from": 152.75,
+      "to": 153.59,
+      "sid": 57,
+      "location": 2,
+      "content": "好吧",
+      "music": 0
+    },
+    {
+      "from": 153.59,
+      "to": 159.35,
+      "sid": 58,
+      "location": 2,
+      "content": "我要尝试一下我们老祖宗说的过午不食",
+      "music": 0.12230215534047408
+    },
+    {
+      "from": 164.33,
+      "to": 168.99,
+      "sid": 59,
+      "location": 2,
+      "content": "吃完饭静坐一个小时CAO",
+      "music": 0
+    },
+    {
+      "from": 168.99,
+      "to": 170.899,
+      "sid": 60,
+      "location": 2,
+      "content": "这也太热了",
+      "music": 0
+    },
+    {
+      "from": 178.019,
+      "to": 179.359,
+      "sid": 61,
+      "location": 2,
+      "content": "go go哦",
+      "music": 0
+    },
+    {
+      "from": 179.359,
+      "to": 180.939,
+      "sid": 62,
+      "location": 2,
+      "content": "这个是挺好的",
+      "music": 0
+    },
+    {
+      "from": 180.939,
+      "to": 183.139,
+      "sid": 63,
+      "location": 2,
+      "content": "特别是go是堵不住啊",
+      "music": 0.14772726433368752
+    },
+    {
+      "from": 183.139,
+      "to": 185.78,
+      "sid": 64,
+      "location": 2,
+      "content": "我想着想着我有点困了",
+      "music": 0
+    },
+    {
+      "from": 185.78,
+      "to": 186.98,
+      "sid": 65,
+      "location": 2,
+      "content": "但其实我也没在想",
+      "music": 0
+    },
+    {
+      "from": 186.98,
+      "to": 189.62,
+      "sid": 66,
+      "location": 2,
+      "content": "我就是这样感受自己的存在",
+      "music": 0
+    },
+    {
+      "from": 189.62,
+      "to": 190.3,
+      "sid": 67,
+      "location": 2,
+      "content": "但我现在好困",
+      "music": 0
+    },
+    {
+      "from": 190.3,
+      "to": 191.52,
+      "sid": 68,
+      "location": 2,
+      "content": "我要睡一觉",
+      "music": 0
+    },
+    {
+      "from": 191.52,
+      "to": 194.61,
+      "sid": 69,
+      "location": 2,
+      "content": "黑暗中最虚伪弱难断",
+      "music": 0.5576922808801739
+    },
+    {
+      "from": 195.09,
+      "to": 197.25,
+      "sid": 70,
+      "location": 2,
+      "content": "睡醒一觉再奖励一把足球吧",
+      "music": 0
+    },
+    {
+      "from": 198.81,
+      "to": 200.09,
+      "sid": 71,
+      "location": 2,
+      "content": "五比零",
+      "music": 0
+    },
+    {
+      "from": 201.1,
+      "to": 202.84,
+      "sid": 72,
+      "location": 2,
+      "content": "梅西帽子戏法",
+      "music": 0
+    },
+    {
+      "from": 202.84,
+      "to": 204.7,
+      "sid": 73,
+      "location": 2,
+      "content": "♪ 不论过这一次 ♪",
+      "music": 0.9433961374154567
+    },
+    {
+      "from": 204.7,
+      "to": 206.92,
+      "sid": 74,
+      "location": 2,
+      "content": "接下来是沉浸式",
+      "music": 0
+    },
+    {
+      "from": 206.92,
+      "to": 209.5,
+      "sid": 75,
+      "location": 2,
+      "content": "不会这把我怀疑有人欺荡",
+      "music": 0.27499998854166835
+    },
+    {
+      "from": 209.5,
+      "to": 210.42,
+      "sid": 76,
+      "location": 2,
+      "content": "♪ 有人依靠 ♪",
+      "music": 0.9999998809523952
+    },
+    {
+      "from": 210.42,
+      "to": 211.76,
+      "sid": 77,
+      "location": 2,
+      "content": "♪ 不会有太多心 ♪",
+      "music": 0.9999999253731399
+    },
+    {
+      "from": 211.76,
+      "to": 212.1,
+      "sid": 78,
+      "location": 2,
+      "content": "♪ 誓 ♪",
+      "music": 0.9999996875000976
+    },
+    {
+      "from": 212.1,
+      "to": 214.4,
+      "sid": 79,
+      "location": 2,
+      "content": "♪ 用最简单的橡皮酒很杂 ♪",
+      "music": 0.9999999514563132
+    },
+    {
+      "from": 214.4,
+      "to": 215.8,
+      "sid": 80,
+      "location": 2,
+      "content": "♪ 生活的真挚 ♪",
+      "music": 0.9999999218750061
+    },
+    {
+      "from": 215.8,
+      "to": 219.2,
+      "sid": 81,
+      "location": 2,
+      "content": "人生哪能不靠画的这么好戏",
+      "music": 0.5281689954870119
+    },
+    {
+      "from": 219.2,
+      "to": 220.48,
+      "sid": 82,
+      "location": 2,
+      "content": "得奖励一下自己了",
+      "music": 0
+    },
+    {
+      "from": 220.48,
+      "to": 223.799,
+      "sid": 83,
+      "location": 2,
+      "content": "你眼泪却不知道为什么要坚持奖励自己",
+      "music": 0.7712867212185224
+    },
+    {
+      "from": 223.799,
+      "to": 224.959,
+      "sid": 84,
+      "location": 2,
+      "content": "一把2K泪水",
+      "music": 0
+    },
+    {
+      "from": 224.959,
+      "to": 226.659,
+      "sid": 85,
+      "location": 2,
+      "content": "♪ 内心坚强的诚实 ♪",
+      "music": 0.9999999411418515
+    },
+    {
+      "from": 226.659,
+      "to": 227.699,
+      "sid": 86,
+      "location": 2,
+      "content": "♪ 擦干眼泪 ♪",
+      "music": 0.999999903846163
+    },
+    {
+      "from": 227.699,
+      "to": 229.64,
+      "sid": 87,
+      "location": 2,
+      "content": "♪ 跪着鸡零狗碎的日子 ♪",
+      "music": 0.9999998719590434
+    },
+    {
+      "from": 230.6,
+      "to": 232.44,
+      "sid": 88,
+      "location": 2,
+      "content": "70分大胜小牛",
+      "music": 0
+    },
+    {
+      "from": 234.52,
+      "to": 235.32,
+      "sid": 89,
+      "location": 2,
+      "content": "59分",
+      "music": 0
+    },
+    {
+      "from": 235.32,
+      "to": 236.28,
+      "sid": 90,
+      "location": 2,
+      "content": "39篮板",
+      "music": 0
+    },
+    {
+      "from": 236.28,
+      "to": 237.82,
+      "sid": 91,
+      "location": 2,
+      "content": "22助攻十盖帽",
+      "music": 0
+    },
+    {
+      "from": 237.82,
+      "to": 239.079,
+      "sid": 92,
+      "location": 2,
+      "content": "超级四爽",
+      "music": 0
+    },
+    {
+      "from": 239.079,
+      "to": 241.199,
+      "sid": 93,
+      "location": 2,
+      "content": "♪ 你靠不会有太多心事 ♪",
+      "music": 0.999999945054948
+    },
+    {
+      "from": 241.199,
+      "to": 244.859,
+      "sid": 94,
+      "location": 2,
+      "content": "♪ 用最天真的橡皮就能擦去生活的真挚 ♪",
+      "music": 0.9999999719022206
+    },
+    {
+      "from": 244.859,
+      "to": 245.9,
+      "sid": 95,
+      "location": 2,
+      "content": "♪ 可以生 ♪",
+      "music": 0.9999998573466681
+    },
+    {
+      "from": 245.9,
+      "to": 248.48,
+      "sid": 96,
+      "location": 2,
+      "content": "♪ 哪能不能放过这一次 ♪",
+      "music": 0.9999999590163952
+    },
+    {
+      "from": 248.48,
+      "to": 250.18,
+      "sid": 97,
+      "location": 2,
+      "content": "♪ 有时候明明很累 ♪",
+      "music": 0.9999999367088648
+    },
+    {
+      "from": 250.18,
+      "to": 253.56,
+      "sid": 98,
+      "location": 2,
+      "content": "♪ 却不知道为什么要坚持残酷的现实 ♪",
+      "music": 0.9999999664429542
+    },
+    {
+      "from": 253.56,
+      "to": 255.34,
+      "sid": 99,
+      "location": 2,
+      "content": "练的手太疼了",
+      "music": 0.3382352692474091
+    },
+    {
+      "from": 255.34,
+      "to": 256.2,
+      "sid": 100,
+      "location": 2,
+      "content": "一个半小时",
+      "music": 0
+    },
+    {
+      "from": 256.2,
+      "to": 259.3,
+      "sid": 101,
+      "location": 2,
+      "content": "差不多这么辛苦",
+      "music": 0.5187969729775509
+    },
+    {
+      "from": 259.3,
+      "to": 261.24,
+      "sid": 102,
+      "location": 2,
+      "content": "奖励自己大运费",
+      "music": 0
+    },
+    {
+      "from": 262.03,
+      "to": 264.35,
+      "sid": 103,
+      "location": 2,
+      "content": "三星寒冰",
+      "music": 0
+    },
+    {
+      "from": 265.25,
+      "to": 268.05,
+      "sid": 104,
+      "location": 2,
+      "content": "三彩池六圣盾",
+      "music": 0
+    },
+    {
+      "from": 268.05,
+      "to": 273.37,
+      "sid": 105,
+      "location": 2,
+      "content": "斯莫格拼尽全力必拿下第二",
+      "music": 0
+    },
+    {
+      "from": 273.96,
+      "to": 276.52,
+      "sid": 106,
+      "location": 2,
+      "content": "奖励自己一个按摩",
+      "music": 0
+    },
+    {
+      "from": 283.74,
+      "to": 285.12,
+      "sid": 107,
+      "location": 2,
+      "content": "热点轻一点",
+      "music": 0
+    },
+    {
+      "from": 285.12,
+      "to": 287.9,
+      "sid": 108,
+      "location": 2,
+      "content": "这两块地方特别疼",
+      "music": 0
+    },
+    {
+      "from": 289.62,
+      "to": 291.1,
+      "sid": 109,
+      "location": 2,
+      "content": "我本来不吃晚饭",
+      "music": 0
+    },
+    {
+      "from": 291.1,
+      "to": 292.26,
+      "sid": 110,
+      "location": 2,
+      "content": "没有那么饿的",
+      "music": 0
+    },
+    {
+      "from": 292.26,
+      "to": 296.84,
+      "sid": 111,
+      "location": 2,
+      "content": "结果按完摩以后我好饿啊",
+      "music": 0
+    },
+    {
+      "from": 297.04,
+      "to": 300.04,
+      "sid": 112,
+      "location": 2,
+      "content": "然后这条街上还都是吃的",
+      "music": 0
+    },
+    {
+      "from": 300.04,
+      "to": 301.2,
+      "sid": 113,
+      "location": 2,
+      "content": "我的妈呀",
+      "music": 0
+    },
+    {
+      "from": 301.2,
+      "to": 302.24,
+      "sid": 114,
+      "location": 2,
+      "content": "到家了",
+      "music": 0
+    },
+    {
+      "from": 302.24,
+      "to": 304.64,
+      "sid": 115,
+      "location": 2,
+      "content": "我实在是太饿了",
+      "music": 0
+    },
+    {
+      "from": 308.1,
+      "to": 309.26,
+      "sid": 116,
+      "location": 2,
+      "content": "现在是10:30",
+      "music": 0
+    },
+    {
+      "from": 310.3,
+      "to": 313.5,
+      "sid": 117,
+      "location": 2,
+      "content": "这是我近10年来唯一一次10:30的时候就困了",
+      "music": 0
+    },
+    {
+      "from": 313.5,
+      "to": 314.63,
+      "sid": 118,
+      "location": 2,
+      "content": "就想睡觉了",
+      "music": 0
+    },
+    {
+      "from": 316.59,
+      "to": 318.01,
+      "sid": 119,
+      "location": 2,
+      "content": "身体非常的不健康",
+      "music": 0
+    },
+    {
+      "from": 318.01,
+      "to": 318.81,
+      "sid": 120,
+      "location": 2,
+      "content": "颈椎啊",
+      "music": 0
+    },
+    {
+      "from": 318.81,
+      "to": 319.53,
+      "sid": 121,
+      "location": 2,
+      "content": "腰椎啊",
+      "music": 0
+    },
+    {
+      "from": 319.53,
+      "to": 322.08,
+      "sid": 122,
+      "location": 2,
+      "content": "包括胃啊都有问题",
+      "music": 0
+    },
+    {
+      "from": 322.08,
+      "to": 325.14,
+      "sid": 123,
+      "location": 2,
+      "content": "然后感觉自己好像这么多年来没有什么兴趣",
+      "music": 0
+    },
+    {
+      "from": 325.14,
+      "to": 326.08,
+      "sid": 124,
+      "location": 2,
+      "content": "不想出门",
+      "music": 0
+    },
+    {
+      "from": 326.08,
+      "to": 327.84,
+      "sid": 125,
+      "location": 2,
+      "content": "也没有任何的才艺",
+      "music": 0
+    },
+    {
+      "from": 327.84,
+      "to": 331.249,
+      "sid": 126,
+      "location": 2,
+      "content": "甚至跟人交流的时候都感觉除了能聊游戏",
+      "music": 0
+    },
+    {
+      "from": 331.249,
+      "to": 332.289,
+      "sid": 127,
+      "location": 2,
+      "content": "不知道聊什么",
+      "music": 0
+    },
+    {
+      "from": 332.289,
+      "to": 334.169,
+      "sid": 128,
+      "location": 2,
+      "content": "我做这个系列的原因是什么呢",
+      "music": 0
+    },
+    {
+      "from": 334.169,
+      "to": 337.81,
+      "sid": 129,
+      "location": 2,
+      "content": "是因为前天云顶新版本刚上的时候",
+      "music": 0
+    },
+    {
+      "from": 337.81,
+      "to": 340.11,
+      "sid": 130,
+      "location": 2,
+      "content": "我中午12点起来开始打游戏",
+      "music": 0
+    },
+    {
+      "from": 340.11,
+      "to": 342.93,
+      "sid": 131,
+      "location": 2,
+      "content": "打到了第二天凌晨的五点",
+      "music": 0
+    },
+    {
+      "from": 342.93,
+      "to": 344.41,
+      "sid": 132,
+      "location": 2,
+      "content": "然后准备睡觉的时候",
+      "music": 0
+    },
+    {
+      "from": 344.41,
+      "to": 346.19,
+      "sid": 133,
+      "location": 2,
+      "content": "突然感觉他都要撅过去了",
+      "music": 0
+    },
+    {
+      "from": 346.19,
+      "to": 348.57,
+      "sid": 134,
+      "location": 2,
+      "content": "我就感觉像这样不健康",
+      "music": 0
+    },
+    {
+      "from": 348.57,
+      "to": 351.15,
+      "sid": 135,
+      "location": 2,
+      "content": "不规律的生活已经过了十几年了",
+      "music": 0
+    },
+    {
+      "from": 351.15,
+      "to": 353.19,
+      "sid": 136,
+      "location": 2,
+      "content": "感觉是时候做出一些改变了吧",
+      "music": 0
+    },
+    {
+      "from": 353.19,
+      "to": 356.59,
+      "sid": 137,
+      "location": 2,
+      "content": "所以我想从今天这一期开始试试看",
+      "music": 0
+    },
+    {
+      "from": 356.59,
+      "to": 359.67,
+      "sid": 138,
+      "location": 2,
+      "content": "尝试一下去过一下所谓的自律的生活",
+      "music": 0
+    },
+    {
+      "from": 359.67,
+      "to": 360.95,
+      "sid": 139,
+      "location": 2,
+      "content": "就算一开始是假装的",
+      "music": 0
+    },
+    {
+      "from": 360.95,
+      "to": 361.79,
+      "sid": 140,
+      "location": 2,
+      "content": "也没有关系嘛",
+      "music": 0
+    },
+    {
+      "from": 361.79,
+      "to": 364.42,
+      "sid": 141,
+      "location": 2,
+      "content": "就是装着装着也许就成真了呢对吧",
+      "music": 0
+    },
+    {
+      "from": 364.42,
+      "to": 366.43,
+      "sid": 142,
+      "location": 2,
+      "content": "所以明天见我要去睡觉了",
+      "music": 0
+    },
+    {
+      "from": 366.43,
+      "to": 368.73,
+      "sid": 143,
+      "location": 2,
+      "content": "♪ 哪能不能放过我这一次 ♪",
+      "music": 0.9441623886211924
+    },
+    {
+      "from": 368.73,
+      "to": 370.43,
+      "sid": 144,
+      "location": 2,
+      "content": "♪ 有时候明明很累 ♪",
+      "music": 0.9999999173553786
+    },
+    {
+      "from": 370.43,
+      "to": 372.3,
+      "sid": 145,
+      "location": 2,
+      "content": "♪ 却不知道为什么要坚持 ♪",
+      "music": 0.9999999435028281
+    }
+  ]
+}

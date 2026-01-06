@@ -1,0 +1,220 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.7,
+      "sid": 1,
+      "location": 2,
+      "content": "自律就是为了更好的放纵",
+      "music": 0
+    },
+    {
+      "from": 1.7,
+      "to": 4.14,
+      "sid": 2,
+      "location": 2,
+      "content": "今天是我自律的第17天",
+      "music": 0
+    },
+    {
+      "from": 4.14,
+      "to": 5.72,
+      "sid": 3,
+      "location": 2,
+      "content": "在我自律的过程当中",
+      "music": 0
+    },
+    {
+      "from": 5.72,
+      "to": 7.859,
+      "sid": 4,
+      "location": 2,
+      "content": "我决定每天给自己一顿放纵餐",
+      "music": 0
+    },
+    {
+      "from": 7.859,
+      "to": 9.579,
+      "sid": 5,
+      "location": 2,
+      "content": "这样我还能瘦吗",
+      "music": 0
+    },
+    {
+      "from": 9.579,
+      "to": 11.299,
+      "sid": 6,
+      "location": 2,
+      "content": "早餐两个鸡蛋",
+      "music": 0
+    },
+    {
+      "from": 11.299,
+      "to": 12.099,
+      "sid": 7,
+      "location": 2,
+      "content": "一点蓝莓",
+      "music": 0
+    },
+    {
+      "from": 12.099,
+      "to": 13.679,
+      "sid": 8,
+      "location": 2,
+      "content": "一根香蕉一杯",
+      "music": 0
+    },
+    {
+      "from": 13.679,
+      "to": 14.619,
+      "sid": 9,
+      "location": 2,
+      "content": "半杯牛奶",
+      "music": 0
+    },
+    {
+      "from": 14.619,
+      "to": 16.699,
+      "sid": 10,
+      "location": 2,
+      "content": "因为只剩半杯了",
+      "music": 0
+    },
+    {
+      "from": 19.06,
+      "to": 22.14,
+      "sid": 11,
+      "location": 2,
+      "content": "哎一天2.5L水",
+      "music": 0
+    },
+    {
+      "from": 24.64,
+      "to": 26.56,
+      "sid": 12,
+      "location": 2,
+      "content": "放纵时间",
+      "music": 0
+    },
+    {
+      "from": 27.08,
+      "to": 28.28,
+      "sid": 13,
+      "location": 2,
+      "content": "一份鱼片",
+      "music": 0
+    },
+    {
+      "from": 28.28,
+      "to": 29.38,
+      "sid": 14,
+      "location": 2,
+      "content": "一份菠菜",
+      "music": 0
+    },
+    {
+      "from": 29.38,
+      "to": 31.24,
+      "sid": 15,
+      "location": 2,
+      "content": "一个苏打水",
+      "music": 0
+    },
+    {
+      "from": 49.28,
+      "to": 52.66,
+      "sid": 16,
+      "location": 2,
+      "content": "鱼和蔬菜全部吃完了",
+      "music": 0
+    },
+    {
+      "from": 54.16,
+      "to": 55.96,
+      "sid": 17,
+      "location": 2,
+      "content": "啊今天吃的好撑啊",
+      "music": 0
+    },
+    {
+      "from": 57.12,
+      "to": 60.16,
+      "sid": 18,
+      "location": 2,
+      "content": "那么这顿放纵餐的代价是什么呢",
+      "music": 0
+    },
+    {
+      "from": 66.4,
+      "to": 71.8,
+      "sid": 19,
+      "location": 2,
+      "content": "晚上呼气60吸气吸气",
+      "music": 0
+    },
+    {
+      "from": 96.62,
+      "to": 98.86,
+      "sid": 20,
+      "location": 2,
+      "content": "又只剩一点点了",
+      "music": 0
+    },
+    {
+      "from": 99.54,
+      "to": 101.58,
+      "sid": 21,
+      "location": 2,
+      "content": "明天准备少女的力量训练",
+      "music": 0
+    },
+    {
+      "from": 101.58,
+      "to": 102.76,
+      "sid": 22,
+      "location": 2,
+      "content": "我要去健身房了",
+      "music": 0
+    },
+    {
+      "from": 102.76,
+      "to": 105.68,
+      "sid": 23,
+      "location": 2,
+      "content": "祝8月20号过生日的生日快乐",
+      "music": 0
+    },
+    {
+      "from": 105.68,
+      "to": 108.28,
+      "sid": 24,
+      "location": 2,
+      "content": "我们再去看一下现在的体重是多少",
+      "music": 0
+    },
+    {
+      "from": 108.28,
+      "to": 110.68,
+      "sid": 25,
+      "location": 2,
+      "content": "跟早上重了多少",
+      "music": 0
+    },
+    {
+      "from": 111.1,
+      "to": 113.54,
+      "sid": 26,
+      "location": 2,
+      "content": "确实比早上重了点",
+      "music": 0
+    }
+  ]
+}

@@ -1,0 +1,1212 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0,
+      "to": 3.3,
+      "sid": 1,
+      "location": 2,
+      "content": "啊给大家出一期办健康证攻略",
+      "music": 0
+    },
+    {
+      "from": 3.3,
+      "to": 5.62,
+      "sid": 2,
+      "location": 2,
+      "content": "我也到了不得不办健康证的时候了",
+      "music": 0
+    },
+    {
+      "from": 5.62,
+      "to": 6.02,
+      "sid": 3,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0
+    },
+    {
+      "from": 6.02,
+      "to": 7.54,
+      "sid": 4,
+      "location": 2,
+      "content": "本来我是准备骑车去的",
+      "music": 0
+    },
+    {
+      "from": 7.54,
+      "to": 9.83,
+      "sid": 5,
+      "location": 2,
+      "content": "然后发现骑车来不及",
+      "music": 0
+    },
+    {
+      "from": 9.83,
+      "to": 11.23,
+      "sid": 6,
+      "location": 2,
+      "content": "所以我还是打车吧",
+      "music": 0
+    },
+    {
+      "from": 11.23,
+      "to": 14.32,
+      "sid": 7,
+      "location": 2,
+      "content": "好久没听到我的9265了",
+      "music": 0
+    },
+    {
+      "from": 15.04,
+      "to": 18.44,
+      "sid": 8,
+      "location": 2,
+      "content": "哎呀金钟就九块六五啊",
+      "music": 0
+    },
+    {
+      "from": 18.44,
+      "to": 19.02,
+      "sid": 9,
+      "location": 2,
+      "content": "对对",
+      "music": 0
+    },
+    {
+      "from": 19.02,
+      "to": 20.36,
+      "sid": 10,
+      "location": 2,
+      "content": "要办个健康证",
+      "music": 0
+    },
+    {
+      "from": 20.36,
+      "to": 22.61,
+      "sid": 11,
+      "location": 2,
+      "content": "就是外卖的那种健康证",
+      "music": 0
+    },
+    {
+      "from": 22.61,
+      "to": 24.21,
+      "sid": 12,
+      "location": 2,
+      "content": "对你身份证带了吗",
+      "music": 0
+    },
+    {
+      "from": 24.21,
+      "to": 25.259,
+      "sid": 13,
+      "location": 2,
+      "content": "带了了嗯",
+      "music": 0
+    },
+    {
+      "from": 25.259,
+      "to": 26.059,
+      "sid": 14,
+      "location": 2,
+      "content": "90后",
+      "music": 0
+    },
+    {
+      "from": 26.059,
+      "to": 27.259,
+      "sid": 15,
+      "location": 2,
+      "content": "我和你在这哭",
+      "music": 0
+    },
+    {
+      "from": 27.259,
+      "to": 28.499,
+      "sid": 16,
+      "location": 2,
+      "content": "洗完去交费",
+      "music": 0
+    },
+    {
+      "from": 28.499,
+      "to": 29.659,
+      "sid": 17,
+      "location": 2,
+      "content": "交完再上三楼",
+      "music": 0
+    },
+    {
+      "from": 29.659,
+      "to": 30.379,
+      "sid": 18,
+      "location": 2,
+      "content": "三楼医生",
+      "music": 0
+    },
+    {
+      "from": 30.379,
+      "to": 31.859,
+      "sid": 19,
+      "location": 2,
+      "content": "我看他医生下班了",
+      "music": 0
+    },
+    {
+      "from": 31.859,
+      "to": 34.58,
+      "sid": 20,
+      "location": 2,
+      "content": "好",
+      "music": 0
+    },
+    {
+      "from": 35.32,
+      "to": 42.36,
+      "sid": 21,
+      "location": 2,
+      "content": "哎呀主打的就是一个极剑体格检查",
+      "music": 0
+    },
+    {
+      "from": 44.12,
+      "to": 48.94,
+      "sid": 22,
+      "location": 2,
+      "content": "哦他这个检测的项目大概是有XX光",
+      "music": 0
+    },
+    {
+      "from": 48.94,
+      "to": 49.9,
+      "sid": 23,
+      "location": 2,
+      "content": "胸部拍片",
+      "music": 0
+    },
+    {
+      "from": 49.9,
+      "to": 51.06,
+      "sid": 24,
+      "location": 2,
+      "content": "肝功能检查",
+      "music": 0
+    },
+    {
+      "from": 51.06,
+      "to": 52.26,
+      "sid": 25,
+      "location": 2,
+      "content": "要采血",
+      "music": 0
+    },
+    {
+      "from": 52.26,
+      "to": 56.05,
+      "sid": 26,
+      "location": 2,
+      "content": "还有肛门拭子标本采集",
+      "music": 0
+    },
+    {
+      "from": 56.05,
+      "to": 58.93,
+      "sid": 27,
+      "location": 2,
+      "content": "我先我们先要去看体格检查",
+      "music": 0
+    },
+    {
+      "from": 58.93,
+      "to": 61.59,
+      "sid": 28,
+      "location": 2,
+      "content": "就看你的身体上有没有什么疾病",
+      "music": 0
+    },
+    {
+      "from": 61.59,
+      "to": 66.7,
+      "sid": 29,
+      "location": 2,
+      "content": "那我体格检查的时候先把这个拿下来",
+      "music": 0
+    },
+    {
+      "from": 66.7,
+      "to": 70.34,
+      "sid": 30,
+      "location": 2,
+      "content": "a few moments later检查非常的随便",
+      "music": 0
+    },
+    {
+      "from": 70.34,
+      "to": 73.11,
+      "sid": 31,
+      "location": 2,
+      "content": "他就看了一下我的手",
+      "music": 0
+    },
+    {
+      "from": 73.11,
+      "to": 76.65,
+      "sid": 32,
+      "location": 2,
+      "content": "然后拿个听诊器测了一下我的心跳",
+      "music": 0
+    },
+    {
+      "from": 76.65,
+      "to": 79.95,
+      "sid": 33,
+      "location": 2,
+      "content": "然后他就给这些东西全打勾了",
+      "music": 0
+    },
+    {
+      "from": 79.95,
+      "to": 81.75,
+      "sid": 34,
+      "location": 2,
+      "content": "体格检查就检查完了",
+      "music": 0
+    },
+    {
+      "from": 81.75,
+      "to": 84.07,
+      "sid": 35,
+      "location": 2,
+      "content": "One frozen wasteland later",
+      "music": 0
+    },
+    {
+      "from": 84.07,
+      "to": 85.55,
+      "sid": 36,
+      "location": 2,
+      "content": "片子也拍完了",
+      "music": 0
+    },
+    {
+      "from": 85.55,
+      "to": 87.13,
+      "sid": 37,
+      "location": 2,
+      "content": "雪也惨了",
+      "music": 0
+    },
+    {
+      "from": 87.13,
+      "to": 91.6,
+      "sid": 38,
+      "location": 2,
+      "content": "肛门转转两圈也转了搞定",
+      "music": 0
+    },
+    {
+      "from": 91.6,
+      "to": 95.84,
+      "sid": 39,
+      "location": 2,
+      "content": "整个过程持续了大约10分钟不到",
+      "music": 0
+    },
+    {
+      "from": 95.84,
+      "to": 98.12,
+      "sid": 40,
+      "location": 2,
+      "content": "就比较痛苦的",
+      "music": 0
+    },
+    {
+      "from": 98.12,
+      "to": 100.62,
+      "sid": 41,
+      "location": 2,
+      "content": "就是这个手上要被扎一下",
+      "music": 0
+    },
+    {
+      "from": 100.86,
+      "to": 103.42,
+      "sid": 42,
+      "location": 2,
+      "content": "别的都挺方便的",
+      "music": 0
+    },
+    {
+      "from": 103.42,
+      "to": 105.52,
+      "sid": 43,
+      "location": 2,
+      "content": "这就是办健康证的整个流程",
+      "music": 0
+    },
+    {
+      "from": 105.52,
+      "to": 107.84,
+      "sid": 44,
+      "location": 2,
+      "content": "总共花费125块钱",
+      "music": 0
+    },
+    {
+      "from": 107.84,
+      "to": 109.24,
+      "sid": 45,
+      "location": 2,
+      "content": "然后不能报医保",
+      "music": 0
+    },
+    {
+      "from": 109.24,
+      "to": 110.04,
+      "sid": 46,
+      "location": 2,
+      "content": "只能自费",
+      "music": 0
+    },
+    {
+      "from": 110.04,
+      "to": 111.6,
+      "sid": 47,
+      "location": 2,
+      "content": "因为他是体检类的项目",
+      "music": 0
+    },
+    {
+      "from": 111.6,
+      "to": 113.89,
+      "sid": 48,
+      "location": 2,
+      "content": "办完以后给你发了这样一张卡",
+      "music": 0
+    },
+    {
+      "from": 113.89,
+      "to": 116.57,
+      "sid": 49,
+      "location": 2,
+      "content": "然后你到时候3~5天以后",
+      "music": 0
+    },
+    {
+      "from": 116.57,
+      "to": 119.1,
+      "sid": 50,
+      "location": 2,
+      "content": "就可以上网查询结果了",
+      "music": 0
+    },
+    {
+      "from": 119.62,
+      "to": 122.3,
+      "sid": 51,
+      "location": 2,
+      "content": "也就是说3~5天以后你就有健康证了",
+      "music": 0
+    },
+    {
+      "from": 122.3,
+      "to": 127.72,
+      "sid": 52,
+      "location": 2,
+      "content": "然后你把那个东西上传到你的送外卖app里面",
+      "music": 0
+    },
+    {
+      "from": 127.72,
+      "to": 129.46,
+      "sid": 53,
+      "location": 2,
+      "content": "就完事了",
+      "music": 0
+    },
+    {
+      "from": 129.46,
+      "to": 131.94,
+      "sid": 54,
+      "location": 2,
+      "content": "其实真的非常的简单",
+      "music": 0
+    },
+    {
+      "from": 131.94,
+      "to": 133.6,
+      "sid": 55,
+      "location": 2,
+      "content": "当然125块钱",
+      "music": 0
+    },
+    {
+      "from": 133.6,
+      "to": 137.72,
+      "sid": 56,
+      "location": 2,
+      "content": "对于如果你想靠送外卖挣钱的话",
+      "music": 0
+    },
+    {
+      "from": 137.72,
+      "to": 140.72,
+      "sid": 57,
+      "location": 2,
+      "content": "它其实是一笔怎么说呢",
+      "music": 0
+    },
+    {
+      "from": 140.72,
+      "to": 142.92,
+      "sid": 58,
+      "location": 2,
+      "content": "它叫做投资",
+      "music": 0
+    },
+    {
+      "from": 143.829,
+      "to": 147.169,
+      "sid": 59,
+      "location": 2,
+      "content": "因为这个体检我说实话他就是走个过场",
+      "music": 0
+    },
+    {
+      "from": 147.169,
+      "to": 149.309,
+      "sid": 60,
+      "location": 2,
+      "content": "他就查一些比较严重的问题",
+      "music": 0
+    },
+    {
+      "from": 149.309,
+      "to": 150.589,
+      "sid": 61,
+      "location": 2,
+      "content": "比如说像肝功能啊",
+      "music": 0
+    },
+    {
+      "from": 150.589,
+      "to": 153.67,
+      "sid": 62,
+      "location": 2,
+      "content": "你有什么乙肝这样的传染病啊",
+      "music": 0
+    },
+    {
+      "from": 153.67,
+      "to": 155.93,
+      "sid": 63,
+      "location": 2,
+      "content": "还有什么银屑病这种洗表功能",
+      "music": 0
+    },
+    {
+      "from": 155.93,
+      "to": 156.65,
+      "sid": 64,
+      "location": 2,
+      "content": "看得出来",
+      "music": 0
+    },
+    {
+      "from": 156.65,
+      "to": 157.61,
+      "sid": 65,
+      "location": 2,
+      "content": "他其实不像",
+      "music": 0
+    },
+    {
+      "from": 157.61,
+      "to": 160.88,
+      "sid": 66,
+      "location": 2,
+      "content": "是一个能看得出你健康不健康的体检吗",
+      "music": 0
+    },
+    {
+      "from": 160.88,
+      "to": 162.14,
+      "sid": 67,
+      "location": 2,
+      "content": "一个小任务做完",
+      "music": 0
+    },
+    {
+      "from": 163.22,
+      "to": 165.34,
+      "sid": 68,
+      "location": 2,
+      "content": "到时候我把健康这都传上去以后",
+      "music": 0
+    },
+    {
+      "from": 165.34,
+      "to": 168.16,
+      "sid": 69,
+      "location": 2,
+      "content": "我就是一个呵呵",
+      "music": 0
+    },
+    {
+      "from": 168.16,
+      "to": 169.5,
+      "sid": 70,
+      "location": 2,
+      "content": "注册外卖员",
+      "music": 0
+    },
+    {
+      "from": 169.5,
+      "to": 173.66,
+      "sid": 71,
+      "location": 2,
+      "content": "我不知道我来的这家医院算不算比较贵的",
+      "music": 0
+    },
+    {
+      "from": 173.66,
+      "to": 177.03,
+      "sid": 72,
+      "location": 2,
+      "content": "因为我是在众包app里面",
+      "music": 0
+    },
+    {
+      "from": 177.03,
+      "to": 179.59,
+      "sid": 73,
+      "location": 2,
+      "content": "然后直接看这个办健康证的攻略嘛",
+      "music": 0
+    },
+    {
+      "from": 179.59,
+      "to": 182.8,
+      "sid": 74,
+      "location": 2,
+      "content": "然后还有一个办证医院的列表",
+      "music": 0
+    },
+    {
+      "from": 182.8,
+      "to": 184.3,
+      "sid": 75,
+      "location": 2,
+      "content": "然后我就选了一个",
+      "music": 0
+    },
+    {
+      "from": 184.3,
+      "to": 187.1,
+      "sid": 76,
+      "location": 2,
+      "content": "因为有很多医院他是只有上午去才行的",
+      "music": 0
+    },
+    {
+      "from": 187.1,
+      "to": 189.11,
+      "sid": 77,
+      "location": 2,
+      "content": "我这个医院是下午也可以",
+      "music": 0
+    },
+    {
+      "from": 189.11,
+      "to": 190.83,
+      "sid": 78,
+      "location": 2,
+      "content": "所以我就卡了一个极限",
+      "music": 0
+    },
+    {
+      "from": 190.83,
+      "to": 192.5,
+      "sid": 79,
+      "location": 2,
+      "content": "他们都快下班了",
+      "music": 0
+    },
+    {
+      "from": 192.5,
+      "to": 193.94,
+      "sid": 80,
+      "location": 2,
+      "content": "出都出来了",
+      "music": 0
+    },
+    {
+      "from": 193.94,
+      "to": 194.9,
+      "sid": 81,
+      "location": 2,
+      "content": "整点吃的呗",
+      "music": 0
+    },
+    {
+      "from": 196.06,
+      "to": 197.38,
+      "sid": 82,
+      "location": 2,
+      "content": "天天为了做这个体检",
+      "music": 0
+    },
+    {
+      "from": 197.38,
+      "to": 198.9,
+      "sid": 83,
+      "location": 2,
+      "content": "我饭都没吃",
+      "music": 0
+    },
+    {
+      "from": 198.9,
+      "to": 200.98,
+      "sid": 84,
+      "location": 2,
+      "content": "因为他们说要空腹嘛",
+      "music": 0
+    },
+    {
+      "from": 200.98,
+      "to": 202.54,
+      "sid": 85,
+      "location": 2,
+      "content": "那边有个红烧牛肉面",
+      "music": 0
+    },
+    {
+      "from": 202.54,
+      "to": 203.62,
+      "sid": 86,
+      "location": 2,
+      "content": "去吃一个得了",
+      "music": 0
+    },
+    {
+      "from": 203.62,
+      "to": 205.26,
+      "sid": 87,
+      "location": 2,
+      "content": "我发现我一个人吃饭",
+      "music": 0
+    },
+    {
+      "from": 205.26,
+      "to": 206.42,
+      "sid": 88,
+      "location": 2,
+      "content": "我就吃不了",
+      "music": 0
+    },
+    {
+      "from": 206.42,
+      "to": 207.74,
+      "sid": 89,
+      "location": 2,
+      "content": "很",
+      "music": 0
+    },
+    {
+      "from": 208.72,
+      "to": 210.48,
+      "sid": 90,
+      "location": 2,
+      "content": "很奢侈的那种",
+      "music": 0
+    },
+    {
+      "from": 210.48,
+      "to": 212.64,
+      "sid": 91,
+      "location": 2,
+      "content": "还是得跟朋友一起吃饭",
+      "music": 0
+    },
+    {
+      "from": 212.64,
+      "to": 214.5,
+      "sid": 92,
+      "location": 2,
+      "content": "这样会点的比较多",
+      "music": 0
+    },
+    {
+      "from": 214.5,
+      "to": 215.54,
+      "sid": 93,
+      "location": 2,
+      "content": "自己一个人吃",
+      "music": 0
+    },
+    {
+      "from": 215.54,
+      "to": 217.36,
+      "sid": 94,
+      "location": 2,
+      "content": "我大多时候都会选择吃个慢",
+      "music": 0
+    },
+    {
+      "from": 217.36,
+      "to": 218.36,
+      "sid": 95,
+      "location": 2,
+      "content": "吃个面啊",
+      "music": 0
+    },
+    {
+      "from": 218.36,
+      "to": 219.48,
+      "sid": 96,
+      "location": 2,
+      "content": "来吃个饭呐",
+      "music": 0
+    },
+    {
+      "from": 219.48,
+      "to": 221.82,
+      "sid": 97,
+      "location": 2,
+      "content": "最奢侈嘛也就吃个面",
+      "music": 0
+    },
+    {
+      "from": 221.82,
+      "to": 223.56,
+      "sid": 98,
+      "location": 2,
+      "content": "然后多加个浇头",
+      "music": 0
+    },
+    {
+      "from": 223.56,
+      "to": 225.64,
+      "sid": 99,
+      "location": 2,
+      "content": "那你让我自己去吃什么烤羊排啊",
+      "music": 0
+    },
+    {
+      "from": 225.64,
+      "to": 226.72,
+      "sid": 100,
+      "location": 2,
+      "content": "烤羊腿啊",
+      "music": 0
+    },
+    {
+      "from": 226.72,
+      "to": 227.66,
+      "sid": 101,
+      "location": 2,
+      "content": "烤鱼啊",
+      "music": 0
+    },
+    {
+      "from": 227.66,
+      "to": 228.36,
+      "sid": 102,
+      "location": 2,
+      "content": "我都不乐",
+      "music": 0
+    },
+    {
+      "from": 228.36,
+      "to": 229.74,
+      "sid": 103,
+      "location": 2,
+      "content": "还乐意自己吃",
+      "music": 0
+    },
+    {
+      "from": 229.74,
+      "to": 230.86,
+      "sid": 104,
+      "location": 2,
+      "content": "因为肯定会慎",
+      "music": 0
+    },
+    {
+      "from": 230.86,
+      "to": 232.28,
+      "sid": 105,
+      "location": 2,
+      "content": "我就会难受",
+      "music": 0
+    },
+    {
+      "from": 232.6,
+      "to": 234.58,
+      "sid": 106,
+      "location": 2,
+      "content": "会有这个方面的强迫症呢",
+      "music": 0
+    },
+    {
+      "from": 234.58,
+      "to": 236.74,
+      "sid": 107,
+      "location": 2,
+      "content": "对我是那种我吃不完",
+      "music": 0
+    },
+    {
+      "from": 236.74,
+      "to": 237.92,
+      "sid": 108,
+      "location": 2,
+      "content": "我不喜欢打包",
+      "music": 0
+    },
+    {
+      "from": 237.92,
+      "to": 241.61,
+      "sid": 109,
+      "location": 2,
+      "content": "因为我觉得打包了以后副热就不好吃了",
+      "music": 0
+    },
+    {
+      "from": 242.05,
+      "to": 242.97,
+      "sid": 110,
+      "location": 2,
+      "content": "然后我吃不完",
+      "music": 0
+    },
+    {
+      "from": 242.97,
+      "to": 244.65,
+      "sid": 111,
+      "location": 2,
+      "content": "心里又会有很强的负罪感",
+      "music": 0
+    },
+    {
+      "from": 246.01,
+      "to": 247.93,
+      "sid": 112,
+      "location": 2,
+      "content": "大碗烩面",
+      "music": 0
+    },
+    {
+      "from": 250.48,
+      "to": 253.34,
+      "sid": 113,
+      "location": 2,
+      "content": "啊23",
+      "music": 0.1694915110600508
+    },
+    {
+      "from": 253.34,
+      "to": 254.88,
+      "sid": 114,
+      "location": 2,
+      "content": "这个十块",
+      "music": 0
+    },
+    {
+      "from": 264.46,
+      "to": 265.46,
+      "sid": 115,
+      "location": 2,
+      "content": "摆烂了一天",
+      "music": 0
+    },
+    {
+      "from": 265.46,
+      "to": 266.32,
+      "sid": 116,
+      "location": 2,
+      "content": "非常瘦",
+      "music": 0
+    },
+    {
+      "from": 267.82,
+      "to": 268.78,
+      "sid": 117,
+      "location": 2,
+      "content": "但是我发现啊",
+      "music": 0
+    },
+    {
+      "from": 268.78,
+      "to": 270.84,
+      "sid": 118,
+      "location": 2,
+      "content": "这连续骑自行车是真累",
+      "music": 0
+    },
+    {
+      "from": 270.84,
+      "to": 274.13,
+      "sid": 119,
+      "location": 2,
+      "content": "我第一天开始送闪送",
+      "music": 0
+    },
+    {
+      "from": 274.13,
+      "to": 275.73,
+      "sid": 120,
+      "location": 2,
+      "content": "然后骑了70几公里嘛",
+      "music": 0
+    },
+    {
+      "from": 275.73,
+      "to": 277.98,
+      "sid": 121,
+      "location": 2,
+      "content": "然后第二天骑了40km",
+      "music": 0
+    },
+    {
+      "from": 277.98,
+      "to": 283.31,
+      "sid": 122,
+      "location": 2,
+      "content": "然后第三天也就是今天哇真的中神经也疼",
+      "music": 0.044887779429233596
+    },
+    {
+      "from": 283.31,
+      "to": 284.53,
+      "sid": 123,
+      "location": 2,
+      "content": "然后手也疼",
+      "music": 0
+    },
+    {
+      "from": 284.53,
+      "to": 285.63,
+      "sid": 124,
+      "location": 2,
+      "content": "然后腿也酸",
+      "music": 0
+    },
+    {
+      "from": 285.63,
+      "to": 288.66,
+      "sid": 125,
+      "location": 2,
+      "content": "所以我今天毅然决然的决定了摆烂",
+      "music": 0
+    },
+    {
+      "from": 288.66,
+      "to": 290.24,
+      "sid": 126,
+      "location": 2,
+      "content": "然后今天带大家看了一下",
+      "music": 0
+    },
+    {
+      "from": 290.24,
+      "to": 293.789,
+      "sid": 127,
+      "location": 2,
+      "content": "这个健康证到底该怎么办",
+      "music": 0
+    },
+    {
+      "from": 293.789,
+      "to": 295.649,
+      "sid": 128,
+      "location": 2,
+      "content": "其实非常的简单啊",
+      "music": 0
+    },
+    {
+      "from": 295.649,
+      "to": 299.77,
+      "sid": 129,
+      "location": 2,
+      "content": "所以大家如果想闲暇时候送一下众包",
+      "music": 0
+    },
+    {
+      "from": 299.77,
+      "to": 302.03,
+      "sid": 130,
+      "location": 2,
+      "content": "挣点小钱锻炼一下身体的话",
+      "music": 0
+    },
+    {
+      "from": 302.03,
+      "to": 303.49,
+      "sid": 131,
+      "location": 2,
+      "content": "去办个健康证吧",
+      "music": 0
+    },
+    {
+      "from": 304.69,
+      "to": 308.83,
+      "sid": 132,
+      "location": 2,
+      "content": "呃100多块也就两天众包能挣回来",
+      "music": 0
+    },
+    {
+      "from": 310.19,
+      "to": 311.32,
+      "sid": 133,
+      "location": 2,
+      "content": "笑死了",
+      "music": 0
+    },
+    {
+      "from": 311.32,
+      "to": 313.04,
+      "sid": 134,
+      "location": 2,
+      "content": "不是不是一定要办啊",
+      "music": 0
+    },
+    {
+      "from": 313.04,
+      "to": 314.36,
+      "sid": 135,
+      "location": 2,
+      "content": "我不是那么推荐办",
+      "music": 0
+    },
+    {
+      "from": 314.36,
+      "to": 315.4,
+      "sid": 136,
+      "location": 2,
+      "content": "但是你想办的话",
+      "music": 0
+    },
+    {
+      "from": 315.4,
+      "to": 319.19,
+      "sid": 137,
+      "location": 2,
+      "content": "给大家一个简单的流程指引嘛对吧",
+      "music": 0.06164383350534897
+    },
+    {
+      "from": 319.19,
+      "to": 319.91,
+      "sid": 138,
+      "location": 2,
+      "content": "总而言之",
+      "music": 0
+    },
+    {
+      "from": 319.91,
+      "to": 322.19,
+      "sid": 139,
+      "location": 2,
+      "content": "我觉得骑自行车这个事情还是蛮有意思的",
+      "music": 0
+    },
+    {
+      "from": 322.19,
+      "to": 324.33,
+      "sid": 140,
+      "location": 2,
+      "content": "我一直不想用骑行这个词啊",
+      "music": 0
+    },
+    {
+      "from": 324.33,
+      "to": 326.45,
+      "sid": 141,
+      "location": 2,
+      "content": "就是我在我的观念里面",
+      "music": 0
+    },
+    {
+      "from": 326.45,
+      "to": 328.41,
+      "sid": 142,
+      "location": 2,
+      "content": "我觉得骑自行车就是骑自行车呗",
+      "music": 0
+    },
+    {
+      "from": 328.41,
+      "to": 330.17,
+      "sid": 143,
+      "location": 2,
+      "content": "为什么要用骑行这个词呢",
+      "music": 0
+    },
+    {
+      "from": 330.17,
+      "to": 334.76,
+      "sid": 144,
+      "location": 2,
+      "content": "西行这个词在我这里就像是主理人这个词一样",
+      "music": 0
+    },
+    {
+      "from": 334.76,
+      "to": 337.16,
+      "sid": 145,
+      "location": 2,
+      "content": "强行的给一个很普通的东西",
+      "music": 0
+    },
+    {
+      "from": 337.16,
+      "to": 339.9,
+      "sid": 146,
+      "location": 2,
+      "content": "贴上一个听上去很高大上的真伪",
+      "music": 0
+    },
+    {
+      "from": 339.9,
+      "to": 342.2,
+      "sid": 147,
+      "location": 2,
+      "content": "但仅代表个人观点啊",
+      "music": 0
+    },
+    {
+      "from": 342.2,
+      "to": 347.16,
+      "sid": 148,
+      "location": 2,
+      "content": "嗯然后祝9月13号过生日的朋友生日快乐啊",
+      "music": 0
+    },
+    {
+      "from": 347.16,
+      "to": 348.18,
+      "sid": 149,
+      "location": 2,
+      "content": "今天摆烂了一期",
+      "music": 0
+    },
+    {
+      "from": 348.18,
+      "to": 351.84,
+      "sid": 150,
+      "location": 2,
+      "content": "明天继续努力打得劲",
+      "music": 0
+    }
+  ]
+}

@@ -107,3 +107,65 @@ npm run download-subtitles -- --single BV1Q2tMzcEa4 public/subtitles
 - `location`: 字幕位置（2=底部）
 - `content`: 字幕文本内容
 
+## 提取旅行线索脚本
+
+使用 AI 从字幕文件中提取旅行骑行的线索（日期和地点）。
+
+### 使用方法
+
+#### 1. 批量处理所有字幕文件
+
+```bash
+npm run extract-travel-clues -- --api-key "your-openai-api-key"
+```
+
+或者直接使用 node：
+
+```bash
+node scripts/extract-travel-clues.js --api-key "your-openai-api-key"
+```
+
+#### 2. 使用环境变量设置 API 密钥
+
+**PowerShell:**
+```powershell
+$env:OPENAI_API_KEY="your-openai-api-key"
+npm run extract-travel-clues
+```
+
+**Bash:**
+```bash
+export OPENAI_API_KEY="your-openai-api-key"
+npm run extract-travel-clues
+```
+
+#### 3. 处理单个文件
+
+```bash
+node scripts/extract-travel-clues.js --api-key "your-api-key" --file "day001_2025-08-04_第一天：决定开始自律.txt"
+```
+
+#### 4. 使用自定义 API 服务
+
+```bash
+node scripts/extract-travel-clues.js --api-key "your-api-key" --api-base "https://api.example.com/v1"
+```
+
+### 参数说明
+
+- `--api-key`: OpenAI API 密钥（必需）
+- `--api-base`: API 基础 URL（可选，默认为 `https://api.openai.com/v1`）
+- `--file`: 指定要处理的单个文件（可选，不指定则处理所有文件）
+
+### 输出
+
+提取的线索会保存到 `public/eveyday-clue/` 目录，文件名与原字幕文件相同。
+
+### 注意事项
+
+1. **API 密钥**: 需要有效的 OpenAI API 密钥
+2. **处理速度**: 脚本会在每个文件之间延迟 1 秒，避免 API 请求过快
+3. **文件跳过**: 如果输出文件已存在，会自动跳过
+4. **文本长度**: 如果字幕文本过长（超过 8000 字符），会自动截断
+5. **模型选择**: 默认使用 `gpt-4o-mini` 模型（更经济），可以在脚本中修改为 `gpt-4o` 或其他模型
+

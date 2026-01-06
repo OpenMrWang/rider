@@ -1,0 +1,540 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.14,
+      "to": 1.14,
+      "sid": 1,
+      "location": 2,
+      "content": "第33天",
+      "music": 0
+    },
+    {
+      "from": 1.14,
+      "to": 3.58,
+      "sid": 2,
+      "location": 2,
+      "content": "我给你们整了一些非常牛批的东西",
+      "music": 0
+    },
+    {
+      "from": 3.58,
+      "to": 4.82,
+      "sid": 3,
+      "location": 2,
+      "content": "我们看一看",
+      "music": 0
+    },
+    {
+      "from": 4.82,
+      "to": 7.54,
+      "sid": 4,
+      "location": 2,
+      "content": "我们先上线接一单哈",
+      "music": 0
+    },
+    {
+      "from": 8.48,
+      "to": 11.54,
+      "sid": 5,
+      "location": 2,
+      "content": "今天的第一单986米外的棒约翰",
+      "music": 0
+    },
+    {
+      "from": 11.54,
+      "to": 14.89,
+      "sid": 6,
+      "location": 2,
+      "content": "然后送到3.2km外的吉发大楼",
+      "music": 0
+    },
+    {
+      "from": 14.89,
+      "to": 16.13,
+      "sid": 7,
+      "location": 2,
+      "content": "我们准备出发啊",
+      "music": 0
+    },
+    {
+      "from": 16.13,
+      "to": 16.77,
+      "sid": 8,
+      "location": 2,
+      "content": "我要给你们",
+      "music": 0
+    },
+    {
+      "from": 16.77,
+      "to": 19.59,
+      "sid": 9,
+      "location": 2,
+      "content": "我很我非常兴奋的要给你们看点牛批的东西",
+      "music": 0
+    },
+    {
+      "from": 19.59,
+      "to": 21.12,
+      "sid": 10,
+      "location": 2,
+      "content": "别说了",
+      "music": 0
+    },
+    {
+      "from": 21.52,
+      "to": 24.32,
+      "sid": 11,
+      "location": 2,
+      "content": "兄弟们酷不酷酷不酷酷不酷啊",
+      "music": 0
+    },
+    {
+      "from": 24.32,
+      "to": 26.03,
+      "sid": 12,
+      "location": 2,
+      "content": "现在我们后面能看",
+      "music": 0
+    },
+    {
+      "from": 26.03,
+      "to": 27.35,
+      "sid": 13,
+      "location": 2,
+      "content": "前面也能看",
+      "music": 0
+    },
+    {
+      "from": 27.35,
+      "to": 31.869,
+      "sid": 14,
+      "location": 2,
+      "content": "主打一个地球online沉浸式送外卖",
+      "music": 0
+    },
+    {
+      "from": 31.869,
+      "to": 35.909,
+      "sid": 15,
+      "location": 2,
+      "content": "Get get get get get get get get get get get",
+      "music": 0
+    },
+    {
+      "from": 35.909,
+      "to": 38.06,
+      "sid": 16,
+      "location": 2,
+      "content": "哎呦喂",
+      "music": 0
+    },
+    {
+      "from": 44.44,
+      "to": 47.28,
+      "sid": 17,
+      "location": 2,
+      "content": "♪ 人生哪能不能放过我 ♪",
+      "music": 0.999999923076929
+    },
+    {
+      "from": 47.28,
+      "to": 48.1,
+      "sid": 18,
+      "location": 2,
+      "content": "♪ 这一生 ♪",
+      "music": 0.9999998780487954
+    },
+    {
+      "from": 48.1,
+      "to": 49.98,
+      "sid": 19,
+      "location": 2,
+      "content": "♪ 下辈子我就是活该 ♪",
+      "music": 0.9999998611111305
+    },
+    {
+      "from": 52.74,
+      "to": 54.46,
+      "sid": 20,
+      "location": 2,
+      "content": "这里外卖在两楼拿",
+      "music": 0
+    },
+    {
+      "from": 54.46,
+      "to": 57.38,
+      "sid": 21,
+      "location": 2,
+      "content": "我拿拿外卖啊",
+      "music": 0
+    },
+    {
+      "from": 57.38,
+      "to": 59.68,
+      "sid": 22,
+      "location": 2,
+      "content": "京东秒送",
+      "music": 0
+    },
+    {
+      "from": 60.12,
+      "to": 62.62,
+      "sid": 23,
+      "location": 2,
+      "content": "不是这一单诶",
+      "music": 0
+    },
+    {
+      "from": 62.62,
+      "to": 65.37,
+      "sid": 24,
+      "location": 2,
+      "content": "OK是得任务物品",
+      "music": 0
+    },
+    {
+      "from": 65.37,
+      "to": 69.13,
+      "sid": 25,
+      "location": 2,
+      "content": "99块钱的披萨又优惠了64块钱",
+      "music": 0
+    },
+    {
+      "from": 69.13,
+      "to": 71.01,
+      "sid": 26,
+      "location": 2,
+      "content": "他实付了39",
+      "music": 0
+    },
+    {
+      "from": 71.01,
+      "to": 75.2,
+      "sid": 27,
+      "location": 2,
+      "content": "我心态崩了啊呀这个这个筐",
+      "music": 0
+    },
+    {
+      "from": 75.2,
+      "to": 80.46,
+      "sid": 28,
+      "location": 2,
+      "content": "哎嘿这个框装披萨也挺好啊",
+      "music": 0
+    },
+    {
+      "from": 81.12,
+      "to": 82.68,
+      "sid": 29,
+      "location": 2,
+      "content": "当我孤独自是谁",
+      "music": 0
+    },
+    {
+      "from": 82.68,
+      "to": 86.4,
+      "sid": 30,
+      "location": 2,
+      "content": "♪ 这心愿的人潮谁不迷惘 ♪",
+      "music": 0.9249999614583383
+    },
+    {
+      "from": 86.4,
+      "to": 90.95,
+      "sid": 31,
+      "location": 2,
+      "content": "二楼幺二轮坤的边缘可就只哎直接爬楼梯吧",
+      "music": 0.18461537893490967
+    },
+    {
+      "from": 90.95,
+      "to": 93.89,
+      "sid": 32,
+      "location": 2,
+      "content": "就一层啊",
+      "music": 0
+    },
+    {
+      "from": 93.89,
+      "to": 97.35,
+      "sid": 33,
+      "location": 2,
+      "content": "谁不是奔跑在黑暗中追寻微弱的光",
+      "music": 0.675438566866732
+    },
+    {
+      "from": 97.35,
+      "to": 99.13,
+      "sid": 34,
+      "location": 2,
+      "content": "♪ 也曾惊艳过时 ♪",
+      "music": 0.9197079620651121
+    },
+    {
+      "from": 99.13,
+      "to": 100.87,
+      "sid": 35,
+      "location": 2,
+      "content": "♪ 也曾被冷眼相待 ♪",
+      "music": 0.8484847627793126
+    },
+    {
+      "from": 100.87,
+      "to": 103.69,
+      "sid": 36,
+      "location": 2,
+      "content": "再次无人为你疯狂受伤疤",
+      "music": 0.19298243921206562
+    },
+    {
+      "from": 103.69,
+      "to": 104.61,
+      "sid": 37,
+      "location": 2,
+      "content": "敲一下门",
+      "music": 0
+    },
+    {
+      "from": 104.61,
+      "to": 105.31,
+      "sid": 38,
+      "location": 2,
+      "content": "放门口",
+      "music": 0
+    },
+    {
+      "from": 105.31,
+      "to": 107.97,
+      "sid": 39,
+      "location": 2,
+      "content": "OK今夜不论天送完",
+      "music": 0
+    },
+    {
+      "from": 107.97,
+      "to": 109.23,
+      "sid": 40,
+      "location": 2,
+      "content": "♪ 下辈子不 ♪",
+      "music": 0.9999998148148492
+    },
+    {
+      "from": 109.23,
+      "to": 110.75,
+      "sid": 41,
+      "location": 2,
+      "content": "今天就送了一单啊",
+      "music": 0
+    },
+    {
+      "from": 110.75,
+      "to": 111.79,
+      "sid": 42,
+      "location": 2,
+      "content": "挣了九块七",
+      "music": 0
+    },
+    {
+      "from": 112.91,
+      "to": 116.02,
+      "sid": 43,
+      "location": 2,
+      "content": "然后今天还要付两块五的保险",
+      "music": 0
+    },
+    {
+      "from": 116.02,
+      "to": 118.22,
+      "sid": 44,
+      "location": 2,
+      "content": "因为其实每天你要开始送单",
+      "music": 0
+    },
+    {
+      "from": 118.22,
+      "to": 120.18,
+      "sid": 45,
+      "location": 2,
+      "content": "你就要你就要付两块五的保险",
+      "music": 0
+    },
+    {
+      "from": 121.86,
+      "to": 124.74,
+      "sid": 46,
+      "location": 2,
+      "content": "就是当外卖员的规矩",
+      "music": 0
+    },
+    {
+      "from": 124.74,
+      "to": 126.7,
+      "sid": 47,
+      "location": 2,
+      "content": "我要回去测试一下画面了",
+      "music": 0
+    },
+    {
+      "from": 126.7,
+      "to": 132.1,
+      "sid": 48,
+      "location": 2,
+      "content": "兄弟们天天一天就在净折腾这个机器",
+      "music": 0.05853658393813419
+    },
+    {
+      "from": 132.42,
+      "to": 132.96,
+      "sid": 49,
+      "location": 2,
+      "content": "好",
+      "music": 0
+    },
+    {
+      "from": 132.96,
+      "to": 135.66,
+      "sid": 50,
+      "location": 2,
+      "content": "回去看一下剪出来的效果是啥样的啊",
+      "music": 0
+    },
+    {
+      "from": 135.66,
+      "to": 139.22,
+      "sid": 51,
+      "location": 2,
+      "content": "我发现减肥的问题是头发越来越少了",
+      "music": 0
+    },
+    {
+      "from": 139.22,
+      "to": 141.78,
+      "sid": 52,
+      "location": 2,
+      "content": "哎今天我也今天我也没带头盔",
+      "music": 0
+    },
+    {
+      "from": 141.78,
+      "to": 143.7,
+      "sid": 53,
+      "location": 2,
+      "content": "怎么发型这么中年人",
+      "music": 0
+    },
+    {
+      "from": 144.74,
+      "to": 146.66,
+      "sid": 54,
+      "location": 2,
+      "content": "这个发型太可怕了",
+      "music": 0
+    },
+    {
+      "from": 146.66,
+      "to": 149.53,
+      "sid": 55,
+      "location": 2,
+      "content": "呃我今天忙了一天",
+      "music": 0
+    },
+    {
+      "from": 149.53,
+      "to": 152.37,
+      "sid": 56,
+      "location": 2,
+      "content": "在研究那个新的视频怎么剪辑啊",
+      "music": 0
+    },
+    {
+      "from": 152.37,
+      "to": 154.03,
+      "sid": 57,
+      "location": 2,
+      "content": "我发现日更有这个坏处",
+      "music": 0
+    },
+    {
+      "from": 154.03,
+      "to": 157.65,
+      "sid": 58,
+      "location": 2,
+      "content": "就你一旦想进行一些内容上的突破",
+      "music": 0
+    },
+    {
+      "from": 157.65,
+      "to": 160.25,
+      "sid": 59,
+      "location": 2,
+      "content": "就会影响到内容的进展",
+      "music": 0
+    },
+    {
+      "from": 160.25,
+      "to": 161.89,
+      "sid": 60,
+      "location": 2,
+      "content": "好今天话不多说",
+      "music": 0
+    },
+    {
+      "from": 161.89,
+      "to": 164.71,
+      "sid": 61,
+      "location": 2,
+      "content": "祝9月5号过生同学生日快乐",
+      "music": 0
+    },
+    {
+      "from": 164.71,
+      "to": 166.65,
+      "sid": 62,
+      "location": 2,
+      "content": "我们的习惯不能忘",
+      "music": 0
+    },
+    {
+      "from": 166.65,
+      "to": 169.31,
+      "sid": 63,
+      "location": 2,
+      "content": "明天视频会有一个很大的突破",
+      "music": 0
+    },
+    {
+      "from": 169.31,
+      "to": 170.21,
+      "sid": 64,
+      "location": 2,
+      "content": "你们有什么意见",
+      "music": 0
+    },
+    {
+      "from": 170.21,
+      "to": 171.83,
+      "sid": 65,
+      "location": 2,
+      "content": "记得在评论区说好吧",
+      "music": 0
+    },
+    {
+      "from": 171.83,
+      "to": 173.05,
+      "sid": 66,
+      "location": 2,
+      "content": "冰冰",
+      "music": 0
+    }
+  ]
+}

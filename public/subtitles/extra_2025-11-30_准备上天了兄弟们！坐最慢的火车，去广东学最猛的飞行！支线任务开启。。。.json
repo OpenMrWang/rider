@@ -1,0 +1,548 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 2.28,
+      "to": 4.52,
+      "sid": 1,
+      "location": 2,
+      "content": "你们猜我在哪",
+      "music": 0
+    },
+    {
+      "from": 4.92,
+      "to": 7.04,
+      "sid": 2,
+      "location": 2,
+      "content": "我在厕所里",
+      "music": 0
+    },
+    {
+      "from": 7.04,
+      "to": 10.04,
+      "sid": 3,
+      "location": 2,
+      "content": "因为这里厕所的光相对来说没那么阴间",
+      "music": 0
+    },
+    {
+      "from": 10.04,
+      "to": 11.56,
+      "sid": 4,
+      "location": 2,
+      "content": "今天长话短说啊",
+      "music": 0
+    },
+    {
+      "from": 11.56,
+      "to": 14,
+      "sid": 5,
+      "location": 2,
+      "content": "因为今天拍了一期大号的视频",
+      "music": 0
+    },
+    {
+      "from": 14.63,
+      "to": 15.63,
+      "sid": 6,
+      "location": 2,
+      "content": "这是探店嘛",
+      "music": 0
+    },
+    {
+      "from": 15.63,
+      "to": 17.19,
+      "sid": 7,
+      "location": 2,
+      "content": "然后选了仙居的一家店",
+      "music": 0
+    },
+    {
+      "from": 17.19,
+      "to": 21.59,
+      "sid": 8,
+      "location": 2,
+      "content": "然后这期视频大概一到两个礼拜之后上吧",
+      "music": 0
+    },
+    {
+      "from": 21.59,
+      "to": 22.79,
+      "sid": 9,
+      "location": 2,
+      "content": "我不知道咋样",
+      "music": 0
+    },
+    {
+      "from": 22.79,
+      "to": 25.63,
+      "sid": 10,
+      "location": 2,
+      "content": "我觉得没有达到我自己的预期",
+      "music": 0
+    },
+    {
+      "from": 26.63,
+      "to": 31.58,
+      "sid": 11,
+      "location": 2,
+      "content": "就只能打个六七分的样子",
+      "music": 0
+    },
+    {
+      "from": 32.32,
+      "to": 34.2,
+      "sid": 12,
+      "location": 2,
+      "content": "会比之前的好一点",
+      "music": 0
+    },
+    {
+      "from": 34.2,
+      "to": 38.14,
+      "sid": 13,
+      "location": 2,
+      "content": "但是不确定还得继续进步和改正",
+      "music": 0
+    },
+    {
+      "from": 38.38,
+      "to": 40.96,
+      "sid": 14,
+      "location": 2,
+      "content": "然后今天这期会很快啊",
+      "music": 0
+    },
+    {
+      "from": 40.96,
+      "to": 42.38,
+      "sid": 15,
+      "location": 2,
+      "content": "因为很晚了",
+      "music": 0
+    },
+    {
+      "from": 42.38,
+      "to": 44.08,
+      "sid": 16,
+      "location": 2,
+      "content": "然后我现在的计划是",
+      "music": 0
+    },
+    {
+      "from": 44.08,
+      "to": 49.5,
+      "sid": 17,
+      "location": 2,
+      "content": "因为我们12月1号开始在广东那边学三角一",
+      "music": 0
+    },
+    {
+      "from": 49.5,
+      "to": 51.32,
+      "sid": 18,
+      "location": 2,
+      "content": "然后我准备12",
+      "music": 0.3225806191467226
+    },
+    {
+      "from": 51.32,
+      "to": 52.92,
+      "sid": 19,
+      "location": 2,
+      "content": "我准备29号就出发",
+      "music": 0
+    },
+    {
+      "from": 52.92,
+      "to": 54.8,
+      "sid": 20,
+      "location": 2,
+      "content": "现在28号吧",
+      "music": 0
+    },
+    {
+      "from": 55.2,
+      "to": 56.44,
+      "sid": 21,
+      "location": 2,
+      "content": "呃30号到",
+      "music": 0
+    },
+    {
+      "from": 56.44,
+      "to": 58.56,
+      "sid": 22,
+      "location": 2,
+      "content": "因为我们说好的都是30号到",
+      "music": 0
+    },
+    {
+      "from": 58.56,
+      "to": 60.2,
+      "sid": 23,
+      "location": 2,
+      "content": "然后为什么我不30号出发呢",
+      "music": 0
+    },
+    {
+      "from": 60.2,
+      "to": 64.72,
+      "sid": 24,
+      "location": 2,
+      "content": "因为我并不想使用飞机这样的交通工具",
+      "music": 0
+    },
+    {
+      "from": 64.72,
+      "to": 66.68,
+      "sid": 25,
+      "location": 2,
+      "content": "我想坐火车",
+      "music": 0
+    },
+    {
+      "from": 66.68,
+      "to": 67.64,
+      "sid": 26,
+      "location": 2,
+      "content": "然后我看了",
+      "music": 0
+    },
+    {
+      "from": 67.64,
+      "to": 69.04,
+      "sid": 27,
+      "location": 2,
+      "content": "如果从仙居这边坐火车",
+      "music": 0
+    },
+    {
+      "from": 69.04,
+      "to": 70.28,
+      "sid": 28,
+      "location": 2,
+      "content": "要到台州那边去",
+      "music": 0
+    },
+    {
+      "from": 70.28,
+      "to": 73.04,
+      "sid": 29,
+      "location": 2,
+      "content": "坐台州坐到广东",
+      "music": 0
+    },
+    {
+      "from": 73.04,
+      "to": 76.02,
+      "sid": 30,
+      "location": 2,
+      "content": "然后再换一辆火车去茂名",
+      "music": 0
+    },
+    {
+      "from": 76.56,
+      "to": 80.24,
+      "sid": 31,
+      "location": 2,
+      "content": "从台州坐到广东的火车是",
+      "music": 0
+    },
+    {
+      "from": 81.38,
+      "to": 85.7,
+      "sid": 32,
+      "location": 2,
+      "content": "跨夜的起码得十二三个小时",
+      "music": 0
+    },
+    {
+      "from": 85.7,
+      "to": 87.26,
+      "sid": 33,
+      "location": 2,
+      "content": "呵呵他没有",
+      "music": 0.26470584342560327
+    },
+    {
+      "from": 87.26,
+      "to": 88.76,
+      "sid": 34,
+      "location": 2,
+      "content": "他没有那种很快的高铁",
+      "music": 0
+    },
+    {
+      "from": 88.76,
+      "to": 89.94,
+      "sid": 35,
+      "location": 2,
+      "content": "我觉得很有意思",
+      "music": 0
+    },
+    {
+      "from": 89.94,
+      "to": 93.57,
+      "sid": 36,
+      "location": 2,
+      "content": "所以我现在的计划是29号开始出发",
+      "music": 0
+    },
+    {
+      "from": 93.85,
+      "to": 97.11,
+      "sid": 37,
+      "location": 2,
+      "content": "然后30号早上或者中午左右到",
+      "music": 0
+    },
+    {
+      "from": 97.11,
+      "to": 100.06,
+      "sid": 38,
+      "location": 2,
+      "content": "我票已经差不多定好了",
+      "music": 0
+    },
+    {
+      "from": 100.5,
+      "to": 101.5,
+      "sid": 39,
+      "location": 2,
+      "content": "你们觉得怎么样",
+      "music": 0
+    },
+    {
+      "from": 101.5,
+      "to": 103.2,
+      "sid": 40,
+      "location": 2,
+      "content": "因为这样路上也会有点意思嘛",
+      "music": 0
+    },
+    {
+      "from": 103.2,
+      "to": 104.02,
+      "sid": 41,
+      "location": 2,
+      "content": "坐飞机的话",
+      "music": 0
+    },
+    {
+      "from": 104.02,
+      "to": 105.5,
+      "sid": 42,
+      "location": 2,
+      "content": "我29号也不知道干嘛的",
+      "music": 0
+    },
+    {
+      "from": 105.5,
+      "to": 108.38,
+      "sid": 43,
+      "location": 2,
+      "content": "那还不如坐个慢车直接过去得了呵",
+      "music": 0
+    },
+    {
+      "from": 108.38,
+      "to": 109.979,
+      "sid": 44,
+      "location": 2,
+      "content": "现在是这么计划的啊",
+      "music": 0
+    },
+    {
+      "from": 109.979,
+      "to": 111.999,
+      "sid": 45,
+      "location": 2,
+      "content": "然后这期很快",
+      "music": 0.39062496948242387
+    },
+    {
+      "from": 111.999,
+      "to": 116.339,
+      "sid": 46,
+      "location": 2,
+      "content": "祝那个应该是11月30号过生日的生日快乐",
+      "music": 0
+    },
+    {
+      "from": 116.339,
+      "to": 118.499,
+      "sid": 47,
+      "location": 2,
+      "content": "我确认一下",
+      "music": 0
+    },
+    {
+      "from": 120.46,
+      "to": 122.9,
+      "sid": 48,
+      "location": 2,
+      "content": "对祝11月30号过生日",
+      "music": 0
+    },
+    {
+      "from": 122.9,
+      "to": 123.74,
+      "sid": 49,
+      "location": 2,
+      "content": "生日快乐",
+      "music": 0
+    },
+    {
+      "from": 123.74,
+      "to": 127.26,
+      "sid": 50,
+      "location": 2,
+      "content": "我们马上就要开启我频道的新篇章了",
+      "music": 0
+    },
+    {
+      "from": 127.5,
+      "to": 129.5,
+      "sid": 51,
+      "location": 2,
+      "content": "呃我也没有那么兴奋",
+      "music": 0
+    },
+    {
+      "from": 129.5,
+      "to": 130.76,
+      "sid": 52,
+      "location": 2,
+      "content": "我甚至还有点害怕",
+      "music": 0
+    },
+    {
+      "from": 130.76,
+      "to": 133.69,
+      "sid": 53,
+      "location": 2,
+      "content": "但是咋说呢",
+      "music": 0
+    },
+    {
+      "from": 133.69,
+      "to": 135.81,
+      "sid": 54,
+      "location": 2,
+      "content": "能打破现有的模式",
+      "music": 0
+    },
+    {
+      "from": 135.81,
+      "to": 137.47,
+      "sid": 55,
+      "location": 2,
+      "content": "它总不是一件坏事",
+      "music": 0
+    },
+    {
+      "from": 137.47,
+      "to": 138.57,
+      "sid": 56,
+      "location": 2,
+      "content": "尝试一下呗",
+      "music": 0
+    },
+    {
+      "from": 138.57,
+      "to": 139.85,
+      "sid": 57,
+      "location": 2,
+      "content": "也没有什么代价",
+      "music": 0
+    },
+    {
+      "from": 139.85,
+      "to": 143.19,
+      "sid": 58,
+      "location": 2,
+      "content": "然后明天我要把那个东西都理好",
+      "music": 0
+    },
+    {
+      "from": 143.19,
+      "to": 144.15,
+      "sid": 59,
+      "location": 2,
+      "content": "装在包里",
+      "music": 0
+    },
+    {
+      "from": 144.15,
+      "to": 147.31,
+      "sid": 60,
+      "location": 2,
+      "content": "然后把车货拉拉先运回宇宙",
+      "music": 0
+    },
+    {
+      "from": 147.31,
+      "to": 151.4,
+      "sid": 61,
+      "location": 2,
+      "content": "因为在广东他们会给我探的星途",
+      "music": 0
+    },
+    {
+      "from": 152.48,
+      "to": 155.84,
+      "sid": 62,
+      "location": 2,
+      "content": "所以现在的计划是这样好",
+      "music": 0
+    },
+    {
+      "from": 155.84,
+      "to": 159.49,
+      "sid": 63,
+      "location": 2,
+      "content": "欢迎继续追更我们新的一季",
+      "music": 0
+    },
+    {
+      "from": 159.49,
+      "to": 161.31,
+      "sid": 64,
+      "location": 2,
+      "content": "甚至说一个番外篇吧",
+      "music": 0
+    },
+    {
+      "from": 161.31,
+      "to": 162.63,
+      "sid": 65,
+      "location": 2,
+      "content": "一个究极番外篇",
+      "music": 0
+    },
+    {
+      "from": 162.63,
+      "to": 164.79,
+      "sid": 66,
+      "location": 2,
+      "content": "一个大支线马上就要开始了",
+      "music": 0
+    },
+    {
+      "from": 164.79,
+      "to": 166.62,
+      "sid": 67,
+      "location": 2,
+      "content": "兄弟们明天见",
+      "music": 0
+    }
+  ]
+}

@@ -1,0 +1,4356 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0,
+      "to": 3.66,
+      "sid": 1,
+      "location": 2,
+      "content": "今天给大家来做一期运动相机评测",
+      "music": 0
+    },
+    {
+      "from": 3.66,
+      "to": 5.2,
+      "sid": 2,
+      "location": 2,
+      "content": "昨天我不是中暑了嘛",
+      "music": 0
+    },
+    {
+      "from": 5.2,
+      "to": 6.36,
+      "sid": 3,
+      "location": 2,
+      "content": "然后今天我一觉醒来",
+      "music": 0
+    },
+    {
+      "from": 6.36,
+      "to": 7.56,
+      "sid": 4,
+      "location": 2,
+      "content": "你们猜已经几点了",
+      "music": 0
+    },
+    {
+      "from": 7.56,
+      "to": 10.3,
+      "sid": 5,
+      "location": 2,
+      "content": "我昨天晚上12点整睡的",
+      "music": 0
+    },
+    {
+      "from": 10.3,
+      "to": 13.24,
+      "sid": 6,
+      "location": 2,
+      "content": "然后今天醒过来是下午两点",
+      "music": 0
+    },
+    {
+      "from": 13.24,
+      "to": 16.149,
+      "sid": 7,
+      "location": 2,
+      "content": "我直接睡了14个小时",
+      "music": 0
+    },
+    {
+      "from": 16.149,
+      "to": 17.349,
+      "sid": 8,
+      "location": 2,
+      "content": "然后我就想想哎呀",
+      "music": 0
+    },
+    {
+      "from": 17.349,
+      "to": 17.869,
+      "sid": 9,
+      "location": 2,
+      "content": "今天算了",
+      "music": 0
+    },
+    {
+      "from": 17.869,
+      "to": 18.969,
+      "sid": 10,
+      "location": 2,
+      "content": "今天摆烂吧",
+      "music": 0
+    },
+    {
+      "from": 18.969,
+      "to": 21.029,
+      "sid": 11,
+      "location": 2,
+      "content": "就当给自己的身体放一天假",
+      "music": 0
+    },
+    {
+      "from": 21.029,
+      "to": 24.149,
+      "sid": 12,
+      "location": 2,
+      "content": "因为连续骑了好多天高强度的骑车",
+      "music": 0
+    },
+    {
+      "from": 24.149,
+      "to": 29.76,
+      "sid": 13,
+      "location": 2,
+      "content": "那那天我问大家想不想看那个相机评测",
+      "music": 0
+    },
+    {
+      "from": 29.76,
+      "to": 33.06,
+      "sid": 14,
+      "location": 2,
+      "content": "有很多同学在评论和私信里表示想看好",
+      "music": 0
+    },
+    {
+      "from": 33.06,
+      "to": 37.12,
+      "sid": 15,
+      "location": 2,
+      "content": "今天来一期老王评测给大家看一下呃",
+      "music": 0
+    },
+    {
+      "from": 37.12,
+      "to": 38.58,
+      "sid": 16,
+      "location": 2,
+      "content": "这是我目前的库存",
+      "music": 0
+    },
+    {
+      "from": 40.42,
+      "to": 45.47,
+      "sid": 17,
+      "location": 2,
+      "content": "两个影视新出的这个叫go ultra",
+      "music": 0
+    },
+    {
+      "from": 45.47,
+      "to": 47.77,
+      "sid": 18,
+      "location": 2,
+      "content": "这是我现在正在使用的机器",
+      "music": 0
+    },
+    {
+      "from": 47.77,
+      "to": 51.819,
+      "sid": 19,
+      "location": 2,
+      "content": "这两台是我之前淘汰的action4诶",
+      "music": 0
+    },
+    {
+      "from": 51.819,
+      "to": 53.299,
+      "sid": 20,
+      "location": 2,
+      "content": "这个可以弹幕抽奖抽了",
+      "music": 0
+    },
+    {
+      "from": 53.299,
+      "to": 54.699,
+      "sid": 21,
+      "location": 2,
+      "content": "我没有买action5啊",
+      "music": 0
+    },
+    {
+      "from": 54.699,
+      "to": 56.879,
+      "sid": 22,
+      "location": 2,
+      "content": "然后这两台是很古早的",
+      "music": 0
+    },
+    {
+      "from": 56.879,
+      "to": 58.939,
+      "sid": 23,
+      "location": 2,
+      "content": "这个是大疆的action2",
+      "music": 0
+    },
+    {
+      "from": 58.939,
+      "to": 62.8,
+      "sid": 24,
+      "location": 2,
+      "content": "其实我觉得这台除了有一些致命缺点之外",
+      "music": 0
+    },
+    {
+      "from": 62.8,
+      "to": 63.44,
+      "sid": 25,
+      "location": 2,
+      "content": "都挺好",
+      "music": 0
+    },
+    {
+      "from": 63.44,
+      "to": 64.76,
+      "sid": 26,
+      "location": 2,
+      "content": "然后这个是饮食的",
+      "music": 0
+    },
+    {
+      "from": 64.76,
+      "to": 67.57,
+      "sid": 27,
+      "location": 2,
+      "content": "很早一代的叫玩二",
+      "music": 0
+    },
+    {
+      "from": 67.57,
+      "to": 70.35,
+      "sid": 28,
+      "location": 2,
+      "content": "它甚至在那个s a s pro之前",
+      "music": 0
+    },
+    {
+      "from": 70.35,
+      "to": 72.49,
+      "sid": 29,
+      "location": 2,
+      "content": "这就是我呃",
+      "music": 0
+    },
+    {
+      "from": 72.49,
+      "to": 74.02,
+      "sid": 30,
+      "location": 2,
+      "content": "还包括我现在还在",
+      "music": 0
+    },
+    {
+      "from": 74.02,
+      "to": 76.88,
+      "sid": 31,
+      "location": 2,
+      "content": "包括我现在在拍的这台pocket3嘛",
+      "music": 0
+    },
+    {
+      "from": 76.88,
+      "to": 78.16,
+      "sid": 32,
+      "location": 2,
+      "content": "就这些机器啊",
+      "music": 0
+    },
+    {
+      "from": 78.16,
+      "to": 80.4,
+      "sid": 33,
+      "location": 2,
+      "content": "但是重点不是评测吧",
+      "music": 0
+    },
+    {
+      "from": 80.4,
+      "to": 81.96,
+      "sid": 34,
+      "location": 2,
+      "content": "重点是跟大家讲一下",
+      "music": 0
+    },
+    {
+      "from": 81.96,
+      "to": 85.52,
+      "sid": 35,
+      "location": 2,
+      "content": "这个东西到底是在什么使用场景下使用的",
+      "music": 0
+    },
+    {
+      "from": 85.52,
+      "to": 88.71,
+      "sid": 36,
+      "location": 2,
+      "content": "然后适不适合用户购买吧",
+      "music": 0
+    },
+    {
+      "from": 88.71,
+      "to": 91.05,
+      "sid": 37,
+      "location": 2,
+      "content": "适不适合普通用户购买",
+      "music": 0
+    },
+    {
+      "from": 91.37,
+      "to": 93.65,
+      "sid": 38,
+      "location": 2,
+      "content": "首先我要跟大家讲一个重点啊",
+      "music": 0
+    },
+    {
+      "from": 93.65,
+      "to": 94.61,
+      "sid": 39,
+      "location": 2,
+      "content": "我没稿子啊",
+      "music": 0
+    },
+    {
+      "from": 94.61,
+      "to": 95.73,
+      "sid": 40,
+      "location": 2,
+      "content": "我想到哪说哪啊",
+      "music": 0
+    },
+    {
+      "from": 95.73,
+      "to": 97.13,
+      "sid": 41,
+      "location": 2,
+      "content": "然后没有任何的段落啊",
+      "music": 0
+    },
+    {
+      "from": 97.13,
+      "to": 97.57,
+      "sid": 42,
+      "location": 2,
+      "content": "对等一下",
+      "music": 0
+    },
+    {
+      "from": 97.57,
+      "to": 100.92,
+      "sid": 43,
+      "location": 2,
+      "content": "还有这台这台是全景相机",
+      "music": 0
+    },
+    {
+      "from": 100.92,
+      "to": 103.22,
+      "sid": 44,
+      "location": 2,
+      "content": "是我最近才用的",
+      "music": 0
+    },
+    {
+      "from": 104.5,
+      "to": 107.34,
+      "sid": 45,
+      "location": 2,
+      "content": "我的第三视角都是用这个来拍的",
+      "music": 0
+    },
+    {
+      "from": 110.14,
+      "to": 114.1,
+      "sid": 46,
+      "location": 2,
+      "content": "首先运动相机顾名思义它就是个运动的相机",
+      "music": 0
+    },
+    {
+      "from": 114.1,
+      "to": 116.74,
+      "sid": 47,
+      "location": 2,
+      "content": "它适合的场景主要是运动",
+      "music": 0
+    },
+    {
+      "from": 116.74,
+      "to": 120.39,
+      "sid": 48,
+      "location": 2,
+      "content": "就是像不管是大疆的action系列",
+      "music": 0
+    },
+    {
+      "from": 120.39,
+      "to": 122.51,
+      "sid": 49,
+      "location": 2,
+      "content": "还是饮食的这个go ultra系列",
+      "music": 0
+    },
+    {
+      "from": 122.51,
+      "to": 124.67,
+      "sid": 50,
+      "location": 2,
+      "content": "我觉得他们的本质都是运动相机",
+      "music": 0
+    },
+    {
+      "from": 124.67,
+      "to": 127.05,
+      "sid": 51,
+      "location": 2,
+      "content": "就是在你比如说你骑车啊",
+      "music": 0
+    },
+    {
+      "from": 127.05,
+      "to": 127.99,
+      "sid": 52,
+      "location": 2,
+      "content": "你跑步啊",
+      "music": 0
+    },
+    {
+      "from": 127.99,
+      "to": 128.91,
+      "sid": 53,
+      "location": 2,
+      "content": "你滑雪啊",
+      "music": 0
+    },
+    {
+      "from": 128.91,
+      "to": 130.29,
+      "sid": 54,
+      "location": 2,
+      "content": "或者说你潜水啊",
+      "music": 0
+    },
+    {
+      "from": 130.29,
+      "to": 132.74,
+      "sid": 55,
+      "location": 2,
+      "content": "你在做这些运动场景的时候",
+      "music": 0
+    },
+    {
+      "from": 132.74,
+      "to": 134.02,
+      "sid": 56,
+      "location": 2,
+      "content": "用它会比较好",
+      "music": 0
+    },
+    {
+      "from": 134.02,
+      "to": 134.68,
+      "sid": 57,
+      "location": 2,
+      "content": "为什么",
+      "music": 0
+    },
+    {
+      "from": 134.68,
+      "to": 136.14,
+      "sid": 58,
+      "location": 2,
+      "content": "因为首先第一点",
+      "music": 0
+    },
+    {
+      "from": 137.34,
+      "to": 142.02,
+      "sid": 59,
+      "location": 2,
+      "content": "运动相机的画质其实都很一般",
+      "music": 0
+    },
+    {
+      "from": 142.02,
+      "to": 147.13,
+      "sid": 60,
+      "location": 2,
+      "content": "甚至现在新出的以画质标榜的那个",
+      "music": 0
+    },
+    {
+      "from": 147.13,
+      "to": 148.69,
+      "sid": 61,
+      "location": 2,
+      "content": "大疆的action5pro",
+      "music": 0
+    },
+    {
+      "from": 148.69,
+      "to": 151.45,
+      "sid": 62,
+      "location": 2,
+      "content": "包括像影视的ace4pro2",
+      "music": 0
+    },
+    {
+      "from": 151.45,
+      "to": 153.77,
+      "sid": 63,
+      "location": 2,
+      "content": "其实他们的画质",
+      "music": 0
+    },
+    {
+      "from": 154.55,
+      "to": 158.67,
+      "sid": 64,
+      "location": 2,
+      "content": "我觉得只能跟最新的苹果打个平手吧",
+      "music": 0
+    },
+    {
+      "from": 159.48,
+      "to": 163.08,
+      "sid": 65,
+      "location": 2,
+      "content": "就是我觉得如果你不是在运动场景下",
+      "music": 0
+    },
+    {
+      "from": 163.08,
+      "to": 164.97,
+      "sid": 66,
+      "location": 2,
+      "content": "然后你有日常的拍摄需求",
+      "music": 0
+    },
+    {
+      "from": 164.97,
+      "to": 166.81,
+      "sid": 67,
+      "location": 2,
+      "content": "手机是你最好的选择",
+      "music": 0
+    },
+    {
+      "from": 166.81,
+      "to": 168.81,
+      "sid": 68,
+      "location": 2,
+      "content": "不管你用的是不是苹果不重要了",
+      "music": 0
+    },
+    {
+      "from": 168.81,
+      "to": 171.16,
+      "sid": 69,
+      "location": 2,
+      "content": "其实现在安卓机的影像也不赖",
+      "music": 0
+    },
+    {
+      "from": 171.44,
+      "to": 172.26,
+      "sid": 70,
+      "location": 2,
+      "content": "为什么呢",
+      "music": 0
+    },
+    {
+      "from": 172.26,
+      "to": 175.84,
+      "sid": 71,
+      "location": 2,
+      "content": "因为我有一个我有一个朋友",
+      "music": 0
+    },
+    {
+      "from": 175.84,
+      "to": 181.7,
+      "sid": 72,
+      "location": 2,
+      "content": "他听我说的去买了一个大疆的pocket3",
+      "music": 0
+    },
+    {
+      "from": 181.7,
+      "to": 186.39,
+      "sid": 73,
+      "location": 2,
+      "content": "他就是一个平时用来记录自己带玩什么的呵",
+      "music": 0
+    },
+    {
+      "from": 186.39,
+      "to": 188.5,
+      "sid": 74,
+      "location": 2,
+      "content": "然后我发现他使用上有一个特点",
+      "music": 0
+    },
+    {
+      "from": 188.5,
+      "to": 190.5,
+      "sid": 75,
+      "location": 2,
+      "content": "就是他会用这个东西拍很多的东西",
+      "music": 0
+    },
+    {
+      "from": 190.5,
+      "to": 191.82,
+      "sid": 76,
+      "location": 2,
+      "content": "然后他也不会去剪辑",
+      "music": 0
+    },
+    {
+      "from": 191.82,
+      "to": 192.96,
+      "sid": 77,
+      "location": 2,
+      "content": "然后他也不会去看",
+      "music": 0
+    },
+    {
+      "from": 192.96,
+      "to": 196.209,
+      "sid": 78,
+      "location": 2,
+      "content": "然后他平时用的是4K60帧来拍摄",
+      "music": 0
+    },
+    {
+      "from": 196.849,
+      "to": 198.929,
+      "sid": 79,
+      "location": 2,
+      "content": "他已经拍了大概三张卡了吧",
+      "music": 0
+    },
+    {
+      "from": 198.929,
+      "to": 199.889,
+      "sid": 80,
+      "location": 2,
+      "content": "三张卡都是满的",
+      "music": 0
+    },
+    {
+      "from": 199.889,
+      "to": 201.969,
+      "sid": 81,
+      "location": 2,
+      "content": "但他从来不会去看这",
+      "music": 0
+    },
+    {
+      "from": 201.969,
+      "to": 204.48,
+      "sid": 82,
+      "location": 2,
+      "content": "我觉得挺有意思的",
+      "music": 0
+    },
+    {
+      "from": 204.48,
+      "to": 205.36,
+      "sid": 83,
+      "location": 2,
+      "content": "就是",
+      "music": 0
+    },
+    {
+      "from": 205.36,
+      "to": 207.88,
+      "sid": 84,
+      "location": 2,
+      "content": "而且我感觉是不是有很多的用户",
+      "music": 0
+    },
+    {
+      "from": 207.88,
+      "to": 211.69,
+      "sid": 85,
+      "location": 2,
+      "content": "都是在这种场景下去使用它的拍摄设备的",
+      "music": 0
+    },
+    {
+      "from": 211.69,
+      "to": 213.45,
+      "sid": 86,
+      "location": 2,
+      "content": "其实你用手机拍会更好",
+      "music": 0
+    },
+    {
+      "from": 213.45,
+      "to": 215.1,
+      "sid": 87,
+      "location": 2,
+      "content": "因为手机更方便",
+      "music": 0
+    },
+    {
+      "from": 215.1,
+      "to": 217.22,
+      "sid": 88,
+      "location": 2,
+      "content": "拿着随手就能开拍",
+      "music": 0
+    },
+    {
+      "from": 217.22,
+      "to": 222.37,
+      "sid": 89,
+      "location": 2,
+      "content": "然后你重新翻看这些素材的可能性会更大一点",
+      "music": 0
+    },
+    {
+      "from": 222.37,
+      "to": 223.75,
+      "sid": 90,
+      "location": 2,
+      "content": "We don't need a fancy",
+      "music": 0.9999998275862367
+    },
+    {
+      "from": 223.75,
+      "to": 226.07,
+      "sid": 91,
+      "location": 2,
+      "content": "当然如果如果一定要给你们",
+      "music": 0
+    },
+    {
+      "from": 226.07,
+      "to": 227.87,
+      "sid": 92,
+      "location": 2,
+      "content": "大家推荐一个适合普通用户",
+      "music": 0
+    },
+    {
+      "from": 227.87,
+      "to": 229.07,
+      "sid": 93,
+      "location": 2,
+      "content": "平时使用的相机的话",
+      "music": 0
+    },
+    {
+      "from": 229.07,
+      "to": 232.47,
+      "sid": 94,
+      "location": 2,
+      "content": "我会推荐这个新出的这个就是分体式的",
+      "music": 0
+    },
+    {
+      "from": 232.47,
+      "to": 234.82,
+      "sid": 95,
+      "location": 2,
+      "content": "他也不算拇指相机吧",
+      "music": 0
+    },
+    {
+      "from": 234.82,
+      "to": 238.56,
+      "sid": 96,
+      "location": 2,
+      "content": "他已经算是呃两根手指相机了",
+      "music": 0
+    },
+    {
+      "from": 238.56,
+      "to": 240.64,
+      "sid": 97,
+      "location": 2,
+      "content": "这个我觉得是真的挺方便的",
+      "music": 0
+    },
+    {
+      "from": 240.64,
+      "to": 243.63,
+      "sid": 98,
+      "location": 2,
+      "content": "因为我给大家看一些配件吧",
+      "music": 0
+    },
+    {
+      "from": 243.99,
+      "to": 246.21,
+      "sid": 99,
+      "location": 2,
+      "content": "一个比如说他有这样一个配件",
+      "music": 0
+    },
+    {
+      "from": 246.21,
+      "to": 248.75,
+      "sid": 100,
+      "location": 2,
+      "content": "你可以把这个相机拿出来以后",
+      "music": 0
+    },
+    {
+      "from": 249.75,
+      "to": 251.17,
+      "sid": 101,
+      "location": 2,
+      "content": "吸在它上面",
+      "music": 0
+    },
+    {
+      "from": 251.17,
+      "to": 252.09,
+      "sid": 102,
+      "location": 2,
+      "content": "啥意思呢",
+      "music": 0
+    },
+    {
+      "from": 252.09,
+      "to": 253.85,
+      "sid": 103,
+      "location": 2,
+      "content": "就是你可以",
+      "music": 0.15340908219265623
+    },
+    {
+      "from": 255.059,
+      "to": 257.799,
+      "sid": 104,
+      "location": 2,
+      "content": "你可以把它这个东西戴在脖子上",
+      "music": 0
+    },
+    {
+      "from": 257.799,
+      "to": 259.999,
+      "sid": 105,
+      "location": 2,
+      "content": "然后这个东西放到里面",
+      "music": 0
+    },
+    {
+      "from": 259.999,
+      "to": 262.38,
+      "sid": 106,
+      "location": 2,
+      "content": "然后啪一下把它吸上去",
+      "music": 0
+    },
+    {
+      "from": 262.38,
+      "to": 263.16,
+      "sid": 107,
+      "location": 2,
+      "content": "就这样",
+      "music": 0
+    },
+    {
+      "from": 263.16,
+      "to": 265.38,
+      "sid": 108,
+      "location": 2,
+      "content": "然后这个东西就会一直在你的胸口了",
+      "music": 0
+    },
+    {
+      "from": 265.38,
+      "to": 268.06,
+      "sid": 109,
+      "location": 2,
+      "content": "你就不怎么需要去管它",
+      "music": 0
+    },
+    {
+      "from": 269,
+      "to": 270.36,
+      "sid": 110,
+      "location": 2,
+      "content": "当然缺点是什么呢",
+      "music": 0
+    },
+    {
+      "from": 270.36,
+      "to": 272.04,
+      "sid": 111,
+      "location": 2,
+      "content": "是你不小心这边漏出来以后",
+      "music": 0
+    },
+    {
+      "from": 272.04,
+      "to": 275.42,
+      "sid": 112,
+      "location": 2,
+      "content": "就很感觉你像穿了一个什么吊带什么的",
+      "music": 0
+    },
+    {
+      "from": 275.42,
+      "to": 279.33,
+      "sid": 113,
+      "location": 2,
+      "content": "还有个缺点就是在胸口其实是比较晃的",
+      "music": 0
+    },
+    {
+      "from": 279.33,
+      "to": 282.89,
+      "sid": 114,
+      "location": 2,
+      "content": "然后白天这个晃会被他的算法给降噪了",
+      "music": 0
+    },
+    {
+      "from": 282.89,
+      "to": 284.43,
+      "sid": 115,
+      "location": 2,
+      "content": "就是你看不大出来这个晃",
+      "music": 0
+    },
+    {
+      "from": 284.43,
+      "to": 286.929,
+      "sid": 116,
+      "location": 2,
+      "content": "但是晚上那就一切都大不一样了",
+      "music": 0
+    },
+    {
+      "from": 286.929,
+      "to": 290.89,
+      "sid": 117,
+      "location": 2,
+      "content": "你会发现灯光一晃一晃的非常的糊",
+      "music": 0
+    },
+    {
+      "from": 290.89,
+      "to": 292.57,
+      "sid": 118,
+      "location": 2,
+      "content": "虽然他说他的夜景挺好的",
+      "music": 0
+    },
+    {
+      "from": 292.57,
+      "to": 293.69,
+      "sid": 119,
+      "location": 2,
+      "content": "但是在这个使用场景下",
+      "music": 0
+    },
+    {
+      "from": 293.69,
+      "to": 294.25,
+      "sid": 120,
+      "location": 2,
+      "content": "它的夜景",
+      "music": 0
+    },
+    {
+      "from": 296.53,
+      "to": 299.64,
+      "sid": 121,
+      "location": 2,
+      "content": "呃这就就不",
+      "music": 0
+    },
+    {
+      "from": 299.64,
+      "to": 302.98,
+      "sid": 122,
+      "location": 2,
+      "content": "然后他解决了一个以前你要拍第一视角",
+      "music": 0
+    },
+    {
+      "from": 302.98,
+      "to": 304.669,
+      "sid": 123,
+      "location": 2,
+      "content": "你要这样的问题",
+      "music": 0
+    },
+    {
+      "from": 305.029,
+      "to": 305.629,
+      "sid": 124,
+      "location": 2,
+      "content": "就这样",
+      "music": 0
+    },
+    {
+      "from": 305.629,
+      "to": 306.86,
+      "sid": 125,
+      "location": 2,
+      "content": "其实很难受的",
+      "music": 0
+    },
+    {
+      "from": 306.86,
+      "to": 307.9,
+      "sid": 126,
+      "location": 2,
+      "content": "骑车也难受",
+      "music": 0
+    },
+    {
+      "from": 307.9,
+      "to": 308.74,
+      "sid": 127,
+      "location": 2,
+      "content": "走路也难受",
+      "music": 0
+    },
+    {
+      "from": 308.74,
+      "to": 310.38,
+      "sid": 128,
+      "location": 2,
+      "content": "因为你脖子上是被压死的",
+      "music": 0
+    },
+    {
+      "from": 310.38,
+      "to": 311.94,
+      "sid": 129,
+      "location": 2,
+      "content": "还有一些两边有两个吊带",
+      "music": 0
+    },
+    {
+      "from": 311.94,
+      "to": 312.94,
+      "sid": 130,
+      "location": 2,
+      "content": "这样绑住吗",
+      "music": 0
+    },
+    {
+      "from": 312.94,
+      "to": 314.89,
+      "sid": 131,
+      "location": 2,
+      "content": "那就更难受了",
+      "music": 0
+    },
+    {
+      "from": 315.33,
+      "to": 317.59,
+      "sid": 132,
+      "location": 2,
+      "content": "所以这个东西我有两台",
+      "music": 0
+    },
+    {
+      "from": 317.59,
+      "to": 318.69,
+      "sid": 133,
+      "location": 2,
+      "content": "我自己买了一台",
+      "music": 0
+    },
+    {
+      "from": 318.69,
+      "to": 320.17,
+      "sid": 134,
+      "location": 2,
+      "content": "然后我找饮食要了一台",
+      "music": 0
+    },
+    {
+      "from": 320.17,
+      "to": 321.97,
+      "sid": 135,
+      "location": 2,
+      "content": "这个东西对我来说是非常好的",
+      "music": 0
+    },
+    {
+      "from": 321.97,
+      "to": 325.8,
+      "sid": 136,
+      "location": 2,
+      "content": "因为我每天就算我只送六七个小时的外卖",
+      "music": 0
+    },
+    {
+      "from": 325.8,
+      "to": 328.1,
+      "sid": 137,
+      "location": 2,
+      "content": "这个东西它的续航是跟不上的",
+      "music": 0
+    },
+    {
+      "from": 328.1,
+      "to": 331.29,
+      "sid": 138,
+      "location": 2,
+      "content": "他在只有一个这样的东西下",
+      "music": 0
+    },
+    {
+      "from": 331.29,
+      "to": 332.47,
+      "sid": 139,
+      "location": 2,
+      "content": "大概只能拍",
+      "music": 0
+    },
+    {
+      "from": 332.47,
+      "to": 334.53,
+      "sid": 140,
+      "location": 2,
+      "content": "可能30分钟就没有了呵",
+      "music": 0
+    },
+    {
+      "from": 334.53,
+      "to": 335.65,
+      "sid": 141,
+      "location": 2,
+      "content": "30到40分钟吧",
+      "music": 0
+    },
+    {
+      "from": 335.65,
+      "to": 336.81,
+      "sid": 142,
+      "location": 2,
+      "content": "我实测下来啊",
+      "music": 0
+    },
+    {
+      "from": 336.81,
+      "to": 338.61,
+      "sid": 143,
+      "location": 2,
+      "content": "不是很精准的数据啊",
+      "music": 0
+    },
+    {
+      "from": 338.61,
+      "to": 339.95,
+      "sid": 144,
+      "location": 2,
+      "content": "大家不要纠结这个",
+      "music": 0
+    },
+    {
+      "from": 339.95,
+      "to": 343.3,
+      "sid": 145,
+      "location": 2,
+      "content": "然后放回去充电要充很久",
+      "music": 0
+    },
+    {
+      "from": 343.3,
+      "to": 346.62,
+      "sid": 146,
+      "location": 2,
+      "content": "这这个就是一个很大的问题",
+      "music": 0
+    },
+    {
+      "from": 346.62,
+      "to": 348.1,
+      "sid": 147,
+      "location": 2,
+      "content": "所以我现在是这么怎么拍的呢",
+      "music": 0
+    },
+    {
+      "from": 348.1,
+      "to": 352.41,
+      "sid": 148,
+      "location": 2,
+      "content": "两台第一台吸上去开始拍好",
+      "music": 0
+    },
+    {
+      "from": 352.41,
+      "to": 356.07,
+      "sid": 149,
+      "location": 2,
+      "content": "当它快没电的时候拿下来换第二台",
+      "music": 0
+    },
+    {
+      "from": 356.07,
+      "to": 358.29,
+      "sid": 150,
+      "location": 2,
+      "content": "然后这个东西拿回去充电",
+      "music": 0
+    },
+    {
+      "from": 358.29,
+      "to": 360.52,
+      "sid": 151,
+      "location": 2,
+      "content": "呵呵然后这台拍完了",
+      "music": 0
+    },
+    {
+      "from": 360.52,
+      "to": 361.94,
+      "sid": 152,
+      "location": 2,
+      "content": "那这台电也充好了",
+      "music": 0
+    },
+    {
+      "from": 361.94,
+      "to": 363.52,
+      "sid": 153,
+      "location": 2,
+      "content": "然后交替循环",
+      "music": 0
+    },
+    {
+      "from": 363.52,
+      "to": 366.12,
+      "sid": 154,
+      "location": 2,
+      "content": "这样就可以保持我胸口的这个第一视角",
+      "music": 0
+    },
+    {
+      "from": 366.12,
+      "to": 367.48,
+      "sid": 155,
+      "location": 2,
+      "content": "它不断",
+      "music": 0
+    },
+    {
+      "from": 369.46,
+      "to": 372.18,
+      "sid": 156,
+      "location": 2,
+      "content": "然后之前我用的是这个大疆的action4嘛",
+      "music": 0
+    },
+    {
+      "from": 372.18,
+      "to": 375.51,
+      "sid": 157,
+      "location": 2,
+      "content": "我觉得就按action4画质是不如action5的",
+      "music": 0
+    },
+    {
+      "from": 375.51,
+      "to": 377.12,
+      "sid": 158,
+      "location": 2,
+      "content": "action5pro有一些升级",
+      "music": 0
+    },
+    {
+      "from": 377.12,
+      "to": 378.24,
+      "sid": 159,
+      "location": 2,
+      "content": "但你们可以自己去看",
+      "music": 0
+    },
+    {
+      "from": 378.24,
+      "to": 379.12,
+      "sid": 160,
+      "location": 2,
+      "content": "我没有去升级",
+      "music": 0
+    },
+    {
+      "from": 379.12,
+      "to": 381.52,
+      "sid": 161,
+      "location": 2,
+      "content": "因为我觉得它的升级对我来说没什么用处",
+      "music": 0
+    },
+    {
+      "from": 381.52,
+      "to": 384.52,
+      "sid": 162,
+      "location": 2,
+      "content": "之前我就是用这样一个东西吊在自己的胸口",
+      "music": 0
+    },
+    {
+      "from": 384.52,
+      "to": 385.82,
+      "sid": 163,
+      "location": 2,
+      "content": "去拍第一视角",
+      "music": 0
+    },
+    {
+      "from": 385.82,
+      "to": 387.28,
+      "sid": 164,
+      "location": 2,
+      "content": "当然还有一些小配件",
+      "music": 0
+    },
+    {
+      "from": 387.28,
+      "to": 389.49,
+      "sid": 165,
+      "location": 2,
+      "content": "可以让它夹在你的头盔上啊",
+      "music": 0
+    },
+    {
+      "from": 389.49,
+      "to": 392.39,
+      "sid": 166,
+      "location": 2,
+      "content": "然后包括绑带绑在你的头上啊",
+      "music": 0
+    },
+    {
+      "from": 392.39,
+      "to": 393.77,
+      "sid": 167,
+      "location": 2,
+      "content": "其实这些配件我都试过了",
+      "music": 0
+    },
+    {
+      "from": 393.77,
+      "to": 395.33,
+      "sid": 168,
+      "location": 2,
+      "content": "但我懒得去拿了",
+      "music": 0
+    },
+    {
+      "from": 395.33,
+      "to": 397.97,
+      "sid": 169,
+      "location": 2,
+      "content": "这些方案都不行",
+      "music": 0
+    },
+    {
+      "from": 397.97,
+      "to": 401.26,
+      "sid": 170,
+      "location": 2,
+      "content": "原因是因为这个东西它很重",
+      "music": 0
+    },
+    {
+      "from": 401.26,
+      "to": 403.3,
+      "sid": 171,
+      "location": 2,
+      "content": "你吊在头上",
+      "music": 0
+    },
+    {
+      "from": 404.58,
+      "to": 407.45,
+      "sid": 172,
+      "location": 2,
+      "content": "然后你戴着头盔把它绑在头盔上面",
+      "music": 0
+    },
+    {
+      "from": 407.45,
+      "to": 409.25,
+      "sid": 173,
+      "location": 2,
+      "content": "你的脖子是受不了的",
+      "music": 0
+    },
+    {
+      "from": 409.25,
+      "to": 411.77,
+      "sid": 174,
+      "location": 2,
+      "content": "你可能只能坚持个一个小时之内",
+      "music": 0
+    },
+    {
+      "from": 411.77,
+      "to": 412.53,
+      "sid": 175,
+      "location": 2,
+      "content": "超过一个小时",
+      "music": 0
+    },
+    {
+      "from": 412.53,
+      "to": 414.45,
+      "sid": 176,
+      "location": 2,
+      "content": "你的脖子是肯定受不了的",
+      "music": 0
+    },
+    {
+      "from": 414.45,
+      "to": 417.61,
+      "sid": 177,
+      "location": 2,
+      "content": "这也是为什么我非常急迫的需要这个玩意儿",
+      "music": 0
+    },
+    {
+      "from": 417.61,
+      "to": 419.59,
+      "sid": 178,
+      "location": 2,
+      "content": "它的优势就很简单",
+      "music": 0
+    },
+    {
+      "from": 419.59,
+      "to": 421.49,
+      "sid": 179,
+      "location": 2,
+      "content": "这玩意很轻",
+      "music": 0.19379843458926554
+    },
+    {
+      "from": 422.56,
+      "to": 424.14,
+      "sid": 180,
+      "location": 2,
+      "content": "绑就放在这里",
+      "music": 0
+    },
+    {
+      "from": 424.14,
+      "to": 426.04,
+      "sid": 181,
+      "location": 2,
+      "content": "他有些配件可以让你放在头上的",
+      "music": 0
+    },
+    {
+      "from": 426.04,
+      "to": 427.04,
+      "sid": 182,
+      "location": 2,
+      "content": "放在头上也不重",
+      "music": 0
+    },
+    {
+      "from": 427.04,
+      "to": 428.91,
+      "sid": 183,
+      "location": 2,
+      "content": "绑在胸口更是无感",
+      "music": 0
+    },
+    {
+      "from": 428.91,
+      "to": 430.05,
+      "sid": 184,
+      "location": 2,
+      "content": "缺点是什么呢",
+      "music": 0
+    },
+    {
+      "from": 430.05,
+      "to": 432.96,
+      "sid": 185,
+      "location": 2,
+      "content": "续航毕竟它只有这么小一个玩意儿",
+      "music": 0
+    },
+    {
+      "from": 432.96,
+      "to": 434.62,
+      "sid": 186,
+      "location": 2,
+      "content": "续航是没有办法的",
+      "music": 0
+    },
+    {
+      "from": 434.62,
+      "to": 436.62,
+      "sid": 187,
+      "location": 2,
+      "content": "但这个东西我推荐普通用户吗",
+      "music": 0
+    },
+    {
+      "from": 436.62,
+      "to": 438.21,
+      "sid": 188,
+      "location": 2,
+      "content": "我仍然不推荐",
+      "music": 0
+    },
+    {
+      "from": 438.21,
+      "to": 440.33,
+      "sid": 189,
+      "location": 2,
+      "content": "我只推荐你平时是骑车",
+      "music": 0
+    },
+    {
+      "from": 440.33,
+      "to": 442.39,
+      "sid": 190,
+      "location": 2,
+      "content": "想记录自己骑车的情况下去用",
+      "music": 0
+    },
+    {
+      "from": 442.39,
+      "to": 443.07,
+      "sid": 191,
+      "location": 2,
+      "content": "为什么",
+      "music": 0
+    },
+    {
+      "from": 443.07,
+      "to": 444.47,
+      "sid": 192,
+      "location": 2,
+      "content": "因为首先放在胸口",
+      "music": 0
+    },
+    {
+      "from": 444.47,
+      "to": 445.85,
+      "sid": 193,
+      "location": 2,
+      "content": "虽然你是无感的",
+      "music": 0
+    },
+    {
+      "from": 445.85,
+      "to": 447.915,
+      "sid": 194,
+      "location": 2,
+      "content": "但他的视角局限性很窄",
+      "music": 0
+    },
+    {
+      "from": 447.98,
+      "to": 449.3,
+      "sid": 195,
+      "location": 2,
+      "content": "你在走路的时候",
+      "music": 0
+    },
+    {
+      "from": 449.3,
+      "to": 450.74,
+      "sid": 196,
+      "location": 2,
+      "content": "他其实是拍不到你下面的",
+      "music": 0
+    },
+    {
+      "from": 450.74,
+      "to": 451.98,
+      "sid": 197,
+      "location": 2,
+      "content": "你脚下的部分的",
+      "music": 0
+    },
+    {
+      "from": 451.98,
+      "to": 453.18,
+      "sid": 198,
+      "location": 2,
+      "content": "比如说你遛弯",
+      "music": 0
+    },
+    {
+      "from": 453.18,
+      "to": 454.38,
+      "sid": 199,
+      "location": 2,
+      "content": "然后你想拍自己小孩",
+      "music": 0
+    },
+    {
+      "from": 454.38,
+      "to": 455.69,
+      "sid": 200,
+      "location": 2,
+      "content": "你是肯定拍不到的",
+      "music": 0
+    },
+    {
+      "from": 455.69,
+      "to": 456.97,
+      "sid": 201,
+      "location": 2,
+      "content": "你一定要这样滴下去",
+      "music": 0
+    },
+    {
+      "from": 458.05,
+      "to": 459.93,
+      "sid": 202,
+      "location": 2,
+      "content": "就就说是说无感啊",
+      "music": 0
+    },
+    {
+      "from": 459.93,
+      "to": 463.69,
+      "sid": 203,
+      "location": 2,
+      "content": "但是他只能拍摄一些很随意的记录",
+      "music": 0
+    },
+    {
+      "from": 463.69,
+      "to": 465.75,
+      "sid": 204,
+      "location": 2,
+      "content": "然后在随意的记录的情况下",
+      "music": 0
+    },
+    {
+      "from": 465.75,
+      "to": 467.27,
+      "sid": 205,
+      "location": 2,
+      "content": "你要一直去照顾到它",
+      "music": 0
+    },
+    {
+      "from": 467.27,
+      "to": 469.23,
+      "sid": 206,
+      "location": 2,
+      "content": "因为它的续航很短",
+      "music": 0
+    },
+    {
+      "from": 470.469,
+      "to": 473.629,
+      "sid": 207,
+      "location": 2,
+      "content": "哎我是不是也得写个稿子啊",
+      "music": 0
+    },
+    {
+      "from": 473.629,
+      "to": 476.9,
+      "sid": 208,
+      "location": 2,
+      "content": "但是我觉得写个稿子就没有我那聊天那味了",
+      "music": 0
+    },
+    {
+      "from": 476.9,
+      "to": 477.66,
+      "sid": 209,
+      "location": 2,
+      "content": "不解了",
+      "music": 0
+    },
+    {
+      "from": 477.66,
+      "to": 478.82,
+      "sid": 210,
+      "location": 2,
+      "content": "我说的想到哪说的",
+      "music": 0
+    },
+    {
+      "from": 478.82,
+      "to": 480.5,
+      "sid": 211,
+      "location": 2,
+      "content": "你们随便看啊",
+      "music": 0
+    },
+    {
+      "from": 480.5,
+      "to": 485.18,
+      "sid": 212,
+      "location": 2,
+      "content": "然后第二个致命缺点误触问题",
+      "music": 0
+    },
+    {
+      "from": 485.22,
+      "to": 486.62,
+      "sid": 213,
+      "location": 2,
+      "content": "我不知道为什么",
+      "music": 0
+    },
+    {
+      "from": 486.62,
+      "to": 489.62,
+      "sid": 214,
+      "location": 2,
+      "content": "他的设计其实是跟大疆的这个有点像的",
+      "music": 0
+    },
+    {
+      "from": 489.62,
+      "to": 493.32,
+      "sid": 215,
+      "location": 2,
+      "content": "你们看上方上方一个录制键",
+      "music": 0
+    },
+    {
+      "from": 493.32,
+      "to": 496.419,
+      "sid": 216,
+      "location": 2,
+      "content": "然后边上有开关之键",
+      "music": 0
+    },
+    {
+      "from": 496.419,
+      "to": 497.27,
+      "sid": 217,
+      "location": 2,
+      "content": "对不对",
+      "music": 0
+    },
+    {
+      "from": 497.27,
+      "to": 500.11,
+      "sid": 218,
+      "location": 2,
+      "content": "就这个大多数运动相机都是这么回事嘛",
+      "music": 0
+    },
+    {
+      "from": 500.11,
+      "to": 501.39,
+      "sid": 219,
+      "location": 2,
+      "content": "但是我不知道为什么",
+      "music": 0
+    },
+    {
+      "from": 501.39,
+      "to": 503.65,
+      "sid": 220,
+      "location": 2,
+      "content": "他这个就比大江容易误触很多",
+      "music": 0
+    },
+    {
+      "from": 503.65,
+      "to": 505.69,
+      "sid": 221,
+      "location": 2,
+      "content": "我我研究它的原理是这样的",
+      "music": 0
+    },
+    {
+      "from": 505.69,
+      "to": 506.93,
+      "sid": 222,
+      "location": 2,
+      "content": "因为它的按键很松",
+      "music": 0
+    },
+    {
+      "from": 506.93,
+      "to": 511.17,
+      "sid": 223,
+      "location": 2,
+      "content": "你们看我我我同样是按这个对吧",
+      "music": 0
+    },
+    {
+      "from": 511.17,
+      "to": 511.97,
+      "sid": 224,
+      "location": 2,
+      "content": "但是我玩大将",
+      "music": 0
+    },
+    {
+      "from": 511.97,
+      "to": 513.41,
+      "sid": 225,
+      "location": 2,
+      "content": "你们看一下啊",
+      "music": 0
+    },
+    {
+      "from": 515.12,
+      "to": 516.38,
+      "sid": 226,
+      "location": 2,
+      "content": "他要紧很多",
+      "music": 0
+    },
+    {
+      "from": 516.38,
+      "to": 517.88,
+      "sid": 227,
+      "location": 2,
+      "content": "我觉得重点在这个地方",
+      "music": 0
+    },
+    {
+      "from": 517.88,
+      "to": 518.96,
+      "sid": 228,
+      "location": 2,
+      "content": "有很多同学跟我说",
+      "music": 0
+    },
+    {
+      "from": 518.96,
+      "to": 520.98,
+      "sid": 229,
+      "location": 2,
+      "content": "他有他有那个锁定模式嘛",
+      "music": 0
+    },
+    {
+      "from": 520.98,
+      "to": 523.77,
+      "sid": 230,
+      "location": 2,
+      "content": "但是我给你们看一个很严重的bug",
+      "music": 0
+    },
+    {
+      "from": 523.77,
+      "to": 525.01,
+      "sid": 231,
+      "location": 2,
+      "content": "我觉得这个是bug",
+      "music": 0
+    },
+    {
+      "from": 527.65,
+      "to": 530.06,
+      "sid": 232,
+      "location": 2,
+      "content": "我先这个是锁定模式",
+      "music": 0
+    },
+    {
+      "from": 530.06,
+      "to": 530.6,
+      "sid": 233,
+      "location": 2,
+      "content": "对不对",
+      "music": 0
+    },
+    {
+      "from": 530.6,
+      "to": 531.66,
+      "sid": 234,
+      "location": 2,
+      "content": "锁定模式打开了",
+      "music": 0
+    },
+    {
+      "from": 531.66,
+      "to": 533.06,
+      "sid": 235,
+      "location": 2,
+      "content": "你要滑动才能解锁",
+      "music": 0
+    },
+    {
+      "from": 533.06,
+      "to": 534.38,
+      "sid": 236,
+      "location": 2,
+      "content": "这个是很正常的对吧",
+      "music": 0
+    },
+    {
+      "from": 534.38,
+      "to": 535.72,
+      "sid": 237,
+      "location": 2,
+      "content": "我觉得这很正常",
+      "music": 0
+    },
+    {
+      "from": 535.72,
+      "to": 536.52,
+      "sid": 238,
+      "location": 2,
+      "content": "你们看啊",
+      "music": 0
+    },
+    {
+      "from": 536.52,
+      "to": 537.48,
+      "sid": 239,
+      "location": 2,
+      "content": "打开锁定模式以后",
+      "music": 0
+    },
+    {
+      "from": 537.48,
+      "to": 539.96,
+      "sid": 240,
+      "location": 2,
+      "content": "这里会出现一个小锁的按钮",
+      "music": 0
+    },
+    {
+      "from": 539.96,
+      "to": 540.88,
+      "sid": 241,
+      "location": 2,
+      "content": "看到吗",
+      "music": 0
+    },
+    {
+      "from": 540.88,
+      "to": 543.28,
+      "sid": 242,
+      "location": 2,
+      "content": "但是现在是锁定模式",
+      "music": 0
+    },
+    {
+      "from": 543.28,
+      "to": 544.01,
+      "sid": 243,
+      "location": 2,
+      "content": "对不对",
+      "music": 0
+    },
+    {
+      "from": 544.01,
+      "to": 545.07,
+      "sid": 244,
+      "location": 2,
+      "content": "我手呃",
+      "music": 0
+    },
+    {
+      "from": 545.07,
+      "to": 546.61,
+      "sid": 245,
+      "location": 2,
+      "content": "我先把屏幕开机调一下",
+      "music": 0
+    },
+    {
+      "from": 546.61,
+      "to": 547.51,
+      "sid": 246,
+      "location": 2,
+      "content": "等一下稍等",
+      "music": 0
+    },
+    {
+      "from": 547.51,
+      "to": 549.99,
+      "sid": 247,
+      "location": 2,
+      "content": "我现在打开它的锁定模式",
+      "music": 0
+    },
+    {
+      "from": 549.99,
+      "to": 551.67,
+      "sid": 248,
+      "location": 2,
+      "content": "这样要滑动才能解锁对吧",
+      "music": 0
+    },
+    {
+      "from": 551.67,
+      "to": 552.35,
+      "sid": 249,
+      "location": 2,
+      "content": "在这种情况下",
+      "music": 0
+    },
+    {
+      "from": 552.35,
+      "to": 553.95,
+      "sid": 250,
+      "location": 2,
+      "content": "我是不会误触任何东西的",
+      "music": 0
+    },
+    {
+      "from": 553.95,
+      "to": 557.46,
+      "sid": 251,
+      "location": 2,
+      "content": "但是这个时候我如果按一下这个把它给吸平了",
+      "music": 0
+    },
+    {
+      "from": 557.46,
+      "to": 558.78,
+      "sid": 252,
+      "location": 2,
+      "content": "然后我再打开它",
+      "music": 0
+    },
+    {
+      "from": 560.22,
+      "to": 560.86,
+      "sid": 253,
+      "location": 2,
+      "content": "锁定模式",
+      "music": 0
+    },
+    {
+      "from": 560.86,
+      "to": 563.94,
+      "sid": 254,
+      "location": 2,
+      "content": "没了夜景录像还录像",
+      "music": 0
+    },
+    {
+      "from": 565.1,
+      "to": 566.64,
+      "sid": 255,
+      "location": 2,
+      "content": "这个逻辑我接受不了啊",
+      "music": 0
+    },
+    {
+      "from": 566.64,
+      "to": 568.3,
+      "sid": 256,
+      "location": 2,
+      "content": "就是你本身就容易误触",
+      "music": 0
+    },
+    {
+      "from": 568.3,
+      "to": 571.94,
+      "sid": 257,
+      "location": 2,
+      "content": "然后我开了锁定模式熄屏",
+      "music": 0
+    },
+    {
+      "from": 573.11,
+      "to": 575.63,
+      "sid": 258,
+      "location": 2,
+      "content": "没了它不是锁定模式了",
+      "music": 0
+    },
+    {
+      "from": 575.63,
+      "to": 576.39,
+      "sid": 259,
+      "location": 2,
+      "content": "这就是为什么",
+      "music": 0
+    },
+    {
+      "from": 576.39,
+      "to": 579.619,
+      "sid": 260,
+      "location": 2,
+      "content": "我那天突然拍了124张照片的原因",
+      "music": 0
+    },
+    {
+      "from": 579.619,
+      "to": 580.359,
+      "sid": 261,
+      "location": 2,
+      "content": "他在我",
+      "music": 0
+    },
+    {
+      "from": 580.359,
+      "to": 581.559,
+      "sid": 262,
+      "location": 2,
+      "content": "他在我的口袋里",
+      "music": 0
+    },
+    {
+      "from": 581.559,
+      "to": 582.359,
+      "sid": 263,
+      "location": 2,
+      "content": "因为我骑车嘛",
+      "music": 0
+    },
+    {
+      "from": 582.359,
+      "to": 583.439,
+      "sid": 264,
+      "location": 2,
+      "content": "我会穿一个裤子",
+      "music": 0
+    },
+    {
+      "from": 583.439,
+      "to": 587.4,
+      "sid": 265,
+      "location": 2,
+      "content": "然后我一般把这个小东西拿下来",
+      "music": 0
+    },
+    {
+      "from": 587.4,
+      "to": 588.12,
+      "sid": 266,
+      "location": 2,
+      "content": "放在我胸口",
+      "music": 0
+    },
+    {
+      "from": 588.12,
+      "to": 588.94,
+      "sid": 267,
+      "location": 2,
+      "content": "拍摄的时候",
+      "music": 0
+    },
+    {
+      "from": 588.94,
+      "to": 591.42,
+      "sid": 268,
+      "location": 2,
+      "content": "我会把这个东西放在我的口袋里",
+      "music": 0
+    },
+    {
+      "from": 591.42,
+      "to": 594.66,
+      "sid": 269,
+      "location": 2,
+      "content": "然后他又在我的口袋里进行了各种各样的操作",
+      "music": 0
+    },
+    {
+      "from": 594.66,
+      "to": 598.07,
+      "sid": 270,
+      "location": 2,
+      "content": "包括把我的录像时间从无限改成3分钟",
+      "music": 0
+    },
+    {
+      "from": 598.07,
+      "to": 599.71,
+      "sid": 271,
+      "location": 2,
+      "content": "包括把我的分辨率",
+      "music": 0
+    },
+    {
+      "from": 599.71,
+      "to": 601.71,
+      "sid": 272,
+      "location": 2,
+      "content": "从我平时一般是拍2.7K的",
+      "music": 0
+    },
+    {
+      "from": 601.71,
+      "to": 602.43,
+      "sid": 273,
+      "location": 2,
+      "content": "我不拍4K",
+      "music": 0
+    },
+    {
+      "from": 602.43,
+      "to": 603.69,
+      "sid": 274,
+      "location": 2,
+      "content": "我一会给你们说原因",
+      "music": 0
+    },
+    {
+      "from": 603.69,
+      "to": 606.52,
+      "sid": 275,
+      "location": 2,
+      "content": "包括把分辨率从2.7K改成4K",
+      "music": 0
+    },
+    {
+      "from": 606.52,
+      "to": 608.92,
+      "sid": 276,
+      "location": 2,
+      "content": "包括帮我把什么防抖给关掉",
+      "music": 0
+    },
+    {
+      "from": 608.92,
+      "to": 611.54,
+      "sid": 277,
+      "location": 2,
+      "content": "然后就会出现各种各样奇奇怪怪的",
+      "music": 0
+    },
+    {
+      "from": 611.54,
+      "to": 613.609,
+      "sid": 278,
+      "location": 2,
+      "content": "无法理解的问题",
+      "music": 0
+    },
+    {
+      "from": 613.929,
+      "to": 616.369,
+      "sid": 279,
+      "location": 2,
+      "content": "这个是我在之前用大疆的时候",
+      "music": 0
+    },
+    {
+      "from": 616.369,
+      "to": 618.63,
+      "sid": 280,
+      "location": 2,
+      "content": "从来没有碰到过的问题",
+      "music": 0
+    },
+    {
+      "from": 619.11,
+      "to": 624.8,
+      "sid": 281,
+      "location": 2,
+      "content": "这个东西缺点只有一个重优点",
+      "music": 0
+    },
+    {
+      "from": 624.8,
+      "to": 627.8,
+      "sid": 282,
+      "location": 2,
+      "content": "我觉得除了重之外都是优点啊",
+      "music": 0
+    },
+    {
+      "from": 627.8,
+      "to": 630.32,
+      "sid": 283,
+      "location": 2,
+      "content": "呵呵因为我实测下来",
+      "music": 0
+    },
+    {
+      "from": 630.32,
+      "to": 632.92,
+      "sid": 284,
+      "location": 2,
+      "content": "我觉得这玩意儿的画质是比不上这玩意的",
+      "music": 0
+    },
+    {
+      "from": 632.92,
+      "to": 634.839,
+      "sid": 285,
+      "location": 2,
+      "content": "这甚至是上一代的大将啊",
+      "music": 0
+    },
+    {
+      "from": 634.839,
+      "to": 637.039,
+      "sid": 286,
+      "location": 2,
+      "content": "当然我要跟你们聊个画质的问题啊",
+      "music": 0
+    },
+    {
+      "from": 637.039,
+      "to": 641.69,
+      "sid": 287,
+      "location": 2,
+      "content": "就其实啧我其实已经可以算内容创作者了吧",
+      "music": 0
+    },
+    {
+      "from": 641.69,
+      "to": 641.93,
+      "sid": 288,
+      "location": 2,
+      "content": "对吧",
+      "music": 0
+    },
+    {
+      "from": 641.93,
+      "to": 645.63,
+      "sid": 289,
+      "location": 2,
+      "content": "我不算是那个平时随便拍拍的用户",
+      "music": 0
+    },
+    {
+      "from": 645.63,
+      "to": 648.27,
+      "sid": 290,
+      "location": 2,
+      "content": "我觉得大家在这个时代",
+      "music": 0
+    },
+    {
+      "from": 648.27,
+      "to": 650.29,
+      "sid": 291,
+      "location": 2,
+      "content": "不用特别纠结画质的问题",
+      "music": 0
+    },
+    {
+      "from": 650.29,
+      "to": 653.15,
+      "sid": 292,
+      "location": 2,
+      "content": "因为我平时拍素材都是拍2.7K的",
+      "music": 0
+    },
+    {
+      "from": 653.15,
+      "to": 656.64,
+      "sid": 293,
+      "location": 2,
+      "content": "不拍4K原因是因为素材管理起来比较方便",
+      "music": 0
+    },
+    {
+      "from": 656.64,
+      "to": 658.659,
+      "sid": 294,
+      "location": 2,
+      "content": "否则我我每天要录",
+      "music": 0
+    },
+    {
+      "from": 658.659,
+      "to": 662.7,
+      "sid": 295,
+      "location": 2,
+      "content": "大概总长度在两个小时以上的素材",
+      "music": 0
+    },
+    {
+      "from": 662.7,
+      "to": 664.14,
+      "sid": 296,
+      "location": 2,
+      "content": "两个小时以上的素材",
+      "music": 0
+    },
+    {
+      "from": 664.14,
+      "to": 665.3,
+      "sid": 297,
+      "location": 2,
+      "content": "如果用4K拍的话",
+      "music": 0
+    },
+    {
+      "from": 665.3,
+      "to": 665.96,
+      "sid": 298,
+      "location": 2,
+      "content": "太大了",
+      "music": 0
+    },
+    {
+      "from": 665.96,
+      "to": 667.3,
+      "sid": 299,
+      "location": 2,
+      "content": "传起来也烦嘛",
+      "music": 0
+    },
+    {
+      "from": 667.3,
+      "to": 668.32,
+      "sid": 300,
+      "location": 2,
+      "content": "剪辑起来也烦",
+      "music": 0
+    },
+    {
+      "from": 668.32,
+      "to": 671.3,
+      "sid": 301,
+      "location": 2,
+      "content": "然后就甚至回看素材都烦",
+      "music": 0
+    },
+    {
+      "from": 671.3,
+      "to": 673.06,
+      "sid": 302,
+      "location": 2,
+      "content": "所以我一般都是拍2.7K嘛",
+      "music": 0
+    },
+    {
+      "from": 673.06,
+      "to": 677.329,
+      "sid": 303,
+      "location": 2,
+      "content": "我觉得2.7K完全就如果你要发抖音啊",
+      "music": 0
+    },
+    {
+      "from": 677.329,
+      "to": 678.669,
+      "sid": 304,
+      "location": 2,
+      "content": "发B站啊完全够用",
+      "music": 0
+    },
+    {
+      "from": 679.669,
+      "to": 682.429,
+      "sid": 305,
+      "location": 2,
+      "content": "因为不知道有没有看过影视飓风的那期视频",
+      "music": 0
+    },
+    {
+      "from": 682.429,
+      "to": 684.369,
+      "sid": 306,
+      "location": 2,
+      "content": "不管你传的是多少K的",
+      "music": 0
+    },
+    {
+      "from": 684.369,
+      "to": 685.349,
+      "sid": 307,
+      "location": 2,
+      "content": "分辨率多高",
+      "music": 0
+    },
+    {
+      "from": 685.349,
+      "to": 687.429,
+      "sid": 308,
+      "location": 2,
+      "content": "多么清晰的视频平台都会帮你压缩的",
+      "music": 0
+    },
+    {
+      "from": 687.429,
+      "to": 688.13,
+      "sid": 309,
+      "location": 2,
+      "content": "你放心",
+      "music": 0
+    },
+    {
+      "from": 688.13,
+      "to": 690.77,
+      "sid": 310,
+      "location": 2,
+      "content": "所以其实我觉得对我来说",
+      "music": 0
+    },
+    {
+      "from": 690.77,
+      "to": 692.15,
+      "sid": 311,
+      "location": 2,
+      "content": "这是我的个人观点",
+      "music": 0
+    },
+    {
+      "from": 692.15,
+      "to": 694.55,
+      "sid": 312,
+      "location": 2,
+      "content": "我觉得没有必要特别纠结画质的问题",
+      "music": 0
+    },
+    {
+      "from": 694.55,
+      "to": 696.319,
+      "sid": 313,
+      "location": 2,
+      "content": "其实都够用",
+      "music": 0
+    },
+    {
+      "from": 696.319,
+      "to": 701.16,
+      "sid": 314,
+      "location": 2,
+      "content": "甚至我觉得这一款N年前的action2的画质也够用",
+      "music": 0
+    },
+    {
+      "from": 701.16,
+      "to": 702.4,
+      "sid": 315,
+      "location": 2,
+      "content": "当然这一款其实很好",
+      "music": 0
+    },
+    {
+      "from": 702.4,
+      "to": 703.52,
+      "sid": 316,
+      "location": 2,
+      "content": "因为它可以分开来",
+      "music": 0
+    },
+    {
+      "from": 703.52,
+      "to": 705.079,
+      "sid": 317,
+      "location": 2,
+      "content": "变成两个独立的个体",
+      "music": 0
+    },
+    {
+      "from": 705.079,
+      "to": 706.639,
+      "sid": 318,
+      "location": 2,
+      "content": "非常的像这个",
+      "music": 0
+    },
+    {
+      "from": 706.639,
+      "to": 709.199,
+      "sid": 319,
+      "location": 2,
+      "content": "甚至它们的重量都差不多",
+      "music": 0.15745128186142698
+    },
+    {
+      "from": 710,
+      "to": 711.36,
+      "sid": 320,
+      "location": 2,
+      "content": "这俩玩意真差不多",
+      "music": 0
+    },
+    {
+      "from": 711.36,
+      "to": 713.54,
+      "sid": 321,
+      "location": 2,
+      "content": "但是这玩意儿发热更严重",
+      "music": 0
+    },
+    {
+      "from": 713.54,
+      "to": 717.01,
+      "sid": 322,
+      "location": 2,
+      "content": "然后然后那个续航更差",
+      "music": 0
+    },
+    {
+      "from": 717.01,
+      "to": 718.43,
+      "sid": 323,
+      "location": 2,
+      "content": "所以用不了",
+      "music": 0
+    },
+    {
+      "from": 718.43,
+      "to": 721.99,
+      "sid": 324,
+      "location": 2,
+      "content": "你们去看很多关于饮食和大疆的产品对比",
+      "music": 0
+    },
+    {
+      "from": 721.99,
+      "to": 725.009,
+      "sid": 325,
+      "location": 2,
+      "content": "他们两边会同时拍同样一个场景吧",
+      "music": 0
+    },
+    {
+      "from": 725.009,
+      "to": 725.649,
+      "sid": 326,
+      "location": 2,
+      "content": "拍出来的话",
+      "music": 0
+    },
+    {
+      "from": 725.649,
+      "to": 727.689,
+      "sid": 327,
+      "location": 2,
+      "content": "这其实这真没多大区别",
+      "music": 0
+    },
+    {
+      "from": 727.689,
+      "to": 729.249,
+      "sid": 328,
+      "location": 2,
+      "content": "可能就是色调啊",
+      "music": 0
+    },
+    {
+      "from": 729.249,
+      "to": 731.76,
+      "sid": 329,
+      "location": 2,
+      "content": "那个科色色彩科学有点区别",
+      "music": 0
+    },
+    {
+      "from": 731.76,
+      "to": 733.5,
+      "sid": 330,
+      "location": 2,
+      "content": "那这个就个人喜欢了嘛",
+      "music": 0
+    },
+    {
+      "from": 733.5,
+      "to": 736.3,
+      "sid": 331,
+      "location": 2,
+      "content": "但我觉得如果你平时自己拍拍的话",
+      "music": 0
+    },
+    {
+      "from": 736.3,
+      "to": 738.06,
+      "sid": 332,
+      "location": 2,
+      "content": "真没必要纠结这些事情",
+      "music": 0
+    },
+    {
+      "from": 738.06,
+      "to": 740.22,
+      "sid": 333,
+      "location": 2,
+      "content": "当然如果你是个完美主义者的话",
+      "music": 0
+    },
+    {
+      "from": 740.22,
+      "to": 742.7,
+      "sid": 334,
+      "location": 2,
+      "content": "你或者你是个影像器材爱好者的话",
+      "music": 0
+    },
+    {
+      "from": 742.7,
+      "to": 744.18,
+      "sid": 335,
+      "location": 2,
+      "content": "那就另当别论了啊",
+      "music": 0
+    },
+    {
+      "from": 744.18,
+      "to": 746.81,
+      "sid": 336,
+      "location": 2,
+      "content": "然后接下来的问题是运动相机",
+      "music": 0
+    },
+    {
+      "from": 746.81,
+      "to": 750.05,
+      "sid": 337,
+      "location": 2,
+      "content": "就是如果你让我选择呃",
+      "music": 0
+    },
+    {
+      "from": 750.05,
+      "to": 752.69,
+      "sid": 338,
+      "location": 2,
+      "content": "如果你让我在我所有的设备里面推荐一个",
+      "music": 0
+    },
+    {
+      "from": 752.69,
+      "to": 754.01,
+      "sid": 339,
+      "location": 2,
+      "content": "给用户日常使用的话",
+      "music": 0
+    },
+    {
+      "from": 754.01,
+      "to": 755.38,
+      "sid": 340,
+      "location": 2,
+      "content": "我只会推荐POKET3",
+      "music": 0
+    },
+    {
+      "from": 755.38,
+      "to": 757.06,
+      "sid": 341,
+      "location": 2,
+      "content": "FOGT3确实很好用",
+      "music": 0
+    },
+    {
+      "from": 757.06,
+      "to": 760.62,
+      "sid": 342,
+      "location": 2,
+      "content": "我觉得没有比它更好用的拍摄设备了",
+      "music": 0
+    },
+    {
+      "from": 760.62,
+      "to": 764.3,
+      "sid": 343,
+      "location": 2,
+      "content": "就是这些运动相机跟pocket3是不能比的",
+      "music": 0
+    },
+    {
+      "from": 764.3,
+      "to": 765.3,
+      "sid": 344,
+      "location": 2,
+      "content": "当然你有",
+      "music": 0
+    },
+    {
+      "from": 765.3,
+      "to": 768.87,
+      "sid": 345,
+      "location": 2,
+      "content": "除非你有特殊的场景需求呃",
+      "music": 0
+    },
+    {
+      "from": 768.87,
+      "to": 771.83,
+      "sid": 346,
+      "location": 2,
+      "content": "但是听说啊听说今年可能要出新的",
+      "music": 0
+    },
+    {
+      "from": 771.83,
+      "to": 772.85,
+      "sid": 347,
+      "location": 2,
+      "content": "听说啊",
+      "music": 0
+    },
+    {
+      "from": 772.85,
+      "to": 774.87,
+      "sid": 348,
+      "location": 2,
+      "content": "所以大家如果要买的话",
+      "music": 0
+    },
+    {
+      "from": 774.87,
+      "to": 776.19,
+      "sid": 349,
+      "location": 2,
+      "content": "可以去咸鱼买",
+      "music": 0
+    },
+    {
+      "from": 776.19,
+      "to": 777.67,
+      "sid": 350,
+      "location": 2,
+      "content": "不要买一手的",
+      "music": 0
+    },
+    {
+      "from": 777.67,
+      "to": 778.23,
+      "sid": 351,
+      "location": 2,
+      "content": "一手的",
+      "music": 0
+    },
+    {
+      "from": 778.23,
+      "to": 780.05,
+      "sid": 352,
+      "location": 2,
+      "content": "好像现在还有点溢价",
+      "music": 0
+    },
+    {
+      "from": 780.05,
+      "to": 782.25,
+      "sid": 353,
+      "location": 2,
+      "content": "然后我说一下这个全景相机",
+      "music": 0
+    },
+    {
+      "from": 783.13,
+      "to": 786.69,
+      "sid": 354,
+      "location": 2,
+      "content": "全景相机我就更不推荐用户日常使用了",
+      "music": 0
+    },
+    {
+      "from": 786.69,
+      "to": 790.799,
+      "sid": 355,
+      "location": 2,
+      "content": "就这玩意儿它的最大缺点就一个",
+      "music": 0
+    },
+    {
+      "from": 790.799,
+      "to": 793.439,
+      "sid": 356,
+      "location": 2,
+      "content": "他的所有的素材都不是mp4格式的",
+      "music": 0
+    },
+    {
+      "from": 793.439,
+      "to": 796,
+      "sid": 357,
+      "location": 2,
+      "content": "你要先把它导到呃",
+      "music": 0
+    },
+    {
+      "from": 796,
+      "to": 798.32,
+      "sid": 358,
+      "location": 2,
+      "content": "要不是影视的那个什么studio里面",
+      "music": 0
+    },
+    {
+      "from": 798.32,
+      "to": 800.8,
+      "sid": 359,
+      "location": 2,
+      "content": "要不就是大疆的那个全景的studio里面",
+      "music": 0
+    },
+    {
+      "from": 800.8,
+      "to": 802.66,
+      "sid": 360,
+      "location": 2,
+      "content": "你要先把它打好",
+      "music": 0
+    },
+    {
+      "from": 802.66,
+      "to": 803.3,
+      "sid": 361,
+      "location": 2,
+      "content": "关键帧",
+      "music": 0
+    },
+    {
+      "from": 803.3,
+      "to": 804.56,
+      "sid": 362,
+      "location": 2,
+      "content": "包括追踪完",
+      "music": 0
+    },
+    {
+      "from": 804.56,
+      "to": 807.02,
+      "sid": 363,
+      "location": 2,
+      "content": "然后再导出成mp4格式的",
+      "music": 0
+    },
+    {
+      "from": 807.02,
+      "to": 808.9,
+      "sid": 364,
+      "location": 2,
+      "content": "然后你再用那个mp4格式的",
+      "music": 0
+    },
+    {
+      "from": 808.9,
+      "to": 810.44,
+      "sid": 365,
+      "location": 2,
+      "content": "导到剪映或者pr里面去",
+      "music": 0
+    },
+    {
+      "from": 810.44,
+      "to": 811.56,
+      "sid": 366,
+      "location": 2,
+      "content": "实在是太麻烦了啊",
+      "music": 0
+    },
+    {
+      "from": 811.56,
+      "to": 813.079,
+      "sid": 367,
+      "location": 2,
+      "content": "他不是一般的麻烦",
+      "music": 0
+    },
+    {
+      "from": 813.079,
+      "to": 814.319,
+      "sid": 368,
+      "location": 2,
+      "content": "我强烈不推荐",
+      "music": 0
+    },
+    {
+      "from": 814.319,
+      "to": 815.919,
+      "sid": 369,
+      "location": 2,
+      "content": "如果你要在手机上直接连蓝牙",
+      "music": 0
+    },
+    {
+      "from": 815.919,
+      "to": 817.879,
+      "sid": 370,
+      "location": 2,
+      "content": "连连蓝牙去预览它的话",
+      "music": 0
+    },
+    {
+      "from": 817.879,
+      "to": 819.779,
+      "sid": 371,
+      "location": 2,
+      "content": "会有很大的模糊和卡顿",
+      "music": 0
+    },
+    {
+      "from": 819.779,
+      "to": 822.81,
+      "sid": 372,
+      "location": 2,
+      "content": "所以这个就就光这一点的话",
+      "music": 0
+    },
+    {
+      "from": 822.81,
+      "to": 824.89,
+      "sid": 373,
+      "location": 2,
+      "content": "我就觉得这个全景相机对于普通用户来说",
+      "music": 0
+    },
+    {
+      "from": 824.89,
+      "to": 828.25,
+      "sid": 374,
+      "location": 2,
+      "content": "他就完全是过于麻烦了",
+      "music": 0
+    },
+    {
+      "from": 828.25,
+      "to": 829.49,
+      "sid": 375,
+      "location": 2,
+      "content": "他的优点是什么呢",
+      "music": 0
+    },
+    {
+      "from": 829.49,
+      "to": 832.839,
+      "sid": 376,
+      "location": 2,
+      "content": "其实只有一个就是他能同时拍前面和拍后面",
+      "music": 0
+    },
+    {
+      "from": 832.839,
+      "to": 835.039,
+      "sid": 377,
+      "location": 2,
+      "content": "然后我买这个东西的原因是",
+      "music": 0
+    },
+    {
+      "from": 835.039,
+      "to": 837.479,
+      "sid": 378,
+      "location": 2,
+      "content": "我想拍在背后的第三视角嘛",
+      "music": 0
+    },
+    {
+      "from": 837.479,
+      "to": 838.559,
+      "sid": 379,
+      "location": 2,
+      "content": "那我我平时是怎么拍的",
+      "music": 0
+    },
+    {
+      "from": 838.559,
+      "to": 839.619,
+      "sid": 380,
+      "location": 2,
+      "content": "给你们看一下啊",
+      "music": 0
+    },
+    {
+      "from": 839.619,
+      "to": 842.539,
+      "sid": 381,
+      "location": 2,
+      "content": "我要把它放在一根比较长的自拍杆",
+      "music": 0
+    },
+    {
+      "from": 842.539,
+      "to": 843.339,
+      "sid": 382,
+      "location": 2,
+      "content": "这个不是自拍杆",
+      "music": 0
+    },
+    {
+      "from": 843.339,
+      "to": 845.099,
+      "sid": 383,
+      "location": 2,
+      "content": "我随便拿了一根杆子",
+      "music": 0
+    },
+    {
+      "from": 845.339,
+      "to": 848.179,
+      "sid": 384,
+      "location": 2,
+      "content": "然后把它给卡在这上面",
+      "music": 0
+    },
+    {
+      "from": 848.179,
+      "to": 851.83,
+      "sid": 385,
+      "location": 2,
+      "content": "然后把它放在我的脑后比较长的地方啊",
+      "music": 0
+    },
+    {
+      "from": 851.83,
+      "to": 852.67,
+      "sid": 386,
+      "location": 2,
+      "content": "这根长度不够",
+      "music": 0
+    },
+    {
+      "from": 852.67,
+      "to": 854.15,
+      "sid": 387,
+      "location": 2,
+      "content": "我的自拍杆放在我车里了",
+      "music": 0
+    },
+    {
+      "from": 854.15,
+      "to": 857.069,
+      "sid": 388,
+      "location": 2,
+      "content": "我车停在静安静安区了呵",
+      "music": 0
+    },
+    {
+      "from": 857.069,
+      "to": 858.549,
+      "sid": 389,
+      "location": 2,
+      "content": "然后跟在后面",
+      "music": 0
+    },
+    {
+      "from": 858.549,
+      "to": 860.429,
+      "sid": 390,
+      "location": 2,
+      "content": "就像像孙悟空举着金箍棒一样的",
+      "music": 0
+    },
+    {
+      "from": 860.429,
+      "to": 861.829,
+      "sid": 391,
+      "location": 2,
+      "content": "一路边走边拍",
+      "music": 0
+    },
+    {
+      "from": 861.829,
+      "to": 865.74,
+      "sid": 392,
+      "location": 2,
+      "content": "然后我我在车的屁股后面坐了一个能伸长",
+      "music": 0
+    },
+    {
+      "from": 865.74,
+      "to": 868.92,
+      "sid": 393,
+      "location": 2,
+      "content": "缩短的一个车尾的杆",
+      "music": 0
+    },
+    {
+      "from": 868.92,
+      "to": 870.48,
+      "sid": 394,
+      "location": 2,
+      "content": "然后把它放在上面",
+      "music": 0
+    },
+    {
+      "from": 870.48,
+      "to": 871.64,
+      "sid": 395,
+      "location": 2,
+      "content": "这样一路跟着拍",
+      "music": 0
+    },
+    {
+      "from": 871.64,
+      "to": 873.74,
+      "sid": 396,
+      "location": 2,
+      "content": "这这是我的特殊需求",
+      "music": 0
+    },
+    {
+      "from": 873.74,
+      "to": 877.709,
+      "sid": 397,
+      "location": 2,
+      "content": "然后你去看所有的全景相机的宣传片啊",
+      "music": 0
+    },
+    {
+      "from": 877.709,
+      "to": 880.309,
+      "sid": 398,
+      "location": 2,
+      "content": "不管是这个饮食的X5还是大疆的360",
+      "music": 0
+    },
+    {
+      "from": 880.309,
+      "to": 883.12,
+      "sid": 399,
+      "location": 2,
+      "content": "他们都会给你演示一些非常没用的呃",
+      "music": 0
+    },
+    {
+      "from": 883.12,
+      "to": 885.24,
+      "sid": 400,
+      "location": 2,
+      "content": "看上去很酷炫的转场特效",
+      "music": 0
+    },
+    {
+      "from": 885.24,
+      "to": 888.9,
+      "sid": 401,
+      "location": 2,
+      "content": "然后其实大多数使用它的内容",
+      "music": 0
+    },
+    {
+      "from": 888.9,
+      "to": 890.54,
+      "sid": 402,
+      "location": 2,
+      "content": "创作者都不会去使用这个特效",
+      "music": 0
+    },
+    {
+      "from": 890.54,
+      "to": 892.06,
+      "sid": 403,
+      "location": 2,
+      "content": "因为看了一次就会很腻",
+      "music": 0
+    },
+    {
+      "from": 892.06,
+      "to": 893.349,
+      "sid": 404,
+      "location": 2,
+      "content": "而且头很晕",
+      "music": 0
+    },
+    {
+      "from": 893.349,
+      "to": 895.189,
+      "sid": 405,
+      "location": 2,
+      "content": "然后你作为普通普通用户",
+      "music": 0
+    },
+    {
+      "from": 895.189,
+      "to": 897.229,
+      "sid": 406,
+      "location": 2,
+      "content": "就更加不会去用这些特效了",
+      "music": 0
+    },
+    {
+      "from": 897.229,
+      "to": 897.709,
+      "sid": 407,
+      "location": 2,
+      "content": "你懂吧",
+      "music": 0
+    },
+    {
+      "from": 897.709,
+      "to": 899.129,
+      "sid": 408,
+      "location": 2,
+      "content": "就是它有方便的地方",
+      "music": 0
+    },
+    {
+      "from": 899.129,
+      "to": 901.64,
+      "sid": 409,
+      "location": 2,
+      "content": "但是他后期的难度会觉得",
+      "music": 0
+    },
+    {
+      "from": 901.64,
+      "to": 905.23,
+      "sid": 410,
+      "location": 2,
+      "content": "我会让我觉得他的不方便大于它的方便",
+      "music": 0
+    },
+    {
+      "from": 905.23,
+      "to": 905.77,
+      "sid": 411,
+      "location": 2,
+      "content": "这",
+      "music": 0
+    },
+    {
+      "from": 905.77,
+      "to": 908.59,
+      "sid": 412,
+      "location": 2,
+      "content": "这也是为什么我不推荐购买全景相机的原因啊",
+      "music": 0
+    },
+    {
+      "from": 908.59,
+      "to": 911.95,
+      "sid": 413,
+      "location": 2,
+      "content": "然后普通的运动相机呃可以买",
+      "music": 0
+    },
+    {
+      "from": 911.95,
+      "to": 917.31,
+      "sid": 414,
+      "location": 2,
+      "content": "但是在大多数场景下不如手机和PC的三哦",
+      "music": 0
+    },
+    {
+      "from": 917.31,
+      "to": 920.68,
+      "sid": 415,
+      "location": 2,
+      "content": "然后这个新出的拇指相机",
+      "music": 0
+    },
+    {
+      "from": 920.68,
+      "to": 923.28,
+      "sid": 416,
+      "location": 2,
+      "content": "包括他像他他像他的上一代J3S嘛",
+      "music": 0
+    },
+    {
+      "from": 923.28,
+      "to": 924.6,
+      "sid": 417,
+      "location": 2,
+      "content": "它是它更小",
+      "music": 0
+    },
+    {
+      "from": 924.6,
+      "to": 925.99,
+      "sid": 418,
+      "location": 2,
+      "content": "它只有这个的一半",
+      "music": 0
+    },
+    {
+      "from": 925.99,
+      "to": 927.95,
+      "sid": 419,
+      "location": 2,
+      "content": "我觉得那个也挺好的",
+      "music": 0
+    },
+    {
+      "from": 927.95,
+      "to": 930.01,
+      "sid": 420,
+      "location": 2,
+      "content": "就这两个相对比较好一点",
+      "music": 0
+    },
+    {
+      "from": 930.01,
+      "to": 930.99,
+      "sid": 421,
+      "location": 2,
+      "content": "缺点是什么",
+      "music": 0
+    },
+    {
+      "from": 930.99,
+      "to": 932.13,
+      "sid": 422,
+      "location": 2,
+      "content": "是续航短",
+      "music": 0
+    },
+    {
+      "from": 932.13,
+      "to": 934.89,
+      "sid": 423,
+      "location": 2,
+      "content": "然后你需要照顾它",
+      "music": 0
+    },
+    {
+      "from": 934.89,
+      "to": 936.93,
+      "sid": 424,
+      "location": 2,
+      "content": "就我认为他没有",
+      "music": 0
+    },
+    {
+      "from": 939.17,
+      "to": 941.25,
+      "sid": 425,
+      "location": 2,
+      "content": "广告宣传说的那么无感",
+      "music": 0
+    },
+    {
+      "from": 941.25,
+      "to": 943.41,
+      "sid": 426,
+      "location": 2,
+      "content": "除非它的电量能达到一个小时",
+      "music": 0
+    },
+    {
+      "from": 943.41,
+      "to": 946.09,
+      "sid": 427,
+      "location": 2,
+      "content": "我觉得如果它的电量能达到一个小时的情况下",
+      "music": 0
+    },
+    {
+      "from": 946.09,
+      "to": 947.05,
+      "sid": 428,
+      "location": 2,
+      "content": "它很好",
+      "music": 0
+    },
+    {
+      "from": 947.05,
+      "to": 948.21,
+      "sid": 429,
+      "location": 2,
+      "content": "但是现在的情况",
+      "music": 0
+    },
+    {
+      "from": 948.21,
+      "to": 951.43,
+      "sid": 430,
+      "location": 2,
+      "content": "我拍2.7K它可能只有半小时到40分钟",
+      "music": 0
+    },
+    {
+      "from": 951.43,
+      "to": 952.89,
+      "sid": 431,
+      "location": 2,
+      "content": "我觉得还不够好",
+      "music": 0
+    },
+    {
+      "from": 952.89,
+      "to": 955.06,
+      "sid": 432,
+      "location": 2,
+      "content": "因为在这个续航下",
+      "music": 0
+    },
+    {
+      "from": 955.06,
+      "to": 956.42,
+      "sid": 433,
+      "location": 2,
+      "content": "你就不能把它打开录制",
+      "music": 0
+    },
+    {
+      "from": 956.42,
+      "to": 957.8,
+      "sid": 434,
+      "location": 2,
+      "content": "然后你就一直不管它了",
+      "music": 0
+    },
+    {
+      "from": 957.8,
+      "to": 959.6,
+      "sid": 435,
+      "location": 2,
+      "content": "因为你不管它就没电了",
+      "music": 0
+    },
+    {
+      "from": 959.6,
+      "to": 961.16,
+      "sid": 436,
+      "location": 2,
+      "content": "然后的",
+      "music": 0
+    },
+    {
+      "from": 961.16,
+      "to": 965.54,
+      "sid": 437,
+      "location": 2,
+      "content": "这就是我对于现在这些常用拍摄设备的",
+      "music": 0
+    },
+    {
+      "from": 965.54,
+      "to": 968.08,
+      "sid": 438,
+      "location": 2,
+      "content": "我自己的看法",
+      "music": 0.3301886636703309
+    },
+    {
+      "from": 968.26,
+      "to": 969.82,
+      "sid": 439,
+      "location": 2,
+      "content": "我感觉这期视频出完以后",
+      "music": 0
+    },
+    {
+      "from": 969.82,
+      "to": 973.18,
+      "sid": 440,
+      "location": 2,
+      "content": "我应该是接不到影视和大疆的广告来",
+      "music": 0.11564625456983425
+    },
+    {
+      "from": 973.57,
+      "to": 974.49,
+      "sid": 441,
+      "location": 2,
+      "content": "但也不一定吧",
+      "music": 0
+    },
+    {
+      "from": 974.49,
+      "to": 975.73,
+      "sid": 442,
+      "location": 2,
+      "content": "有一天他们的产品做到",
+      "music": 0
+    },
+    {
+      "from": 975.73,
+      "to": 978.67,
+      "sid": 443,
+      "location": 2,
+      "content": "能够让我让我觉得很适合我的运用",
+      "music": 0
+    },
+    {
+      "from": 978.67,
+      "to": 979.87,
+      "sid": 444,
+      "location": 2,
+      "content": "运用场景的需求",
+      "music": 0
+    },
+    {
+      "from": 979.87,
+      "to": 980.55,
+      "sid": 445,
+      "location": 2,
+      "content": "因为是这样的",
+      "music": 0
+    },
+    {
+      "from": 980.55,
+      "to": 983.07,
+      "sid": 446,
+      "location": 2,
+      "content": "我现在对于运动相机的使用场景只有一个",
+      "music": 0
+    },
+    {
+      "from": 983.07,
+      "to": 986.86,
+      "sid": 447,
+      "location": 2,
+      "content": "就是骑车走路两种场景",
+      "music": 0.05150214371235791
+    },
+    {
+      "from": 986.86,
+      "to": 989.26,
+      "sid": 448,
+      "location": 2,
+      "content": "当然我会有一些不同的视角吧",
+      "music": 0
+    },
+    {
+      "from": 989.26,
+      "to": 989.78,
+      "sid": 449,
+      "location": 2,
+      "content": "我跟你说",
+      "music": 0
+    },
+    {
+      "from": 989.78,
+      "to": 990.3,
+      "sid": 450,
+      "location": 2,
+      "content": "我跟大家说",
+      "music": 0
+    },
+    {
+      "from": 990.3,
+      "to": 992.06,
+      "sid": 451,
+      "location": 2,
+      "content": "我现在拍摄的视角是哪几个",
+      "music": 0
+    },
+    {
+      "from": 992.06,
+      "to": 995.78,
+      "sid": 452,
+      "location": 2,
+      "content": "我在车把上装了一个车把前",
+      "music": 0
+    },
+    {
+      "from": 995.78,
+      "to": 998.32,
+      "sid": 453,
+      "location": 2,
+      "content": "然后有一个对着自己的气味",
+      "music": 0
+    },
+    {
+      "from": 998.32,
+      "to": 1001.149,
+      "sid": 454,
+      "location": 2,
+      "content": "然后我在胸口贴了一个这玩意儿",
+      "music": 0
+    },
+    {
+      "from": 1001.149,
+      "to": 1003.14,
+      "sid": 455,
+      "location": 2,
+      "content": "有一个面向前方的",
+      "music": 0
+    },
+    {
+      "from": 1003.14,
+      "to": 1005.52,
+      "sid": 456,
+      "location": 2,
+      "content": "在骑车的时候能看到双手的机位",
+      "music": 0
+    },
+    {
+      "from": 1005.52,
+      "to": 1007.08,
+      "sid": 457,
+      "location": 2,
+      "content": "然后我还有一个头盔上",
+      "music": 0
+    },
+    {
+      "from": 1007.08,
+      "to": 1010.5,
+      "sid": 458,
+      "location": 2,
+      "content": "可以把相机放上去的一个模拟人眼的机尾",
+      "music": 0
+    },
+    {
+      "from": 1010.5,
+      "to": 1011.58,
+      "sid": 459,
+      "location": 2,
+      "content": "但那个机我不常用",
+      "music": 0
+    },
+    {
+      "from": 1011.58,
+      "to": 1014.35,
+      "sid": 460,
+      "location": 2,
+      "content": "因为头盔上挂东西难受呵",
+      "music": 0
+    },
+    {
+      "from": 1014.35,
+      "to": 1017.75,
+      "sid": 461,
+      "location": 2,
+      "content": "还有一个在车尾一个杆子拉出去",
+      "music": 0
+    },
+    {
+      "from": 1017.75,
+      "to": 1021.49,
+      "sid": 462,
+      "location": 2,
+      "content": "然后然后固定固定全景相机的机位",
+      "music": 0
+    },
+    {
+      "from": 1021.49,
+      "to": 1022.91,
+      "sid": 463,
+      "location": 2,
+      "content": "这样可以拍第三人称视角",
+      "music": 0
+    },
+    {
+      "from": 1022.91,
+      "to": 1025.93,
+      "sid": 464,
+      "location": 2,
+      "content": "然后还有一个随身携带的自拍杆",
+      "music": 0
+    },
+    {
+      "from": 1025.93,
+      "to": 1028.33,
+      "sid": 465,
+      "location": 2,
+      "content": "把他架在我背后走路的时候的第三人称",
+      "music": 0
+    },
+    {
+      "from": 1029.37,
+      "to": 1031.53,
+      "sid": 466,
+      "location": 2,
+      "content": "差不多就这几个机位吧",
+      "music": 0
+    },
+    {
+      "from": 1031.53,
+      "to": 1033.37,
+      "sid": 467,
+      "location": 2,
+      "content": "我感觉我这么告诉大家",
+      "music": 0
+    },
+    {
+      "from": 1033.37,
+      "to": 1034.47,
+      "sid": 468,
+      "location": 2,
+      "content": "大家都能拍的",
+      "music": 0
+    },
+    {
+      "from": 1034.47,
+      "to": 1036.07,
+      "sid": 469,
+      "location": 2,
+      "content": "这期视频记得收藏",
+      "music": 0
+    },
+    {
+      "from": 1036.07,
+      "to": 1037.21,
+      "sid": 470,
+      "location": 2,
+      "content": "记得点赞收藏啊",
+      "music": 0
+    },
+    {
+      "from": 1037.21,
+      "to": 1040.909,
+      "sid": 471,
+      "location": 2,
+      "content": "我再跟大家说一些干货内容呵",
+      "music": 0
+    },
+    {
+      "from": 1040.909,
+      "to": 1042.789,
+      "sid": 472,
+      "location": 2,
+      "content": "我觉得我就是做的不够精致吧",
+      "music": 0
+    },
+    {
+      "from": 1042.789,
+      "to": 1044.669,
+      "sid": 473,
+      "location": 2,
+      "content": "如果我再整一些英雄镜头啊",
+      "music": 0
+    },
+    {
+      "from": 1044.669,
+      "to": 1046.909,
+      "sid": 474,
+      "location": 2,
+      "content": "然后把那个各个场景拍好一点啊",
+      "music": 0
+    },
+    {
+      "from": 1046.909,
+      "to": 1048.189,
+      "sid": 475,
+      "location": 2,
+      "content": "然后在文案写的好一点啊",
+      "music": 0
+    },
+    {
+      "from": 1048.189,
+      "to": 1051.08,
+      "sid": 476,
+      "location": 2,
+      "content": "这些视频就有就有那个影视飓风那味儿了",
+      "music": 0
+    },
+    {
+      "from": 1051.08,
+      "to": 1053.4,
+      "sid": 477,
+      "location": 2,
+      "content": "其其实主要就是形式不够",
+      "music": 0
+    },
+    {
+      "from": 1055.4,
+      "to": 1057.46,
+      "sid": 478,
+      "location": 2,
+      "content": "呃想想还有啥",
+      "music": 0
+    },
+    {
+      "from": 1057.46,
+      "to": 1059.48,
+      "sid": 479,
+      "location": 2,
+      "content": "就我跟大家讲一下",
+      "music": 0
+    },
+    {
+      "from": 1059.48,
+      "to": 1060.72,
+      "sid": 480,
+      "location": 2,
+      "content": "我平时大概是怎么拍的",
+      "music": 0
+    },
+    {
+      "from": 1060.72,
+      "to": 1062.71,
+      "sid": 481,
+      "location": 2,
+      "content": "就是这个东西的最难点在于",
+      "music": 0
+    },
+    {
+      "from": 1062.71,
+      "to": 1066.37,
+      "sid": 482,
+      "location": 2,
+      "content": "首先第一点就是你要同时顾到每个相机",
+      "music": 0
+    },
+    {
+      "from": 1066.37,
+      "to": 1071.85,
+      "sid": 483,
+      "location": 2,
+      "content": "我之前一度想尝试着我胸口和背后同时拍",
+      "music": 0
+    },
+    {
+      "from": 1071.85,
+      "to": 1073.19,
+      "sid": 484,
+      "location": 2,
+      "content": "这样的好处是什么呢",
+      "music": 0
+    },
+    {
+      "from": 1073.19,
+      "to": 1073.89,
+      "sid": 485,
+      "location": 2,
+      "content": "举个例子啊",
+      "music": 0
+    },
+    {
+      "from": 1073.89,
+      "to": 1076.23,
+      "sid": 486,
+      "location": 2,
+      "content": "比如说现在我从背后的第三人称视角",
+      "music": 0
+    },
+    {
+      "from": 1076.23,
+      "to": 1079.89,
+      "sid": 487,
+      "location": 2,
+      "content": "然后在一个在一个店家门口",
+      "music": 0
+    },
+    {
+      "from": 1079.89,
+      "to": 1080.93,
+      "sid": 488,
+      "location": 2,
+      "content": "我走进去",
+      "music": 0
+    },
+    {
+      "from": 1080.93,
+      "to": 1083.19,
+      "sid": 489,
+      "location": 2,
+      "content": "然后我伸出了手去拿外卖",
+      "music": 0
+    },
+    {
+      "from": 1083.19,
+      "to": 1085.67,
+      "sid": 490,
+      "location": 2,
+      "content": "这个时候我就可以切到我胸口的第一视角",
+      "music": 0
+    },
+    {
+      "from": 1085.67,
+      "to": 1087.93,
+      "sid": 491,
+      "location": 2,
+      "content": "拿起来转身走",
+      "music": 0
+    },
+    {
+      "from": 1087.93,
+      "to": 1088.79,
+      "sid": 492,
+      "location": 2,
+      "content": "说话",
+      "music": 0
+    },
+    {
+      "from": 1088.79,
+      "to": 1091.44,
+      "sid": 493,
+      "location": 2,
+      "content": "切到切切到对人的视角",
+      "music": 0
+    },
+    {
+      "from": 1091.44,
+      "to": 1092.88,
+      "sid": 494,
+      "location": 2,
+      "content": "然后再走几步",
+      "music": 0
+    },
+    {
+      "from": 1092.88,
+      "to": 1093.84,
+      "sid": 495,
+      "location": 2,
+      "content": "切到第三视角",
+      "music": 0
+    },
+    {
+      "from": 1093.84,
+      "to": 1096.08,
+      "sid": 496,
+      "location": 2,
+      "content": "就我我想实现的是这样的效果",
+      "music": 0
+    },
+    {
+      "from": 1096.08,
+      "to": 1100.67,
+      "sid": 497,
+      "location": 2,
+      "content": "但是这样的问题不是后期剪辑的难度",
+      "music": 0
+    },
+    {
+      "from": 1100.67,
+      "to": 1101.73,
+      "sid": 498,
+      "location": 2,
+      "content": "剪辑有难度",
+      "music": 0
+    },
+    {
+      "from": 1101.73,
+      "to": 1102.58,
+      "sid": 499,
+      "location": 2,
+      "content": "但是没那么难",
+      "music": 0
+    },
+    {
+      "from": 1102.58,
+      "to": 1105.7,
+      "sid": 500,
+      "location": 2,
+      "content": "难点在于你怎么去控制这些相机同时拍",
+      "music": 0
+    },
+    {
+      "from": 1105.7,
+      "to": 1107,
+      "sid": 501,
+      "location": 2,
+      "content": "然后把把那个音",
+      "music": 0
+    },
+    {
+      "from": 1107,
+      "to": 1108.9,
+      "sid": 502,
+      "location": 2,
+      "content": "把那个时间时间码给对准",
+      "music": 0
+    },
+    {
+      "from": 1108.9,
+      "to": 1110.3,
+      "sid": 503,
+      "location": 2,
+      "content": "这些太麻烦了",
+      "music": 0
+    },
+    {
+      "from": 1110.3,
+      "to": 1112.24,
+      "sid": 504,
+      "location": 2,
+      "content": "所以我现在已经放弃了",
+      "music": 0
+    },
+    {
+      "from": 1112.24,
+      "to": 1115.21,
+      "sid": 505,
+      "location": 2,
+      "content": "我现在就基本上属于这个拍好",
+      "music": 0
+    },
+    {
+      "from": 1115.21,
+      "to": 1118.05,
+      "sid": 506,
+      "location": 2,
+      "content": "这个拍完了那个拍那个拍完了再那个拍",
+      "music": 0
+    },
+    {
+      "from": 1118.05,
+      "to": 1120.83,
+      "sid": 507,
+      "location": 2,
+      "content": "就这样比较好管理一点",
+      "music": 0
+    },
+    {
+      "from": 1120.83,
+      "to": 1123.23,
+      "sid": 508,
+      "location": 2,
+      "content": "呵呵因为我之前因为管理素材的问题",
+      "music": 0
+    },
+    {
+      "from": 1123.23,
+      "to": 1125.56,
+      "sid": 509,
+      "location": 2,
+      "content": "出现了丢失素材的嗯",
+      "music": 0
+    },
+    {
+      "from": 1125.56,
+      "to": 1129.63,
+      "sid": 510,
+      "location": 2,
+      "content": "还有一个点就是每天晚上素材量太大了",
+      "music": 0
+    },
+    {
+      "from": 1129.63,
+      "to": 1131.95,
+      "sid": 511,
+      "location": 2,
+      "content": "全景相机就是我跟大家讲",
+      "music": 0
+    },
+    {
+      "from": 1131.95,
+      "to": 1134.87,
+      "sid": 512,
+      "location": 2,
+      "content": "我这个是拍2.7K的全景相机",
+      "music": 0
+    },
+    {
+      "from": 1134.87,
+      "to": 1138.51,
+      "sid": 513,
+      "location": 2,
+      "content": "我是拍5.7K加都是25帧",
+      "music": 0
+    },
+    {
+      "from": 1138.51,
+      "to": 1140.79,
+      "sid": 514,
+      "location": 2,
+      "content": "就是为了让素材相对小一点",
+      "music": 0
+    },
+    {
+      "from": 1140.79,
+      "to": 1143.65,
+      "sid": 515,
+      "location": 2,
+      "content": "哈哈问题就是我家硬盘不够用了",
+      "music": 0
+    },
+    {
+      "from": 1143.65,
+      "to": 1144.99,
+      "sid": 516,
+      "location": 2,
+      "content": "我现在准备组个NAS",
+      "music": 0
+    },
+    {
+      "from": 1144.99,
+      "to": 1148.53,
+      "sid": 517,
+      "location": 2,
+      "content": "有没有人叫跟我讲一下这个NAS到底有没有必要",
+      "music": 0
+    },
+    {
+      "from": 1148.53,
+      "to": 1152.37,
+      "sid": 518,
+      "location": 2,
+      "content": "然后这期视频就是我从一个用户的角度",
+      "music": 0
+    },
+    {
+      "from": 1152.37,
+      "to": 1155.09,
+      "sid": 519,
+      "location": 2,
+      "content": "给大家说的运动相机的科普啊",
+      "music": 0
+    },
+    {
+      "from": 1155.41,
+      "to": 1160.13,
+      "sid": 520,
+      "location": 2,
+      "content": "他不涵盖那个有一些特殊的专业场景",
+      "music": 0
+    },
+    {
+      "from": 1160.13,
+      "to": 1161.21,
+      "sid": 521,
+      "location": 2,
+      "content": "比如说像滑雪",
+      "music": 0
+    },
+    {
+      "from": 1161.21,
+      "to": 1164.44,
+      "sid": 522,
+      "location": 2,
+      "content": "然后如果大家觉得这视频是这期视频",
+      "music": 0
+    },
+    {
+      "from": 1164.44,
+      "to": 1165.44,
+      "sid": 523,
+      "location": 2,
+      "content": "对你有帮助的话",
+      "music": 0
+    },
+    {
+      "from": 1165.44,
+      "to": 1166.48,
+      "sid": 524,
+      "location": 2,
+      "content": "可以点个赞",
+      "music": 0
+    },
+    {
+      "from": 1166.48,
+      "to": 1169.94,
+      "sid": 525,
+      "location": 2,
+      "content": "然后这种类型的视频大家会来看吗",
+      "music": 0
+    },
+    {
+      "from": 1169.94,
+      "to": 1170.9,
+      "sid": 526,
+      "location": 2,
+      "content": "我不知道呀",
+      "music": 0
+    },
+    {
+      "from": 1170.9,
+      "to": 1173.1,
+      "sid": 527,
+      "location": 2,
+      "content": "我纯粹想到哪儿说哪儿",
+      "music": 0
+    },
+    {
+      "from": 1173.1,
+      "to": 1174.46,
+      "sid": 528,
+      "location": 2,
+      "content": "反正今天摆烂了",
+      "music": 0
+    },
+    {
+      "from": 1174.46,
+      "to": 1176.98,
+      "sid": 529,
+      "location": 2,
+      "content": "祝9月9号过生日的生日快乐啊",
+      "music": 0
+    },
+    {
+      "from": 1176.98,
+      "to": 1178.28,
+      "sid": 530,
+      "location": 2,
+      "content": "明天再运动啊",
+      "music": 0
+    },
+    {
+      "from": 1178.28,
+      "to": 1179.78,
+      "sid": 531,
+      "location": 2,
+      "content": "今年今天是真摆烂",
+      "music": 0
+    },
+    {
+      "from": 1179.78,
+      "to": 1181.3,
+      "sid": 532,
+      "location": 2,
+      "content": "呵呵哎",
+      "music": 0
+    },
+    {
+      "from": 1181.3,
+      "to": 1182.98,
+      "sid": 533,
+      "location": 2,
+      "content": "我发现中暑是真的挺难受的",
+      "music": 0
+    },
+    {
+      "from": 1182.98,
+      "to": 1185.92,
+      "sid": 534,
+      "location": 2,
+      "content": "中暑我我昨天在星巴克门口",
+      "music": 0
+    },
+    {
+      "from": 1185.92,
+      "to": 1186.96,
+      "sid": 535,
+      "location": 2,
+      "content": "不是睡了两个小时吗",
+      "music": 0
+    },
+    {
+      "from": 1186.96,
+      "to": 1189.38,
+      "sid": 536,
+      "location": 2,
+      "content": "然后醒来以后头一直疼一直疼一直疼一直疼疼",
+      "music": 0
+    },
+    {
+      "from": 1189.38,
+      "to": 1190.56,
+      "sid": 537,
+      "location": 2,
+      "content": "然后睡了一觉",
+      "music": 0
+    },
+    {
+      "from": 1190.56,
+      "to": 1193.02,
+      "sid": 538,
+      "location": 2,
+      "content": "直接睡了14个小时以后头不痛了",
+      "music": 0
+    },
+    {
+      "from": 1193.02,
+      "to": 1195.3,
+      "sid": 539,
+      "location": 2,
+      "content": "然后我就觉得浑身很疲乏",
+      "music": 0
+    },
+    {
+      "from": 1195.3,
+      "to": 1197.28,
+      "sid": 540,
+      "location": 2,
+      "content": "大家运动的时候还是要注意啊",
+      "music": 0
+    },
+    {
+      "from": 1197.28,
+      "to": 1198.62,
+      "sid": 541,
+      "location": 2,
+      "content": "注意这个劳逸结合",
+      "music": 0
+    },
+    {
+      "from": 1198.62,
+      "to": 1200.9,
+      "sid": 542,
+      "location": 2,
+      "content": "今天我就是一览好",
+      "music": 0
+    },
+    {
+      "from": 1200.9,
+      "to": 1201.92,
+      "sid": 543,
+      "location": 2,
+      "content": "大家再见",
+      "music": 0
+    }
+  ]
+}

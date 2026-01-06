@@ -1,0 +1,36 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 7.12,
+      "to": 9.28,
+      "sid": 1,
+      "location": 2,
+      "content": "祝10月1号过生日",
+      "music": 0
+    },
+    {
+      "from": 9.28,
+      "to": 12.48,
+      "sid": 2,
+      "location": 2,
+      "content": "同学们生日快乐",
+      "music": 0
+    },
+    {
+      "from": 15.24,
+      "to": 17.22,
+      "sid": 3,
+      "location": 2,
+      "content": "♪ 我好想她 ♪",
+      "music": 0.9999999180327935
+    }
+  ]
+}

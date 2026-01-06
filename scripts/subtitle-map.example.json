@@ -1,0 +1,21 @@
+{
+  "说明": "字幕 URL 映射文件",
+  "格式": {
+    "BV号": "完整的字幕 URL（包含 auth_key）",
+    "或视频ID": "完整的字幕 URL"
+  },
+  "示例": {
+    "BV1rPvCBGESM": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11579708303390735037578692f757cc6e503335ec5774d31b9a63c8c7?auth_key=你的auth_key",
+    "BV12oBkBZECh": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11579032188322935011363847...?auth_key=你的auth_key"
+  },
+  "如何获取": [
+    "1. 打开 B 站视频页面",
+    "2. 打开浏览器开发者工具（F12）",
+    "3. 切换到 Network 标签",
+    "4. 刷新页面或播放视频",
+    "5. 搜索 'subtitle' 或 'aisubtitle'",
+    "6. 找到字幕请求，复制完整的 URL",
+    "7. 将 BV 号和 URL 添加到这个文件中"
+  ]
+}
+

@@ -1,0 +1,2956 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0,
+      "to": 1.46,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我来吃斯贝尔",
+      "music": 0
+    },
+    {
+      "from": 1.46,
+      "to": 3.34,
+      "sid": 2,
+      "location": 2,
+      "content": "有没有罗永浩同款菜单",
+      "music": 0
+    },
+    {
+      "from": 3.34,
+      "to": 5.24,
+      "sid": 3,
+      "location": 2,
+      "content": "就他的明显是那种冻过",
+      "music": 0
+    },
+    {
+      "from": 5.24,
+      "to": 6.9,
+      "sid": 4,
+      "location": 2,
+      "content": "然后重新加热",
+      "music": 0
+    },
+    {
+      "from": 6.9,
+      "to": 8.68,
+      "sid": 5,
+      "location": 2,
+      "content": "唉完了怎么像包贝尔啊",
+      "music": 0
+    },
+    {
+      "from": 8.68,
+      "to": 9.74,
+      "sid": 6,
+      "location": 2,
+      "content": "第41天啊",
+      "music": 0
+    },
+    {
+      "from": 9.74,
+      "to": 11.26,
+      "sid": 7,
+      "location": 2,
+      "content": "看下重量",
+      "music": 0
+    },
+    {
+      "from": 13.2,
+      "to": 16.24,
+      "sid": 8,
+      "location": 2,
+      "content": "哼说我没带减肥",
+      "music": 0
+    },
+    {
+      "from": 17.82,
+      "to": 20.46,
+      "sid": 9,
+      "location": 2,
+      "content": "我今天下午没出门的原因",
+      "music": 0
+    },
+    {
+      "from": 20.46,
+      "to": 21.86,
+      "sid": 10,
+      "location": 2,
+      "content": "是因为我觉得他要下雨",
+      "music": 0
+    },
+    {
+      "from": 21.86,
+      "to": 23.62,
+      "sid": 11,
+      "location": 2,
+      "content": "但是等到我想出门的时候",
+      "music": 0
+    },
+    {
+      "from": 23.62,
+      "to": 24.4,
+      "sid": 12,
+      "location": 2,
+      "content": "他才开始下",
+      "music": 0
+    },
+    {
+      "from": 24.4,
+      "to": 25.4,
+      "sid": 13,
+      "location": 2,
+      "content": "我就很烦",
+      "music": 0
+    },
+    {
+      "from": 25.4,
+      "to": 27.16,
+      "sid": 14,
+      "location": 2,
+      "content": "这上海的天气太恶心了",
+      "music": 0
+    },
+    {
+      "from": 27.16,
+      "to": 28.44,
+      "sid": 15,
+      "location": 2,
+      "content": "天气预报也不准",
+      "music": 0
+    },
+    {
+      "from": 28.44,
+      "to": 30.24,
+      "sid": 16,
+      "location": 2,
+      "content": "你们看这雨有多大",
+      "music": 0
+    },
+    {
+      "from": 30.24,
+      "to": 31.68,
+      "sid": 17,
+      "location": 2,
+      "content": "电闪雷鸣",
+      "music": 0
+    },
+    {
+      "from": 31.68,
+      "to": 35.81,
+      "sid": 18,
+      "location": 2,
+      "content": "现在我要去做一些很变态的事",
+      "music": 0
+    },
+    {
+      "from": 35.81,
+      "to": 37.61,
+      "sid": 19,
+      "location": 2,
+      "content": "探店齁B多",
+      "music": 0
+    },
+    {
+      "from": 37.61,
+      "to": 39.77,
+      "sid": 20,
+      "location": 2,
+      "content": "真假真假个屁",
+      "music": 0
+    },
+    {
+      "from": 39.77,
+      "to": 41.81,
+      "sid": 21,
+      "location": 2,
+      "content": "今天我来吃西贝尔",
+      "music": 0
+    },
+    {
+      "from": 41.81,
+      "to": 42.89,
+      "sid": 22,
+      "location": 2,
+      "content": "没送外卖",
+      "music": 0
+    },
+    {
+      "from": 42.89,
+      "to": 44.01,
+      "sid": 23,
+      "location": 2,
+      "content": "但是蹭个热点",
+      "music": 0
+    },
+    {
+      "from": 44.01,
+      "to": 45.01,
+      "sid": 24,
+      "location": 2,
+      "content": "作为美食博主",
+      "music": 0
+    },
+    {
+      "from": 45.01,
+      "to": 48.14,
+      "sid": 25,
+      "location": 2,
+      "content": "我大概给大家品鉴一下罗永浩同款菜单",
+      "music": 0
+    },
+    {
+      "from": 48.14,
+      "to": 50.92,
+      "sid": 26,
+      "location": 2,
+      "content": "到底我不知道他是不是预制菜啊",
+      "music": 0
+    },
+    {
+      "from": 50.92,
+      "to": 53.91,
+      "sid": 27,
+      "location": 2,
+      "content": "但是我至少可以给大家看一下它好不好吃",
+      "music": 0
+    },
+    {
+      "from": 53.91,
+      "to": 55.51,
+      "sid": 28,
+      "location": 2,
+      "content": "好加两位哎",
+      "music": 0
+    },
+    {
+      "from": 55.51,
+      "to": 56.71,
+      "sid": 29,
+      "location": 2,
+      "content": "两位好的",
+      "music": 0
+    },
+    {
+      "from": 56.71,
+      "to": 60.38,
+      "sid": 30,
+      "location": 2,
+      "content": "这边请来你们有没有罗永浩同款菜单",
+      "music": 0
+    },
+    {
+      "from": 61.78,
+      "to": 63.78,
+      "sid": 31,
+      "location": 2,
+      "content": "你可以先坐吧",
+      "music": 0
+    },
+    {
+      "from": 63.78,
+      "to": 65.98,
+      "sid": 32,
+      "location": 2,
+      "content": "嗯稍后我给你拿一个IPAD",
+      "music": 0
+    },
+    {
+      "from": 65.98,
+      "to": 67.06,
+      "sid": 33,
+      "location": 2,
+      "content": "简单啊",
+      "music": 0
+    },
+    {
+      "from": 67.06,
+      "to": 69.1,
+      "sid": 34,
+      "location": 2,
+      "content": "这边是我们的柠檬青瓜茶",
+      "music": 0
+    },
+    {
+      "from": 69.1,
+      "to": 69.78,
+      "sid": 35,
+      "location": 2,
+      "content": "先喝点茶",
+      "music": 0
+    },
+    {
+      "from": 69.78,
+      "to": 74.3,
+      "sid": 36,
+      "location": 2,
+      "content": "点他们他们并没有像罗永浩更换菜单",
+      "music": 0
+    },
+    {
+      "from": 74.3,
+      "to": 75.66,
+      "sid": 37,
+      "location": 2,
+      "content": "你还是得自己点",
+      "music": 0
+    },
+    {
+      "from": 75.66,
+      "to": 78.06,
+      "sid": 38,
+      "location": 2,
+      "content": "但我觉得他们很逆天的事情是什么呢",
+      "music": 0
+    },
+    {
+      "from": 78.06,
+      "to": 80.14,
+      "sid": 39,
+      "location": 2,
+      "content": "就是他们在网上曝光了",
+      "music": 0
+    },
+    {
+      "from": 80.14,
+      "to": 82.59,
+      "sid": 40,
+      "location": 2,
+      "content": "罗永浩当时吃过的那些东西",
+      "music": 0
+    },
+    {
+      "from": 82.59,
+      "to": 84.63,
+      "sid": 41,
+      "location": 2,
+      "content": "就是我觉得这不是顾客的隐私吗",
+      "music": 0
+    },
+    {
+      "from": 84.63,
+      "to": 86.73,
+      "sid": 42,
+      "location": 2,
+      "content": "你怎么把这个群报在网上的",
+      "music": 0
+    },
+    {
+      "from": 86.73,
+      "to": 88.389,
+      "sid": 43,
+      "location": 2,
+      "content": "这很离谱",
+      "music": 0
+    },
+    {
+      "from": 88.389,
+      "to": 91.129,
+      "sid": 44,
+      "location": 2,
+      "content": "在网上搜到的同款菜单",
+      "music": 0
+    },
+    {
+      "from": 91.129,
+      "to": 92.069,
+      "sid": 45,
+      "location": 2,
+      "content": "我要照他点",
+      "music": 0
+    },
+    {
+      "from": 92.069,
+      "to": 93.109,
+      "sid": 46,
+      "location": 2,
+      "content": "但是我们只有两个人",
+      "music": 0
+    },
+    {
+      "from": 93.109,
+      "to": 95.04,
+      "sid": 47,
+      "location": 2,
+      "content": "所以点不了那么多",
+      "music": 0
+    },
+    {
+      "from": 95.04,
+      "to": 96.74,
+      "sid": 48,
+      "location": 2,
+      "content": "我适量点吧",
+      "music": 0
+    },
+    {
+      "from": 96.74,
+      "to": 103.72,
+      "sid": 49,
+      "location": 2,
+      "content": "草原嫩烤羊排真有119块钱真好哦",
+      "music": 0
+    },
+    {
+      "from": 103.72,
+      "to": 107.84,
+      "sid": 50,
+      "location": 2,
+      "content": "葱香草鱼肯定最多89块钱",
+      "music": 0
+    },
+    {
+      "from": 107.84,
+      "to": 110.97,
+      "sid": 51,
+      "location": 2,
+      "content": "一个孤独的日子里",
+      "music": 0.16939889784705617
+    },
+    {
+      "from": 110.97,
+      "to": 112.93,
+      "sid": 52,
+      "location": 2,
+      "content": "平凡谁伤疤",
+      "music": 0.5555555080721828
+    },
+    {
+      "from": 112.96,
+      "to": 115.96,
+      "sid": 53,
+      "location": 2,
+      "content": "人人生哪能不能放过我",
+      "music": 0.9999999468085135
+    },
+    {
+      "from": 115.96,
+      "to": 116.7,
+      "sid": 54,
+      "location": 2,
+      "content": "这一次",
+      "music": 0.9999998648648832
+    },
+    {
+      "from": 116.7,
+      "to": 120.18,
+      "sid": 55,
+      "location": 2,
+      "content": "下辈子我我刚刚我刚刚跟大家说",
+      "music": 0.37499998325892936
+    },
+    {
+      "from": 120.18,
+      "to": 122.14,
+      "sid": 56,
+      "location": 2,
+      "content": "有没有罗永浩同款菜单的时候",
+      "music": 0
+    },
+    {
+      "from": 122.14,
+      "to": 124.72,
+      "sid": 57,
+      "location": 2,
+      "content": "那个那个刚刚接我进来",
+      "music": 0
+    },
+    {
+      "from": 124.72,
+      "to": 126.16,
+      "sid": 58,
+      "location": 2,
+      "content": "那个服务员脸一抽",
+      "music": 0
+    },
+    {
+      "from": 126.16,
+      "to": 128.479,
+      "sid": 59,
+      "location": 2,
+      "content": "然后他就直接没理我",
+      "music": 0
+    },
+    {
+      "from": 128.479,
+      "to": 129.799,
+      "sid": 60,
+      "location": 2,
+      "content": "然后过了一会",
+      "music": 0
+    },
+    {
+      "from": 129.799,
+      "to": 131.859,
+      "sid": 61,
+      "location": 2,
+      "content": "他好像调整好情绪了以后",
+      "music": 0
+    },
+    {
+      "from": 131.859,
+      "to": 135.4,
+      "sid": 62,
+      "location": 2,
+      "content": "他换了一种营业模式过来",
+      "music": 0
+    },
+    {
+      "from": 135.4,
+      "to": 136.62,
+      "sid": 63,
+      "location": 2,
+      "content": "重新跟我说了一遍",
+      "music": 0
+    },
+    {
+      "from": 136.62,
+      "to": 137.28,
+      "sid": 64,
+      "location": 2,
+      "content": "笑死",
+      "music": 0
+    },
+    {
+      "from": 139.6,
+      "to": 143.05,
+      "sid": 65,
+      "location": 2,
+      "content": "说实话我觉得像我这种就有点像来找事的吧",
+      "music": 0
+    },
+    {
+      "from": 143.05,
+      "to": 144.09,
+      "sid": 66,
+      "location": 2,
+      "content": "但是其实也还好",
+      "music": 0
+    },
+    {
+      "from": 144.09,
+      "to": 148.26,
+      "sid": 67,
+      "location": 2,
+      "content": "我只是就想吃一下罗永浩同款菜单走",
+      "music": 0
+    },
+    {
+      "from": 148.26,
+      "to": 152.189,
+      "sid": 68,
+      "location": 2,
+      "content": "我想起来我前两天我前两天做视频的时候",
+      "music": 0
+    },
+    {
+      "from": 152.189,
+      "to": 154.729,
+      "sid": 69,
+      "location": 2,
+      "content": "还点过一次那个西贝的外卖",
+      "music": 0
+    },
+    {
+      "from": 154.729,
+      "to": 158.16,
+      "sid": 70,
+      "location": 2,
+      "content": "我其实对于西贝没有什么很明显的感觉",
+      "music": 0
+    },
+    {
+      "from": 158.16,
+      "to": 159.68,
+      "sid": 71,
+      "location": 2,
+      "content": "但毛毛以前很喜欢吃",
+      "music": 0
+    },
+    {
+      "from": 159.68,
+      "to": 162.44,
+      "sid": 72,
+      "location": 2,
+      "content": "他那天在直播的时候说西贝好吃",
+      "music": 0
+    },
+    {
+      "from": 162.44,
+      "to": 164.84,
+      "sid": 73,
+      "location": 2,
+      "content": "然后我当时碍于情面",
+      "music": 0
+    },
+    {
+      "from": 164.84,
+      "to": 166.24,
+      "sid": 74,
+      "location": 2,
+      "content": "不好意思攻击他",
+      "music": 0
+    },
+    {
+      "from": 166.24,
+      "to": 169.11,
+      "sid": 75,
+      "location": 2,
+      "content": "对其他饭店赶紧充十块钱啊",
+      "music": 0
+    },
+    {
+      "from": 169.11,
+      "to": 172.07,
+      "sid": 76,
+      "location": 2,
+      "content": "我对于西北一直都处在一个非常中庸的态度",
+      "music": 0
+    },
+    {
+      "from": 172.07,
+      "to": 174.86,
+      "sid": 77,
+      "location": 2,
+      "content": "但是我当时记得我在直播间说的时候",
+      "music": 0
+    },
+    {
+      "from": 174.86,
+      "to": 177.08,
+      "sid": 78,
+      "location": 2,
+      "content": "大家都说西贝很贵很贵嘛",
+      "music": 0
+    },
+    {
+      "from": 177.08,
+      "to": 181.7,
+      "sid": 79,
+      "location": 2,
+      "content": "我那个时候对于物价是没有认知的",
+      "music": 0
+    },
+    {
+      "from": 182.1,
+      "to": 184.18,
+      "sid": 80,
+      "location": 2,
+      "content": "卧槽我随便点了一下菜",
+      "music": 0
+    },
+    {
+      "from": 184.18,
+      "to": 185.54,
+      "sid": 81,
+      "location": 2,
+      "content": "已经400块了",
+      "music": 0
+    },
+    {
+      "from": 185.54,
+      "to": 187.3,
+      "sid": 82,
+      "location": 2,
+      "content": "现在是08:02分啊",
+      "music": 0
+    },
+    {
+      "from": 187.3,
+      "to": 189.3,
+      "sid": 83,
+      "location": 2,
+      "content": "我刚刚下完单了",
+      "music": 0
+    },
+    {
+      "from": 189.3,
+      "to": 189.9,
+      "sid": 84,
+      "location": 2,
+      "content": "好表",
+      "music": 0
+    },
+    {
+      "from": 189.9,
+      "to": 191.2,
+      "sid": 85,
+      "location": 2,
+      "content": "西边为您换品牌承诺",
+      "music": 0
+    },
+    {
+      "from": 191.2,
+      "to": 193.82,
+      "sid": 86,
+      "location": 2,
+      "content": "西内用心承诺必点低点头牢的保湿",
+      "music": 0
+    },
+    {
+      "from": 193.82,
+      "to": 194.92,
+      "sid": 87,
+      "location": 2,
+      "content": "做好吃不要钱",
+      "music": 0
+    },
+    {
+      "from": 194.92,
+      "to": 196.62,
+      "sid": 88,
+      "location": 2,
+      "content": "25分钟放心所有菜",
+      "music": 0
+    },
+    {
+      "from": 196.62,
+      "to": 197.459,
+      "sid": 89,
+      "location": 2,
+      "content": "拿杯本",
+      "music": 0
+    },
+    {
+      "from": 200.69,
+      "to": 205.21,
+      "sid": 90,
+      "location": 2,
+      "content": "刚刚刚刚服务员兄弟在这边握着自己的胸口",
+      "music": 0
+    },
+    {
+      "from": 205.21,
+      "to": 206.61,
+      "sid": 91,
+      "location": 2,
+      "content": "给我撑住了",
+      "music": 0
+    },
+    {
+      "from": 206.61,
+      "to": 209.89,
+      "sid": 92,
+      "location": 2,
+      "content": "第一个是25分钟之内上完所有的菜",
+      "music": 0
+    },
+    {
+      "from": 209.89,
+      "to": 211.45,
+      "sid": 93,
+      "location": 2,
+      "content": "第二个是不好吃",
+      "music": 0
+    },
+    {
+      "from": 211.45,
+      "to": 212.73,
+      "sid": 94,
+      "location": 2,
+      "content": "不要甜",
+      "music": 0
+    },
+    {
+      "from": 213.13,
+      "to": 213.65,
+      "sid": 95,
+      "location": 2,
+      "content": "诶",
+      "music": 0
+    },
+    {
+      "from": 213.65,
+      "to": 218.31,
+      "sid": 96,
+      "location": 2,
+      "content": "嘿为什么罗永浩的钱能输呢",
+      "music": 0
+    },
+    {
+      "from": 218.47,
+      "to": 220.31,
+      "sid": 97,
+      "location": 2,
+      "content": "我这一期不想跟大家讨论",
+      "music": 0
+    },
+    {
+      "from": 220.31,
+      "to": 222.39,
+      "sid": 98,
+      "location": 2,
+      "content": "他到底是不是预制菜的这个问题",
+      "music": 0
+    },
+    {
+      "from": 222.39,
+      "to": 225.14,
+      "sid": 99,
+      "location": 2,
+      "content": "因为现在这个视频的风口浪尖是什么呢",
+      "music": 0
+    },
+    {
+      "from": 225.14,
+      "to": 226.46,
+      "sid": 100,
+      "location": 2,
+      "content": "就是他们的老板",
+      "music": 0
+    },
+    {
+      "from": 226.46,
+      "to": 228.8,
+      "sid": 101,
+      "location": 2,
+      "content": "认为我从中央厨房拿出来的冻肉",
+      "music": 0
+    },
+    {
+      "from": 228.8,
+      "to": 231.58,
+      "sid": 102,
+      "location": 2,
+      "content": "然后我就只要在这里的厨房里",
+      "music": 0
+    },
+    {
+      "from": 231.58,
+      "to": 234.46,
+      "sid": 103,
+      "location": 2,
+      "content": "从生肉到了一个加热的状态",
+      "music": 0
+    },
+    {
+      "from": 234.46,
+      "to": 235.78,
+      "sid": 104,
+      "location": 2,
+      "content": "它就不算是预制菜",
+      "music": 0
+    },
+    {
+      "from": 235.78,
+      "to": 238.82,
+      "sid": 105,
+      "location": 2,
+      "content": "但是它确实是经过了中央厨房的预处理的",
+      "music": 0
+    },
+    {
+      "from": 238.82,
+      "to": 240.62,
+      "sid": 106,
+      "location": 2,
+      "content": "那么这是不是预制菜呢",
+      "music": 0
+    },
+    {
+      "from": 240.62,
+      "to": 243.16,
+      "sid": 107,
+      "location": 2,
+      "content": "我在我看来根本就不重要",
+      "music": 0
+    },
+    {
+      "from": 243.16,
+      "to": 245.62,
+      "sid": 108,
+      "location": 2,
+      "content": "因为我对于西贝的观点一直都是这样的",
+      "music": 0
+    },
+    {
+      "from": 245.62,
+      "to": 249.24,
+      "sid": 109,
+      "location": 2,
+      "content": "就是我从来都认为他是预制菜",
+      "music": 0
+    },
+    {
+      "from": 250.28,
+      "to": 252.18,
+      "sid": 110,
+      "location": 2,
+      "content": "然后我也会吃它",
+      "music": 0
+    },
+    {
+      "from": 252.18,
+      "to": 254.84,
+      "sid": 111,
+      "location": 2,
+      "content": "因为我觉得它还是很干净的",
+      "music": 0
+    },
+    {
+      "from": 254.84,
+      "to": 256.76,
+      "sid": 112,
+      "location": 2,
+      "content": "我吃它其实就图一个",
+      "music": 0
+    },
+    {
+      "from": 256.76,
+      "to": 259.169,
+      "sid": 113,
+      "location": 2,
+      "content": "我吃完了不拉肚子",
+      "music": 0
+    },
+    {
+      "from": 259.169,
+      "to": 262.249,
+      "sid": 114,
+      "location": 2,
+      "content": "这也是为什么你们看到我之前减肥的时候",
+      "music": 0
+    },
+    {
+      "from": 262.249,
+      "to": 262.689,
+      "sid": 115,
+      "location": 2,
+      "content": "点外卖",
+      "music": 0
+    },
+    {
+      "from": 262.689,
+      "to": 263.54,
+      "sid": 116,
+      "location": 2,
+      "content": "我会点西贝",
+      "music": 0
+    },
+    {
+      "from": 263.54,
+      "to": 265.06,
+      "sid": 117,
+      "location": 2,
+      "content": "因为他在所有的外卖里面",
+      "music": 0
+    },
+    {
+      "from": 265.06,
+      "to": 267.12,
+      "sid": 118,
+      "location": 2,
+      "content": "我一直都认为它算是比较干净的",
+      "music": 0
+    },
+    {
+      "from": 267.12,
+      "to": 270.49,
+      "sid": 119,
+      "location": 2,
+      "content": "直到我昨天看到了网上出现的",
+      "music": 0
+    },
+    {
+      "from": 270.49,
+      "to": 275.86,
+      "sid": 120,
+      "location": 2,
+      "content": "他的那个料理包是可以放九个月的",
+      "music": 0
+    },
+    {
+      "from": 275.86,
+      "to": 279.92,
+      "sid": 121,
+      "location": 2,
+      "content": "哼我就对于我之前的观点不置可否了",
+      "music": 0
+    },
+    {
+      "from": 279.92,
+      "to": 281.04,
+      "sid": 122,
+      "location": 2,
+      "content": "我现在也没法评价",
+      "music": 0
+    },
+    {
+      "from": 282.08,
+      "to": 286.87,
+      "sid": 123,
+      "location": 2,
+      "content": "然后其实这也是我第一次在店里吃西贝啊",
+      "music": 0
+    },
+    {
+      "from": 286.87,
+      "to": 287.11,
+      "sid": 124,
+      "location": 2,
+      "content": "不对",
+      "music": 0
+    },
+    {
+      "from": 287.11,
+      "to": 289.51,
+      "sid": 125,
+      "location": 2,
+      "content": "第二次之前吃过一次",
+      "music": 0
+    },
+    {
+      "from": 289.51,
+      "to": 290.79,
+      "sid": 126,
+      "location": 2,
+      "content": "我是想来吃西贝",
+      "music": 0
+    },
+    {
+      "from": 290.79,
+      "to": 293.27,
+      "sid": 127,
+      "location": 2,
+      "content": "我基本上就点一个他们那个一碗汤里面",
+      "music": 0
+    },
+    {
+      "from": 293.27,
+      "to": 295.49,
+      "sid": 128,
+      "location": 2,
+      "content": "汤里面是那种长条状的那种面条",
+      "music": 0
+    },
+    {
+      "from": 295.49,
+      "to": 296.51,
+      "sid": 129,
+      "location": 2,
+      "content": "我觉得那个挺好吃的",
+      "music": 0
+    },
+    {
+      "from": 296.51,
+      "to": 298.31,
+      "sid": 130,
+      "location": 2,
+      "content": "那个叫右面嘛",
+      "music": 0
+    },
+    {
+      "from": 298.829,
+      "to": 300.029,
+      "sid": 131,
+      "location": 2,
+      "content": "绣面还是釉面",
+      "music": 0
+    },
+    {
+      "from": 300.029,
+      "to": 301.069,
+      "sid": 132,
+      "location": 2,
+      "content": "我记得好像叫釉面",
+      "music": 0
+    },
+    {
+      "from": 301.069,
+      "to": 303.509,
+      "sid": 133,
+      "location": 2,
+      "content": "因为我幼这个词都是在西贝认识的",
+      "music": 0
+    },
+    {
+      "from": 303.509,
+      "to": 305.45,
+      "sid": 134,
+      "location": 2,
+      "content": "然后我一般就只点那玩意儿",
+      "music": 0
+    },
+    {
+      "from": 305.45,
+      "to": 308.29,
+      "sid": 135,
+      "location": 2,
+      "content": "然后我还会点一个那种大骨牛大骨头",
+      "music": 0
+    },
+    {
+      "from": 308.29,
+      "to": 310.71,
+      "sid": 136,
+      "location": 2,
+      "content": "那个我觉得还挺好吃的",
+      "music": 0
+    },
+    {
+      "from": 310.71,
+      "to": 312.61,
+      "sid": 137,
+      "location": 2,
+      "content": "然后又点那两个那两个单品",
+      "music": 0
+    },
+    {
+      "from": 312.61,
+      "to": 315.59,
+      "sid": 138,
+      "location": 2,
+      "content": "其他东西其实我基本上没咋吃过",
+      "music": 0
+    },
+    {
+      "from": 315.99,
+      "to": 319.29,
+      "sid": 139,
+      "location": 2,
+      "content": "也算是我第一次正式的来吃西北鱼",
+      "music": 0
+    },
+    {
+      "from": 319.29,
+      "to": 321.1,
+      "sid": 140,
+      "location": 2,
+      "content": "第一道黄米凉糕",
+      "music": 0
+    },
+    {
+      "from": 321.1,
+      "to": 323.1,
+      "sid": 141,
+      "location": 2,
+      "content": "我是08:02分点完的菜",
+      "music": 0
+    },
+    {
+      "from": 323.1,
+      "to": 325,
+      "sid": 142,
+      "location": 2,
+      "content": "就是08:06分上的",
+      "music": 0
+    },
+    {
+      "from": 325,
+      "to": 328.34,
+      "sid": 143,
+      "location": 2,
+      "content": "4分钟不算特别快啊",
+      "music": 0
+    },
+    {
+      "from": 328.34,
+      "to": 329.74,
+      "sid": 144,
+      "location": 2,
+      "content": "摆盘还可以啊",
+      "music": 0
+    },
+    {
+      "from": 329.74,
+      "to": 333.7,
+      "sid": 145,
+      "location": 2,
+      "content": "然后这个是桂花糖",
+      "music": 0
+    },
+    {
+      "from": 333.95,
+      "to": 336.83,
+      "sid": 146,
+      "location": 2,
+      "content": "这是我人生第一次拍美食视频",
+      "music": 0
+    },
+    {
+      "from": 336.83,
+      "to": 338.47,
+      "sid": 147,
+      "location": 2,
+      "content": "自己动手拍",
+      "music": 0
+    },
+    {
+      "from": 346.3,
+      "to": 349.19,
+      "sid": 148,
+      "location": 2,
+      "content": "挺好吃的呀",
+      "music": 0
+    },
+    {
+      "from": 350.71,
+      "to": 353.05,
+      "sid": 149,
+      "location": 2,
+      "content": "没有那种放了很久的感觉",
+      "music": 0
+    },
+    {
+      "from": 353.05,
+      "to": 357.79,
+      "sid": 150,
+      "location": 2,
+      "content": "他这个他这个番茄面哎",
+      "music": 0
+    },
+    {
+      "from": 357.79,
+      "to": 358.27,
+      "sid": 151,
+      "location": 2,
+      "content": "你放这吧",
+      "music": 0
+    },
+    {
+      "from": 358.27,
+      "to": 360.37,
+      "sid": 152,
+      "location": 2,
+      "content": "没事需要拌一下吗",
+      "music": 0
+    },
+    {
+      "from": 360.37,
+      "to": 361.98,
+      "sid": 153,
+      "location": 2,
+      "content": "我自己来吧",
+      "music": 0
+    },
+    {
+      "from": 361.98,
+      "to": 363.54,
+      "sid": 154,
+      "location": 2,
+      "content": "他这个里面有葡萄干",
+      "music": 0
+    },
+    {
+      "from": 363.54,
+      "to": 365.1,
+      "sid": 155,
+      "location": 2,
+      "content": "有早年",
+      "music": 0
+    },
+    {
+      "from": 366.59,
+      "to": 367.71,
+      "sid": 156,
+      "location": 2,
+      "content": "需要帮你切一下吗",
+      "music": 0
+    },
+    {
+      "from": 367.71,
+      "to": 369.27,
+      "sid": 157,
+      "location": 2,
+      "content": "我自己拌吧",
+      "music": 0
+    },
+    {
+      "from": 370.51,
+      "to": 371.07,
+      "sid": 158,
+      "location": 2,
+      "content": "谢谢",
+      "music": 0
+    },
+    {
+      "from": 372.31,
+      "to": 373.83,
+      "sid": 159,
+      "location": 2,
+      "content": "然后蘸上这个也没有太甜",
+      "music": 0
+    },
+    {
+      "from": 373.83,
+      "to": 375.91,
+      "sid": 160,
+      "location": 2,
+      "content": "我觉得挺好吃的好",
+      "music": 0
+    },
+    {
+      "from": 375.91,
+      "to": 376.49,
+      "sid": 161,
+      "location": 2,
+      "content": "第二个菜",
+      "music": 0
+    },
+    {
+      "from": 376.49,
+      "to": 377.91,
+      "sid": 162,
+      "location": 2,
+      "content": "紧接时候马上到了",
+      "music": 0
+    },
+    {
+      "from": 377.91,
+      "to": 379.19,
+      "sid": 163,
+      "location": 2,
+      "content": "这个叫五种番茄",
+      "music": 0
+    },
+    {
+      "from": 379.19,
+      "to": 380.43,
+      "sid": 164,
+      "location": 2,
+      "content": "好像真的念寿面",
+      "music": 0
+    },
+    {
+      "from": 380.43,
+      "to": 384.09,
+      "sid": 165,
+      "location": 2,
+      "content": "我刚刚听听他们念的",
+      "music": 0
+    },
+    {
+      "from": 384.41,
+      "to": 386.21,
+      "sid": 166,
+      "location": 2,
+      "content": "然后他正常是帮你拌好的",
+      "music": 0
+    },
+    {
+      "from": 386.21,
+      "to": 387.37,
+      "sid": 167,
+      "location": 2,
+      "content": "我让我特地没让他拌",
+      "music": 0
+    },
+    {
+      "from": 387.37,
+      "to": 389.01,
+      "sid": 168,
+      "location": 2,
+      "content": "我想自己拌",
+      "music": 0
+    },
+    {
+      "from": 389.75,
+      "to": 392.11,
+      "sid": 169,
+      "location": 2,
+      "content": "哎我上次我吃的是那个酸汤鱼鱼",
+      "music": 0
+    },
+    {
+      "from": 392.11,
+      "to": 394.63,
+      "sid": 170,
+      "location": 2,
+      "content": "我比较喜欢吃那个这个我第一次吃",
+      "music": 0
+    },
+    {
+      "from": 395.71,
+      "to": 396.67,
+      "sid": 171,
+      "location": 2,
+      "content": "我不知道咋吃啊",
+      "music": 0
+    },
+    {
+      "from": 396.67,
+      "to": 398.35,
+      "sid": 172,
+      "location": 2,
+      "content": "就这么半开吗",
+      "music": 0
+    },
+    {
+      "from": 401.86,
+      "to": 404.9,
+      "sid": 173,
+      "location": 2,
+      "content": "这玩意我盲猜口感应该还可以哎",
+      "music": 0
+    },
+    {
+      "from": 404.9,
+      "to": 406.56,
+      "sid": 174,
+      "location": 2,
+      "content": "但是这个东西真没法预制吧",
+      "music": 0
+    },
+    {
+      "from": 406.56,
+      "to": 409.61,
+      "sid": 175,
+      "location": 2,
+      "content": "不过他可以预制上面的那个包人生",
+      "music": 0
+    },
+    {
+      "from": 409.61,
+      "to": 413.75,
+      "sid": 176,
+      "location": 2,
+      "content": "整完以后放上去的都解释伤下面的这个东西",
+      "music": 0.058479530453812274
+    },
+    {
+      "from": 413.75,
+      "to": 415.19,
+      "sid": 177,
+      "location": 2,
+      "content": "感觉还是得现做的",
+      "music": 0
+    },
+    {
+      "from": 415.19,
+      "to": 416.87,
+      "sid": 178,
+      "location": 2,
+      "content": "拌完我拌的不太好啊",
+      "music": 0
+    },
+    {
+      "from": 416.87,
+      "to": 419.47,
+      "sid": 179,
+      "location": 2,
+      "content": "拌完以后看上去没什么食欲",
+      "music": 0
+    },
+    {
+      "from": 422.9,
+      "to": 424.38,
+      "sid": 180,
+      "location": 2,
+      "content": "坏了我也觉得挺好吃的",
+      "music": 0
+    },
+    {
+      "from": 424.38,
+      "to": 425.94,
+      "sid": 181,
+      "location": 2,
+      "content": "我是不是不太适合当美食博主",
+      "music": 0
+    },
+    {
+      "from": 425.94,
+      "to": 429.28,
+      "sid": 182,
+      "location": 2,
+      "content": "他它比想象的要没有嚼劲一点",
+      "music": 0
+    },
+    {
+      "from": 429.28,
+      "to": 431.99,
+      "sid": 183,
+      "location": 2,
+      "content": "就是我觉得比想象的要软了一点",
+      "music": 0
+    },
+    {
+      "from": 431.99,
+      "to": 435.27,
+      "sid": 184,
+      "location": 2,
+      "content": "然后吃起来就是那种酸甜的番茄汁的口感",
+      "music": 0
+    },
+    {
+      "from": 435.27,
+      "to": 437.88,
+      "sid": 185,
+      "location": 2,
+      "content": "但是他这个面其实是不吸水的",
+      "music": 0
+    },
+    {
+      "from": 437.88,
+      "to": 440.7,
+      "sid": 186,
+      "location": 2,
+      "content": "所以吃起来比较像在吃饺子皮的感觉",
+      "music": 0
+    },
+    {
+      "from": 440.7,
+      "to": 441.98,
+      "sid": 187,
+      "location": 2,
+      "content": "很像饺子皮",
+      "music": 0
+    },
+    {
+      "from": 441.98,
+      "to": 447.15,
+      "sid": 188,
+      "location": 2,
+      "content": "饺子皮加春卷皮各占50%吧",
+      "music": 0
+    },
+    {
+      "from": 447.15,
+      "to": 450.93,
+      "sid": 189,
+      "location": 2,
+      "content": "然后就像是番茄炒蛋那个鸡底",
+      "music": 0.08856088234092903
+    },
+    {
+      "from": 452.17,
+      "to": 453.65,
+      "sid": 190,
+      "location": 2,
+      "content": "本来是想来找茬的",
+      "music": 0
+    },
+    {
+      "from": 453.65,
+      "to": 455.25,
+      "sid": 191,
+      "location": 2,
+      "content": "结果发现变成洗地的了",
+      "music": 0
+    },
+    {
+      "from": 455.25,
+      "to": 458.49,
+      "sid": 192,
+      "location": 2,
+      "content": "这哈好紧跟其下",
+      "music": 0
+    },
+    {
+      "from": 458.49,
+      "to": 459.73,
+      "sid": 193,
+      "location": 2,
+      "content": "第三道菜",
+      "music": 0
+    },
+    {
+      "from": 459.73,
+      "to": 461.69,
+      "sid": 194,
+      "location": 2,
+      "content": "沙葱炒鸡蛋呃",
+      "music": 0
+    },
+    {
+      "from": 464.17,
+      "to": 466.05,
+      "sid": 195,
+      "location": 2,
+      "content": "这个菜应该",
+      "music": 0
+    },
+    {
+      "from": 468.28,
+      "to": 469.92,
+      "sid": 196,
+      "location": 2,
+      "content": "怎么这么大块啊",
+      "music": 0
+    },
+    {
+      "from": 469.92,
+      "to": 473.2,
+      "sid": 197,
+      "location": 2,
+      "content": "这么菜应该没什么雷好踩的",
+      "music": 0
+    },
+    {
+      "from": 474.04,
+      "to": 475.88,
+      "sid": 198,
+      "location": 2,
+      "content": "做的有点像玉子烧的感觉",
+      "music": 0
+    },
+    {
+      "from": 475.88,
+      "to": 476.88,
+      "sid": 199,
+      "location": 2,
+      "content": "没有前两个好吃",
+      "music": 0
+    },
+    {
+      "from": 478.2,
+      "to": 480.85,
+      "sid": 200,
+      "location": 2,
+      "content": "这个沙葱炒鸡蛋就炒的很正常",
+      "music": 0
+    },
+    {
+      "from": 480.85,
+      "to": 483.11,
+      "sid": 201,
+      "location": 2,
+      "content": "感觉我也能炒出这个水平来",
+      "music": 0
+    },
+    {
+      "from": 483.11,
+      "to": 485.94,
+      "sid": 202,
+      "location": 2,
+      "content": "这个面我觉得还可以",
+      "music": 0
+    },
+    {
+      "from": 486.38,
+      "to": 487.64,
+      "sid": 203,
+      "location": 2,
+      "content": "好两个肉菜",
+      "music": 0
+    },
+    {
+      "from": 487.64,
+      "to": 489,
+      "sid": 204,
+      "location": 2,
+      "content": "一个是烤鱼",
+      "music": 0
+    },
+    {
+      "from": 489,
+      "to": 490.32,
+      "sid": 205,
+      "location": 2,
+      "content": "烤鱼还挺大的",
+      "music": 0
+    },
+    {
+      "from": 490.32,
+      "to": 493.1,
+      "sid": 206,
+      "location": 2,
+      "content": "但是他这个我说实话",
+      "music": 0
+    },
+    {
+      "from": 493.1,
+      "to": 495.22,
+      "sid": 207,
+      "location": 2,
+      "content": "这个烤鱼一点活人感都没有",
+      "music": 0
+    },
+    {
+      "from": 498.12,
+      "to": 504.08,
+      "sid": 208,
+      "location": 2,
+      "content": "然后烤羊排119就这点好少啊",
+      "music": 0
+    },
+    {
+      "from": 504.08,
+      "to": 505.38,
+      "sid": 209,
+      "location": 2,
+      "content": "我先吃烤羊排",
+      "music": 0
+    },
+    {
+      "from": 506.78,
+      "to": 508.5,
+      "sid": 210,
+      "location": 2,
+      "content": "我今天啥都不蘸",
+      "music": 0
+    },
+    {
+      "from": 509.03,
+      "to": 511.14,
+      "sid": 211,
+      "location": 2,
+      "content": "然后我就刚好",
+      "music": 0
+    },
+    {
+      "from": 512.76,
+      "to": 517.7,
+      "sid": 212,
+      "location": 2,
+      "content": "嘿哈嘿哈哈嘿嘿哈嘿哈",
+      "music": 0
+    },
+    {
+      "from": 517.7,
+      "to": 518.36,
+      "sid": 213,
+      "location": 2,
+      "content": "说实在的",
+      "music": 0
+    },
+    {
+      "from": 518.36,
+      "to": 520.81,
+      "sid": 214,
+      "location": 2,
+      "content": "我当了黑for3年",
+      "music": 0.16513759952864432
+    },
+    {
+      "from": 520.81,
+      "to": 522.21,
+      "sid": 215,
+      "location": 2,
+      "content": "有了3年的美食博主",
+      "music": 0
+    },
+    {
+      "from": 522.21,
+      "to": 524.87,
+      "sid": 216,
+      "location": 2,
+      "content": "我是吃不出它到底是不是冻或副热的",
+      "music": 0
+    },
+    {
+      "from": 524.87,
+      "to": 526.53,
+      "sid": 217,
+      "location": 2,
+      "content": "我看了我来之前看了一些视频",
+      "music": 0
+    },
+    {
+      "from": 526.53,
+      "to": 529.39,
+      "sid": 218,
+      "location": 2,
+      "content": "我发现有些专业当厨师的那种",
+      "music": 0
+    },
+    {
+      "from": 529.39,
+      "to": 530.95,
+      "sid": 219,
+      "location": 2,
+      "content": "同时也是探店的up主",
+      "music": 0
+    },
+    {
+      "from": 530.95,
+      "to": 533.01,
+      "sid": 220,
+      "location": 2,
+      "content": "他可以他是可以吃的出这个",
+      "music": 0
+    },
+    {
+      "from": 533.01,
+      "to": 534.61,
+      "sid": 221,
+      "location": 2,
+      "content": "但我吃不出来",
+      "music": 0
+    },
+    {
+      "from": 534.61,
+      "to": 537.79,
+      "sid": 222,
+      "location": 2,
+      "content": "我我能吃到的感受就是",
+      "music": 0
+    },
+    {
+      "from": 539.36,
+      "to": 541.86,
+      "sid": 223,
+      "location": 2,
+      "content": "这个羊肉它没有任何的羊味",
+      "music": 0
+    },
+    {
+      "from": 541.86,
+      "to": 543.8,
+      "sid": 224,
+      "location": 2,
+      "content": "所有人都能不能",
+      "music": 0.7846153242603543
+    },
+    {
+      "from": 543.8,
+      "to": 545.24,
+      "sid": 225,
+      "location": 2,
+      "content": "那如果换毛毛的说法",
+      "music": 0
+    },
+    {
+      "from": 545.24,
+      "to": 547.72,
+      "sid": 226,
+      "location": 2,
+      "content": "就是这个羊肉一点都不膻诶",
+      "music": 0.1860465008112223
+    },
+    {
+      "from": 547.76,
+      "to": 548.88,
+      "sid": 227,
+      "location": 2,
+      "content": "但是我跟你说",
+      "music": 0
+    },
+    {
+      "from": 548.88,
+      "to": 550.16,
+      "sid": 228,
+      "location": 2,
+      "content": "它不单单是膻味的问题",
+      "music": 0
+    },
+    {
+      "from": 550.16,
+      "to": 552.12,
+      "sid": 229,
+      "location": 2,
+      "content": "就是他都没有羊肉的那个肉香味",
+      "music": 0
+    },
+    {
+      "from": 552.12,
+      "to": 554.84,
+      "sid": 230,
+      "location": 2,
+      "content": "就是吃下去是很寡淡的",
+      "music": 0.08163264889627567
+    },
+    {
+      "from": 554.84,
+      "to": 556.92,
+      "sid": 231,
+      "location": 2,
+      "content": "所以你一定要蘸去掉的那种",
+      "music": 0
+    },
+    {
+      "from": 556.92,
+      "to": 558,
+      "sid": 232,
+      "location": 2,
+      "content": "早早来吃",
+      "music": 0
+    },
+    {
+      "from": 559.2,
+      "to": 562.57,
+      "sid": 233,
+      "location": 2,
+      "content": "我觉得这个119的糖水是那种很很难吃",
+      "music": 0
+    },
+    {
+      "from": 562.57,
+      "to": 563.09,
+      "sid": 234,
+      "location": 2,
+      "content": "那种感觉",
+      "music": 0
+    },
+    {
+      "from": 563.09,
+      "to": 566.41,
+      "sid": 235,
+      "location": 2,
+      "content": "就是有一种食之无味的感觉",
+      "music": 0
+    },
+    {
+      "from": 567.85,
+      "to": 568.99,
+      "sid": 236,
+      "location": 2,
+      "content": "特别明显",
+      "music": 0
+    },
+    {
+      "from": 568.99,
+      "to": 571.95,
+      "sid": 237,
+      "location": 2,
+      "content": "日子嗯这个巨甜",
+      "music": 0
+    },
+    {
+      "from": 571.95,
+      "to": 574.9,
+      "sid": 238,
+      "location": 2,
+      "content": "然后烤鱼这个烤鱼我都已经看到过",
+      "music": 0
+    },
+    {
+      "from": 574.9,
+      "to": 576.54,
+      "sid": 239,
+      "location": 2,
+      "content": "他们的外包装长啥样了",
+      "music": 0
+    },
+    {
+      "from": 576.54,
+      "to": 580.18,
+      "sid": 240,
+      "location": 2,
+      "content": "所以我对它的内容其实并不抱什么期待",
+      "music": 0.09740259424015946
+    },
+    {
+      "from": 585.94,
+      "to": 588.4,
+      "sid": 241,
+      "location": 2,
+      "content": "怎么能不哭的出来",
+      "music": 0
+    },
+    {
+      "from": 588.4,
+      "to": 590.34,
+      "sid": 242,
+      "location": 2,
+      "content": "有时和迷迷途累",
+      "music": 0.8333332561728115
+    },
+    {
+      "from": 590.34,
+      "to": 592.6,
+      "sid": 243,
+      "location": 2,
+      "content": "却不知道无限恋爱",
+      "music": 0.30158727765180193
+    },
+    {
+      "from": 592.84,
+      "to": 594.02,
+      "sid": 244,
+      "location": 2,
+      "content": "他肉很肥",
+      "music": 0
+    },
+    {
+      "from": 594.02,
+      "to": 594.52,
+      "sid": 245,
+      "location": 2,
+      "content": "诶",
+      "music": 0
+    },
+    {
+      "from": 594.52,
+      "to": 596.32,
+      "sid": 246,
+      "location": 2,
+      "content": "这个吃起来有点像鳕鱼的感觉",
+      "music": 0
+    },
+    {
+      "from": 596.32,
+      "to": 599,
+      "sid": 247,
+      "location": 2,
+      "content": "但你们就看这个刺激",
+      "music": 0
+    },
+    {
+      "from": 600.46,
+      "to": 602.5,
+      "sid": 248,
+      "location": 2,
+      "content": "就他很明显是那种冻过",
+      "music": 0
+    },
+    {
+      "from": 602.5,
+      "to": 604.52,
+      "sid": 249,
+      "location": 2,
+      "content": "然后重新加热",
+      "music": 0
+    },
+    {
+      "from": 604.68,
+      "to": 606.48,
+      "sid": 250,
+      "location": 2,
+      "content": "那么这到底算不算预制菜呢",
+      "music": 0
+    },
+    {
+      "from": 606.48,
+      "to": 607.48,
+      "sid": 251,
+      "location": 2,
+      "content": "我真不好说",
+      "music": 0
+    },
+    {
+      "from": 607.48,
+      "to": 611.56,
+      "sid": 252,
+      "location": 2,
+      "content": "但是这道菜89块钱我觉得还行",
+      "music": 0
+    },
+    {
+      "from": 612.06,
+      "to": 614.42,
+      "sid": 253,
+      "location": 2,
+      "content": "这个鱼还是挺值得一吃的",
+      "music": 0
+    },
+    {
+      "from": 614.42,
+      "to": 616.86,
+      "sid": 254,
+      "location": 2,
+      "content": "可以最后一个",
+      "music": 0
+    },
+    {
+      "from": 618.11,
+      "to": 619.53,
+      "sid": 255,
+      "location": 2,
+      "content": "这个也是罗永浩同款",
+      "music": 0
+    },
+    {
+      "from": 619.53,
+      "to": 621.03,
+      "sid": 256,
+      "location": 2,
+      "content": "反正今天全是罗永浩同款",
+      "music": 0
+    },
+    {
+      "from": 621.03,
+      "to": 622.15,
+      "sid": 257,
+      "location": 2,
+      "content": "这个叫啥来着",
+      "music": 0
+    },
+    {
+      "from": 622.15,
+      "to": 624.19,
+      "sid": 258,
+      "location": 2,
+      "content": "小巧草原牛排",
+      "music": 0
+    },
+    {
+      "from": 624.68,
+      "to": 629.26,
+      "sid": 259,
+      "location": 2,
+      "content": "这个牛肉吃起来像豆腐干",
+      "music": 0
+    },
+    {
+      "from": 629.26,
+      "to": 633.4,
+      "sid": 260,
+      "location": 2,
+      "content": "就是它的质地上就没有什么牛肉的感觉",
+      "music": 0
+    },
+    {
+      "from": 633.4,
+      "to": 635.04,
+      "sid": 261,
+      "location": 2,
+      "content": "然后他还加了很多的辣椒",
+      "music": 0
+    },
+    {
+      "from": 635.04,
+      "to": 638.46,
+      "sid": 262,
+      "location": 2,
+      "content": "把他的那个牛味全盖住了",
+      "music": 0
+    },
+    {
+      "from": 638.46,
+      "to": 640.42,
+      "sid": 263,
+      "location": 2,
+      "content": "我觉得是故意的",
+      "music": 0
+    },
+    {
+      "from": 640.42,
+      "to": 643.02,
+      "sid": 264,
+      "location": 2,
+      "content": "我觉得湖南人会喜欢吃这个",
+      "music": 0
+    },
+    {
+      "from": 643.02,
+      "to": 644.58,
+      "sid": 265,
+      "location": 2,
+      "content": "因为它味道很重",
+      "music": 0
+    },
+    {
+      "from": 644.58,
+      "to": 647.92,
+      "sid": 266,
+      "location": 2,
+      "content": "但是牛肉没什么牛肉的感觉了",
+      "music": 0
+    },
+    {
+      "from": 647.92,
+      "to": 649.3,
+      "sid": 267,
+      "location": 2,
+      "content": "像豆腐干",
+      "music": 0
+    },
+    {
+      "from": 649.3,
+      "to": 653.28,
+      "sid": 268,
+      "location": 2,
+      "content": "有点像那种素素肉的那种豆腐干的感觉",
+      "music": 0
+    },
+    {
+      "from": 653.28,
+      "to": 656.64,
+      "sid": 269,
+      "location": 2,
+      "content": "这个鱼还有这个羊肉",
+      "music": 0
+    },
+    {
+      "from": 656.64,
+      "to": 659.159,
+      "sid": 270,
+      "location": 2,
+      "content": "还有这个小炒牛肉",
+      "music": 0
+    },
+    {
+      "from": 659.159,
+      "to": 661.719,
+      "sid": 271,
+      "location": 2,
+      "content": "这三道菜我觉得都是非常没有锅气的",
+      "music": 0
+    },
+    {
+      "from": 661.719,
+      "to": 665.95,
+      "sid": 272,
+      "location": 2,
+      "content": "三道菜前面上的这个能吃的出锅旗",
+      "music": 0
+    },
+    {
+      "from": 665.95,
+      "to": 667.51,
+      "sid": 273,
+      "location": 2,
+      "content": "因为他明显是现炒的",
+      "music": 0
+    },
+    {
+      "from": 667.51,
+      "to": 670.769,
+      "sid": 274,
+      "location": 2,
+      "content": "然后这个面的话我们都已经吃完了",
+      "music": 0
+    },
+    {
+      "from": 670.769,
+      "to": 672.889,
+      "sid": 275,
+      "location": 2,
+      "content": "这个确实还挺好吃的",
+      "music": 0
+    },
+    {
+      "from": 672.889,
+      "to": 674.409,
+      "sid": 276,
+      "location": 2,
+      "content": "但这三个肉菜",
+      "music": 0
+    },
+    {
+      "from": 674.409,
+      "to": 676.71,
+      "sid": 277,
+      "location": 2,
+      "content": "我觉得可能就是罗永浩吐槽的原因",
+      "music": 0
+    },
+    {
+      "from": 676.71,
+      "to": 678.41,
+      "sid": 278,
+      "location": 2,
+      "content": "就没有活人感",
+      "music": 0
+    },
+    {
+      "from": 678.41,
+      "to": 679.51,
+      "sid": 279,
+      "location": 2,
+      "content": "没有活牛感",
+      "music": 0
+    },
+    {
+      "from": 679.51,
+      "to": 680.39,
+      "sid": 280,
+      "location": 2,
+      "content": "没有活羊感",
+      "music": 0
+    },
+    {
+      "from": 680.39,
+      "to": 681.35,
+      "sid": 281,
+      "location": 2,
+      "content": "没有活鱼感",
+      "music": 0
+    },
+    {
+      "from": 681.35,
+      "to": 682.67,
+      "sid": 282,
+      "location": 2,
+      "content": "他们看到我在拍视频",
+      "music": 0
+    },
+    {
+      "from": 682.67,
+      "to": 683.43,
+      "sid": 283,
+      "location": 2,
+      "content": "送了我壳了",
+      "music": 0
+    },
+    {
+      "from": 683.43,
+      "to": 685.81,
+      "sid": 284,
+      "location": 2,
+      "content": "我就不得不回拍美食视频",
+      "music": 0
+    },
+    {
+      "from": 685.81,
+      "to": 686.89,
+      "sid": 285,
+      "location": 2,
+      "content": "怎么能不喝可乐呢",
+      "music": 0
+    },
+    {
+      "from": 686.89,
+      "to": 687.65,
+      "sid": 286,
+      "location": 2,
+      "content": "这的可乐多少钱",
+      "music": 0
+    },
+    {
+      "from": 687.65,
+      "to": 688.29,
+      "sid": 287,
+      "location": 2,
+      "content": "你们猜一下",
+      "music": 0
+    },
+    {
+      "from": 691.13,
+      "to": 692.9,
+      "sid": 288,
+      "location": 2,
+      "content": "我觉得我们真的还挺能吃的",
+      "music": 0
+    },
+    {
+      "from": 692.9,
+      "to": 695.18,
+      "sid": 289,
+      "location": 2,
+      "content": "你看这个鱼全吃完了",
+      "music": 0
+    },
+    {
+      "from": 695.18,
+      "to": 697.7,
+      "sid": 290,
+      "location": 2,
+      "content": "这个羊排剩了一根没吃完",
+      "music": 0
+    },
+    {
+      "from": 697.7,
+      "to": 699.8,
+      "sid": 291,
+      "location": 2,
+      "content": "然后这个面也全吃完了",
+      "music": 0
+    },
+    {
+      "from": 699.8,
+      "to": 700.78,
+      "sid": 292,
+      "location": 2,
+      "content": "尝到了",
+      "music": 0
+    },
+    {
+      "from": 700.78,
+      "to": 705.6,
+      "sid": 293,
+      "location": 2,
+      "content": "但是这个小炒黄牛肉实在是太难吃了",
+      "music": 0.1137724516834571
+    },
+    {
+      "from": 705.6,
+      "to": 707.88,
+      "sid": 294,
+      "location": 2,
+      "content": "我甚至连打包他都不愿意打包",
+      "music": 0
+    },
+    {
+      "from": 707.88,
+      "to": 712.04,
+      "sid": 295,
+      "location": 2,
+      "content": "他连我打包他回去做一碗面的想法都没有",
+      "music": 0
+    },
+    {
+      "from": 712.04,
+      "to": 714,
+      "sid": 296,
+      "location": 2,
+      "content": "还有这个羊排也很难吃",
+      "music": 0
+    },
+    {
+      "from": 714,
+      "to": 715.6,
+      "sid": 297,
+      "location": 2,
+      "content": "实在吃不下了",
+      "music": 0
+    },
+    {
+      "from": 715.6,
+      "to": 718.04,
+      "sid": 298,
+      "location": 2,
+      "content": "消费394",
+      "music": 0
+    },
+    {
+      "from": 718.04,
+      "to": 719.84,
+      "sid": 299,
+      "location": 2,
+      "content": "两个人吃了394啊",
+      "music": 0
+    },
+    {
+      "from": 719.84,
+      "to": 722.88,
+      "sid": 300,
+      "location": 2,
+      "content": "就那个小炒草原牛没吃完",
+      "music": 0
+    },
+    {
+      "from": 722.88,
+      "to": 723.9,
+      "sid": 301,
+      "location": 2,
+      "content": "别的都吃完了",
+      "music": 0
+    },
+    {
+      "from": 723.9,
+      "to": 724.84,
+      "sid": 302,
+      "location": 2,
+      "content": "我现在为什么知道",
+      "music": 0
+    },
+    {
+      "from": 724.84,
+      "to": 728.79,
+      "sid": 303,
+      "location": 2,
+      "content": "罗永浩说他们五个人吃了600多没吃饱了",
+      "music": 0
+    },
+    {
+      "from": 728.79,
+      "to": 732.23,
+      "sid": 304,
+      "location": 2,
+      "content": "两个人吃300也就刚吃饱",
+      "music": 0
+    },
+    {
+      "from": 732.23,
+      "to": 733.27,
+      "sid": 305,
+      "location": 2,
+      "content": "而且我跟你们讲啊",
+      "music": 0
+    },
+    {
+      "from": 733.27,
+      "to": 734.55,
+      "sid": 306,
+      "location": 2,
+      "content": "我现在学聪明了",
+      "music": 0
+    },
+    {
+      "from": 734.55,
+      "to": 737.34,
+      "sid": 307,
+      "location": 2,
+      "content": "我现在学会用美团核销券了",
+      "music": 0
+    },
+    {
+      "from": 737.34,
+      "to": 741.14,
+      "sid": 308,
+      "location": 2,
+      "content": "在美团上面100块可以给你打九八折",
+      "music": 0
+    },
+    {
+      "from": 741.14,
+      "to": 742.38,
+      "sid": 309,
+      "location": 2,
+      "content": "便宜两块钱",
+      "music": 0
+    },
+    {
+      "from": 744.66,
+      "to": 745.079,
+      "sid": 310,
+      "location": 2,
+      "content": "让中",
+      "music": 0.9999991666673611
+    },
+    {
+      "from": 753.579,
+      "to": 755.819,
+      "sid": 311,
+      "location": 2,
+      "content": "还有一次后来的时间蹲了",
+      "music": 0
+    },
+    {
+      "from": 755.819,
+      "to": 757.519,
+      "sid": 312,
+      "location": 2,
+      "content": "不能放过这一次",
+      "music": 0.9999999137187304
+    },
+    {
+      "from": 757.519,
+      "to": 761.159,
+      "sid": 313,
+      "location": 2,
+      "content": "下辈子我只想做个不会长大的孩子",
+      "music": 0.7937499751953544
+    },
+    {
+      "from": 761.159,
+      "to": 762.179,
+      "sid": 314,
+      "location": 2,
+      "content": "有人气男",
+      "music": 0.9999998888889013
+    },
+    {
+      "from": 762.179,
+      "to": 763.079,
+      "sid": 315,
+      "location": 2,
+      "content": "有人依靠",
+      "music": 0.9999998888889013
+    },
+    {
+      "from": 763.079,
+      "to": 764.92,
+      "sid": 316,
+      "location": 2,
+      "content": "后悔有太多心事",
+      "music": 0.9999999242997786
+    },
+    {
+      "from": 764.92,
+      "to": 769.659,
+      "sid": 317,
+      "location": 2,
+      "content": "用最天真的相遇就能逃避生活的真挚人生了",
+      "music": 0.9153438911284848
+    },
+    {
+      "from": 769.659,
+      "to": 771.319,
+      "sid": 318,
+      "location": 2,
+      "content": "哪能不能放过我",
+      "music": 0.9999999350227462
+    },
+    {
+      "from": 771.319,
+      "to": 772.039,
+      "sid": 319,
+      "location": 2,
+      "content": "这一次",
+      "music": 0.9999998611111305
+    },
+    {
+      "from": 772.039,
+      "to": 773.719,
+      "sid": 320,
+      "location": 2,
+      "content": "有时候明明很累",
+      "music": 0.44191173221233054
+    },
+    {
+      "from": 773.719,
+      "to": 775.74,
+      "sid": 321,
+      "location": 2,
+      "content": "却不知道你是的真情",
+      "music": 0.12491324601570833
+    },
+    {
+      "from": 775.74,
+      "to": 777.62,
+      "sid": 322,
+      "location": 2,
+      "content": "残酷的现实在积水",
+      "music": 0.9130434286389011
+    },
+    {
+      "from": 777.62,
+      "to": 780.24,
+      "sid": 323,
+      "location": 2,
+      "content": "雷神坚强地撑实抓干年来",
+      "music": 0.7249999697916786
+    },
+    {
+      "from": 781.8,
+      "to": 782.9,
+      "sid": 324,
+      "location": 2,
+      "content": "包给了我",
+      "music": 0
+    },
+    {
+      "from": 782.9,
+      "to": 786.91,
+      "sid": 325,
+      "location": 2,
+      "content": "我不包子害怕我怎么感觉我一下子变凶了呢",
+      "music": 0
+    },
+    {
+      "from": 786.91,
+      "to": 788.79,
+      "sid": 326,
+      "location": 2,
+      "content": "这下我终于可以说出什么了",
+      "music": 0
+    },
+    {
+      "from": 788.79,
+      "to": 789.49,
+      "sid": 327,
+      "location": 2,
+      "content": "你知道吗",
+      "music": 0
+    },
+    {
+      "from": 789.49,
+      "to": 792.85,
+      "sid": 328,
+      "location": 2,
+      "content": "我可以说出我不瘦到160",
+      "music": 0
+    },
+    {
+      "from": 792.85,
+      "to": 794.09,
+      "sid": 329,
+      "location": 2,
+      "content": "我不剪头吧",
+      "music": 0
+    },
+    {
+      "from": 794.09,
+      "to": 794.93,
+      "sid": 330,
+      "location": 2,
+      "content": "哎完了",
+      "music": 0
+    },
+    {
+      "from": 794.93,
+      "to": 797.28,
+      "sid": 331,
+      "location": 2,
+      "content": "怎么像包贝尔啊",
+      "music": 0
+    },
+    {
+      "from": 799.44,
+      "to": 803.14,
+      "sid": 332,
+      "location": 2,
+      "content": "耶我看自己好不习惯啊",
+      "music": 0
+    },
+    {
+      "from": 803.14,
+      "to": 804.73,
+      "sid": 333,
+      "location": 2,
+      "content": "呵呵啊",
+      "music": 0
+    },
+    {
+      "from": 804.73,
+      "to": 808.35,
+      "sid": 334,
+      "location": 2,
+      "content": "但我觉得瘦了以后剃光头就感觉清秀了一点",
+      "music": 0
+    },
+    {
+      "from": 808.35,
+      "to": 810.27,
+      "sid": 335,
+      "location": 2,
+      "content": "两边的横肉没有那么明显",
+      "music": 0
+    },
+    {
+      "from": 810.27,
+      "to": 813.28,
+      "sid": 336,
+      "location": 2,
+      "content": "但是我现在这个法令纹真的越来越深了",
+      "music": 0
+    },
+    {
+      "from": 813.28,
+      "to": 813.64,
+      "sid": 337,
+      "location": 2,
+      "content": "怎么办",
+      "music": 0
+    },
+    {
+      "from": 816.88,
+      "to": 818.869,
+      "sid": 338,
+      "location": 2,
+      "content": "好今天啥都没干",
+      "music": 0
+    },
+    {
+      "from": 818.869,
+      "to": 819.669,
+      "sid": 339,
+      "location": 2,
+      "content": "因为下雨",
+      "music": 0
+    },
+    {
+      "from": 819.669,
+      "to": 821.149,
+      "sid": 340,
+      "location": 2,
+      "content": "但是明天不能再等下雨了",
+      "music": 0
+    },
+    {
+      "from": 821.149,
+      "to": 823.789,
+      "sid": 341,
+      "location": 2,
+      "content": "因为接下来上海要下一整个礼拜的雨",
+      "music": 0
+    },
+    {
+      "from": 823.789,
+      "to": 825.97,
+      "sid": 342,
+      "location": 2,
+      "content": "所以明天冒着雨也要出去送外卖了",
+      "music": 0
+    },
+    {
+      "from": 825.97,
+      "to": 830.03,
+      "sid": 343,
+      "location": 2,
+      "content": "而且明天是我准备的每一个礼拜做的",
+      "music": 0
+    },
+    {
+      "from": 830.03,
+      "to": 831.53,
+      "sid": 344,
+      "location": 2,
+      "content": "从早送到晚特辑",
+      "music": 0
+    },
+    {
+      "from": 831.53,
+      "to": 832.87,
+      "sid": 345,
+      "location": 2,
+      "content": "明天我九点就起",
+      "music": 0
+    },
+    {
+      "from": 832.87,
+      "to": 834.57,
+      "sid": 346,
+      "location": 2,
+      "content": "现在11点准时睡觉",
+      "music": 0
+    },
+    {
+      "from": 834.57,
+      "to": 837.069,
+      "sid": 347,
+      "location": 2,
+      "content": "祝9月15号过生日的生日快乐啊",
+      "music": 0
+    },
+    {
+      "from": 837.069,
+      "to": 839.029,
+      "sid": 348,
+      "location": 2,
+      "content": "今天回归了原始发型",
+      "music": 0
+    },
+    {
+      "from": 840.349,
+      "to": 841.289,
+      "sid": 349,
+      "location": 2,
+      "content": "顺便说一下啊",
+      "music": 0
+    },
+    {
+      "from": 841.289,
+      "to": 843.66,
+      "sid": 350,
+      "location": 2,
+      "content": "西贝真的很难吃呵",
+      "music": 0
+    },
+    {
+      "from": 843.66,
+      "to": 844.42,
+      "sid": 351,
+      "location": 2,
+      "content": "别去吃啊",
+      "music": 0
+    },
+    {
+      "from": 844.42,
+      "to": 845.58,
+      "sid": 352,
+      "location": 2,
+      "content": "不要因为好奇去吃",
+      "music": 0
+    },
+    {
+      "from": 845.58,
+      "to": 846.46,
+      "sid": 353,
+      "location": 2,
+      "content": "又贵又难吃",
+      "music": 0
+    },
+    {
+      "from": 846.46,
+      "to": 847.24,
+      "sid": 354,
+      "location": 2,
+      "content": "是真的",
+      "music": 0
+    },
+    {
+      "from": 847.24,
+      "to": 848.78,
+      "sid": 355,
+      "location": 2,
+      "content": "我管他是不是日制菜奶",
+      "music": 0
+    },
+    {
+      "from": 848.78,
+      "to": 851.76,
+      "sid": 356,
+      "location": 2,
+      "content": "你贵你家加你难吃是事实哎",
+      "music": 0
+    },
+    {
+      "from": 851.76,
+      "to": 853.92,
+      "sid": 357,
+      "location": 2,
+      "content": "前天还买了个新手表明先测一下啊",
+      "music": 0
+    },
+    {
+      "from": 853.92,
+      "to": 859.57,
+      "sid": 358,
+      "location": 2,
+      "content": "买了一个这个是叫啥佳明的入门款",
+      "music": 0.03825136507509711
+    },
+    {
+      "from": 859.57,
+      "to": 860.67,
+      "sid": 359,
+      "location": 2,
+      "content": "我研究了下",
+      "music": 0
+    },
+    {
+      "from": 860.67,
+      "to": 861.87,
+      "sid": 360,
+      "location": 2,
+      "content": "我觉得没必要买贵的",
+      "music": 0
+    },
+    {
+      "from": 861.87,
+      "to": 862.79,
+      "sid": 361,
+      "location": 2,
+      "content": "因为对于我来说",
+      "music": 0
+    },
+    {
+      "from": 862.79,
+      "to": 863.75,
+      "sid": 362,
+      "location": 2,
+      "content": "这些功能都没用",
+      "music": 0
+    },
+    {
+      "from": 863.75,
+      "to": 867.46,
+      "sid": 363,
+      "location": 2,
+      "content": "而且我很大概率用了一下以后就要闲置",
+      "music": 0
+    },
+    {
+      "from": 867.46,
+      "to": 868.32,
+      "sid": 364,
+      "location": 2,
+      "content": "然后要揉",
+      "music": 0
+    },
+    {
+      "from": 868.32,
+      "to": 869.28,
+      "sid": 365,
+      "location": 2,
+      "content": "烦死了",
+      "music": 0
+    },
+    {
+      "from": 869.28,
+      "to": 870.4,
+      "sid": 366,
+      "location": 2,
+      "content": "先试试好吧",
+      "music": 0
+    },
+    {
+      "from": 870.4,
+      "to": 872.8,
+      "sid": 367,
+      "location": 2,
+      "content": "不行就揉好",
+      "music": 0.329113903220619
+    },
+    {
+      "from": 872.8,
+      "to": 873.74,
+      "sid": 368,
+      "location": 2,
+      "content": "三亚明天见",
+      "music": 0
+    }
+  ]
+}

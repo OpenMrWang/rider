@@ -1,0 +1,524 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.74,
+      "sid": 1,
+      "location": 2,
+      "content": "自律就是为了更好的放纵",
+      "music": 0
+    },
+    {
+      "from": 1.74,
+      "to": 4.32,
+      "sid": 2,
+      "location": 2,
+      "content": "今天是我自律的第19天",
+      "music": 0
+    },
+    {
+      "from": 4.32,
+      "to": 5.92,
+      "sid": 3,
+      "location": 2,
+      "content": "在我自律的过程当中",
+      "music": 0
+    },
+    {
+      "from": 5.92,
+      "to": 8.03,
+      "sid": 4,
+      "location": 2,
+      "content": "我决定每天给自己一顿放纵餐",
+      "music": 0
+    },
+    {
+      "from": 8.03,
+      "to": 9.95,
+      "sid": 5,
+      "location": 2,
+      "content": "这样我还能瘦吗",
+      "music": 0
+    },
+    {
+      "from": 9.95,
+      "to": 10.93,
+      "sid": 6,
+      "location": 2,
+      "content": "三个鸡蛋",
+      "music": 0
+    },
+    {
+      "from": 10.93,
+      "to": 11.89,
+      "sid": 7,
+      "location": 2,
+      "content": "一根香蕉",
+      "music": 0
+    },
+    {
+      "from": 11.89,
+      "to": 12.81,
+      "sid": 8,
+      "location": 2,
+      "content": "一杯牛奶",
+      "music": 0
+    },
+    {
+      "from": 12.81,
+      "to": 13.47,
+      "sid": 9,
+      "location": 2,
+      "content": "一个鸡蛋",
+      "music": 0
+    },
+    {
+      "from": 13.47,
+      "to": 15.11,
+      "sid": 10,
+      "location": 2,
+      "content": "八十千卡",
+      "music": 0
+    },
+    {
+      "from": 16.819,
+      "to": 17.539,
+      "sid": 11,
+      "location": 2,
+      "content": "240",
+      "music": 0
+    },
+    {
+      "from": 19.619,
+      "to": 20.779,
+      "sid": 12,
+      "location": 2,
+      "content": "100",
+      "music": 0
+    },
+    {
+      "from": 24.66,
+      "to": 27.72,
+      "sid": 13,
+      "location": 2,
+      "content": "啊2.5L水",
+      "music": 0
+    },
+    {
+      "from": 27.72,
+      "to": 29.38,
+      "sid": 14,
+      "location": 2,
+      "content": "一天干完",
+      "music": 0
+    },
+    {
+      "from": 31.32,
+      "to": 33.7,
+      "sid": 15,
+      "location": 2,
+      "content": "我每天的第一个运动一定是八段锦",
+      "music": 0
+    },
+    {
+      "from": 33.7,
+      "to": 36.6,
+      "sid": 16,
+      "location": 2,
+      "content": "因为它可以很好的唤醒你整个身体的活力",
+      "music": 0
+    },
+    {
+      "from": 36.6,
+      "to": 39.2,
+      "sid": 17,
+      "location": 2,
+      "content": "并且做个简单的拉伸",
+      "music": 0
+    },
+    {
+      "from": 39.94,
+      "to": 41.46,
+      "sid": 18,
+      "location": 2,
+      "content": "上呼吸气",
+      "music": 0
+    },
+    {
+      "from": 44.42,
+      "to": 46.83,
+      "sid": 19,
+      "location": 2,
+      "content": "呼气啊",
+      "music": 0
+    },
+    {
+      "from": 46.83,
+      "to": 48.69,
+      "sid": 20,
+      "location": 2,
+      "content": "已经出了一头小汗了",
+      "music": 0
+    },
+    {
+      "from": 48.69,
+      "to": 51.15,
+      "sid": 21,
+      "location": 2,
+      "content": "但是这个根本没有运动量啊",
+      "music": 0
+    },
+    {
+      "from": 51.15,
+      "to": 54.67,
+      "sid": 22,
+      "location": 2,
+      "content": "我们接下来要增加点运动量",
+      "music": 0
+    },
+    {
+      "from": 57.38,
+      "to": 59.44,
+      "sid": 23,
+      "location": 2,
+      "content": "像我这样的初学者",
+      "music": 0
+    },
+    {
+      "from": 59.44,
+      "to": 63.66,
+      "sid": 24,
+      "location": 2,
+      "content": "你刚上来不要学别人做什么三分花",
+      "music": 0
+    },
+    {
+      "from": 63.66,
+      "to": 64.61,
+      "sid": 25,
+      "location": 2,
+      "content": "五分花",
+      "music": 0
+    },
+    {
+      "from": 64.61,
+      "to": 68.15,
+      "sid": 26,
+      "location": 2,
+      "content": "你就做一些大肌群的动作",
+      "music": 0
+    },
+    {
+      "from": 68.15,
+      "to": 69.53,
+      "sid": 27,
+      "location": 2,
+      "content": "不要上太多重量",
+      "music": 0
+    },
+    {
+      "from": 69.53,
+      "to": 70.59,
+      "sid": 28,
+      "location": 2,
+      "content": "然后做很多",
+      "music": 0
+    },
+    {
+      "from": 70.59,
+      "to": 72.86,
+      "sid": 29,
+      "location": 2,
+      "content": "先让自己去习惯",
+      "music": 0
+    },
+    {
+      "from": 73.06,
+      "to": 76.58,
+      "sid": 30,
+      "location": 2,
+      "content": "所以我现在就是每天练的都一样",
+      "music": 0.11475409365761453
+    },
+    {
+      "from": 76.58,
+      "to": 78.64,
+      "sid": 31,
+      "location": 2,
+      "content": "但是重量不高",
+      "music": 0
+    },
+    {
+      "from": 78.64,
+      "to": 80.88,
+      "sid": 32,
+      "location": 2,
+      "content": "然后加速很重",
+      "music": 0
+    },
+    {
+      "from": 117.78,
+      "to": 121.42,
+      "sid": 33,
+      "location": 2,
+      "content": "啊啊啊啊",
+      "music": 0
+    },
+    {
+      "from": 123.94,
+      "to": 125.94,
+      "sid": 34,
+      "location": 2,
+      "content": "加力量训练",
+      "music": 0
+    },
+    {
+      "from": 126.04,
+      "to": 127.24,
+      "sid": 35,
+      "location": 2,
+      "content": "现在浑身疼",
+      "music": 0
+    },
+    {
+      "from": 128.52,
+      "to": 130.67,
+      "sid": 36,
+      "location": 2,
+      "content": "但是我已经饿了",
+      "music": 0
+    },
+    {
+      "from": 131.39,
+      "to": 133.39,
+      "sid": 37,
+      "location": 2,
+      "content": "放纵时间",
+      "music": 0
+    },
+    {
+      "from": 137.42,
+      "to": 139.88,
+      "sid": 38,
+      "location": 2,
+      "content": "这个够放纵的",
+      "music": 0
+    },
+    {
+      "from": 139.88,
+      "to": 142.14,
+      "sid": 39,
+      "location": 2,
+      "content": "加了一份蔬菜",
+      "music": 0
+    },
+    {
+      "from": 160.68,
+      "to": 163.18,
+      "sid": 40,
+      "location": 2,
+      "content": "今天属实有点过于放纵了",
+      "music": 0
+    },
+    {
+      "from": 163.18,
+      "to": 168.61,
+      "sid": 41,
+      "location": 2,
+      "content": "刚刚那顿饭起码2000到3000大卡",
+      "music": 0
+    },
+    {
+      "from": 168.61,
+      "to": 172.22,
+      "sid": 42,
+      "location": 2,
+      "content": "那我现在要怎么才能把它们都消耗掉呢",
+      "music": 0
+    },
+    {
+      "from": 172.22,
+      "to": 174.22,
+      "sid": 43,
+      "location": 2,
+      "content": "兄弟们真不能放纵",
+      "music": 0
+    },
+    {
+      "from": 174.22,
+      "to": 177.41,
+      "sid": 44,
+      "location": 2,
+      "content": "我现在虽然穿着第19天的衣服",
+      "music": 0
+    },
+    {
+      "from": 177.41,
+      "to": 180.19,
+      "sid": 45,
+      "location": 2,
+      "content": "但其实已经是第20天的早上了",
+      "music": 0
+    },
+    {
+      "from": 180.19,
+      "to": 182.6,
+      "sid": 46,
+      "location": 2,
+      "content": "昨天我吃完那碗拉面回来以后",
+      "music": 0
+    },
+    {
+      "from": 182.6,
+      "to": 185.38,
+      "sid": 47,
+      "location": 2,
+      "content": "直接肠胃炎狂拉狂吐",
+      "music": 0
+    },
+    {
+      "from": 185.38,
+      "to": 188.65,
+      "sid": 48,
+      "location": 2,
+      "content": "所以自律的生活习惯了以后",
+      "music": 0
+    },
+    {
+      "from": 188.65,
+      "to": 191.27,
+      "sid": 49,
+      "location": 2,
+      "content": "你的胃已经不习惯这么多的油脂了",
+      "music": 0
+    },
+    {
+      "from": 191.27,
+      "to": 196.31,
+      "sid": 50,
+      "location": 2,
+      "content": "我们现在早上来看一下体重是多少啊",
+      "music": 0
+    },
+    {
+      "from": 197.47,
+      "to": 198.91,
+      "sid": 51,
+      "location": 2,
+      "content": "190.0",
+      "music": 0
+    },
+    {
+      "from": 198.91,
+      "to": 200.93,
+      "sid": 52,
+      "location": 2,
+      "content": "其实胖倒真没胖",
+      "music": 0
+    },
+    {
+      "from": 200.93,
+      "to": 203.82,
+      "sid": 53,
+      "location": 2,
+      "content": "但是代价太大了",
+      "music": 0
+    },
+    {
+      "from": 203.82,
+      "to": 205.16,
+      "sid": 54,
+      "location": 2,
+      "content": "我郑重宣布",
+      "music": 0
+    },
+    {
+      "from": 205.16,
+      "to": 207.36,
+      "sid": 55,
+      "location": 2,
+      "content": "我们的这个自律和放纵系列",
+      "music": 0
+    },
+    {
+      "from": 207.36,
+      "to": 210.23,
+      "sid": 56,
+      "location": 2,
+      "content": "在第19天到此结束",
+      "music": 0
+    },
+    {
+      "from": 210.47,
+      "to": 212.97,
+      "sid": 57,
+      "location": 2,
+      "content": "第20天整点",
+      "music": 0
+    },
+    {
+      "from": 212.97,
+      "to": 214.23,
+      "sid": 58,
+      "location": 2,
+      "content": "新的减肥方式",
+      "music": 0
+    },
+    {
+      "from": 214.23,
+      "to": 216.25,
+      "sid": 59,
+      "location": 2,
+      "content": "嘿嘿嘿嘿",
+      "music": 0
+    },
+    {
+      "from": 216.25,
+      "to": 218.41,
+      "sid": 60,
+      "location": 2,
+      "content": "祝8月22号过生日",
+      "music": 0
+    },
+    {
+      "from": 218.41,
+      "to": 219.43,
+      "sid": 61,
+      "location": 2,
+      "content": "同志们生日快乐",
+      "music": 0
+    },
+    {
+      "from": 219.43,
+      "to": 220.899,
+      "sid": 62,
+      "location": 2,
+      "content": "我们第20天见",
+      "music": 0
+    },
+    {
+      "from": 220.899,
+      "to": 221.899,
+      "sid": 63,
+      "location": 2,
+      "content": "直接开始",
+      "music": 0
+    },
+    {
+      "from": 221.899,
+      "to": 222.66,
+      "sid": 64,
+      "location": 2,
+      "content": "第20天",
+      "music": 0
+    }
+  ]
+}
