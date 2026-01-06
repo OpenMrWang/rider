@@ -41,7 +41,7 @@ function AppContent() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <img
-                src="/wsf.webp"
+                src={`${import.meta.env.BASE_URL}wsf.webp`}
                 alt="WSF Logo"
                 className="h-8 w-8 rounded-md object-cover"
               />

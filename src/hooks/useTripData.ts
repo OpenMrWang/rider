@@ -67,7 +67,9 @@ export function useTripData() {
     if (hasLoadedInitial || tripData.days.length > 0) return;
     setHasLoadedInitial(true);
 
-    const url = '/everyday-merged.json';
+    // 使用 BASE_URL，确保在 GitHub Pages 的 /rider/ 子路径下也能正确访问
+    const baseUrl = import.meta.env.BASE_URL || '/';
+    const url = `${baseUrl}everyday-merged.json`;
     fetch(url)
       .then((res) => {
         if (!res.ok) {
