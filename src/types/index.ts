@@ -16,6 +16,13 @@ export interface VlogInfo {
 export interface DayRecord {
   day: number;
   date: string;
+  // 可选：每日标题（如「第五十天：爬黄山看日出！」）
+  title?: string;
+  // 可选：元信息、视频信息、分段等（在 everyday-merged.json 中存在）
+  meta?: any;
+  video?: any;
+  segments?: any;
+  clue?: string;
   // vlog: VlogInfo;
   points: Point[];
   // 支持单段或多段路线

@@ -90,9 +90,9 @@ async function main() {
   // 顶层 meta：简单给一个通用描述，也可以之后手动编辑
   const merged = {
     meta: {
-      title: '王师傅骑行 · 每日记录合并',
+      title: '王师傅骑行日记',
       author: '王师傅',
-      description: '从 public/everyday 下的每日 JSON 自动合并生成的数据文件，可直接用于应用或继续编辑',
+      description: '记录王师傅的每日骑行旅程，包含路线、日志和线索等信息的合辑。还在完善中,欢迎协助计划或开发:\nhttps://github.com/organizations/OpenMrWang/rider',
     },
     days,
   };

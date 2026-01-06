@@ -8,8 +8,6 @@ import { useTripDataContext } from '../context/TripDataContext';
 export function ReadOnlyView() {
   const { tripData } = useTripDataContext();
   const [selectedDayIndex, setSelectedDayIndex] = useState<number | undefined>();
-  // 只读模式下也默认使用百度地图
-  const [mapType, setMapType] = useState<'amap' | 'baidu' | 'osm'>('baidu');
 
   const selectedDay = selectedDayIndex !== undefined ? tripData.days[selectedDayIndex] : undefined;
 
@@ -25,9 +23,9 @@ export function ReadOnlyView() {
                 className="h-8 w-8 rounded-md object-cover"
               />
               <h1 className="text-2xl font-bold text-white">{tripData.meta.title}</h1>
-              {tripData.meta.author && (
+              {/* {tripData.meta.author && (
                 <p className="text-sm text-gray-100 mt-1">作者: {tripData.meta.author}</p>
-              )}
+              )} */}
             </div>
           </div>
           {tripData.meta.description && (
@@ -43,13 +41,11 @@ export function ReadOnlyView() {
             <div className="lg:col-span-2 lg:row-span-2">
               <MapView
                 day={selectedDay}
-                mapType={mapType}
-                onMapTypeChange={setMapType}
                 showAllRoutes={selectedDayIndex === undefined}
               />
             </div>
 
-            {/* 右上：每日列表 */}
+            {/* 右上：每日列表（只读，不传 onEditDay） */}
             <div className="lg:col-span-1">
               <DayList
                 selectedDayIndex={selectedDayIndex}

@@ -1,6 +1,7 @@
 import type { MapAdapter } from '../../types/map';
 import type { Point } from '../../types';
 import type { LineString, MultiLineString } from 'geojson';
+import gcoord from 'gcoord';
 import { wgs84ToGcj02, wgs84LineStringToGcj02, transformPoints } from '../../utils/coordinateTransform';
 
 // 高德地图适配器
@@ -122,8 +123,8 @@ export class AMapAdapter implements MapAdapter {
 
   private wgs84ToGcj02Coord(lon: number, lat: number): [number, number] {
     // 使用 gcoord 进行转换
-    const gcoord = require('gcoord');
-    return gcoord.transform([lon, lat], gcoord.WGS84, gcoord.GCJ02);
+    const [gcjLon, gcjLat] = gcoord.transform([lon, lat], gcoord.WGS84, gcoord.GCJ02);
+    return [gcjLon, gcjLat];
   }
 }
 

@@ -1,4 +1,4 @@
-import { useState, useCallback } from 'react';
+import { useState, useCallback, useEffect } from 'react';
 import type { TripData, DayRecord } from '../types';
 import {
   createDefaultTripData,
@@ -11,6 +11,7 @@ import {
 
 export function useTripData() {
   const [tripData, setTripData] = useState<TripData>(createDefaultTripData);
+  const [hasLoadedInitial, setHasLoadedInitial] = useState(false);
 
   // 导入数据
   const handleImport = useCallback((jsonString: string) => {
@@ -60,6 +61,38 @@ export function useTripData() {
   const handleReset = useCallback(() => {
     setTripData(createDefaultTripData());
   }, []);
+
+  // 自动从 public/everyday-merged.json 加载默认数据（仅在首次加载且当前没有任何天的数据时）
+  useEffect(() => {
+    if (hasLoadedInitial || tripData.days.length > 0) return;
+    setHasLoadedInitial(true);
+
+    const url = '/everyday-merged.json';
+    fetch(url)
+      .then((res) => {
+        if (!res.ok) {
+          console.warn('[useTripData] 默认数据文件不存在或无法访问:', url, res.status);
+          return null;
+        }
+        return res.text();
+      })
+      .then((text) => {
+        if (!text) return;
+        try {
+          const data = importTripData(text);
+          console.log('[useTripData] 已从 everyday-merged.json 加载默认数据:', {
+            meta: data.meta,
+            daysCount: data.days.length,
+          });
+          setTripData(data);
+        } catch (err) {
+          console.error('[useTripData] 加载默认 everyday-merged.json 失败:', err);
+        }
+      })
+      .catch((err) => {
+        console.error('[useTripData] 获取 everyday-merged.json 失败:', err);
+      });
+  }, [hasLoadedInitial, tripData.days.length]);
 
   return {
     tripData,

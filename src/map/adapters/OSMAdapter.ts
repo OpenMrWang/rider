@@ -56,6 +56,7 @@ export class OSMAdapter implements MapAdapter {
             type: 'LineString',
             coordinates: [],
           },
+          properties: {},
         },
       });
 
@@ -151,6 +152,7 @@ export class OSMAdapter implements MapAdapter {
           type: 'LineString',
           coordinates: [],
         },
+        properties: {},
       });
     }
   }

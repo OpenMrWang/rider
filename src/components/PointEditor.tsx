@@ -264,7 +264,21 @@ export function PointEditor({ dayIndex, day, onClose }: PointEditorProps) {
       .map((line) => (line.length ? `  ${line}` : line))
       .join('\n');
 
-    const routeJson = JSON.stringify(day.routeGeoJSON ?? null, null, 2)
+    // 展平 MultiLineString，复制时统一为 LineString 的坐标数组，方便编辑
+    const route = day.routeGeoJSON;
+    let routeForCopy: any = route ?? null;
+    if (route && route.type === 'MultiLineString') {
+      const flatCoords = (route.coordinates || []).reduce(
+        (acc: number[][], seg: number[][]) => (seg ? acc.concat(seg) : acc),
+        []
+      );
+      routeForCopy = {
+        type: 'LineString',
+        coordinates: flatCoords,
+      };
+    }
+
+    const routeJson = JSON.stringify(routeForCopy, null, 2)
       .split('\n')
       .map((line) => (line.length ? `  ${line}` : line))
       .join('\n');
@@ -304,7 +318,6 @@ export function PointEditor({ dayIndex, day, onClose }: PointEditorProps) {
         <div className="lg:col-span-2 lg:row-span-2 space-y-4">
           <MapView
             day={dayForMap}
-            mapType="baidu"
             showAllRoutes={false}
             onMapClick={handleMapClick}
             focusPoint={focusPoint || undefined}

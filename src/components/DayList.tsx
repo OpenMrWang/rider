@@ -1,22 +1,20 @@
-import { useState, useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import { useTripDataContext } from '../context/TripDataContext';
-import { calculateDayDistance } from '../utils/geoCalculation';
 import type { DayRecord } from '../types';
+import { calculateDayDistance } from '../utils/geoCalculation';
 
 interface DayListProps {
   selectedDayIndex?: number;
-  onSelectDay?: (index: number) => void;
-  onEditDay?: (index: number) => void;
+  onSelectDay?: (index: number | undefined) => void;
+  onEditDay?: (index: number | undefined) => void;
 }
 
 export function DayList({ selectedDayIndex, onSelectDay, onEditDay }: DayListProps) {
   const { tripData } = useTripDataContext();
   const PAGE_SIZE = 5;
 
-  // 默认按倒序显示（最新的在前），所以默认页为第 1 页
   const [currentPage, setCurrentPage] = useState(1);
 
-  // 当天数变化时，确保当前页仍然有效
   useEffect(() => {
     const totalPages = Math.max(1, Math.ceil(tripData.days.length / PAGE_SIZE));
     if (currentPage > totalPages) {
@@ -24,15 +22,12 @@ export function DayList({ selectedDayIndex, onSelectDay, onEditDay }: DayListPro
     }
   }, [tripData.days.length, currentPage]);
 
-  // 生成带有原始索引的信息，并按 day（或 date）倒序排序
   const sortedDays = tripData.days
     .map((day, index) => ({ day, index }))
     .sort((a, b) => {
-      // 优先按 day 字段排序（数值大在前）
       if (typeof a.day.day === 'number' && typeof b.day.day === 'number') {
         return b.day.day - a.day.day;
       }
-      // 退化到按日期字符串排序（新的在前）
       if (a.day.date && b.day.date) {
         return a.day.date < b.day.date ? 1 : -1;
       }
@@ -55,12 +50,12 @@ export function DayList({ selectedDayIndex, onSelectDay, onEditDay }: DayListPro
           <>
             {pageItems.map(({ day, index }) => (
               <DayListItem
-                key={index}
+                key={day.day ?? index}
                 day={day}
-                index={index}
                 isSelected={selectedDayIndex === index}
                 onSelect={() => onSelectDay?.(index)}
-                onEdit={() => onEditDay?.(index)}
+                // 只有在传入 onEditDay 时才传递 onEdit，确保只读模式下按钮完全隐藏
+                onEdit={onEditDay ? () => onEditDay(index) : undefined}
               />
             ))}
             {totalPages > 1 && (
@@ -95,13 +90,13 @@ export function DayList({ selectedDayIndex, onSelectDay, onEditDay }: DayListPro
 
 interface DayListItemProps {
   day: DayRecord;
-  index: number;
   isSelected: boolean;
   onSelect: () => void;
-  onEdit: () => void;
+  // 只在编辑模式下传入，只读模式不传则不显示编辑按钮
+  onEdit?: () => void;
 }
 
-function DayListItem({ day, index, isSelected, onSelect, onEdit }: DayListItemProps) {
+function DayListItem({ day, isSelected, onSelect, onEdit }: DayListItemProps) {
   const distance = calculateDayDistance(day);
 
   return (
@@ -116,7 +111,7 @@ function DayListItem({ day, index, isSelected, onSelect, onEdit }: DayListItemPr
             第 {day.day} 天 - {day.date}
           </h3>
           <p className="text-sm text-gray-600 mt-1">
-            {/* {day.vlog.platform} - {day.vlog.episode} */}
+            {/* 可在此加入视频标题等信息 */}
           </p>
           <p className="text-sm text-gray-500 mt-1">
             {day.points.length} 个点位
@@ -130,18 +125,21 @@ function DayListItem({ day, index, isSelected, onSelect, onEdit }: DayListItemPr
               <p className="text-sm text-gray-400">未计算</p>
             )}
           </div>
-          <button
-            onClick={(e) => {
-              e.stopPropagation();
-              onEdit();
-            }}
-            className="px-3 py-1 bg-yellow-500 text-white rounded text-sm hover:bg-yellow-600"
-          >
-            编辑
-          </button>
+          {onEdit && (
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                onEdit();
+              }}
+              className="px-3 py-1 bg-yellow-500 text-white rounded text-sm hover:bg-yellow-600"
+            >
+              编辑
+            </button>
+          )}
         </div>
       </div>
     </div>
   );
 }
+
 

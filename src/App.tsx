@@ -9,12 +9,16 @@ import { DayDetail } from './components/DayDetail'
 import { TripDataProvider, useTripDataContext } from './context/TripDataContext'
 
 function AppContent() {
+  const isDev = import.meta.env.DEV;
   const { tripData } = useTripDataContext();
   const [selectedDayIndex, setSelectedDayIndex] = useState<number | undefined>();
   const [editingDayIndex, setEditingDayIndex] = useState<number | undefined>();
-  // 默认使用百度地图
-  const [mapType, setMapType] = useState<'amap' | 'baidu' | 'osm'>('baidu');
   const [isReadOnly, setIsReadOnly] = useState(false);
+
+  // 生产环境下始终使用只读视图，不暴露编辑/管理功能
+  if (!isDev) {
+    return <ReadOnlyView />;
+  }
 
   // 检查 URL 参数，如果是只读模式
   const urlParams = new URLSearchParams(window.location.search);
@@ -67,8 +71,6 @@ function AppContent() {
               <div className="lg:col-span-2 lg:row-span-2">
                 <MapView
                   day={selectedDay}
-                  mapType={mapType}
-                  onMapTypeChange={setMapType}
                   showAllRoutes={selectedDayIndex === undefined}
                 />
               </div>

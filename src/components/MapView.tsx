@@ -1,14 +1,12 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef } from 'react';
 import { MapFactory } from '../map/MapFactory';
-import type { MapAdapter, MapType } from '../types/map';
+import type { MapAdapter } from '../types/map';
 import type { DayRecord, Point } from '../types';
 import { mergeAllRoutes, collectAllPoints, calculateBounds, getDayRoute } from '../utils/mapUtils';
 import { useTripDataContext } from '../context/TripDataContext';
 
 interface MapViewProps {
   day?: DayRecord;
-  mapType?: MapType;
-  onMapTypeChange?: (type: MapType) => void;
   showAllRoutes?: boolean;
   onMapClick?: (lat: number, lon: number) => void;
   focusPoint?: Point;
@@ -20,8 +18,6 @@ interface MapViewProps {
 
 export function MapView({
   day,
-  mapType = 'osm',
-  onMapTypeChange,
   showAllRoutes = true,
   onMapClick,
   focusPoint,
@@ -30,7 +26,6 @@ export function MapView({
 }: MapViewProps) {
   const mapContainerRef = useRef<HTMLDivElement>(null);
   const mapAdapterRef = useRef<MapAdapter | null>(null);
-  const [currentMapType, setCurrentMapType] = useState<MapType>(mapType);
   const { tripData } = useTripDataContext();
   const lastPlannedRequestId = useRef<number | null>(null);
 
@@ -42,8 +37,8 @@ export function MapView({
       mapAdapterRef.current.destroy();
     }
 
-    // 创建新地图
-    const adapter = MapFactory.create(currentMapType);
+    // 始终使用百度地图适配器
+    const adapter = MapFactory.create('baidu');
     adapter.init('map-container');
 
     // 如果需要监听地图点击事件，并且适配器实现了 setClickHandler，则注册
@@ -60,7 +55,7 @@ export function MapView({
       }
       adapter.destroy();
     };
-  }, [currentMapType, onMapClick]);
+  }, [onMapClick]);
 
   useEffect(() => {
     if (!mapAdapterRef.current) return;
@@ -99,7 +94,6 @@ export function MapView({
         const adapterAny = adapter as any;
 
         const shouldPlanRoute =
-          currentMapType === 'baidu' &&
           day.points.length >= 2 &&
           typeof adapterAny.planRidingRoute === 'function' &&
           typeof planRouteRequestId === 'number' &&
@@ -127,7 +121,7 @@ export function MapView({
     }, 100);
 
     return () => clearTimeout(timer);
-  }, [day, showAllRoutes, tripData.days, currentMapType, planRouteRequestId, onPlannedRouteChange]);
+  }, [day, showAllRoutes, tripData.days, planRouteRequestId, onPlannedRouteChange]);
 
   // 当传入了 focusPoint 时，移动地图中心到该点
   useEffect(() => {
@@ -136,11 +130,6 @@ export function MapView({
     // 使用稍微大一点的缩放级别，方便查看周边
     adapter.setCenter(focusPoint.lat, focusPoint.lon, 13);
   }, [focusPoint]);
-
-  const handleMapTypeChange = (type: MapType) => {
-    setCurrentMapType(type);
-    onMapTypeChange?.(type);
-  };
 
   return (
     <div className="bg-white rounded-lg shadow">

@@ -25,35 +25,39 @@ export class BaiduMapAdapter implements MapAdapter {
     }
 
     const point = new BMap.Point(116.3974, 39.9093); // 默认北京
-    this.map = new BMap.Map(containerId);
-    this.map.centerAndZoom(point, 10);
+    const map = new BMap.Map(containerId) as any;
+    map.centerAndZoom(point, 10);
     // 开启滚轮缩放
-    this.map.enableScrollWheelZoom(true);
+    map.enableScrollWheelZoom(true);
 
     // 注册点击事件，将 BD-09 坐标转换为 WGS-84 并回调给外部
-    this.map.addEventListener('click', (e: any) => {
+    map.addEventListener('click', (e: any) => {
       if (!this.clickHandler) return;
       const { lng, lat } = e.point || {};
       if (typeof lng !== 'number' || typeof lat !== 'number') return;
       const [wgsLon, wgsLat] = gcoord.transform([lng, lat], gcoord.BD09, gcoord.WGS84);
       this.clickHandler(wgsLat, wgsLon);
     });
+
+    this.map = map as BMap.Map;
   }
 
   setCenter(lat: number, lon: number, zoom: number): void {
     if (!this.map) return;
+    const map = this.map as any;
     // 转换为 BD-09
     const [bdLon, bdLat] = this.wgs84ToBd09Coord(lon, lat);
     const point = new BMap.Point(bdLon, bdLat);
-    this.map.centerAndZoom(point, zoom);
+    map.centerAndZoom(point, zoom);
   }
 
   drawRoute(route: LineString | MultiLineString): void {
     if (!this.map) return;
+    const map = this.map as any;
 
     // 清除旧路线
     if (this.polyline) {
-      this.map.removeOverlay(this.polyline);
+      map.removeOverlay(this.polyline);
       this.polyline = null;
     }
 
@@ -89,11 +93,12 @@ export class BaiduMapAdapter implements MapAdapter {
       });
     }
     
-    this.map.addOverlay(this.polyline);
+    map.addOverlay(this.polyline);
   }
 
   drawPoints(points: Point[]): void {
     if (!this.map) return;
+    const map = this.map as any;
 
     // 清除旧点位
     this.clearPoints();
@@ -105,14 +110,14 @@ export class BaiduMapAdapter implements MapAdapter {
     this.markers = bdPoints.map((point) => {
       const bdPoint = new BMap.Point(point.lon, point.lat);
       const marker = new BMap.Marker(bdPoint);
-      this.map!.addOverlay(marker);
+      map.addOverlay(marker);
       return marker;
     });
   }
 
   clearRoute(): void {
     if (this.map && this.polyline) {
-      this.map.removeOverlay(this.polyline);
+      (this.map as any).removeOverlay(this.polyline);
     }
     this.polyline = null;
 
@@ -127,7 +132,8 @@ export class BaiduMapAdapter implements MapAdapter {
 
   clearPoints(): void {
     if (this.map) {
-      this.markers.forEach((marker) => this.map!.removeOverlay(marker));
+      const map = this.map as any;
+      this.markers.forEach((marker) => map.removeOverlay(marker));
     }
     this.markers = [];
   }

@@ -5,7 +5,7 @@ import { pointsToLineString } from './geoCalculation';
 /**
  * 获取单天的路线 GeoJSON
  */
-export function getDayRoute(day: DayRecord): LineString | null {
+export function getDayRoute(day: DayRecord): LineString | MultiLineString | null {
   if (day.routeGeoJSON) {
     return day.routeGeoJSON;
   }
@@ -19,22 +19,32 @@ export function getDayRoute(day: DayRecord): LineString | null {
  * 合并所有天的路线为 MultiLineString
  */
 export function mergeAllRoutes(days: DayRecord[]): MultiLineString | null {
-  const routes: LineString[] = [];
-  
+  const lines: number[][][] = [];
+
   for (const day of days) {
     const route = getDayRoute(day);
-    if (route && route.coordinates.length >= 2) {
-      routes.push(route);
+    if (!route) continue;
+
+    if (route.type === 'LineString') {
+      if (route.coordinates.length >= 2) {
+        lines.push(route.coordinates as number[][]);
+      }
+    } else if (route.type === 'MultiLineString') {
+      for (const seg of route.coordinates || []) {
+        if (seg && seg.length >= 2) {
+          lines.push(seg as number[][]);
+        }
+      }
     }
   }
-  
-  if (routes.length === 0) {
+
+  if (lines.length === 0) {
     return null;
   }
-  
+
   return {
     type: 'MultiLineString',
-    coordinates: routes.map((route) => route.coordinates),
+    coordinates: lines,
   };
 }
 
