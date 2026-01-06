@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "川藏线骑行之旅",
+    "author": "骑行爱好者",
+    "description": "从成都出发，沿 G318 国道骑行至拉萨的完整记录"
+  },
+  "days": [
+    {
+      "day": 1,
+      "date": "2023-06-01",
+      "vlog": {
+        "platform": "bilibili",
+        "episode": "EP01",
+        "notes": "出发日，成都市区到雅安"
+      },
+      "points": [
+        {
+          "name": "成都",
+          "lat": 30.6624,
+          "lon": 104.0633
+        },
+        {
+          "name": "雅安",
+          "lat": 29.9805,
+          "lon": 103.0132
+        }
+      ],
+      "routeGeoJSON": {
+        "type": "LineString",
+        "coordinates": [
+          [104.0633, 30.6624],
+          [103.0132, 29.9805]
+        ]
+      },
+      "distanceKm": 145.8
+    },
+    {
+      "day": 2,
+      "date": "2023-06-02",
+      "vlog": {
+        "platform": "bilibili",
+        "episode": "EP02",
+        "notes": "雅安到泸定，开始进入山区"
+      },
+      "points": [
+        {
+          "name": "雅安",
+          "lat": 29.9805,
+          "lon": 103.0132
+        },
+        {
+          "name": "天全",
+          "lat": 30.0686,
+          "lon": 102.7634
+        },
+        {
+          "name": "泸定",
+          "lat": 29.9125,
+          "lon": 102.2347
+        }
+      ],
+      "routeGeoJSON": {
+        "type": "LineString",
+        "coordinates": [
+          [103.0132, 29.9805],
+          [102.7634, 30.0686],
+          [102.2347, 29.9125]
+        ]
+      },
+      "distanceKm": 112.3
+    },
+    {
+      "day": 3,
+      "date": "2023-06-03",
+      "vlog": {
+        "platform": "bilibili",
+        "episode": "EP03",
+        "notes": "泸定到康定，翻越二郎山"
+      },
+      "points": [
+        {
+          "name": "泸定",
+          "lat": 29.9125,
+          "lon": 102.2347
+        },
+        {
+          "name": "康定",
+          "lat": 30.0554,
+          "lon": 101.9632
+        }
+      ],
+      "routeGeoJSON": {
+        "type": "LineString",
+        "coordinates": [
+          [102.2347, 29.9125],
+          [101.9632, 30.0554]
+        ]
+      },
+      "distanceKm": 52.6
+    },
+    {
+      "day": 12,
+      "date": "2023-06-12",
+      "vlog": {
+        "platform": "bilibili",
+        "episode": "EP12",
+        "notes": "拉萨到当雄，前往纳木错"
+      },
+      "points": [
+        {
+          "name": "拉萨",
+          "lat": 29.6520,
+          "lon": 91.1720
+        },
+        {
+          "name": "当雄",
+          "lat": 30.4730,
+          "lon": 91.1030
+        },
+        {
+          "name": "纳木错",
+          "lat": 30.7190,
+          "lon": 90.9890
+        }
+      ],
+      "routeGeoJSON": {
+        "type": "LineString",
+        "coordinates": [
+          [91.1720, 29.6520],
+          [91.1030, 30.4730],
+          [90.9890, 30.7190]
+        ]
+      },
+      "distanceKm": 240.5
+    }
+  ]
+}
+
