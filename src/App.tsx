@@ -66,6 +66,7 @@ function AppContent() {
                   day={selectedDay}
                   mapType={mapType}
                   onMapTypeChange={setMapType}
+                  showAllRoutes={selectedDayIndex === undefined}
                 />
               </div>
             </div>

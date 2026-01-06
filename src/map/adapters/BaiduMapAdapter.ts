@@ -1,6 +1,6 @@
 import type { MapAdapter } from '../../types/map';
 import type { Point } from '../../types';
-import type { LineString } from 'geojson';
+import type { LineString, MultiLineString } from 'geojson';
 import { wgs84ToBd09, wgs84LineStringToBd09, transformPoints } from '../../utils/coordinateTransform';
 
 // 百度地图适配器
@@ -34,26 +34,47 @@ export class BaiduMapAdapter implements MapAdapter {
     this.map.centerAndZoom(point, zoom);
   }
 
-  drawRoute(route: LineString): void {
+  drawRoute(route: LineString | MultiLineString): void {
     if (!this.map) return;
-
-    // 转换为 BD-09
-    const bdRoute = wgs84LineStringToBd09(route);
-    const points = bdRoute.coordinates.map(
-      ([lon, lat]) => new BMap.Point(lon, lat)
-    );
 
     // 清除旧路线
     if (this.polyline) {
       this.polyline.setMap(null);
+      this.polyline = null;
     }
 
-    // 创建新路线
-    this.polyline = new BMap.Polyline(points, {
-      strokeColor: '#3b82f6',
-      strokeWeight: 4,
-      strokeOpacity: 1,
-    });
+    // 处理 MultiLineString 或 LineString
+    if (route.type === 'MultiLineString') {
+      // 对于 MultiLineString，合并所有线段
+      const allPoints: BMap.Point[] = [];
+      for (const line of route.coordinates) {
+        // 转换为 BD-09
+        const bdPoints = line.map(([lon, lat]) => {
+          const [bdLon, bdLat] = this.wgs84ToBd09Coord(lon, lat);
+          return new BMap.Point(bdLon, bdLat);
+        });
+        allPoints.push(...bdPoints);
+      }
+      
+      this.polyline = new BMap.Polyline(allPoints, {
+        strokeColor: '#3b82f6',
+        strokeWeight: 4,
+        strokeOpacity: 1,
+      });
+    } else {
+      // 转换为 BD-09
+      const bdRoute = wgs84LineStringToBd09(route);
+      const points = bdRoute.coordinates.map(
+        ([lon, lat]) => new BMap.Point(lon, lat)
+      );
+
+      this.polyline = new BMap.Polyline(points, {
+        strokeColor: '#3b82f6',
+        strokeWeight: 4,
+        strokeOpacity: 1,
+      });
+    }
+    
     this.polyline.setMap(this.map);
   }
 

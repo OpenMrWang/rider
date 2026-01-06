@@ -1,6 +1,6 @@
 import type { MapAdapter } from '../../types/map';
 import type { Point } from '../../types';
-import type { LineString } from 'geojson';
+import type { LineString, MultiLineString } from 'geojson';
 import { wgs84ToGcj02, wgs84LineStringToGcj02, transformPoints } from '../../utils/coordinateTransform';
 
 // 高德地图适配器
@@ -35,25 +35,47 @@ export class AMapAdapter implements MapAdapter {
     this.map.setZoom(zoom);
   }
 
-  drawRoute(route: LineString): void {
+  drawRoute(route: LineString | MultiLineString): void {
     if (!this.map) return;
-
-    // 转换为 GCJ-02
-    const gcjRoute = wgs84LineStringToGcj02(route);
-    const path = gcjRoute.coordinates.map(([lon, lat]) => [lon, lat]);
 
     // 清除旧路线
     if (this.polyline) {
       this.polyline.setMap(null);
+      this.polyline = null;
     }
 
-    // 创建新路线
-    this.polyline = new AMap.Polyline({
-      path,
-      strokeColor: '#3b82f6',
-      strokeWeight: 4,
-      strokeOpacity: 1,
-    });
+    // 处理 MultiLineString 或 LineString
+    if (route.type === 'MultiLineString') {
+      // 对于 MultiLineString，合并所有线段
+      const allCoordinates: number[][] = [];
+      for (const line of route.coordinates) {
+        // 转换为 GCJ-02
+        const gcjLine = line.map(([lon, lat]) => {
+          const [gcjLon, gcjLat] = this.wgs84ToGcj02Coord(lon, lat);
+          return [gcjLon, gcjLat];
+        });
+        allCoordinates.push(...gcjLine);
+      }
+      
+      this.polyline = new AMap.Polyline({
+        path: allCoordinates,
+        strokeColor: '#3b82f6',
+        strokeWeight: 4,
+        strokeOpacity: 1,
+      });
+    } else {
+      // 转换为 GCJ-02
+      const gcjRoute = wgs84LineStringToGcj02(route);
+      const path = gcjRoute.coordinates.map(([lon, lat]) => [lon, lat]);
+
+      this.polyline = new AMap.Polyline({
+        path,
+        strokeColor: '#3b82f6',
+        strokeWeight: 4,
+        strokeOpacity: 1,
+      });
+    }
+    
     this.polyline.setMap(this.map);
   }
 

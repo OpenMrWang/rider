@@ -2,7 +2,7 @@ import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import type { MapAdapter } from '../../types/map';
 import type { Point } from '../../types';
-import type { LineString } from 'geojson';
+import type { LineString, MultiLineString } from 'geojson';
 
 export class OSMAdapter implements MapAdapter {
   private map: maplibregl.Map | null = null;
@@ -105,7 +105,7 @@ export class OSMAdapter implements MapAdapter {
     }
   }
 
-  drawRoute(route: LineString): void {
+  drawRoute(route: LineString | MultiLineString): void {
     if (!this.map) return;
 
     const source = this.map.getSource(this.routeSourceId) as maplibregl.GeoJSONSource;

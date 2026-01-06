@@ -2,18 +2,21 @@ import { useEffect, useRef, useState } from 'react';
 import { MapFactory } from '../map/MapFactory';
 import type { MapAdapter, MapType } from '../types/map';
 import type { DayRecord } from '../types';
-import { pointsToLineString } from '../utils/geoCalculation';
+import { mergeAllRoutes, collectAllPoints, calculateBounds, getDayRoute } from '../utils/mapUtils';
+import { useTripDataContext } from '../context/TripDataContext';
 
 interface MapViewProps {
   day?: DayRecord;
   mapType?: MapType;
   onMapTypeChange?: (type: MapType) => void;
+  showAllRoutes?: boolean;
 }
 
-export function MapView({ day, mapType = 'osm', onMapTypeChange }: MapViewProps) {
+export function MapView({ day, mapType = 'osm', onMapTypeChange, showAllRoutes = true }: MapViewProps) {
   const mapContainerRef = useRef<HTMLDivElement>(null);
   const mapAdapterRef = useRef<MapAdapter | null>(null);
   const [currentMapType, setCurrentMapType] = useState<MapType>(mapType);
+  const { tripData } = useTripDataContext();
 
   useEffect(() => {
     if (!mapContainerRef.current) return;
@@ -34,7 +37,7 @@ export function MapView({ day, mapType = 'osm', onMapTypeChange }: MapViewProps)
   }, [currentMapType]);
 
   useEffect(() => {
-    if (!mapAdapterRef.current || !day) return;
+    if (!mapAdapterRef.current) return;
 
     const adapter = mapAdapterRef.current;
 
@@ -44,27 +47,43 @@ export function MapView({ day, mapType = 'osm', onMapTypeChange }: MapViewProps)
       adapter.clearRoute();
       adapter.clearPoints();
 
-      // 绘制点位
-      if (day.points.length > 0) {
-        adapter.drawPoints(day.points);
+      if (showAllRoutes && tripData.days.length > 0) {
+        // 显示所有路线
+        const allRoutes = mergeAllRoutes(tripData.days);
+        const allPoints = collectAllPoints(tripData.days);
+        const bounds = calculateBounds(tripData.days);
 
-        // 设置地图中心到第一个点位
-        const firstPoint = day.points[0];
-        adapter.setCenter(firstPoint.lat, firstPoint.lon, 12);
-      }
+        if (allRoutes) {
+          adapter.drawRoute(allRoutes);
+        }
 
-      // 绘制路线
-      if (day.routeGeoJSON) {
-        adapter.drawRoute(day.routeGeoJSON);
-      } else if (day.points.length >= 2) {
-        // 如果没有路线，从点位生成简单路线
-        const route = pointsToLineString(day.points);
-        adapter.drawRoute(route);
+        if (allPoints.length > 0) {
+          adapter.drawPoints(allPoints);
+        }
+
+        if (bounds) {
+          adapter.setCenter(bounds.center[0], bounds.center[1], bounds.zoom);
+        }
+      } else if (day) {
+        // 显示单天路线
+        if (day.points.length > 0) {
+          adapter.drawPoints(day.points);
+
+          // 设置地图中心到第一个点位
+          const firstPoint = day.points[0];
+          adapter.setCenter(firstPoint.lat, firstPoint.lon, 12);
+        }
+
+        // 绘制路线
+        const route = getDayRoute(day);
+        if (route) {
+          adapter.drawRoute(route);
+        }
       }
     }, 100);
 
     return () => clearTimeout(timer);
-  }, [day]);
+  }, [day, showAllRoutes, tripData.days]);
 
   const handleMapTypeChange = (type: MapType) => {
     setCurrentMapType(type);
@@ -115,9 +134,9 @@ export function MapView({ day, mapType = 'osm', onMapTypeChange }: MapViewProps)
         ref={mapContainerRef}
         className="w-full h-96"
       />
-      {!day && (
+      {!day && !showAllRoutes && tripData.days.length === 0 && (
         <div className="p-4 text-center text-gray-500">
-          请选择一天查看地图
+          请导入数据或选择一天查看地图
         </div>
       )}
     </div>
